@@ -1,0 +1,1985 @@
+{
+    "items": [
+        {
+            "id": "16708940/QLYJYS64",
+            "type": "article-journal",
+            "title": "The atomic simulation environment—a Python library for working with atoms",
+            "container-title": "Journal of Physics: Condensed Matter",
+            "page": "273002",
+            "volume": "29",
+            "issue": "27",
+            "URL": "https://iopscience.iop.org/article/10.1088/1361-648X/aa680e",
+            "DOI": "10.1088/1361-648X/aa680e",
+            "journalAbbreviation": "J. Phys.: Condens. Matter",
+            "author": [
+                {
+                    "family": "Hjorth Larsen",
+                    "given": "Ask"
+                },
+                {
+                    "family": "Jørgen Mortensen",
+                    "given": "Jens"
+                },
+                {
+                    "family": "Blomqvist",
+                    "given": "Jakob"
+                },
+                {
+                    "family": "Castelli",
+                    "given": "Ivano E"
+                },
+                {
+                    "family": "Christensen",
+                    "given": "Rune"
+                },
+                {
+                    "family": "Dułak",
+                    "given": "Marcin"
+                },
+                {
+                    "family": "Friis",
+                    "given": "Jesper"
+                },
+                {
+                    "family": "Groves",
+                    "given": "Michael N"
+                },
+                {
+                    "family": "Hammer",
+                    "given": "Bjørk"
+                },
+                {
+                    "family": "Hargus",
+                    "given": "Cory"
+                },
+                {
+                    "family": "Hermes",
+                    "given": "Eric D"
+                },
+                {
+                    "family": "Jennings",
+                    "given": "Paul C"
+                },
+                {
+                    "family": "Bjerre Jensen",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Kermode",
+                    "given": "James"
+                },
+                {
+                    "family": "Kitchin",
+                    "given": "John R"
+                },
+                {
+                    "family": "Leonhard Kolsbjerg",
+                    "given": "Esben"
+                },
+                {
+                    "family": "Kubal",
+                    "given": "Joseph"
+                },
+                {
+                    "family": "Kaasbjerg",
+                    "given": "Kristen"
+                },
+                {
+                    "family": "Lysgaard",
+                    "given": "Steen"
+                },
+                {
+                    "family": "Bergmann Maronsson",
+                    "given": "Jón"
+                },
+                {
+                    "family": "Maxson",
+                    "given": "Tristan"
+                },
+                {
+                    "family": "Olsen",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Pastewka",
+                    "given": "Lars"
+                },
+                {
+                    "family": "Peterson",
+                    "given": "Andrew"
+                },
+                {
+                    "family": "Rostgaard",
+                    "given": "Carsten"
+                },
+                {
+                    "family": "Schiøtz",
+                    "given": "Jakob"
+                },
+                {
+                    "family": "Schütt",
+                    "given": "Ole"
+                },
+                {
+                    "family": "Strange",
+                    "given": "Mikkel"
+                },
+                {
+                    "family": "Thygesen",
+                    "given": "Kristian S"
+                },
+                {
+                    "family": "Vegge",
+                    "given": "Tejs"
+                },
+                {
+                    "family": "Vilhelmsen",
+                    "given": "Lasse"
+                },
+                {
+                    "family": "Walter",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Zeng",
+                    "given": "Zhenhua"
+                },
+                {
+                    "family": "Jacobsen",
+                    "given": "Karsten W"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        7,
+                        12
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        21
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/ZXBD593J",
+            "type": "article-journal",
+            "title": "CREST—A program for the exploration of low-energy molecular chemical space",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "114110",
+            "volume": "160",
+            "issue": "11",
+            "abstract": "Conformer–rotamer sampling tool (CREST) is an open-source program for the efficient and automated exploration of molecular chemical space. Originally developed in Pracht et al. [Phys. Chem. Chem. Phys. 22, 7169 (2020)] as an automated driver for calculations at the extended tight-binding level (xTB), it offers a variety of molecular- and metadynamics simulations, geometry optimization, and molecular structure analysis capabilities. Implemented algorithms include automated procedures for conformational sampling, explicit solvation studies, the calculation of absolute molecular entropy, and the identification of molecular protonation and deprotonation sites. Calculations are set up to run concurrently, providing efficient single-node parallelization. CREST is designed to require minimal user input and comes with an implementation of the GFNn-xTB Hamiltonians and the GFN-FF force-field. Furthermore, interfaces to any quantum chemistry and force-field software can easily be created. In this article, we present recent developments in the CREST code and show a selection of applications for the most important features of the program. An important novelty is the refactored calculation backend, which provides significant speed-up for sampling of small or medium-sized drug molecules and allows for more sophisticated setups, for example, quantum mechanics/molecular mechanics and minimum energy crossing point calculations.",
+            "URL": "https://doi.org/10.1063/5.0197592",
+            "DOI": "10.1063/5.0197592",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Pracht",
+                    "given": "Philipp"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Bannwarth",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Bohle",
+                    "given": "Fabian"
+                },
+                {
+                    "family": "Ehlert",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Feldmann",
+                    "given": "Gereon"
+                },
+                {
+                    "family": "Gorges",
+                    "given": "Johannes"
+                },
+                {
+                    "family": "Müller",
+                    "given": "Marcel"
+                },
+                {
+                    "family": "Neudecker",
+                    "given": "Tim"
+                },
+                {
+                    "family": "Plett",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Spicher",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Steinbach",
+                    "given": "Pit"
+                },
+                {
+                    "family": "Wesołowski",
+                    "given": "Patryk A."
+                },
+                {
+                    "family": "Zeller",
+                    "given": "Felix"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        3,
+                        21
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        4,
+                        6
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/QGA3R9GE",
+            "type": "article-journal",
+            "title": "PTM-Psi: A python package to facilitate the computational investigation of post-translational modification on protein structures and their impacts on dynamics and functions",
+            "container-title": "Protein Science",
+            "page": "e4822",
+            "volume": "32",
+            "issue": "12",
+            "abstract": "Post-translational modification (PTM) of a protein occurs after it has been synthesized from its genetic template, and involves chemical modifications of the protein's specific amino acid residues. Despite of the central role played by PTM in regulating molecular interactions, particularly those driven by reversible redox reactions, it remains challenging to interpret PTMs in terms of protein dynamics and function because there are numerous combinatorially enormous means for modifying amino acids in response to changes in the protein environment. In this study, we provide a workflow that allows users to interpret how perturbations caused by PTMs affect a protein's properties, dynamics, and interactions with its binding partners based on inferred or experimentally determined protein structure. This Python-based workflow, called PTM-Psi, integrates several established open-source software packages, thereby enabling the user to infer protein structure from sequence, develop force fields for non-standard amino acids using quantum mechanics, calculate free energy perturbations through molecular dynamics simulations, and score the bound complexes via docking algorithms. Using the S-nitrosylation of several cysteines on the GAP2 protein as an example, we demonstrated the utility of PTM-Psi for interpreting sequence–structure–function relationships derived from thiol redox proteomics data. We demonstrate that the S-nitrosylated cysteine that is exposed to the solvent indirectly affects the catalytic reaction of another buried cysteine over a distance in GAP2 protein through the movement of the two ligands. Our workflow tracks the PTMs on residues that are responsive to changes in the redox environment and lays the foundation for the automation of molecular and systems biology modeling.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.4822",
+            "DOI": "10.1002/pro.4822",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/pro.4822",
+            "shortTitle": "PTM-Psi",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Mejia-Rodriguez",
+                    "given": "Daniel"
+                },
+                {
+                    "family": "Kim",
+                    "given": "Hoshin"
+                },
+                {
+                    "family": "Sadler",
+                    "given": "Natalie"
+                },
+                {
+                    "family": "Li",
+                    "given": "Xiaolu"
+                },
+                {
+                    "family": "Bohutskyi",
+                    "given": "Pavlo"
+                },
+                {
+                    "family": "Valiev",
+                    "given": "Marat"
+                },
+                {
+                    "family": "Qian",
+                    "given": "Wei-Jun"
+                },
+                {
+                    "family": "Cheung",
+                    "given": "Margaret S."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/QSP8A88U",
+            "type": "article-journal",
+            "title": "ParAMS: Parameter Optimization for Atomistic and Molecular Simulations",
+            "container-title": "Journal of Chemical Information and Modeling",
+            "page": "3737-3743",
+            "volume": "61",
+            "issue": "8",
+            "abstract": "This work introduces ParAMS—a versatile Python package that aims to make parametrization workflows in computational chemistry and physics more accessible, transparent, and reproducible. We demonstrate how ParAMS facilitates the parameter optimization for potential energy surface (PES) models, which can otherwise be a tedious specialist task. Because of the package’s modular structure, various functionality can be easily combined to implement a diversity of parameter optimization protocols. For example, the choice of PES model and the parameter optimization algorithm can be selected independently. An illustration of ParAMS’ strengths is provided in two case studies: (i) a density functional-based tight binding (DFTB) repulsive potential for the inorganic ionic crystal ZnO and (ii) a ReaxFF force field for the simulation of organic disulfides.",
+            "URL": "https://doi.org/10.1021/acs.jcim.1c00333",
+            "DOI": "10.1021/acs.jcim.1c00333",
+            "note": "Publisher: American Chemical Society",
+            "shortTitle": "ParAMS",
+            "journalAbbreviation": "J. Chem. Inf. Model.",
+            "author": [
+                {
+                    "family": "Komissarov",
+                    "given": "Leonid"
+                },
+                {
+                    "family": "Rüger",
+                    "given": "Robert"
+                },
+                {
+                    "family": "Hellström",
+                    "given": "Matti"
+                },
+                {
+                    "family": "Verstraelen",
+                    "given": "Toon"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        8,
+                        23
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/BFD2SBYW",
+            "type": "article-journal",
+            "title": "ChemDyME: Kinetically Steered, Automated Mechanism Generation through Combined Molecular Dynamics and Master Equation Calculations",
+            "container-title": "Journal of Chemical Theory and Computation",
+            "page": "4901-4912",
+            "volume": "17",
+            "issue": "8",
+            "abstract": "In many scientific fields, there is an interest in understanding the way in which chemical networks evolve. The chemical networks which researchers focus upon have become increasingly complex, and this has motivated the development of automated methods for exploring chemical reactivity or conformational change in a “black-box” manner, harnessing modern computing resources to automate mechanism discovery. In this work, we present a new approach to automated mechanism generation which couples molecular dynamics and statistical rate theory to automatically find kinetically important reactions and then solve the time evolution of the species in the evolving network. The key to this chemical network mapping through combined dynamics and ME simulation approach is the concept of “kinetic convergence”, whereby the search for new reactions is constrained to those species which are kinetically favorable at the conditions of interest. We demonstrate the capability of the new approach for two systems, a well-studied combustion system and a multiple oxygen addition system relevant to atmospheric aerosol formation.",
+            "URL": "https://doi.org/10.1021/acs.jctc.1c00335",
+            "DOI": "10.1021/acs.jctc.1c00335",
+            "note": "Publisher: American Chemical Society",
+            "shortTitle": "ChemDyME",
+            "journalAbbreviation": "J. Chem. Theory Comput.",
+            "author": [
+                {
+                    "family": "Shannon",
+                    "given": "Robin J."
+                },
+                {
+                    "family": "Martínez-Núñez",
+                    "given": "Emilio"
+                },
+                {
+                    "family": "Shalashilin",
+                    "given": "Dmitrii V."
+                },
+                {
+                    "family": "Glowacki",
+                    "given": "David R."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/IPY95UNH",
+            "type": "article-journal",
+            "title": "cgbind: A Python Module and Web App for Automated Metallocage Construction and Host–Guest Characterization",
+            "container-title": "Journal of Chemical Information and Modeling",
+            "page": "3546-3557",
+            "volume": "60",
+            "issue": "7",
+            "abstract": "Metallocages offer a diverse and underexplored region of chemical space in which to search for novel catalysts and substrate hosts. However, the ability to tailor such structures toward applications in binding and catalysis is a challenging task. Here, we present an open-source computational toolkit, cgbind, that facilitates the construction, characterization, and prediction of functional metallocages. It employs known structural scaffolds as starting points and computationally efficient approaches for property evaluation. We demonstrate the ability of cgbind to construct libraries of cages with varied topologies and linker functionalities, generate accurate geometries (RMSD < 1.5 Å to crystal structures), and predict substrate binding with accuracy on par with semiempirical QM, all in seconds. The cgbind code presented here is freely available at github.com/duartegroup/cgbind and also via a web-based graphical user interface at cgbind.chem.ox.ac.uk. The protocol described here paves the way for high-throughput virtual screening of potential supramolecular structures, accelerating the search for new hosts and catalysts.",
+            "URL": "https://doi.org/10.1021/acs.jcim.0c00519",
+            "DOI": "10.1021/acs.jcim.0c00519",
+            "note": "Publisher: American Chemical Society",
+            "shortTitle": "cgbind",
+            "journalAbbreviation": "J. Chem. Inf. Model.",
+            "author": [
+                {
+                    "family": "Young",
+                    "given": "Tom A."
+                },
+                {
+                    "family": "Gheorghe",
+                    "given": "Razvan"
+                },
+                {
+                    "family": "Duarte",
+                    "given": "Fernanda"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        27
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/IELF9UAF",
+            "type": "article-journal",
+            "title": "Architector for high-throughput cross-periodic table 3D complex building",
+            "container-title": "Nature Communications",
+            "page": "2786",
+            "volume": "14",
+            "issue": "1",
+            "abstract": "Rare-earth and actinide complexes are critical for a wealth of clean-energy applications. Three-dimensional (3D) structural generation and prediction for these organometallic systems remains a challenge, limiting opportunities for computational chemical discovery. Here, we introduce Architector, a high-throughput in-silico synthesis code for s-, p-, d-, and f-block mononuclear organometallic complexes capable of capturing nearly the full diversity of the known experimental chemical space. Beyond known chemical space, Architector performs in-silico design of new complexes including any chemically accessible metal-ligand combinations. Architector leverages metal-center symmetry, interatomic force fields, and tight binding methods to build many possible 3D conformers from minimal 2D inputs including metal oxidation and spin state. Over a set of more than 6,000 x-ray diffraction (XRD)-determined complexes spanning the periodic table, we demonstrate quantitative agreement between Architector-predicted and experimentally observed structures. Further, we demonstrate out-of-the box conformer generation and energetic rankings of non-minimum energy conformers produced from Architector, which are critical for exploring potential energy surfaces and training force fields. Overall, Architector represents a transformative step towards cross-periodic table computational design of metal complex chemistry.",
+            "URL": "https://www.nature.com/articles/s41467-023-38169-2",
+            "DOI": "10.1038/s41467-023-38169-2",
+            "note": "Number: 1\nPublisher: Nature Publishing Group",
+            "journalAbbreviation": "Nat Commun",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Taylor",
+                    "given": "Michael G."
+                },
+                {
+                    "family": "Burrill",
+                    "given": "Daniel J."
+                },
+                {
+                    "family": "Janssen",
+                    "given": "Jan"
+                },
+                {
+                    "family": "Batista",
+                    "given": "Enrique R."
+                },
+                {
+                    "family": "Perez",
+                    "given": "Danny"
+                },
+                {
+                    "family": "Yang",
+                    "given": "Ping"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        5,
+                        15
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/UPGT3YYA",
+            "type": "article-journal",
+            "title": "Pyrovskite: A software package for the high-throughput construction, analysis, and featurization of two- and three-dimensional perovskite systems",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "064803",
+            "volume": "159",
+            "issue": "6",
+            "abstract": "The increased computational and experimental interest in perovskite systems comprising novel phases and reduced dimensionality has greatly expanded the search space for this class of materials. In similar fields, unified frameworks exist for the procedural generation and subsequent analysis of these complex condensed matter systems. Given the relatively recent rise in popularity of these novel perovskite phases, such a framework is yet to be created. In this work, we introduce Pyrovskite, an open source software package, to aid in both the high-throughput and fine-grained generation, simulation, and subsequent analysis of this expanded family of perovskite systems. Additionally, we introduce a new descriptor for octahedral distortions in systems, including, but not limited to, perovskites. This descriptor quantifies diagonal displacements of the B-site cation in a BX6 octahedral coordination environment, which has been shown to contribute to increased Rashba–Dresselhaus splitting in perovskite systems.",
+            "URL": "https://doi.org/10.1063/5.0159407",
+            "DOI": "10.1063/5.0159407",
+            "shortTitle": "Pyrovskite",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Stanton",
+                    "given": "Robert"
+                },
+                {
+                    "family": "Trivedi",
+                    "given": "Dhara J."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        8,
+                        9
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/JWWHFXR4",
+            "type": "article-journal",
+            "title": "Quantum chemical data generation as fill-in for reliability enhancement of machine-learning reaction and retrosynthesis planning",
+            "container-title": "Digital Discovery",
+            "page": "663-673",
+            "volume": "2",
+            "issue": "3",
+            "abstract": "Data-driven synthesis planning has seen remarkable successes in recent years by virtue of modern approaches of artificial intelligence that efficiently exploit vast databases with experimental data on chemical reactions. However, this success story is intimately connected to the availability of existing experimental data. It may well occur in retrosynthetic and synthesis design tasks that predictions in individual steps of a reaction cascade are affected by large uncertainties. In such cases, it will, in general, not be easily possible to provide missing data from autonomously conducted experiments on demand. However, first-principles calculations can, in principle, provide missing data to enhance the confidence of an individual prediction or for model retraining. Here, we demonstrate the feasibility of such an ansatz and examine resource requirements for conducting autonomous first-principles calculations on demand.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00006k",
+            "DOI": "10.1039/D3DD00006K",
+            "note": "Publisher: RSC",
+            "journalAbbreviation": "Digital Discovery",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Toniato",
+                    "given": "Alessandra"
+                },
+                {
+                    "family": "Unsleber",
+                    "given": "Jan P."
+                },
+                {
+                    "family": "Vaucher",
+                    "given": "Alain C."
+                },
+                {
+                    "family": "Weymuth",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Probst",
+                    "given": "Daniel"
+                },
+                {
+                    "family": "Laino",
+                    "given": "Teodoro"
+                },
+                {
+                    "family": "Reiher",
+                    "given": "Markus"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        6,
+                        12
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/NE5WS38G",
+            "type": "article-journal",
+            "title": "A fitting program for structural determination of molecular clusters from rotational spectroscopy†",
+            "container-title": "Chinese Journal of Chemical Physics",
+            "page": "298-306",
+            "volume": "36",
+            "issue": "3",
+            "abstract": "The characterization of the structures of molecular clusters, which serve as building blocks for bulk substances, provides crucial insight into the interactions between constituent units. Chirped-pulse Fourier transform microwave (CP-FTMW) spectroscopy, combined with state-of-the-art quantum chemical calculations, is a powerful tool for characterizing the structures of molecular clusters, as the rotational spectra are directly related to the mass distribution of a molecule or cluster. However, determining the structures of large or complex clusters from experimental rotational spectra remains challenging due to their structural flexibility. Ab initio and density functional theory calculations for searching their stable structures could be significantly time-consuming and method-dependent. To address these challenges, we have developed an approach that relies on the experimental rotational constants to search for potential molecular structures without quantum chemical optimization. Our approach involves creating an initial set of conformers through either a semi-empirical sampling program or the quasi-Monte Carlo method. After-ward, the trust region reflective algorithm is utilized for structure fitting. This procedure enables us to quickly generate potential conformers and gain access to precise structural information. We apply our fitting program to water hexamer and benzaldehyde-water clusters, and the resulting topological structures align extremely well with the experimental results.",
+            "URL": "https://doi.org/10.1063/1674-0068/cjcp2304042",
+            "DOI": "10.1063/1674-0068/cjcp2304042",
+            "journalAbbreviation": "Chinese Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Chen",
+                    "given": "Xinlei"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Guanjun"
+                },
+                {
+                    "family": "Li",
+                    "given": "Weixing"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        6,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/9LRMMYVV",
+            "type": "article-journal",
+            "title": "Growing Spicy ONIOMs: Extending and generalizing concepts of ONIOM and many body expansions",
+            "container-title": "WIREs Computational Molecular Science",
+            "page": "e1644",
+            "volume": "13",
+            "issue": "3",
+            "abstract": "The ONIOM method and many extensions to it provide capabilities to treat challenging multiscale problems in catalysis and material science. Our open-source program Spicy is a flexible toolkit for ONIOM and fragment methods. Spicy includes a generalization of multicenter-ONIOM, a higher-order multipole embedding scheme, and fragment methods as useful extensions of our own n-layered integrated molecular orbital and molecular mechanics (ONIOM), which allow applying ONIOM and high accuracy calculations to a wider range of systems. A calculation on the metallo-protein hemoglobin demonstrates the versatility of the implementation. This article is categorized under: Electronic Structure Theory > Combined QM/MM Methods Molecular and Statistical Mechanics > Molecular Interactions Quantum Computing > Theory Development",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1644",
+            "DOI": "10.1002/wcms.1644",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1644",
+            "shortTitle": "Growing Spicy ONIOMs",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Seeber",
+                    "given": "Phillip"
+                },
+                {
+                    "family": "Seidenath",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Steinmetzer",
+                    "given": "Johannes"
+                },
+                {
+                    "family": "Gräfe",
+                    "given": "Stefanie"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/RCIGSFEJ",
+            "type": "article-journal",
+            "title": "The subsystem quantum chemistry program Serenity",
+            "container-title": "WIREs Computational Molecular Science",
+            "page": "e1647",
+            "volume": "13",
+            "issue": "3",
+            "abstract": "SERENITY [J Comput Chem. 2018;39:788–798] is an open-source quantum chemistry software that provides an extensive development platform focused on quantum-mechanical multilevel and embedding approaches. In this study, we give an overview over the developments done in Serenity since its original publication in 2018. This includes efficient electronic-structure methods for ground states such as multilevel domain-based local pair natural orbital coupled cluster and Møller–Plesset perturbation theory as well as the multistate frozen-density embedding quasi-diabatization method. For the description of excited states, SERENITY features various subsystem-based methods such as embedding variants of coupled time-dependent density-functional theory, approximate second-order coupled cluster theory and the second-order algebraic diagrammatic construction technique as well as GW/Bethe–Salpeter equation approaches. SERENITY's modular structure allows combining these methods with density-functional theory (DFT)-based embedding through various practical realizations and variants of subsystem DFT including frozen-density embedding, potential-reconstruction techniques and projection-based embedding. This article is categorized under: Electronic Structure Theory > Density Functional Theory Electronic Structure Theory > Ab Initio Electronic Structure Methods Software > Quantum Chemistry",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1647",
+            "DOI": "10.1002/wcms.1647",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1647",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Niemeyer",
+                    "given": "Niklas"
+                },
+                {
+                    "family": "Eschenbach",
+                    "given": "Patrick"
+                },
+                {
+                    "family": "Bensberg",
+                    "given": "Moritz"
+                },
+                {
+                    "family": "Tölle",
+                    "given": "Johannes"
+                },
+                {
+                    "family": "Hellmann",
+                    "given": "Lars"
+                },
+                {
+                    "family": "Lampe",
+                    "given": "Lukas"
+                },
+                {
+                    "family": "Massolle",
+                    "given": "Anja"
+                },
+                {
+                    "family": "Rikus",
+                    "given": "Anton"
+                },
+                {
+                    "family": "Schnieders",
+                    "given": "David"
+                },
+                {
+                    "family": "Unsleber",
+                    "given": "Jan P."
+                },
+                {
+                    "family": "Neugebauer",
+                    "given": "Johannes"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/U2DT8QPF",
+            "type": "article-journal",
+            "title": "Fortnet, a software package for training Behler-Parrinello neural networks",
+            "container-title": "Computer Physics Communications",
+            "page": "108580",
+            "volume": "284",
+            "abstract": "A new, open source, parallel, stand-alone software package (Fortnet) has been developed, which implements Behler-Parrinello neural networks. It covers the entire workflow from feature generation to the evaluation of generated potentials, coupled with higher-level analysis such as the analytic calculation of atomic forces. The functionality of the software package is demonstrated by driving the training for the fitted correction functions of the density functional tight binding (DFTB) method, which are commonly used to compensate the inaccuracies resulting from the DFTB approximations to the Kohn-Sham Hamiltonian. The usual two-body form of those correction functions limits the transferability of the parametrizations between very different structural environments. The recently introduced DFTB+ANN approach strives to lift these limitations by combining DFTB with a near-sighted artificial neural network (ANN). After investigating various approaches, we have found the combination of DFTB with an ANN acting on-top of some baseline correction functions (delta learning) the most accurate one. It allowed to introduce many-body corrections on top of two-body parametrizations, while excellent transferability to chemical environments with deviating energetics could be demonstrated.\nProgram summary\nProgram title: Fortnet CPC Library link to program files: https://doi.org/10.17632/sjg3n9vr8p.1 Developer's repository link: https://github.com/vanderhe/fortnet Code Ocean capsule: https://codeocean.com/capsule/3992747 Licensing provisions: LGPL Programming language: Fortran, Python External routines/libraries: MPI, BLAS/LAPACK, HDF5, DFTB+ Supplementary material: See supplementary material for exemplary Human-friendly Structured Data (HSD) input listings, as well as the basic usage of the Fortformat Python layer for generating datasets and extracting results. Nature of problem: Semi-empirical quantum mechanical methods like density functional tight binding (DFTB) rely on fitting empirical energy correction terms, often represented by two-body potentials, to ab initio references. Hereby empirical, beyond-pairwise contributions are inevitably incorporated and therefore inadequately covered by a purely two-body description. Solution method: The new, open source, parallel, stand-alone software package Fortnet provides a powerful, yet accessible tool to construct many-body correction terms by resorting to high-dimensional neural networks of Behler-Parrinello type. Fortnet is characterized by its modern infrastructure, complementing the landscape of available implementations by a robust combination of Fortran and Python based code. Additional comments including restrictions and unusual features: Fortnet's core is supplemented by two additional projects that are BSD 2-clause licensed, namely fortnet-python [2], a collection of Python based tools for generating compatible datasets and extracting results, and fortnet-ase [3], an interface to the Atomic Simulation Environment (ASE) [1]. Both projects are available via the Python Package Index (PyPI). The interaction of all components is explained in cookbook-like recipes (see: https://fortnet.readthedocs.io/en/latest/), meant to guide new users, while learning about various basic and more advanced features by using comprehensible examples with physical reference.\nReferences\n[1]A.H. Larsen, J.J. Mortensen, J. Blomqvist, I.E. Castelli, R. Christensen, M. Dułak, J. Friis, M.N. Groves, B. Hammer, C. Hargus, E.D. Hermes, P.C. Jennings, P.B. Jensen, J. Kermode, J.R. Kitchin, E.L. Kolsbjerg, J. Kubal, K. Kaasbjerg, S. Lysgaard, J.B. Maronsson, T. Maxson, T. Olsen, L. Pastewka, A. Peterson, C. Rostgaard, J. Schiøtz, O. Schütt, M. Strange, K.S. Thygesen, T. Vegge, L. Vilhelmsen, M. Walter, Z. Zeng, K.W. Jacobsen, J. Phys., Condens. Matter 29 (2017) 273002. doi:10.1088/1361-648x/aa680e.[2]T. van der Heide, fortnet-python, (2022), GitHub repository, https://github.com/vanderhe/fortnet-python.[3]T. van der Heide, fortnet-ase, (2022), GitHub repository, https://github.com/vanderhe/fortnet-ase.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0010465522002995",
+            "DOI": "10.1016/j.cpc.2022.108580",
+            "journalAbbreviation": "Computer Physics Communications",
+            "author": [
+                {
+                    "family": "van der Heide",
+                    "given": "T."
+                },
+                {
+                    "family": "Kullgren",
+                    "given": "J."
+                },
+                {
+                    "family": "Broqvist",
+                    "given": "P."
+                },
+                {
+                    "family": "Bačić",
+                    "given": "V."
+                },
+                {
+                    "family": "Frauenheim",
+                    "given": "T."
+                },
+                {
+                    "family": "Aradi",
+                    "given": "B."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        3,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/ECMJPIT6",
+            "type": "article-journal",
+            "title": "SQMBox: Interfacing a semiempirical integral library to modular ab initio electronic structure enables new semiempirical methods",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "074109",
+            "volume": "158",
+            "issue": "7",
+            "abstract": "Ab initio and semiempirical electronic structure methods are usually implemented in separate software packages or use entirely different code paths. As a result, it can be time-consuming to transfer an established ab initio electronic structure scheme to a semiempirical Hamiltonian. We present an approach to unify ab initio and semiempirical electronic structure code paths based on a separation of the wavefunction ansatz and the needed matrix representations of operators. With this separation, the Hamiltonian can refer to either an ab initio or semiempirical treatment of the resulting integrals. We built a semiempirical integral library and interfaced it to the GPU-accelerated electronic structure code TeraChem. Equivalency between ab initio and semiempirical tight-binding Hamiltonian terms is assigned according to their dependence on the one-electron density matrix. The new library provides semiempirical equivalents of the Hamiltonian matrix and gradient intermediates, corresponding to those provided by the ab initio integral library. This enables the straightforward combination of semiempirical Hamiltonians with the full pre-existing ground and excited state functionality of the ab initio electronic structure code. We demonstrate the capability of this approach by combining the extended tight-binding method GFN1-xTB with both spin-restricted ensemble-referenced Kohn–Sham and complete active space methods. We also present a highly efficient GPU implementation of the semiempirical Mulliken-approximated Fock exchange. The additional computational cost for this term becomes negligible even on consumer-grade GPUs, enabling Mulliken-approximated exchange in tight-binding methods for essentially no additional cost.",
+            "URL": "https://doi.org/10.1063/5.0132776",
+            "DOI": "10.1063/5.0132776",
+            "shortTitle": "SQMBox",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Bannwarth",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Martínez",
+                    "given": "Todd J."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        2,
+                        21
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/8HEM72JV",
+            "type": "article-journal",
+            "title": "Atomistica.online – web application for generating input files for ORCA molecular modelling package made with the Anvil platform",
+            "container-title": "Molecular Simulation",
+            "page": "117-123",
+            "volume": "49",
+            "issue": "1",
+            "abstract": "We present the atomistica.online, a web application for generating input files for the ORCA molecular modelling package. atomistica.online is entirely made with the Anvil platform, which allows the development of web applications using only Python programming language. ORCA is one of the most, if not the most, powerful molecular modelling tools covering a wide range of possibilities for atomistic calculations on molecules. Speed, ease of installation and use, and clear and intuitive syntax for input files are some of ORCA's characteristics that make it one of the most cited modelling tools in the last several years. Nevertheless, although tools for generating input files for ORCA exist, they are not available as online applications. In this work, we demonstrate how the combination of Python programming language and the Anvil platform makes the development of scientific web applications available to all scientists. All tools within atomistica.online are freely available at the project's official website – https://atomistica.online",
+            "URL": "https://doi.org/10.1080/08927022.2022.2126865",
+            "DOI": "10.1080/08927022.2022.2126865",
+            "note": "Publisher: Taylor & Francis\n_eprint: https://doi.org/10.1080/08927022.2022.2126865",
+            "author": [
+                {
+                    "family": "Armaković",
+                    "given": "Stevan"
+                },
+                {
+                    "family": "Armaković",
+                    "given": "Sanja J."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        2
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/4NZGBMS9",
+            "type": "article-journal",
+            "title": "A Web Tool for Calculating Substituent Descriptors Compatible with Hammett Sigma Constants**",
+            "container-title": "Chemistry–Methods",
+            "page": "e202200041",
+            "volume": "2",
+            "issue": "12",
+            "abstract": "The electron-donating and -accepting power of organic substituents is an important parameter affecting many properties of parent molecules, most notably their reactivity and pKa of ionisable groups. These substituent properties are described by Hammett σ constants obtained by measuring ionization constants of substituted benzoic acids. Although values of the Hammett σ constants have been measured for the most common functional groups, data for many important substituents are not available. In the present study, a method to calculate substituent descriptors compatible with the Hammett σ constants using quantum-chemically derived parameters is described. On this basis, a free web tool allowing to calculate electronic and hydrophobic substituent descriptors is made available at https://bitly.com/getsigmas.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cmtd.202200041",
+            "DOI": "10.1002/cmtd.202200041",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/cmtd.202200041",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Ertl",
+                    "given": "Peter"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/YIV4BTL5",
+            "type": "article-journal",
+            "title": "XTBDFT: Automated workflow for conformer searching of minima and transition states powered by extended tight binding and density functional theory",
+            "container-title": "SoftwareX",
+            "volume": "20",
+            "URL": "https://www.softxjournal.com/article/S2352-7110(22)00160-1/fulltext",
+            "DOI": "10.1016/j.softx.2022.101242",
+            "note": "Publisher: Elsevier",
+            "shortTitle": "XTBDFT",
+            "journalAbbreviation": "SoftwareX",
+            "language": "English",
+            "author": [
+                {
+                    "family": "Lin",
+                    "given": "Sibo"
+                },
+                {
+                    "family": "Elanany",
+                    "given": "Mohamed"
+                },
+                {
+                    "family": "Khawaji",
+                    "given": "Motaz"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        12,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/X2U7HL58",
+            "type": "article-journal",
+            "title": "Atomistic global optimization X: A Python package for optimization of atomistic structures",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "054701",
+            "volume": "157",
+            "issue": "5",
+            "abstract": "Modeling and understanding properties of materials from first principles require knowledge of the underlying atomistic structure. This entails knowing the individual chemical identity and position of all atoms involved. Obtaining such information for macro-molecules, nano-particles, and clusters and for the surface, interface, and bulk phases of amorphous and solid materials represents a difficult high-dimensional global optimization problem. The rise of machine learning techniques in materials science has, however, led to many compelling developments that may speed up structure searches. The complexity of such new methods has prompted a need for an efficient way of assembling them into global optimization algorithms that can be experimented with. In this paper, we introduce the Atomistic Global Optimization X (AGOX) framework and code as a customizable approach that enables efficient building and testing of global optimization algorithms. A modular way of expressing global optimization algorithms is described, and modern programming practices are used to enable that modularity in the freely available AGOX Python package. A number of examples of global optimization approaches are implemented and analyzed. This ranges from random search and basin-hopping to machine learning aided approaches with on-the-fly learnt surrogate energy landscapes. The methods are applied to problems ranging from supported clusters over surface reconstructions to large carbon clusters and metal-nitride clusters incorporated into graphene sheets.",
+            "URL": "https://doi.org/10.1063/5.0094165",
+            "DOI": "10.1063/5.0094165",
+            "shortTitle": "Atomistic global optimization X",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Christiansen",
+                    "given": "Mads-Peter V."
+                },
+                {
+                    "family": "Rønne",
+                    "given": "Nikolaj"
+                },
+                {
+                    "family": "Hammer",
+                    "given": "Bjørk"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        3
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/LQ4ZZ2SX",
+            "type": "article-journal",
+            "title": "stk: An extendable Python framework for automated molecular and supramolecular structure assembly and discovery",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "214102",
+            "volume": "154",
+            "issue": "21",
+            "abstract": "Computational software workflows are emerging as all-in-one solutions to speed up the discovery of new materials. Many computational approaches require the generation of realistic structural models for property prediction and candidate screening. However, molecular and supramolecular materials represent classes of materials with many potential applications for which there is no go-to database of existing structures or general protocol for generating structures. Here, we report a new version of the supramolecular toolkit, stk, an open-source, extendable, and modular Python framework for general structure generation of (supra)molecular structures. Our construction approach works on arbitrary building blocks and topologies and minimizes the input required from the user, making stk user-friendly and applicable to many material classes. This version of stk includes metal-containing structures and rotaxanes as well as general implementation and interface improvements. Additionally, this version includes built-in tools for exploring chemical space with an evolutionary algorithm and tools for database generation and visualization. The latest version of stk is freely available at github.com/lukasturcani/stk.",
+            "URL": "https://doi.org/10.1063/5.0049708",
+            "DOI": "10.1063/5.0049708",
+            "shortTitle": "stk",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Turcani",
+                    "given": "Lukas"
+                },
+                {
+                    "family": "Tarzia",
+                    "given": "Andrew"
+                },
+                {
+                    "family": "Szczypiński",
+                    "given": "Filip T."
+                },
+                {
+                    "family": "Jelfs",
+                    "given": "Kim E."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/8UW9C3K3",
+            "type": "article-journal",
+            "title": "QMCube (QM3): An all-purpose suite for multiscale QM/MM calculations",
+            "container-title": "Journal of Computational Chemistry",
+            "page": "447-457",
+            "volume": "42",
+            "issue": "6",
+            "abstract": "QMCube (QM3) is a suite written in the Python programming language, initially focused on multiscale QM/MM simulations of biological systems, but open enough to address other kinds of problems. It allows the user to combine highly efficient QM and MM programs, providing unified access to a wide range of computational methods. The suite also supplies additional modules with extra functionalities. These modules facilitate common tasks such as performing the setup of the models or process the data generated during the simulations. The design of QM3 has been carried out considering the least number of external dependencies (only an algebra library, already included in the distribution), which makes it extremely portable. Also, the modular structure of the suite should help to expand and develop new computational methods.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.26465",
+            "DOI": "10.1002/jcc.26465",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcc.26465",
+            "shortTitle": "QMCube (QM3)",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Martí",
+                    "given": "Sergio"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/FSNXYDE7",
+            "type": "article-journal",
+            "title": "TeraChem: A graphical processing unit-accelerated electronic structure package for large-scale ab initio molecular dynamics",
+            "container-title": "WIREs Computational Molecular Science",
+            "page": "e1494",
+            "volume": "11",
+            "issue": "2",
+            "abstract": "TeraChem was born in 2008 with the goal of providing fast on-the-fly electronic structure calculations to facilitate ab initio molecular dynamics studies of large biochemical systems such as photoswitchable proteins and multichromophoric antenna complexes. Originally developed for videogaming applications, graphics processing units (GPUs) offered a low-cost parallel computer architecture that became more accessible for general-purpose GPU computing with the release of CUDA in 2007. The evaluation of the electron repulsion integrals (ERIs) is a major bottleneck in electronic structure codes and provides an attractive target for acceleration on GPUs. Thus, highly efficient routines for evaluation of and contractions between the ERIs and density matrices were implemented in TeraChem. Electronic structure methods were developed and implemented to leverage these integral contraction routines, resulting in the first quantum chemistry package designed from the ground up for GPUs. This GPU acceleration makes TeraChem capable of performing large-scale ground and excited state calculations in the gas and condensed phase. Today, TeraChem's speed forms the basis for a suite of quantum chemistry applications, including optimization and dynamics of proteins, automated and interactive chemical discovery tools, and large-scale nonadiabatic dynamics simulations. This article is categorized under: Electronic Structure Theory > Ab Initio Electronic Structure Methods Software > Quantum Chemistry Structure and Mechanism > Computational Biochemistry and Biophysics",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1494",
+            "DOI": "10.1002/wcms.1494",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/wcms.1494",
+            "shortTitle": "TeraChem",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Seritan",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Bannwarth",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Fales",
+                    "given": "Bryan S."
+                },
+                {
+                    "family": "Hohenstein",
+                    "given": "Edward G."
+                },
+                {
+                    "family": "Isborn",
+                    "given": "Christine M."
+                },
+                {
+                    "family": "Kokkila-Schumacher",
+                    "given": "Sara I. L."
+                },
+                {
+                    "family": "Li",
+                    "given": "Xin"
+                },
+                {
+                    "family": "Liu",
+                    "given": "Fang"
+                },
+                {
+                    "family": "Luehr",
+                    "given": "Nathan"
+                },
+                {
+                    "family": "Snyder Jr.",
+                    "given": "James W."
+                },
+                {
+                    "family": "Song",
+                    "given": "Chenchen"
+                },
+                {
+                    "family": "Titov",
+                    "given": "Alexey V."
+                },
+                {
+                    "family": "Ufimtsev",
+                    "given": "Ivan S."
+                },
+                {
+                    "family": "Wang",
+                    "given": "Lee-Ping"
+                },
+                {
+                    "family": "Martínez",
+                    "given": "Todd J."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/JUFH6GPX",
+            "type": "article-journal",
+            "title": "pysisyphus: Exploring potential energy surfaces in ground and excited states",
+            "container-title": "International Journal of Quantum Chemistry",
+            "page": "e26390",
+            "volume": "121",
+            "issue": "3",
+            "abstract": "Predicting the energetics of chemical transformations requires localizing stationary points on a potential energy surface. While educts and products of a chemical reaction may be known, transition state optimization is challenging as good guesses may be unavailable. Extending stationary point searches to the excited state leads to additional difficulties as several states may be close in energy, requiring efficient state tracking. Here, we report the implementation of pysisyphus, an external optimizer, that allows localization of stationary points not only in the ground state but also for excited state by providing several state-tracking algorithms. pysisyphus offers all necessary tools for calculating reaction paths, starting from the optimization of the reactants, running chain-of-states methods such as the nudged elastic band or the growing string method with subsequent transition state optimization, and a concluding intrinsic reaction coordinate calculation.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.26390",
+            "DOI": "10.1002/qua.26390",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/qua.26390",
+            "shortTitle": "pysisyphus",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Steinmetzer",
+                    "given": "Johannes"
+                },
+                {
+                    "family": "Kupfer",
+                    "given": "Stephan"
+                },
+                {
+                    "family": "Gräfe",
+                    "given": "Stefanie"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/AB8BKTM3",
+            "type": "article-journal",
+            "title": "TeraChem: Accelerating electronic structure and ab initio molecular dynamics with graphical processing units",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "224110",
+            "volume": "152",
+            "issue": "22",
+            "abstract": "Developed over the past decade, TeraChem is an electronic structure and ab initio molecular dynamics software package designed from the ground up to leverage graphics processing units (GPUs) to perform large-scale ground and excited state quantum chemistry calculations in the gas and the condensed phase. TeraChem’s speed stems from the reformulation of conventional electronic structure theories in terms of a set of individually optimized high-performance electronic structure operations (e.g., Coulomb and exchange matrix builds, one- and two-particle density matrix builds) and rank-reduction techniques (e.g., tensor hypercontraction). Recent efforts have encapsulated these core operations and provided language-agnostic interfaces. This greatly increases the accessibility and flexibility of TeraChem as a platform to develop new electronic structure methods on GPUs and provides clear optimization targets for emerging parallel computing architectures.",
+            "URL": "https://doi.org/10.1063/5.0007615",
+            "DOI": "10.1063/5.0007615",
+            "shortTitle": "TeraChem",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Seritan",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Bannwarth",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Fales",
+                    "given": "B. Scott"
+                },
+                {
+                    "family": "Hohenstein",
+                    "given": "Edward G."
+                },
+                {
+                    "family": "Kokkila-Schumacher",
+                    "given": "Sara I. L."
+                },
+                {
+                    "family": "Luehr",
+                    "given": "Nathan"
+                },
+                {
+                    "family": "Snyder",
+                    "given": "James W., Jr."
+                },
+                {
+                    "family": "Song",
+                    "given": "Chenchen"
+                },
+                {
+                    "family": "Titov",
+                    "given": "Alexey V."
+                },
+                {
+                    "family": "Ufimtsev",
+                    "given": "Ivan S."
+                },
+                {
+                    "family": "Martínez",
+                    "given": "Todd J."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        12
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/8KVDGUBR",
+            "type": "article-journal",
+            "title": "CP2K: An electronic structure and molecular dynamics software package - Quickstep: Efficient and accurate electronic structure calculations",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "194103",
+            "volume": "152",
+            "issue": "19",
+            "abstract": "CP2K is an open source electronic structure and molecular dynamics software package to perform atomistic simulations of solid-state, liquid, molecular, and biological systems. It is especially aimed at massively parallel and linear-scaling electronic structure methods and state-of-the-art ab initio molecular dynamics simulations. Excellent performance for electronic structure calculations is achieved using novel algorithms implemented for modern high-performance computing systems. This review revisits the main capabilities of CP2K to perform efficient and accurate electronic structure simulations. The emphasis is put on density functional theory and multiple post–Hartree–Fock methods using the Gaussian and plane wave approach and its augmented all-electron extension.",
+            "URL": "https://doi.org/10.1063/5.0007045",
+            "DOI": "10.1063/5.0007045",
+            "shortTitle": "CP2K",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Kühne",
+                    "given": "Thomas D."
+                },
+                {
+                    "family": "Iannuzzi",
+                    "given": "Marcella"
+                },
+                {
+                    "family": "Del Ben",
+                    "given": "Mauro"
+                },
+                {
+                    "family": "Rybkin",
+                    "given": "Vladimir V."
+                },
+                {
+                    "family": "Seewald",
+                    "given": "Patrick"
+                },
+                {
+                    "family": "Stein",
+                    "given": "Frederick"
+                },
+                {
+                    "family": "Laino",
+                    "given": "Teodoro"
+                },
+                {
+                    "family": "Khaliullin",
+                    "given": "Rustam Z."
+                },
+                {
+                    "family": "Schütt",
+                    "given": "Ole"
+                },
+                {
+                    "family": "Schiffmann",
+                    "given": "Florian"
+                },
+                {
+                    "family": "Golze",
+                    "given": "Dorothea"
+                },
+                {
+                    "family": "Wilhelm",
+                    "given": "Jan"
+                },
+                {
+                    "family": "Chulkov",
+                    "given": "Sergey"
+                },
+                {
+                    "family": "Bani-Hashemian",
+                    "given": "Mohammad Hossein"
+                },
+                {
+                    "family": "Weber",
+                    "given": "Valéry"
+                },
+                {
+                    "family": "Borštnik",
+                    "given": "Urban"
+                },
+                {
+                    "family": "Taillefumier",
+                    "given": "Mathieu"
+                },
+                {
+                    "family": "Jakobovits",
+                    "given": "Alice Shoshana"
+                },
+                {
+                    "family": "Lazzaro",
+                    "given": "Alfio"
+                },
+                {
+                    "family": "Pabst",
+                    "given": "Hans"
+                },
+                {
+                    "family": "Müller",
+                    "given": "Tiziano"
+                },
+                {
+                    "family": "Schade",
+                    "given": "Robert"
+                },
+                {
+                    "family": "Guidon",
+                    "given": "Manuel"
+                },
+                {
+                    "family": "Andermatt",
+                    "given": "Samuel"
+                },
+                {
+                    "family": "Holmberg",
+                    "given": "Nico"
+                },
+                {
+                    "family": "Schenter",
+                    "given": "Gregory K."
+                },
+                {
+                    "family": "Hehn",
+                    "given": "Anna"
+                },
+                {
+                    "family": "Bussy",
+                    "given": "Augustin"
+                },
+                {
+                    "family": "Belleflamme",
+                    "given": "Fabian"
+                },
+                {
+                    "family": "Tabacchi",
+                    "given": "Gloria"
+                },
+                {
+                    "family": "Glöß",
+                    "given": "Andreas"
+                },
+                {
+                    "family": "Lass",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Bethune",
+                    "given": "Iain"
+                },
+                {
+                    "family": "Mundy",
+                    "given": "Christopher J."
+                },
+                {
+                    "family": "Plessl",
+                    "given": "Christian"
+                },
+                {
+                    "family": "Watkins",
+                    "given": "Matt"
+                },
+                {
+                    "family": "VandeVondele",
+                    "given": "Joost"
+                },
+                {
+                    "family": "Krack",
+                    "given": "Matthias"
+                },
+                {
+                    "family": "Hutter",
+                    "given": "Jürg"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        19
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/Q7PCS6XY",
+            "type": "article-journal",
+            "title": "TURBOMOLE: Modular program suite for ab initio quantum-chemical and condensed-matter simulations",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "184107",
+            "volume": "152",
+            "issue": "18",
+            "abstract": "TURBOMOLE is a collaborative, multi-national software development project aiming to provide highly efficient and stable computational tools for quantum chemical simulations of molecules, clusters, periodic systems, and solutions. The TURBOMOLE software suite is optimized for widely available, inexpensive, and resource-efficient hardware such as multi-core workstations and small computer clusters. TURBOMOLE specializes in electronic structure methods with outstanding accuracy–cost ratio, such as density functional theory including local hybrids and the random phase approximation (RPA), GW-Bethe–Salpeter methods, second-order Møller–Plesset theory, and explicitly correlated coupled-cluster methods. TURBOMOLE is based on Gaussian basis sets and has been pivotal for the development of many fast and low-scaling algorithms in the past three decades, such as integral-direct methods, fast multipole methods, the resolution-of-the-identity approximation, imaginary frequency integration, Laplace transform, and pair natural orbital methods. This review focuses on recent additions to TURBOMOLE’s functionality, including excited-state methods, RPA and Green’s function methods, relativistic approaches, high-order molecular properties, solvation effects, and periodic systems. A variety of illustrative applications along with accuracy and timing data are discussed. Moreover, available interfaces to users as well as other software are summarized. TURBOMOLE’s current licensing, distribution, and support model are discussed, and an overview of TURBOMOLE’s development workflow is provided. Challenges such as communication and outreach, software infrastructure, and funding are highlighted.",
+            "URL": "https://doi.org/10.1063/5.0004635",
+            "DOI": "10.1063/5.0004635",
+            "shortTitle": "TURBOMOLE",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Balasubramani",
+                    "given": "Sree Ganesh"
+                },
+                {
+                    "family": "Chen",
+                    "given": "Guo P."
+                },
+                {
+                    "family": "Coriani",
+                    "given": "Sonia"
+                },
+                {
+                    "family": "Diedenhofen",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Frank",
+                    "given": "Marius S."
+                },
+                {
+                    "family": "Franzke",
+                    "given": "Yannick J."
+                },
+                {
+                    "family": "Furche",
+                    "given": "Filipp"
+                },
+                {
+                    "family": "Grotjahn",
+                    "given": "Robin"
+                },
+                {
+                    "family": "Harding",
+                    "given": "Michael E."
+                },
+                {
+                    "family": "Hättig",
+                    "given": "Christof"
+                },
+                {
+                    "family": "Hellweg",
+                    "given": "Arnim"
+                },
+                {
+                    "family": "Helmich-Paris",
+                    "given": "Benjamin"
+                },
+                {
+                    "family": "Holzer",
+                    "given": "Christof"
+                },
+                {
+                    "family": "Huniar",
+                    "given": "Uwe"
+                },
+                {
+                    "family": "Kaupp",
+                    "given": "Martin"
+                },
+                {
+                    "family": "Marefat Khah",
+                    "given": "Alireza"
+                },
+                {
+                    "family": "Karbalaei Khani",
+                    "given": "Sarah"
+                },
+                {
+                    "family": "Müller",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Mack",
+                    "given": "Fabian"
+                },
+                {
+                    "family": "Nguyen",
+                    "given": "Brian D."
+                },
+                {
+                    "family": "Parker",
+                    "given": "Shane M."
+                },
+                {
+                    "family": "Perlt",
+                    "given": "Eva"
+                },
+                {
+                    "family": "Rappoport",
+                    "given": "Dmitrij"
+                },
+                {
+                    "family": "Reiter",
+                    "given": "Kevin"
+                },
+                {
+                    "family": "Roy",
+                    "given": "Saswata"
+                },
+                {
+                    "family": "Rückert",
+                    "given": "Matthias"
+                },
+                {
+                    "family": "Schmitz",
+                    "given": "Gunnar"
+                },
+                {
+                    "family": "Sierka",
+                    "given": "Marek"
+                },
+                {
+                    "family": "Tapavicza",
+                    "given": "Enrico"
+                },
+                {
+                    "family": "Tew",
+                    "given": "David P."
+                },
+                {
+                    "family": "van Wüllen",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Voora",
+                    "given": "Vamsee K."
+                },
+                {
+                    "family": "Weigend",
+                    "given": "Florian"
+                },
+                {
+                    "family": "Wodyński",
+                    "given": "Artur"
+                },
+                {
+                    "family": "Yu",
+                    "given": "Jason M."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        13
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/G4WPA9VH",
+            "type": "article-journal",
+            "title": "DFTB+, a software package for efficient approximate density functional theory based atomistic simulations",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "124101",
+            "volume": "152",
+            "issue": "12",
+            "abstract": "DFTB+ is a versatile community developed open source software package offering fast and efficient methods for carrying out atomistic quantum mechanical simulations. By implementing various methods approximating density functional theory (DFT), such as the density functional based tight binding (DFTB) and the extended tight binding method, it enables simulations of large systems and long timescales with reasonable accuracy while being considerably faster for typical simulations than the respective ab initio methods. Based on the DFTB framework, it additionally offers approximated versions of various DFT extensions including hybrid functionals, time dependent formalism for treating excited systems, electron transport using non-equilibrium Green’s functions, and many more. DFTB+ can be used as a user-friendly standalone application in addition to being embedded into other software packages as a library or acting as a calculation-server accessed by socket communication. We give an overview of the recently developed capabilities of the DFTB+ code, demonstrating with a few use case examples, discuss the strengths and weaknesses of the various features, and also discuss on-going developments and possible future perspectives.",
+            "URL": "https://doi.org/10.1063/1.5143190",
+            "DOI": "10.1063/1.5143190",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Hourahine",
+                    "given": "B."
+                },
+                {
+                    "family": "Aradi",
+                    "given": "B."
+                },
+                {
+                    "family": "Blum",
+                    "given": "V."
+                },
+                {
+                    "family": "Bonafé",
+                    "given": "F."
+                },
+                {
+                    "family": "Buccheri",
+                    "given": "A."
+                },
+                {
+                    "family": "Camacho",
+                    "given": "C."
+                },
+                {
+                    "family": "Cevallos",
+                    "given": "C."
+                },
+                {
+                    "family": "Deshaye",
+                    "given": "M. Y."
+                },
+                {
+                    "family": "Dumitrică",
+                    "given": "T."
+                },
+                {
+                    "family": "Dominguez",
+                    "given": "A."
+                },
+                {
+                    "family": "Ehlert",
+                    "given": "S."
+                },
+                {
+                    "family": "Elstner",
+                    "given": "M."
+                },
+                {
+                    "family": "van der Heide",
+                    "given": "T."
+                },
+                {
+                    "family": "Hermann",
+                    "given": "J."
+                },
+                {
+                    "family": "Irle",
+                    "given": "S."
+                },
+                {
+                    "family": "Kranz",
+                    "given": "J. J."
+                },
+                {
+                    "family": "Köhler",
+                    "given": "C."
+                },
+                {
+                    "family": "Kowalczyk",
+                    "given": "T."
+                },
+                {
+                    "family": "Kubař",
+                    "given": "T."
+                },
+                {
+                    "family": "Lee",
+                    "given": "I. S."
+                },
+                {
+                    "family": "Lutsker",
+                    "given": "V."
+                },
+                {
+                    "family": "Maurer",
+                    "given": "R. J."
+                },
+                {
+                    "family": "Min",
+                    "given": "S. K."
+                },
+                {
+                    "family": "Mitchell",
+                    "given": "I."
+                },
+                {
+                    "family": "Negre",
+                    "given": "C."
+                },
+                {
+                    "family": "Niehaus",
+                    "given": "T. A."
+                },
+                {
+                    "family": "Niklasson",
+                    "given": "A. M. N."
+                },
+                {
+                    "family": "Page",
+                    "given": "A. J."
+                },
+                {
+                    "family": "Pecchia",
+                    "given": "A."
+                },
+                {
+                    "family": "Penazzi",
+                    "given": "G."
+                },
+                {
+                    "family": "Persson",
+                    "given": "M. P."
+                },
+                {
+                    "family": "Řezáč",
+                    "given": "J."
+                },
+                {
+                    "family": "Sánchez",
+                    "given": "C. G."
+                },
+                {
+                    "family": "Sternberg",
+                    "given": "M."
+                },
+                {
+                    "family": "Stöhr",
+                    "given": "M."
+                },
+                {
+                    "family": "Stuckenberg",
+                    "given": "F."
+                },
+                {
+                    "family": "Tkatchenko",
+                    "given": "A."
+                },
+                {
+                    "family": "Yu",
+                    "given": "V. W.-z."
+                },
+                {
+                    "family": "Frauenheim",
+                    "given": "T."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        23
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/UPCLXK4Z",
+            "type": "article-journal",
+            "title": "Modular Software for Generating and Modeling Diverse Polymer Databases",
+            "container-title": "Journal of Chemical Information and Modeling",
+            "page": "3761-3771",
+            "volume": "63",
+            "issue": "12",
+            "abstract": "Machine learning methods offer the opportunity to design new functional materials on an unprecedented scale; however, building the large, diverse databases of molecules on which to train such methods remains a daunting task. Automated computational chemistry modeling workflows are therefore becoming essential tools in this data-driven hunt for new materials with novel properties, since they offer a means by which to create and curate molecular databases without requiring significant levels of user input. This ensures that well-founded concerns regarding data provenance, reproducibility, and replicability are mitigated. We have developed a versatile and flexible software package, PySoftK (Python Soft Matter at King’s College London) that provides flexible, automated computational workflows to create, model, and curate libraries of polymers with minimal user intervention. PySoftK is available as an efficient, fully tested, and easily installable Python package. Key features of the software include the wide range of different polymer topologies that can be automatically generated and its fully parallelized library generation tools. It is anticipated that PySoftK will support the generation, modeling, and curation of large polymer libraries to support functional materials discovery in the nanotechnology and biotechnology arenas.",
+            "URL": "https://doi.org/10.1021/acs.jcim.3c00081",
+            "DOI": "10.1021/acs.jcim.3c00081",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "J. Chem. Inf. Model.",
+            "author": [
+                {
+                    "family": "Santana-Bonilla",
+                    "given": "Alejandro"
+                },
+                {
+                    "family": "López-Ríos de Castro",
+                    "given": "Raquel"
+                },
+                {
+                    "family": "Sun",
+                    "given": "Peike"
+                },
+                {
+                    "family": "Ziolek",
+                    "given": "Robert M."
+                },
+                {
+                    "family": "Lorenz",
+                    "given": "Christian D."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        6,
+                        26
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        27
+                    ]
+                ]
+            }
+        }
+    ]
+}

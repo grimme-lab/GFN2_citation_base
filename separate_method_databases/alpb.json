@@ -1,0 +1,1169 @@
+[
+    {
+        "authors": "Omri D. Abarbanel, Geoffrey R. Hutchison",
+        "article_name": "QupKake: Integrating Machine Learning and Quantum Chemistry for Micro-pKa Predictions",
+        "journal": "Journal of Chemical Theory and Computation",
+        "year": "2024",
+        "doi": "https://doi.org/10.1021/acs.jctc.4c00328."
+    },
+    {
+        "authors": "Jingyang Zhang, Wang-Yeuk Kong, Wentao Guo, Dean J. Tantillo, Yefeng Tang",
+        "article_name": "Combined Computational and Experimental Study Reveals Complex Mechanistic Landscape of Br\u00f8nsted Acid-Catalyzed Silane-Dependent P\u2550O Reduction",
+        "journal": "Journal of the American Chemical Society",
+        "year": "2024",
+        "volume": "146",
+        "issue": "20",
+        "pages": "13983-13999",
+        "doi": "https://doi.org/10.1021/jacs.4c02042"
+    },
+    {
+        "authors": "Henrik M\u00f6bitz, Birger Dittrich, Stephane Rodde, Ross Strang",
+        "article_name": "Nonclassical Zwitterions as a Design Principle to Reduce Lipophilicity without Impacting Permeability",
+        "journal": "Journal of Medicinal Chemistry",
+        "year": "2024",
+        "doi": "https://doi.org/10.1021/acs.jmedchem.4c00596."
+    },
+    {
+        "authors": "Maximilian C. P\u00f6verlein, Andreas Hulm, Johannes C. B. Dietschreit, J\u00f6rg Kussmann, Christian Ochsenfeld, Ville R. I. Kaila",
+        "article_name": "QM/MM Free Energy Calculations of Long-Range Biological Protonation Dynamics by Adaptive and Focused Sampling",
+        "journal": "Journal of Chemical Theory and Computation",
+        "year": "2024",
+        "doi": "https://doi.org/10.1021/acs.jctc.4c00199."
+    },
+    {
+        "authors": "Daiki Nishiori, Jan Paul Menzel, Nicholas Armada, Edgar A. Reyes Cruz, Brent L. Nannenga, Victor S. Batista, Gary F. Moore",
+        "article_name": "Breaking a Molecular Scaling Relationship Using an Iron\u2013Iron Fused Porphyrin Electrocatalyst for Oxygen Reduction",
+        "journal": "Journal of the American Chemical Society",
+        "year": "2024",
+        "volume": "146",
+        "issue": "17",
+        "pages": "11622-11633",
+        "doi": "https://doi.org/10.1021/jacs.3c08586"
+    },
+    {
+        "authors": "Yongmei Tang, Yanan Zheng, Xueping Hu, Huajun Zhao, Sunliang Cui",
+        "article_name": "Discovery of Potent and Selective PI3K\u03b4 Inhibitors for the Treatment of Acute Myeloid Leukemia",
+        "journal": "Journal of Medicinal Chemistry",
+        "year": "2024",
+        "volume": "67",
+        "issue": "8",
+        "pages": "6638-6657",
+        "doi": "https://doi.org/10.1021/acs.jmedchem.4c00094"
+    },
+    {
+        "authors": "Patryk A. Weso\u0142owski, David J. Wales, Philipp Pracht",
+        "article_name": "Multilevel Framework for Analysis of Protein Folding Involving Disulfide Bond Formation",
+        "journal": "The Journal of Physical Chemistry B",
+        "year": "2024",
+        "volume": "128",
+        "issue": "13",
+        "pages": "3145-3156",
+        "doi": "https://doi.org/10.1021/acs.jpcb.4c00104"
+    },
+    {
+        "authors": "Thomas Gasevic, Julius B. Kleine B\u00fcning, Stefan Grimme, Markus Bursch",
+        "article_name": "Benchmark Study on the Calculation of 207Pb NMR Chemical Shifts",
+        "journal": "Inorganic Chemistry",
+        "year": "2024",
+        "volume": "63",
+        "issue": "11",
+        "pages": "5052-5064",
+        "doi": "https://doi.org/10.1021/acs.inorgchem.3c04539"
+    },
+    {
+        "authors": "Alexandra Stan-Bernhardt, Liubov Glinkina, Andreas Hulm, Christian Ochsenfeld",
+        "article_name": "Exploring Chemical Space Using Ab Initio Hyperreactor Dynamics",
+        "journal": "ACS Central Science",
+        "year": "2024",
+        "volume": "10",
+        "issue": "2",
+        "pages": "302-314",
+        "doi": "https://doi.org/10.1021/acscentsci.3c01403"
+    },
+    {
+        "authors": "Junhe Duan, Qin Li, Weijia Xu, Xiangning Hu, Yue Wang, Sara M. Valdez, Zhe Qiang, Yaozu Liao, Jin Wen, Changhuai Ye, Meifang Zhu",
+        "article_name": "Mechanically Flexible and Weavable Hybrid Aerogel Fibers with Ultrahigh Metal\u2013Organic Framework Loadings for Versatile Applications",
+        "journal": "ACS Applied Polymer Materials",
+        "year": "2024",
+        "volume": "6",
+        "issue": "3",
+        "pages": "1900-1910",
+        "doi": "https://doi.org/10.1021/acsapm.3c02734"
+    },
+    {
+        "authors": "Cody L. Covington, Andrew R. Puente, Prasad L. Polavarapu",
+        "article_name": "Pitfalls in the Optimization of Conformer Populations to Maximize the Similarity between Predicted and Experimental Chiroptical Spectra",
+        "journal": "The Journal of Physical Chemistry A",
+        "year": "2024",
+        "volume": "128",
+        "issue": "1",
+        "pages": "129-138",
+        "doi": "https://doi.org/10.1021/acs.jpca.3c06544"
+    },
+    {
+        "authors": "Bohan Tang, Mike Pauls, Christoph Bannwarth, Stefan Hecht",
+        "article_name": "Photoswitchable Quadruple Hydrogen-Bonding Motif",
+        "journal": "Journal of the American Chemical Society",
+        "year": "2024",
+        "volume": "146",
+        "issue": "1",
+        "pages": "45-50",
+        "doi": "https://doi.org/10.1021/jacs.3c10401"
+    },
+    {
+        "authors": "Hong Yin, Sen Xia, Zhirong Chen, Shenfeng Yuan",
+        "article_name": "Insight into the Role of Hydroxypropyl Cellulose in Tuning Crystallization Behaviors of dl-Methionine",
+        "journal": "Chem & Bio Engineering",
+        "year": "2024",
+        "doi": "https://doi.org/10.1021/cbe.3c00024."
+    },
+    {
+        "authors": "Mahmoud A. Abdulhamid, Fuat Topuz, Diana G. Oldal, Tibor Holtzl, Gyorgy Szekely",
+        "article_name": "Nanofibrous Membranes from Catalytic Arene\u2013Norbornene Annulation (CANAL)-Based Polymers for Scavenging Organic Micropollutants",
+        "journal": "ACS Applied Polymer Materials",
+        "year": "2023",
+        "doi": "https://doi.org/10.1021/acsapm.3c02561."
+    },
+    {
+        "authors": "Siva Dasetty, Maximilian Topel, Yifeng Oliver Tang, Yuqin Wang, Eric Jonas, Seth B. Darling, Junhong Chen, Andrew L. Ferguson",
+        "article_name": "Data-Driven Discovery of Linear Molecular Probes with Optimal Selective Affinity for PFAS in Water",
+        "journal": "Journal of Chemical & Engineering Data",
+        "year": "2023",
+        "volume": "68",
+        "issue": "12",
+        "pages": "3148-3161",
+        "doi": "https://doi.org/10.1021/acs.jced.3c00404"
+    },
+    {
+        "authors": "Konstantin Karandashev, Jan Weinreich, Stefan Heinen, Daniel Jose Arismendi Arrieta, Guido Falk von Rudorff, Kersti Hermansson, O. Anatole von Lilienfeld",
+        "article_name": "Evolutionary Monte Carlo of QM Properties in Chemical Space: Electrolyte Design",
+        "journal": "Journal of Chemical Theory and Computation",
+        "year": "2023",
+        "volume": "19",
+        "issue": "23",
+        "pages": "8861-8870",
+        "doi": "https://doi.org/10.1021/acs.jctc.3c00822"
+    },
+    {
+        "authors": "Jonathan W. Zheng, William H. Green",
+        "article_name": "Experimental Compilation and Computation of Hydration Free Energies for Ionic Solutes",
+        "journal": "The Journal of Physical Chemistry A",
+        "year": "2023",
+        "volume": "127",
+        "issue": "48",
+        "pages": "10268-10281",
+        "doi": "https://doi.org/10.1021/acs.jpca.3c05514"
+    },
+    {
+        "authors": "Jes\u00fas Lucia-Tamudo, Manuel Alcam\u00ed, Sergio D\u00edaz-Tendero, Juan J. Nogueira",
+        "article_name": "One-Electron Oxidation Potentials and Hole Delocalization in Heterogeneous Single-Stranded DNA",
+        "journal": "Biochemistry",
+        "year": "2023",
+        "volume": "62",
+        "issue": "22",
+        "pages": "3312-3322",
+        "doi": "https://doi.org/10.1021/acs.biochem.3c00324"
+    },
+    {
+        "authors": "Laura X. Sepulveda-Monta\u00f1o, Johan Fabian Galindo, Daniel G. Kuroda",
+        "article_name": "Infrared Spectroscopy of Liquid Solutions as a Benchmarking Tool of Semiempirical QM Methods: The Case of GFN2-xTB",
+        "journal": "The Journal of Physical Chemistry B",
+        "year": "2023",
+        "volume": "127",
+        "issue": "37",
+        "pages": "7955-7963",
+        "doi": "https://doi.org/10.1021/acs.jpcb.3c03174"
+    },
+    {
+        "authors": "R. A. Talmazan, M. Podewitz",
+        "article_name": "PyConSolv: A Python Package for Conformer Generation of (Metal-Containing) Systems in Explicit Solvent",
+        "journal": "Journal of Chemical Information and Modeling",
+        "year": "2023",
+        "volume": "63",
+        "issue": "17",
+        "pages": "5400-5407",
+        "doi": "https://doi.org/10.1021/acs.jcim.3c00798"
+    },
+    {
+        "authors": "Marcel Stahn, Sebastian Ehlert, Stefan Grimme",
+        "article_name": "Extended Conductor-like Polarizable Continuum Solvation Model (CPCM-X) for Semiempirical Methods",
+        "journal": "The Journal of Physical Chemistry A",
+        "year": "2023",
+        "volume": "127",
+        "issue": "33",
+        "pages": "7036-7043",
+        "doi": "https://doi.org/10.1021/acs.jpca.3c04382"
+    },
+    {
+        "authors": "Jos\u00e9 Luis N\u00fa\u00f1ez-Rico, Juanjo Cabezas-Gim\u00e9nez, Vanesa Lillo, Salvador R. G. Balestra, Jos\u00e9 Ram\u00f3n Gal\u00e1n-Mascar\u00f3s, Sof\u00eda Calero, Anton Vidal-Ferran",
+        "article_name": "TAMOF-1 as a Versatile and Predictable Chiral Stationary Phase for the Resolution of Racemic Mixtures",
+        "journal": "ACS Applied Materials & Interfaces",
+        "year": "2023",
+        "volume": "15",
+        "issue": "33",
+        "pages": "39594-39605",
+        "doi": "https://doi.org/10.1021/acsami.3c08843"
+    },
+    {
+        "authors": "Eike Caldeweyher, Masha Elkin, Golsa Gheibi, Magnus Johansson, Christian Sk\u00f6ld, Per-Ola Norrby, John F. Hartwig",
+        "article_name": "Hybrid Machine Learning Approach to Predict the Site Selectivity of Iridium-Catalyzed Arene Borylation",
+        "journal": "Journal of the American Chemical Society",
+        "year": "2023",
+        "volume": "145",
+        "issue": "31",
+        "pages": "17367-17376",
+        "doi": "https://doi.org/10.1021/jacs.3c04986"
+    },
+    {
+        "authors": "Joseph P. Mancinelli, Wang-Yeuk Kong, Wentao Guo, Dean J. Tantillo, Sidney M. Wilkerson-Hill",
+        "article_name": "Borane-Catalyzed C\u2013F Bond Functionalization of gem-Difluorocyclopropenes Enables the Synthesis of Orphaned Cyclopropanes",
+        "journal": "Journal of the American Chemical Society",
+        "year": "2023",
+        "volume": "145",
+        "issue": "31",
+        "pages": "17389-17397",
+        "doi": "https://doi.org/10.1021/jacs.3c05278"
+    },
+    {
+        "authors": "Juan Garc\u00eda de la Concepci\u00f3n, Mirian Flores-Jim\u00e9nez, Louis A. Cuccia, Mark E. Light, Crist\u00f3bal Viedma, Pedro Cintas",
+        "article_name": "Revisiting Homochiral versus Heterochiral Interactions through a Long Detective Story of a Useful Azobis-Nitrile and Puzzling Racemate",
+        "journal": "Crystal Growth & Design",
+        "year": "2023",
+        "volume": "23",
+        "issue": "8",
+        "pages": "5719-5733",
+        "doi": "https://doi.org/10.1021/acs.cgd.3c00372"
+    },
+    {
+        "authors": "Bat-Sheva Galmidi, Mark A. Iron, Naomi Zurgil, Mordechai Deutsch",
+        "article_name": "Measurement of Water Saturation in Soybean Oil",
+        "journal": "ACS Omega",
+        "year": "2023",
+        "volume": "8",
+        "issue": "22",
+        "pages": "19385-19390",
+        "doi": "https://doi.org/10.1021/acsomega.3c00348"
+    },
+    {
+        "authors": "Paige E. Bowling, Dustin R. Broderick, John M. Herbert",
+        "article_name": "Fragment-Based Calculations of Enzymatic Thermochemistry Require Dielectric Boundary Conditions",
+        "journal": "The Journal of Physical Chemistry Letters",
+        "year": "2023",
+        "volume": "14",
+        "issue": "16",
+        "pages": "3826-3834",
+        "doi": "https://doi.org/10.1021/acs.jpclett.3c00533"
+    },
+    {
+        "authors": "Przemyslaw Grygier, Katarzyna Pustelny, Jakub Nowak, Przemyslaw Golik, Grzegorz M. Popowicz, Oliver Plettenburg, Grzegorz Dubin, Filipe Menezes, Anna Czarna",
+        "article_name": "Silmitasertib (CX-4945), a Clinically Used CK2-Kinase Inhibitor with Additional Effects on GSK3\u03b2 and DYRK1A Kinases: A Structural Perspective",
+        "journal": "Journal of Medicinal Chemistry",
+        "year": "2023",
+        "volume": "66",
+        "issue": "6",
+        "pages": "4009-4024",
+        "doi": "https://doi.org/10.1021/acs.jmedchem.2c01887"
+    },
+    {
+        "authors": "Jayant Iyer, Michael Brunsteiner, Andrew Ray, Adrian Davis, Isha Saraf, Amrit Paudel",
+        "article_name": "Theoretical and Experimental Investigation of Autoxidation Propensity of Selected Drugs in Solution State",
+        "journal": "Molecular Pharmaceutics",
+        "year": "2023",
+        "volume": "20",
+        "issue": "3",
+        "pages": "1768-1778",
+        "doi": "https://doi.org/10.1021/acs.molpharmaceut.2c00967"
+    },
+    {
+        "authors": "Nicolai Ree, Andreas H. G\u00f6ller, Jan H. Jensen",
+        "article_name": "What the Heck?\u2500Automated Regioselectivity Calculations of Palladium-Catalyzed Heck Reactions Using Quantum Chemistry",
+        "journal": "ACS Omega",
+        "year": "2022",
+        "volume": "7",
+        "issue": "49",
+        "pages": "45617-45623",
+        "doi": "https://doi.org/10.1021/acsomega.2c06378"
+    },
+    {
+        "authors": "Philipp Pracht, Christoph Bannwarth",
+        "article_name": "Fast Screening of Minimum Energy Crossing Points with Semiempirical Tight-Binding Methods",
+        "journal": "Journal of Chemical Theory and Computation",
+        "year": "2022",
+        "volume": "18",
+        "issue": "10",
+        "pages": "6370-6385",
+        "doi": "https://doi.org/10.1021/acs.jctc.2c00578"
+    },
+    {
+        "authors": "Corina Schimanofsky, Dominik Wielend, Stefanie Kr\u00f6ll, Sabine Lerch, Daniel Werner, Josef M. Gallmetzer, Felix Mayr, Helmut Neugebauer, Mihai Irimia-Vladu, Engelbert Portenkirchner, Thomas S. Hofer, Niyazi Serdar Sariciftci",
+        "article_name": "Direct Electrochemical CO2 Capture Using Substituted Anthraquinones in Homogeneous Solutions: A Joint Experimental and Theoretical Study",
+        "journal": "The Journal of Physical Chemistry C",
+        "year": "2022",
+        "volume": "126",
+        "issue": "33",
+        "pages": "14138-14154",
+        "doi": "https://doi.org/10.1021/acs.jpcc.2c03129"
+    },
+    {
+        "authors": "Francesca Mocci, Leon de Villiers Engelbrecht, Chiara Olla, Antonio Cappai, Maria Francesca Casula, Claudio Melis, Luigi Stagi, Aatto Laaksonen, Carlo Maria Carbonaro",
+        "article_name": "Carbon Nanodots from an In Silico Perspective",
+        "journal": "Chemical Reviews",
+        "year": "2022",
+        "volume": "122",
+        "issue": "16",
+        "pages": "13709-13799",
+        "doi": "https://doi.org/10.1021/acs.chemrev.1c00864"
+    },
+    {
+        "authors": "Filipe Menezes, Grzegorz M. Popowicz",
+        "article_name": "ULYSSES: An Efficient and Easy to Use Semiempirical Library for C++",
+        "journal": "Journal of Chemical Information and Modeling",
+        "year": "2022",
+        "volume": "62",
+        "issue": "16",
+        "pages": "3685-3694",
+        "doi": "https://doi.org/10.1021/acs.jcim.2c00757"
+    },
+    {
+        "authors": "Tade\u00e1\u0161 Kalvoda, Martin Culka, Lubom\u00edr Rul\u00ed\u0161ek, Erik Andris",
+        "article_name": "Exhaustive Mapping of the Conformational Space of Natural Dipeptides by the DFT-D3//COSMO-RS Method",
+        "journal": "The Journal of Physical Chemistry B",
+        "year": "2022",
+        "volume": "126",
+        "issue": "32",
+        "pages": "5949-5958",
+        "doi": "https://doi.org/10.1021/acs.jpcb.2c02861"
+    },
+    {
+        "authors": "Cristiana Cesari, Beatrice Berti, Tiziana Funaioli, Cristina Femoni, Maria Carmela Iapalucci, Daniele Pontiroli, Giacomo Magnani, Mauro Ricc\u00f2, Marco Bortoluzzi, Federico Maria Vivaldi, Stefano Zacchini",
+        "article_name": "Atomically Precise Platinum Carbonyl Nanoclusters: Synthesis, Total Structure, and Electrochemical Investigation of [Pt27(CO)31]4\u2013 Displaying a Defective Structure",
+        "journal": "Inorganic Chemistry",
+        "year": "2022",
+        "volume": "61",
+        "issue": "32",
+        "pages": "12534-12544",
+        "doi": "https://doi.org/10.1021/acs.inorgchem.2c00965"
+    },
+    {
+        "authors": "Sebastian Spicher, Christoph Plett, Philipp Pracht, Andreas Hansen, Stefan Grimme",
+        "article_name": "Automated Molecular Cluster Growing for Explicit Solvation by Efficient Force Field and Tight Binding Methods",
+        "journal": "Journal of Chemical Theory and Computation",
+        "year": "2022",
+        "volume": "18",
+        "issue": "5",
+        "pages": "3174-3189",
+        "doi": "https://doi.org/10.1021/acs.jctc.2c00239"
+    },
+    {
+        "authors": "Kristian L. Mears, Philip P. Power",
+        "article_name": "Beyond Steric Crowding: Dispersion Energy Donor Effects in Large Hydrocarbon Ligands",
+        "journal": "Accounts of Chemical Research",
+        "year": "2022",
+        "volume": "55",
+        "issue": "9",
+        "pages": "1337-1348",
+        "doi": "https://doi.org/10.1021/acs.accounts.2c00116"
+    },
+    {
+        "authors": "Malcolm A. Kelland, Janronel Pomicpic, Radhakanta Ghosh, Safwat Abdel-Azeim",
+        "article_name": "N-Vinyl Caprolactam/Maleic-Based Copolymers as Kinetic Hydrate Inhibitors: The Effect of Internal Hydrogen Bonding",
+        "journal": "Energy & Fuels",
+        "year": "2022",
+        "volume": "36",
+        "issue": "6",
+        "pages": "3088-3096",
+        "doi": "https://doi.org/10.1021/acs.energyfuels.2c00075"
+    },
+    {
+        "authors": "Julius B. St\u00fcckrath, Thomas Gasevic, Markus Bursch, Stefan Grimme",
+        "article_name": "Benchmark Study on the Calculation of 119Sn NMR Chemical Shifts",
+        "journal": "Inorganic Chemistry",
+        "year": "2022",
+        "volume": "61",
+        "issue": "9",
+        "pages": "3903-3917",
+        "doi": "https://doi.org/10.1021/acs.inorgchem.1c03453"
+    },
+    {
+        "authors": "Tunga Salthammer, Stefan Grimme, Marcel Stahn, Uwe Hohm, Wolf-Ulrich Palm",
+        "article_name": "Quantum Chemical Calculation and Evaluation of Partition Coefficients for Classical and Emerging Environmentally Relevant Organic Compounds",
+        "journal": "Environmental Science & Technology",
+        "year": "2022",
+        "volume": "56",
+        "issue": "1",
+        "pages": "379-391",
+        "doi": "https://doi.org/10.1021/acs.est.1c06935"
+    },
+    {
+        "authors": "Manuel Plaza, Johannes Gro\u00dfkopf, Stefan Breitenlechner, Christoph Bannwarth, Thorsten Bach",
+        "article_name": "Photochemical Deracemization of Primary Allene Amides by Triplet Energy Transfer: A Combined Synthetic and Theoretical Study",
+        "journal": "Journal of the American Chemical Society",
+        "year": "2021",
+        "volume": "143",
+        "issue": "29",
+        "pages": "11209-11217",
+        "doi": "https://doi.org/10.1021/jacs.1c05286"
+    },
+    {
+        "authors": "Andrew R. Puente, Prasad L. Polavarapu",
+        "article_name": "Influence of microsolvation on vibrational circular dichroism spectra in dimethyl sulfoxide solvent: A Bottom-Up approach using Quantum cluster growth",
+        "journal": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+        "year": "2023",
+        "volume": "303",
+        "pages": "123231",
+        "doi": "https://doi.org/10.1016/j.saa.2023.123231"
+    },
+    {
+        "authors": "Permono Adi Putro, Aditya Wibawa Sakti, Faozan Ahmad, Hiromi Nakai, Husin Alatas",
+        "article_name": "Quantum mechanical assessment on the optical properties of capsanthin conformers",
+        "journal": "Journal of Computational Chemistry",
+        "year": "2023",
+        "volume": "44",
+        "issue": "30",
+        "pages": "2319-2331",
+        "doi": "https://doi.org/10.1002/jcc.27199"
+    },
+    {
+        "authors": "Zhipeng Ke, Jingwei Weng, Xin Xu",
+        "article_name": "Calculating 13 C NMR chemical shifts of large molecules using the eXtended ONIOM method at high accuracy with a low cost",
+        "journal": "Journal of Computational Chemistry",
+        "year": "2023",
+        "volume": "44",
+        "issue": "30",
+        "pages": "2347-2357",
+        "doi": "https://doi.org/10.1002/jcc.27201"
+    },
+    {
+        "authors": "Angelo Shehan Perera, Colton D. Carlson, Joseph Cheramy, Yunjie Xu",
+        "article_name": "Infrared and vibrational circular dichroism spectra of methyl \u03b2\u2010D\u2010glucopyranose in water: The application of the quantum cluster growth and clusters\u2010in\u2010a\u2010liquid solvation models",
+        "journal": "Chirality",
+        "year": "2023",
+        "volume": "35",
+        "issue": "10",
+        "pages": "718-731",
+        "doi": "https://doi.org/10.1002/chir.23576"
+    },
+    {
+        "authors": "Esther R. S. Paz, Victoria G. Isoppo, Fab\u00edola S. dos Santos, Luana A. Machado, Rossimiriam P. de Freitas, Henrique C. Silva Junior, Ot\u00e1vio A. Chaves, Bernardo A. Iglesias, Fabiano S. Rodembusch, Eufr\u00e2nio N. da Silva J\u00fanior. Imidazole-based optical sensors as a platform for bisulfite sensing and BSA/HSA interaction study",
+        "article_name": "An experimental and theoretical investigation",
+        "journal": "Journal of Molecular Liquids",
+        "year": "2023",
+        "volume": "387",
+        "pages": "122666",
+        "doi": "https://doi.org/10.1016/j.molliq.2023.122666"
+    },
+    {
+        "authors": "Guoao Li, Zhenxing Li, Liuzhou Gao, Shengda Chen, Guoqiang Wang, Shuhua Li",
+        "article_name": "Combined molecular dynamics and coordinate driving method for automatically searching complicated reaction pathways",
+        "journal": "Physical Chemistry Chemical Physics",
+        "year": "2023",
+        "volume": "25",
+        "issue": "35",
+        "pages": "23696-23707",
+        "doi": "https://doi.org/10.1039/D3CP02443A"
+    },
+    {
+        "authors": "Filipe Menezes, Grzegorz Maria Popowicz",
+        "article_name": "When catchers meet \u2013 a computational study on the dimerization of the Buckycatcher",
+        "journal": "Physical Chemistry Chemical Physics",
+        "year": "2023",
+        "volume": "25",
+        "issue": "35",
+        "pages": "24031-24041",
+        "doi": "https://doi.org/10.1039/D3CP02903D"
+    },
+    {
+        "authors": "Doroteja Lon\u010dari\u0107, Fahimeh Movahedifar, Jakub Radek \u0160to\u010dek, Martin Dra\u010d\u00ednsk\u00fd, Josef Cva\u010dka, Shanshan Guan, Benjamin J. Bythell, Ivana C\u00edsa\u0159ov\u00e1, Eric Masson, Ji\u0159\u00ed Kaleta",
+        "article_name": "Solvent-controlled formation of alkali and alkali-earth-secured cucurbituril/guest trimers",
+        "journal": "Chemical Science",
+        "year": "2023",
+        "volume": "14",
+        "issue": "35",
+        "pages": "9258-9266",
+        "doi": "https://doi.org/10.1039/D3SC02032K"
+    },
+    {
+        "authors": "Henrique de Castro Silva Junior, Uhil Antunes, Aline Joana Rolina Wohlmuth Alves dos Santos, Eduardo Ceretta Moreira",
+        "article_name": "Tweaking the conjugation effects on a pair of new triazene compounds by targeted deprotonation: a spectroscopic and theoretical overview",
+        "journal": "Journal of Molecular Modeling",
+        "year": "2023",
+        "volume": "29",
+        "issue": "9",
+        "doi": "https://doi.org/10.1007/s00894-023-05685-3"
+    },
+    {
+        "authors": "Alondra M Idrovo\u2010Encalada, Ana M Rojas, Eliana N Fissore, Piercosimo Tripaldi, Reinaldo Pis Diez, Cristian Rojas",
+        "article_name": "Chemoinformatic modelling of the antioxidant activity of phenolic compounds",
+        "journal": "Journal of the Science of Food and Agriculture",
+        "year": "2023",
+        "volume": "103",
+        "issue": "10",
+        "pages": "4867-4875",
+        "doi": "https://doi.org/10.1002/jsfa.12561"
+    },
+    {
+        "authors": "Daniel Kohrs, Jannis Volkmann, Hermann A. Wegner",
+        "article_name": "Influence of Substitution on the Supramolecular Chemistry of Cycloparaphenylene\u2010Fullerene Complexes",
+        "journal": "European Journal of Organic Chemistry",
+        "year": "2023",
+        "volume": "26",
+        "issue": "30",
+        "doi": "https://doi.org/10.1002/ejoc.202300575"
+    },
+    {
+        "authors": "Rodrigo Borges da Silva, Felipe Lange Coelho, Henrique de Castro Silva Junior, Jos\u00e9 Carlos Germino, Teresa Dib Zambon Atvars, Fabiano Severo Rodembusch, Lu\u00eds Gustavo Teixeira Alves Duarte, Paulo Henrique Schneider",
+        "article_name": "Organosulfur and Organoselenium Functionalized Benzimidazo[1,2-a]quinolines: From Experimental and Theoretical Photophysics to All-Solution-Processed OLEDs",
+        "journal": "Journal of Fluorescence",
+        "year": "2023",
+        "volume": "122",
+        "doi": "https://doi.org/10.1007/s10895-023-03358-1"
+    },
+    {
+        "authors": "Jonathan Campos Marcelino, Carolina L\u00facia Cardoso Ribeiro, Gleicy Teixeira, Erick Ferreira Lacerda, Cleber Paulo Andrada Anconi",
+        "article_name": "Inclusion of paraoxon, parathion, and methyl parathion into \u03b1-cyclodextrin: a GFN2-xTB multi-equilibrium quantum study",
+        "journal": "Journal of Inclusion Phenomena and Macrocyclic Chemistry",
+        "year": "2023",
+        "volume": "103",
+        "issue": "7-8",
+        "pages": "263-276",
+        "doi": "https://doi.org/10.1007/s10847-023-01192-3"
+    },
+    {
+        "authors": "Yi-Cheng Xu, Nan Li, Xiufeng Yan, Hui-Xi Zou",
+        "article_name": "DFT-based analysis of siderophore-metal ion interaction for efficient heavy metal remediation",
+        "journal": "Environmental Science and Pollution Research",
+        "year": "2023",
+        "volume": "30",
+        "issue": "40",
+        "pages": "91780-91793",
+        "doi": "https://doi.org/10.1007/s11356-023-28854-6"
+    },
+    {
+        "authors": "Sanja J. Armakovi\u0107, Andrijana Bili\u0107, Maria M. Savanovi\u0107, Dragana D. \u010cetojevi\u0107-Simin, Branislava Sr\u0111enovi\u0107 \u010coni\u0107, Neboj\u0161a Kladar, Stevan Armakovi\u0107",
+        "article_name": "Experimental and theoretical insights into the photoinduced degradation of nadolol in the Danube River through catalytic oxidation with radical species",
+        "journal": "Catalysis Communications",
+        "year": "2023",
+        "volume": "181",
+        "pages": "106729",
+        "doi": "https://doi.org/10.1016/j.catcom.2023.106729"
+    },
+    {
+        "authors": "Marcelo M. Vieira, Bianca T. Dalberto, Nathalia B. Padilha, Henrique C.S. Junior, Fabiano S. Rodembusch, Paulo H. Schneider",
+        "article_name": "Fast and efficient one-pot ultrasound-mediated synthesis of solid state (full color tunable) fluorescent indolizine derivatives",
+        "journal": "Dyes and Pigments",
+        "year": "2023",
+        "volume": "216",
+        "pages": "111332",
+        "doi": "https://doi.org/10.1016/j.dyepig.2023.111332"
+    },
+    {
+        "authors": "Christoph Plett, Abylay Katbashev, Sebastian Ehlert, Stefan Grimme, Markus Bursch",
+        "article_name": "ONIOM meets xtb : efficient, accurate, and robust multi-layer simulations across the periodic table",
+        "journal": "Physical Chemistry Chemical Physics",
+        "year": "2023",
+        "volume": "25",
+        "issue": "27",
+        "pages": "17860-17868",
+        "doi": "https://doi.org/10.1039/D3CP02178E"
+    },
+    {
+        "authors": "Andjela Simovi\u0107, Sanja Stevanovi\u0107, Branislav Milovanovi\u0107, Mihajlo Etinski, Jelena B. Bajat",
+        "article_name": "Green corrosion inhibitors of steel based on peptides and their constituents: a combination of experimental and computational approach",
+        "journal": "Journal of Solid State Electrochemistry",
+        "year": "2023",
+        "volume": "27",
+        "issue": "7",
+        "pages": "1821-1834",
+        "doi": "https://doi.org/10.1007/s10008-023-05433-w"
+    },
+    {
+        "authors": "Sourav Ray, Konstantin Fackeldey, Christoph Stein, Marcus Weber",
+        "article_name": "Coarse-Grained MD Simulations of Opioid Interactions with the \u03bc-Opioid Receptor and the Surrounding Lipid Membrane",
+        "journal": "Biophysica",
+        "year": "2023",
+        "volume": "3",
+        "issue": "2",
+        "pages": "263-275",
+        "doi": "https://doi.org/10.3390/biophysica3020017"
+    },
+    {
+        "authors": "Jes\u00fas Lucia-Tamudo, Sergio D\u00edaz-Tendero, Juan J. Nogueira",
+        "article_name": "Intramolecular and intermolecular hole delocalization rules the reducer character of isolated nucleobases and homogeneous single-stranded DNA",
+        "journal": "Physical Chemistry Chemical Physics",
+        "year": "2023",
+        "volume": "25",
+        "issue": "20",
+        "pages": "14578-14589",
+        "doi": "https://doi.org/10.1039/D3CP00884C"
+    },
+    {
+        "authors": "Guillaume Force, Robert J. Mayer, Marie Vayer, David Leb\u0153uf",
+        "article_name": "NDIPhos as a platform for chiral supramolecular ligands in rhodium-catalyzed enantioselective hydrogenation",
+        "journal": "Chemical Communications",
+        "year": "2023",
+        "volume": "59",
+        "issue": "41",
+        "pages": "6231-6234",
+        "doi": "https://doi.org/10.1039/D3CC00695F"
+    },
+    {
+        "authors": "Tommaso Giovannini, Chiara Cappelli. Continuum vs",
+        "article_name": "atomistic approaches to computational spectroscopy of solvated systems",
+        "journal": "Chemical Communications",
+        "year": "2023",
+        "volume": "59",
+        "issue": "38",
+        "pages": "5644-5660",
+        "doi": "https://doi.org/10.1039/D2CC07079K"
+    },
+    {
+        "authors": "Iris Solymosi, Christian Nei\u00df, Harald Maid, Frank Hampel, Thomas Solymosi, Andreas G\u00f6rling, Andreas Hirsch, M. Eugenia P\u00e9rez\u2010Ojeda",
+        "article_name": "Dictating Packing and Interactions of Perylene Bisimides within Cyclophane Structures in the Solid State",
+        "journal": "ChemistrySelect",
+        "year": "2023",
+        "volume": "8",
+        "issue": "17",
+        "doi": "https://doi.org/10.1002/slct.202300523"
+    },
+    {
+        "authors": "Lucas A. Zeoly, Lais V. Acconcia, Manoel T. Rodrigues, Hugo Santos, Rodrigo A. Cormanich, Juan C. Paniagua, Albert Moyano, Fernando Coelho",
+        "article_name": "One-pot organocatalyzed synthesis of tricyclic indolizines",
+        "journal": "Organic & Biomolecular Chemistry",
+        "year": "2023",
+        "volume": "21",
+        "issue": "17",
+        "pages": "3567-3581",
+        "doi": "https://doi.org/10.1039/D3OB00346A"
+    },
+    {
+        "authors": "J. Felix Witte, Janos Wasternack, Shenquan Wei, Christoph A. Schalley, Beate Paulus",
+        "article_name": "The Interplay of Weakly Coordinating Anions and the Mechanical Bond: A Systematic Study of the Explicit Influence of Counterions on the Properties of (Pseudo)rotaxanes",
+        "journal": "Molecules",
+        "year": "2023",
+        "volume": "28",
+        "issue": "7",
+        "pages": "3077",
+        "doi": "https://doi.org/10.3390/molecules28073077"
+    },
+    {
+        "authors": "Wolf-Ulrich Palm, Nicola Schmidt, Marcel Stahn, Stefan Grimme",
+        "article_name": "A kinetic study of the photolysis of sulfamethoxazole with special emphasis on the photoisomer",
+        "journal": "Photochemical & Photobiological Sciences",
+        "year": "2023",
+        "volume": "22",
+        "issue": "3",
+        "pages": "615-630",
+        "doi": "https://doi.org/10.1007/s43630-022-00340-x"
+    },
+    {
+        "authors": "Tiago E.A. Frizon, Cristian A.M. Salla, Felipe Grillo, Fabiano S. Rodembusch, Viktor S. C\u00e2mara, Henrique C. Silva, Eduardo Zapp, Eduardo Junca, F\u00e1bio Z. Galetto, Ang\u00e9lica M. de Costa, Gabriela J. Pedroso, Antonio A. Chepluki, Sumbal Saba, Jamal Rafique. ESIPT-based benzazole-pyromellitic diimide derivatives",
+        "article_name": "A thermal, electrochemical, and photochemical investigation",
+        "journal": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+        "year": "2023",
+        "volume": "288",
+        "pages": "122050",
+        "doi": "https://doi.org/10.1016/j.saa.2022.122050"
+    },
+    {
+        "authors": "Filipe Menezes, Grzegorz M. Popowicz",
+        "article_name": "A Buckycatcher in Solution\u2014A Computational Perspective",
+        "journal": "Molecules",
+        "year": "2023",
+        "volume": "28",
+        "issue": "6",
+        "pages": "2841",
+        "doi": "https://doi.org/10.3390/molecules28062841"
+    },
+    {
+        "authors": "Thiago Jacobsen Peglow, Marcelo Marques Vieira, Nathalia Batista Padilha, Bianca T. Dalberto, Henrique de Castro Silva J\u00fanior, Fabiano Severo Rodembusch, Paulo Henrique Schneider",
+        "article_name": "Pyridine-Based Small-Molecule Fluorescent Probes as Optical Sensors for Benzene and Gasoline Adulteration",
+        "journal": "Photochem",
+        "year": "2023",
+        "volume": "3",
+        "issue": "1",
+        "pages": "109-126",
+        "doi": "https://doi.org/10.3390/photochem3010008"
+    },
+    {
+        "authors": "Alexey N. Masliy, Ildar G. Akhmetov, Andrey M. Kuznetsov, Ilsiya M. Davletbaeva",
+        "article_name": "DFT and ONIOM Simulation of 1,3-Butadiene Polymerization Catalyzed by Neodymium-Based Ziegler\u2013Natta System",
+        "journal": "Polymers",
+        "year": "2023",
+        "volume": "15",
+        "issue": "5",
+        "pages": "1166",
+        "doi": "https://doi.org/10.3390/polym15051166"
+    },
+    {
+        "authors": "Salvador R. G. Balestra, Bruno Mart\u00ednez-Haya, Norge Cruz-Hern\u00e1ndez, Dewi W. Lewis, Scott M. Woodley, Rocio Semino, Guillaume Maurin, A. Rabdel Ruiz-Salvador, Said Hamad",
+        "article_name": "Nucleation of zeolitic imidazolate frameworks: from molecules to nanoparticles",
+        "journal": "Nanoscale",
+        "year": "2023",
+        "volume": "15",
+        "issue": "7",
+        "pages": "3504-3519",
+        "doi": "https://doi.org/10.1039/D2NR06521E"
+    },
+    {
+        "authors": "Andrijana Bili\u0107, Maria M. Savanovi\u0107, Stevan Armakovi\u0107, Dragana D. \u010cetojevi\u0107-Simin, Branislava Sr\u0111enovi\u0107 \u010coni\u0107, Neboj\u0161a Kladar, Sanja J. Armakovi\u0107",
+        "article_name": "Exploring the influence of free radicals on photolytic removal of nadolol from water: Mechanism of degradation and toxicity of intermediates",
+        "journal": "Frontiers in Environmental Science",
+        "year": "2023",
+        "volume": "11",
+        "doi": "https://doi.org/10.3389/fenvs.2023.1119944"
+    },
+    {
+        "authors": "Larissa. C. A. Souza, Regis V. A. Abreu, M\u00e1rio C. Guerreiro, Juliano E. Oliveira, Cleber P. A. Anconi",
+        "article_name": "Estimating hydroxyl/epoxy ratio in graphene oxide through adsorption experiment and semiempirical GFN2-xTB quantum method",
+        "journal": "Journal of Molecular Modeling",
+        "year": "2023",
+        "volume": "29",
+        "issue": "2",
+        "doi": "https://doi.org/10.1007/s00894-023-05444-4"
+    },
+    {
+        "authors": "Juan P. Mu\u00f1oz, Roc\u00edo Araya-Osorio, Ra\u00fal Mera-Adasme, Gloria M. Calaf",
+        "article_name": "Glyphosate mimics 17\u03b2-estradiol effects promoting estrogen receptor alpha activity in breast cancer cells",
+        "journal": "Chemosphere",
+        "year": "2023",
+        "volume": "313",
+        "pages": "137201",
+        "doi": "https://doi.org/10.1016/j.chemosphere.2022.137201"
+    },
+    {
+        "authors": "Iv\u00e1n J. Bazany-Rodr\u00edguez, Virginia G\u00f3mez-Vidales, Joanatan M. Bautista-Renedo, Nelly Gonz\u00e1lez-Rivas, Alejandro Dorazco-Gonz\u00e1lez, Pandiyan Thangarasu",
+        "article_name": "Selective chemosensing of organophosphorus pesticide ethyl parathion explored by a luminescent Ru(III)-Salophen complex in water",
+        "journal": "Dyes and Pigments",
+        "year": "2023",
+        "volume": "210",
+        "pages": "110916",
+        "doi": "https://doi.org/10.1016/j.dyepig.2022.110916"
+    },
+    {
+        "authors": "Sanna Komulainen, P. U. Ashvin Iresh Fernando, Ji\u0159\u00ed Mare\u0161, Anne Selent, Roya Khalili, Paul T. Cesana, Andreas Ebeling, Anu M. Kantola, Ngong Kodiah Beyeh, Kari Rissanen, Brenton DeBoef, Perttu Lantto, Ville-Veikko Telkki",
+        "article_name": "Encapsulation of xenon by bridged resorcinarene cages with high 129Xe NMR chemical shift and efficient exchange dynamics",
+        "journal": "Cell Reports Physical Science",
+        "year": "2023",
+        "volume": "4",
+        "issue": "2",
+        "pages": "101281",
+        "doi": "https://doi.org/10.1016/j.xcrp.2023.101281"
+    },
+    {
+        "authors": "Bulat S. Akhmadeev, Olga O. Retyunskaya, Sergey N. Podyachev, Sergey A. Katsyuba, Aidar T. Gubaidullin, Svetlana N. Sudakova, Victor V. Syakaev, Vasily M. Babaev, Oleg G. Sinyashin, Asiya R. Mustafina",
+        "article_name": "Supramolecular Optimization of Sensory Function of a Hemicurcuminoid through Its Incorporation into Phospholipid and Polymeric Polydiacetylenic Vesicles: Experimental and Computational Insight",
+        "journal": "Polymers",
+        "year": "2023",
+        "volume": "15",
+        "issue": "3",
+        "pages": "714",
+        "doi": "https://doi.org/10.3390/polym15030714"
+    },
+    {
+        "authors": "Lukas Ra\u00dfpe\u2010Lange, Alexander Hoffmann, Christoph Gertig, Joshua Heck, Kai Leonhard, Sonja Herres\u2010Pawlis",
+        "article_name": "Geometrical benchmarking and analysis of redox potentials of copper(I/ II ) guanidine\u2010quinoline complexes: Comparison of semi\u2010empirical tight\u2010binding and DFT methods and the challenge of describing the entatic state (part III )",
+        "journal": "Journal of Computational Chemistry",
+        "year": "2023",
+        "volume": "44",
+        "issue": "3",
+        "pages": "319-328",
+        "doi": "https://doi.org/10.1002/jcc.26927"
+    },
+    {
+        "authors": "J. \u0158ez\u00e1\u010d, J. J. P. Stewart",
+        "article_name": "How well do semiempirical QM methods describe the structure of proteins?",
+        "journal": "The Journal of Chemical Physics",
+        "year": "2023",
+        "volume": "158",
+        "issue": "4",
+        "doi": "https://doi.org/10.1063/5.0135091"
+    },
+    {
+        "authors": "Christoph Plett, Stefan Grimme",
+        "article_name": "Automated and Efficient Generation of General Molecular Aggregate Structures",
+        "journal": "Angewandte Chemie",
+        "year": "2023",
+        "volume": "135",
+        "issue": "4",
+        "doi": "https://doi.org/10.1002/ange.202214477"
+    },
+    {
+        "authors": "Christoph Plett, Stefan Grimme",
+        "article_name": "Automated and Efficient Generation of General Molecular Aggregate Structures",
+        "journal": "Angewandte Chemie International Edition",
+        "year": "2023",
+        "volume": "62",
+        "issue": "4",
+        "doi": "https://doi.org/10.1002/anie.202214477"
+    },
+    {
+        "authors": "Maike Thiele, Thomas Rose, M\u00e4rt L\u00f5kov, Sophia Stadtfeld, Sofja Tshepelevitsh, Elisabeth Parman, Karina Opara, Christoph W\u00f6lper, Ivo Leito, Stefan Grimme, Jochen Niemeyer",
+        "article_name": "Multifunctional Organocatalysts \u2010 Singly\u2010Linked and Macrocyclic Bisphosphoric Acids for Asymmetric Phase\u2010Transfer and Br\u00f8nsted\u2010Acid Catalysis",
+        "journal": "Chemistry \u2013 A European Journal",
+        "year": "2023",
+        "volume": "29",
+        "issue": "2",
+        "doi": "https://doi.org/10.1002/chem.202202953"
+    },
+    {
+        "authors": "Johannes Gorges, Stefan Grimme, Andreas Hansen",
+        "article_name": "Reliable prediction of association (free) energies of supramolecular complexes with heavy main group elements \u2013 the HS13L benchmark set",
+        "journal": "Physical Chemistry Chemical Physics",
+        "year": "2022",
+        "volume": "24",
+        "issue": "47",
+        "pages": "28831-28843",
+        "doi": "https://doi.org/10.1039/D2CP04049B"
+    },
+    {
+        "authors": "Leonid Pereyaslavets, Ganesh Kamath, Oleg Butin, Alexey Illarionov, Michael Olevanov, Igor Kurnikov, Serzhan Sakipov, Igor Leontyev, Ekaterina Voronina, Tyler Gannon, Grzegorz Nawrocki, Mikhail Darkhovskiy, Ilya Ivahnenko, Alexander Kostikov, Jessica Scaranto, Maria G. Kurnikova, Suvo Banik, Henry Chan, Michael G. Sternberg, Subramanian K. R. S. Sankaranarayanan, Brad Crawford, Jeffrey Potoff, Michael Levitt, Roger D. Kornberg, Boris Fain",
+        "article_name": "Accurate determination of solvation free energies of neutral organic compounds from first principles",
+        "journal": "Nature Communications",
+        "year": "2022",
+        "volume": "13",
+        "issue": "1",
+        "doi": "https://doi.org/10.1038/s41467-022-28041-0"
+    },
+    {
+        "authors": "Amin Alibakhshi, Bernd Hartke",
+        "article_name": "Implicitly perturbed Hamiltonian as a class of versatile and general-purpose molecular representations for machine learning",
+        "journal": "Nature Communications",
+        "year": "2022",
+        "volume": "13",
+        "issue": "1",
+        "doi": "https://doi.org/10.1038/s41467-022-28912-6"
+    },
+    {
+        "authors": "Simon Axelrod, Rafael G\u00f3mez-Bombarelli",
+        "article_name": "GEOM, energy-annotated molecular conformations for property prediction and molecular generation",
+        "journal": "Scientific Data",
+        "year": "2022",
+        "volume": "9",
+        "issue": "1",
+        "doi": "https://doi.org/10.1038/s41597-022-01288-4"
+    },
+    {
+        "authors": "Peiyuan Gao, Amity Andersen, Jonathan Sepulveda, Gihan U. Panapitiya, Aaron Hollas, Emily G. Saldanha, Vijayakumar Murugesan, Wei Wang",
+        "article_name": "SOMAS: a platform for data-driven material discovery in redox flow battery development",
+        "journal": "Scientific Data",
+        "year": "2022",
+        "volume": "9",
+        "issue": "1",
+        "doi": "https://doi.org/10.1038/s41597-022-01814-4"
+    },
+    {
+        "authors": "Sergey A. Katsyuba, Tatiana P. Gerasimova",
+        "article_name": "Thermodynamics of trans/gauche conformational equilibria and vibrational spectra of 1,2-dihaloethanes in various media",
+        "journal": "The Journal of Chemical Physics",
+        "year": "2022",
+        "volume": "157",
+        "issue": "20",
+        "doi": "https://doi.org/10.1063/5.0126678"
+    },
+    {
+        "authors": "Marcel Stahn, Stefan Grimme, Tunga Salthammer, Uwe Hohm, Wolf-Ulrich Palm",
+        "article_name": "Quantum chemical calculation of the vapor pressure of volatile and semi volatile organic compounds",
+        "journal": "Environmental Science: Processes & Impacts",
+        "year": "2022",
+        "volume": "24",
+        "issue": "11",
+        "pages": "2153-2166",
+        "doi": "https://doi.org/10.1039/D2EM00271J"
+    },
+    {
+        "authors": "Cleber Paulo Andrada Anconi, Larissa Cristina Aparecida Souza",
+        "article_name": "Multi-equilibrium approach to study cyclodextrins host\u2013guest systems with GFN2-xTB quantum method: A case study of phosphorothioates included in \u03b2-cyclodextrin",
+        "journal": "Computational and Theoretical Chemistry",
+        "year": "2022",
+        "volume": "1217",
+        "pages": "113916",
+        "doi": "https://doi.org/10.1016/j.comptc.2022.113916"
+    },
+    {
+        "authors": "Rishi Vachaspathy Astakala, Gagan Preet, Bruce F. Milne, Julius Tibyangye, Valeria Razmilic, Jean Franco Castro, Juan A. Asenjo, Barbara Andrews, Rainer Ebel, Marcel Jaspars",
+        "article_name": "Mutactimycin AP, a New Mutactimycin Isolated from an Actinobacteria from the Atacama Desert",
+        "journal": "Molecules",
+        "year": "2022",
+        "volume": "27",
+        "issue": "21",
+        "pages": "7185",
+        "doi": "https://doi.org/10.3390/molecules27217185"
+    },
+    {
+        "authors": "Markus Bursch, Jan\u2010Michael Mewes, Andreas Hansen, Stefan Grimme",
+        "article_name": "Best\u2010Practice DFT Protocols for Basic Molecular Computational Chemistry**",
+        "journal": "Angewandte Chemie",
+        "year": "2022",
+        "volume": "134",
+        "issue": "42",
+        "doi": "https://doi.org/10.1002/ange.202205735"
+    },
+    {
+        "authors": "Markus Bursch, Jan\u2010Michael Mewes, Andreas Hansen, Stefan Grimme",
+        "article_name": "Best\u2010Practice DFT Protocols for Basic Molecular Computational Chemistry**",
+        "journal": "Angewandte Chemie International Edition",
+        "year": "2022",
+        "volume": "61",
+        "issue": "42",
+        "doi": "https://doi.org/10.1002/anie.202205735"
+    },
+    {
+        "authors": "Sergey A. Katsyuba, Liliya V. Mustakimova, Tatiana P. Gerasimova, Timur I. Burganov, Aisylu R. Sirazieva, Julia K. Voronina, Leisan R. Shamsutdinova, Il\u2019dar Kh. Rizvanov, Vakhid A. Mamedov",
+        "article_name": "Synthesis and computationally assisted spectroscopic study of tautomerism in 3-(phenyl(2-arylhydrazineylidene)methyl)quinoxalin-2(1 H )-ones",
+        "journal": "New Journal of Chemistry",
+        "year": "2022",
+        "volume": "46",
+        "issue": "37",
+        "pages": "17889-17902",
+        "doi": "https://doi.org/10.1039/D2NJ03499A"
+    },
+    {
+        "authors": "Waldemar Iwanek",
+        "article_name": "New insights into the reactivity of aminomethylene derivatives of resorc[4]arene: amine group transfer, conformational analysis, reaction mechanism",
+        "journal": "RSC Advances",
+        "year": "2022",
+        "volume": "12",
+        "issue": "42",
+        "pages": "27370-27379",
+        "doi": "https://doi.org/10.1039/D2RA04610E"
+    },
+    {
+        "authors": "Thomas Gerlach, Simon M\u00fcller, Andr\u00e9s Gonz\u00e1lez de Castilla, Irina Smirnova",
+        "article_name": "An open source COSMO-RS implementation and parameterization supporting the efficient implementation of multiple segment descriptors",
+        "journal": "Fluid Phase Equilibria",
+        "year": "2022",
+        "volume": "560",
+        "pages": "113472",
+        "doi": "https://doi.org/10.1016/j.fluid.2022.113472"
+    },
+    {
+        "authors": "Nico Fleck, Rohan M. Thomas, Marcel M\u00fcller, Stefan Grimme, Bruce H. Lipshutz",
+        "article_name": "An environmentally responsible route to tezacaftor, a drug for treatment of cystic fibrosis prepared in water via ppm Au catalysis as entry to 2-substituted indoles",
+        "journal": "Green Chemistry",
+        "year": "2022",
+        "volume": "24",
+        "issue": "17",
+        "pages": "6517-6523",
+        "doi": "https://doi.org/10.1039/D2GC01828D"
+    },
+    {
+        "authors": "Leticia Dobler, Ricardo R. Oliveira",
+        "article_name": "Automated Search For The Low\u2010Lying Energy Isomers of Rhamnolipids and Related Organometallic Complexes**",
+        "journal": "ChemPhysChem",
+        "year": "2022",
+        "volume": "23",
+        "issue": "16",
+        "doi": "https://doi.org/10.1002/cphc.202200111"
+    },
+    {
+        "authors": "Laura M. Grimm, Sebastian Spicher, Boryslav Tkachenko, Peter R. Schreiner, Stefan Grimme, Frank Biedermann",
+        "article_name": "The Role of Packing, Dispersion, Electrostatics, and Solvation in High\u2010Affinity Complexes of Cucurbit[ n ]urils with Uncharged Polar Guests",
+        "journal": "Chemistry \u2013 A European Journal",
+        "year": "2022",
+        "volume": "28",
+        "issue": "38",
+        "doi": "https://doi.org/10.1002/chem.202200529"
+    },
+    {
+        "authors": "Josef M. Gallmetzer, Stefanie Kr\u00f6ll, Daniel Werner, Dominik Wielend, Mihai Irimia-Vladu, Engelbert Portenkirchner, Niyazi Serdar Sariciftci, Thomas S. Hofer",
+        "article_name": "Anthraquinone and its derivatives as sustainable materials for electrochemical applications \u2013 a joint experimental and theoretical investigation of the redox potential in solution",
+        "journal": "Physical Chemistry Chemical Physics",
+        "year": "2022",
+        "volume": "24",
+        "issue": "26",
+        "pages": "16207-16219",
+        "doi": "https://doi.org/10.1039/D2CP01717B"
+    },
+    {
+        "authors": "Rub\u00e9n Laplaza, Jan-Grimo Sobez, Matthew D. Wodrich, Markus Reiher, Cl\u00e9mence Corminboeuf",
+        "article_name": "The (not so) simple prediction of enantioselectivity \u2013 a pipeline for high-fidelity computations",
+        "journal": "Chemical Science",
+        "year": "2022",
+        "volume": "13",
+        "issue": "23",
+        "pages": "6858-6864",
+        "doi": "https://doi.org/10.1039/D2SC01714H"
+    },
+    {
+        "authors": "Filipe Menezes, Grzegorz Maria Popowicz",
+        "article_name": "How to Catch the Ball: Fullerene Binding to the Corannulene Pincer",
+        "journal": "Molecules",
+        "year": "2022",
+        "volume": "27",
+        "issue": "12",
+        "pages": "3838",
+        "doi": "https://doi.org/10.3390/molecules27123838"
+    },
+    {
+        "authors": "Johannes Gorges, Stefan Grimme, Andreas Hansen, Philipp Pracht",
+        "article_name": "Towards understanding solvation effects on the conformational entropy of non-rigid molecules",
+        "journal": "Physical Chemistry Chemical Physics",
+        "year": "2022",
+        "volume": "24",
+        "issue": "20",
+        "pages": "12249-12259",
+        "doi": "https://doi.org/10.1039/D1CP05805C"
+    },
+    {
+        "authors": "Alexandre S. Miranda, Paula M. Marcos, Jos\u00e9 R. Ascenso, M\u00e1rio N. Berberan-Santos, Filipe Menezes",
+        "article_name": "Anion Binding by Fluorescent Ureido-Hexahomotrioxacalix[3]arene Receptors: An NMR, Absorption and Emission Spectroscopic Study",
+        "journal": "Molecules",
+        "year": "2022",
+        "volume": "27",
+        "issue": "10",
+        "pages": "3247",
+        "doi": "https://doi.org/10.3390/molecules27103247"
+    },
+    {
+        "authors": "Md Nazimuddin, H\u00e9ctor Barbero, Ramin Rabbani, Eric Masson",
+        "article_name": "Cucurbiturils mimicked by low polarizability solvents with pre-formed cavities: an empirical model to predict hydrocarbon selectivity",
+        "journal": "Chemical Science",
+        "year": "2022",
+        "volume": "13",
+        "issue": "15",
+        "pages": "4388-4396",
+        "doi": "https://doi.org/10.1039/D1SC06728A"
+    },
+    {
+        "authors": "Cheng-Han Li, Daniel P. Tabor",
+        "article_name": "Discovery of lead low-potential radical candidates for organic radical polymer batteries with machine-learning-assisted virtual screening",
+        "journal": "Journal of Materials Chemistry A",
+        "year": "2022",
+        "volume": "10",
+        "issue": "15",
+        "pages": "8273-8282",
+        "doi": "https://doi.org/10.1039/D2TA00743F"
+    },
+    {
+        "authors": "Karel \u0160koch, Constantin G. Daniliuc, Marcel M\u00fcller, Stefan Grimme, Gerald Kehr, Gerhard Erker",
+        "article_name": "Stereochemical Behavior of Pairs of P\u2010stereogenic Phosphanyl Groups at the Dimethylxanthene Backbone",
+        "journal": "Chemistry \u2013 A European Journal",
+        "year": "2022",
+        "volume": "28",
+        "issue": "20",
+        "doi": "https://doi.org/10.1002/chem.202200248"
+    },
+    {
+        "authors": "Anna V. Vavina, Marina M. Seitkalieva, Alexandra V. Posvyatenko, Evgeniy G. Gordeev, Elena N. Strukova, Ksenia S. Egorova, Valentine P. Ananikov",
+        "article_name": "Merging structural frameworks of imidazolium, pyridinium, and cholinium ionic liquids with cinnamic acid to tune solution state behavior and properties",
+        "journal": "Journal of Molecular Liquids",
+        "year": "2022",
+        "volume": "352",
+        "pages": "118673",
+        "doi": "https://doi.org/10.1016/j.molliq.2022.118673"
+    },
+    {
+        "authors": "Fabian Bohle, Stefan Grimme",
+        "article_name": "Hydrocarbon Macrocycle Conformer Ensembles and 13 C\u2010NMR Spectra",
+        "journal": "Angewandte Chemie",
+        "year": "2022",
+        "volume": "134",
+        "issue": "14",
+        "doi": "https://doi.org/10.1002/ange.202113905"
+    },
+    {
+        "authors": "Fabian Bohle, Stefan Grimme",
+        "article_name": "Hydrocarbon Macrocycle Conformer Ensembles and 13 C\u2010NMR Spectra",
+        "journal": "Angewandte Chemie International Edition",
+        "year": "2022",
+        "volume": "61",
+        "issue": "14",
+        "doi": "https://doi.org/10.1002/anie.202113905"
+    },
+    {
+        "authors": "Xiaolong Shi, Yuanzuo Li, Lihai Wang",
+        "article_name": "Two novel mono-hydroxyl pyranoanthocyanidins bearing dimethylamino substituent(s) for dye-sensitized solar cell",
+        "journal": "Journal of Molecular Structure",
+        "year": "2022",
+        "volume": "1252",
+        "pages": "132055",
+        "doi": "https://doi.org/10.1016/j.molstruc.2021.132055"
+    },
+    {
+        "authors": "B.S. Akhmadeev, T.P. Gerasimova, A.R. Gilfanova, S.A. Katsyuba, L.N. Islamova, G.M. Fazleeva, A.A. Kalinin, A.G. Daminova, S.V. Fedosimova, S.K. Amerhanova, A.D. Voloshina, E.G. Tanysheva, O.G. Sinyashin, A.R. Mustafina",
+        "article_name": "Temperature-sensitive emission of dialkylaminostyrylhetarene dyes and their incorporation into phospholipid aggregates: Applicability for thermal sensing and cellular uptake behavior",
+        "journal": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+        "year": "2022",
+        "volume": "268",
+        "pages": "120647",
+        "doi": "https://doi.org/10.1016/j.saa.2021.120647"
+    },
+    {
+        "authors": "Sergey A. Katsyuba, Tatiana P. Gerasimova, Sebastian Spicher, Fabian Bohle, Stefan Grimme",
+        "article_name": "Computer\u2010aided simulation of infrared spectra of ethanol conformations in gas, liquid and in CCl 4 solution",
+        "journal": "Journal of Computational Chemistry",
+        "year": "2022",
+        "volume": "43",
+        "issue": "4",
+        "pages": "279-288",
+        "doi": "https://doi.org/10.1002/jcc.26788"
+    },
+    {
+        "authors": "Juan P. Mu\u00f1oz, Roc\u00edo Araya-Osorio, Ra\u00fal Mera-Adasme, Gloria M. Calaf",
+        "article_name": "Glyphosate Mimics 17\u03b2-Estradiol Effects Promoting Estrogen Receptor Alpha Activity in Breast Cancer Cells",
+        "journal": "SSRN Electronic Journal",
+        "year": "2022",
+        "volume": "21",
+        "doi": "https://doi.org/10.2139/ssrn.4202039"
+    },
+    {
+        "authors": "Julia Kohn, Sebastian Spicher, Markus Bursch, Stefan Grimme",
+        "article_name": "Quickstart guide to model structures and interactions of artificial molecular muscles with efficient computational methods",
+        "journal": "Chemical Communications",
+        "year": "2021",
+        "volume": "58",
+        "issue": "2",
+        "pages": "258-261",
+        "doi": "https://doi.org/10.1039/D1CC05759F"
+    },
+    {
+        "authors": "Georgiy Poluektov, Tristan J. Keller, Anna Jochemich, Anna Kr\u00f6nert, Ute M\u00fcller, Sebastian Spicher, Stefan Grimme, Stefan\u2010S. Jester, Sigurd H\u00f6ger",
+        "article_name": "Supramolecular Nanopatterns of Molecular Spoked Wheels with Orthogonal Pillars: The Observation of a Fullerene Haze",
+        "journal": "Angewandte Chemie",
+        "year": "2021",
+        "volume": "133",
+        "issue": "52",
+        "pages": "27470-27476",
+        "doi": "https://doi.org/10.1002/ange.202111869"
+    },
+    {
+        "authors": "Georgiy Poluektov, Tristan J. Keller, Anna Jochemich, Anna Kr\u00f6nert, Ute M\u00fcller, Sebastian Spicher, Stefan Grimme, Stefan\u2010S. Jester, Sigurd H\u00f6ger",
+        "article_name": "Supramolecular Nanopatterns of Molecular Spoked Wheels with Orthogonal Pillars: The Observation of a Fullerene Haze",
+        "journal": "Angewandte Chemie International Edition",
+        "year": "2021",
+        "volume": "60",
+        "issue": "52",
+        "pages": "27264-27270",
+        "doi": "https://doi.org/10.1002/anie.202111869"
+    },
+    {
+        "authors": "Gwyndaf A. Oliver, Maximilian N. Loch, Andr\u00e9 U. Augustin, Pit Steinbach, Mohammed Sharique, Uttam K. Tambar, Peter G. Jones, Christoph Bannwarth, Daniel B. Werz",
+        "article_name": "Cycloadditions of Donor\u2013Acceptor Cyclopropanes and \u2010butanes using S=N\u2010Containing Reagents: Access to Cyclic Sulfinamides, Sulfonamides, and Sulfinamidines",
+        "journal": "Angewandte Chemie",
+        "year": "2021",
+        "volume": "133",
+        "issue": "49",
+        "pages": "26029-26035",
+        "doi": "https://doi.org/10.1002/ange.202106596"
+    },
+    {
+        "authors": "Gwyndaf A. Oliver, Maximilian N. Loch, Andr\u00e9 U. Augustin, Pit Steinbach, Mohammed Sharique, Uttam K. Tambar, Peter G. Jones, Christoph Bannwarth, Daniel B. Werz",
+        "article_name": "Cycloadditions of Donor\u2013Acceptor Cyclopropanes and \u2010butanes using S=N\u2010Containing Reagents: Access to Cyclic Sulfinamides, Sulfonamides, and Sulfinamidines",
+        "journal": "Angewandte Chemie International Edition",
+        "year": "2021",
+        "volume": "60",
+        "issue": "49",
+        "pages": "25825-25831",
+        "doi": "https://doi.org/10.1002/anie.202106596"
+    },
+    {
+        "authors": "Riccardo Ferrero, Stefano Pantaleone, Massimo Delle Piane, Fabrizio Caldera, Marta Corno, Francesco Trotta, Valentina Brunella",
+        "article_name": "On the Interactions of Melatonin/\u03b2-Cyclodextrin Inclusion Complex: A Novel Approach Combining Efficient Semiempirical Extended Tight-Binding (xTB) Results with Ab Initio Methods",
+        "journal": "Molecules",
+        "year": "2021",
+        "volume": "26",
+        "issue": "19",
+        "pages": "5881",
+        "doi": "https://doi.org/10.3390/molecules26195881"
+    }
+]

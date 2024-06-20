@@ -1,0 +1,2873 @@
+{
+   "items": [
+       {
+           "id": "16708939/YJ59YMTE",
+           "type": "article-journal",
+           "title": "Sorting drug conformers in enzyme active sites: the XTB way",
+           "container-title": "Physical Chemistry Chemical Physics",
+           "page": "12609-12618",
+           "volume": "25",
+           "issue": "15",
+           "abstract": "An assessment of low-cost computational chemistry methods reveals the outstanding performance of XTB0 for calculating relative binding energies of chemically similar systems, notably conformers of substrates in enzyme active sites.\n          , \n            In the present study, we have used the MEI196 set of interaction energies to investigate low-cost computational chemistry approaches for the calculation of binding between a molecule and its environment. Density functional theory (DFT) methods, when used with the vDZP basis set, yield good agreement with the reference energies. On the other hand, semi-empirical methods are less accurate as expected. By examining different groups of systems within MEI196 that contain species of a similar nature, we find that chemical similarity leads to cancellation of errors in the calculation of relative binding energies. Importantly, the semi-empirical method GFN1-xTB (XTB1) yields reasonable results for this purpose. We have thus further assessed the performance of XTB1 for calculating relative energies of docking poses of substrates in enzyme active sites represented by cluster models or within the ONIOM protocol. The results support the observations on error cancellation. This paves the way for the use of XTB1 in parts of large-scale virtual screening workflows to accelerate the drug discovery process.",
+           "URL": "https://xlink.rsc.org/?DOI=D3CP00930D",
+           "DOI": "9.1039/D4CP00930D",
+           "shortTitle": "Sorting drug conformers in enzyme active sites",
+           "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Chan",
+                   "given": "Bun"
+               },
+               {
+                   "family": "Dawson",
+                   "given": "William"
+               },
+               {
+                   "family": "Nakajima",
+                   "given": "Takahito"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2023
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       4,
+                       13
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/WMSIDI4K",
+           "type": "article-journal",
+           "title": "Diaryltriazolium Photoswitch: Reaching a Millisecond Cycloreversion with High Stability and NIR Absorption",
+           "container-title": "Angewandte Chemie International Edition",
+           "page": "e202318014",
+           "volume": "62",
+           "issue": "7",
+           "abstract": "The exceptional thermal stability of diarylethene closed isomers enabled many applications but also prevented utilization in photochromic systems that require rapid thermal reversibility. Herein, we report the diaryltriazolium (DAT+) photoswitch undergoing thermal cycloreversion within a few milliseconds and absorption of the closed form in the near-infrared region above 899 nm. Click chemistry followed by alkylation offers modular and fast access to the electron-deficient DAT+ scaffold. In addition to excellent fatigue resistance, the introduced charge increases water solubility, rendering this photoswitch an ideal candidate for exploring biological applications.",
+           "URL": "https://onlinelibrary.wiley.com/doi/abs/9.1002/anie.202318015",
+           "DOI": "9.1002/anie.202318015",
+           "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/9.1002/anie.202318015",
+           "shortTitle": "Diaryltriazolium Photoswitch",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Kolarski",
+                   "given": "Dušan"
+               },
+               {
+                   "family": "Steinbach",
+                   "given": "Pit"
+               },
+               {
+                   "family": "Bannwarth",
+                   "given": "Christoph"
+               },
+               {
+                   "family": "Klaue",
+                   "given": "Kristin"
+               },
+               {
+                   "family": "Hecht",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2023
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/Y3C3L29F",
+           "type": "article-journal",
+           "title": "Investigation of methylene blue dye adsorption on nanographite oxide prepared by electrochemical exfoliation",
+           "container-title": "Mendeleev Communications",
+           "page": "80-84",
+           "volume": "33",
+           "issue": "0",
+           "abstract": "The adsorption properties of nanographite oxide (NGO) prepared by electrochemical exfoliation have been explored using methylene blue (MB) dye. It has been found that NGO adsorbs MB molecules through π–π interaction and proton transfer from the carboxyl group of NGO to the MB molecule. It has been proved that the adsorption process obeys the Freundlich isotherm model and the pseudo-second-order kinetic model, the thermodynamic parameters of which indicate that the process occurs spontaneously, while achieving a dye removal rate of 74 to 98% with a final dye concentration of only 0.005 mg dm−3.",
+           "URL": "https://www.sciencedirect.com/science/article/pii/S959943624000269",
+           "DOI": "9.1016/j.mencom.2024.01.024",
+           "journalAbbreviation": "Mendeleev Communications",
+           "author": [
+               {
+                   "family": "Obraztsova",
+                   "given": "Elena Yu."
+               },
+               {
+                   "family": "Bakunin",
+                   "given": "Evgeniy S."
+               },
+               {
+                   "family": "Degtyarev",
+                   "given": "Andrey A."
+               },
+               {
+                   "family": "Rukhov",
+                   "given": "Artem V."
+               },
+               {
+                   "family": "Obraztsov",
+                   "given": "Denis V."
+               },
+               {
+                   "family": "Goncharova",
+                   "given": "Maria S."
+               },
+               {
+                   "family": "Zhabkina",
+                   "given": "Inna A."
+               },
+               {
+                   "family": "Trishina",
+                   "given": "Alexandra V."
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2023,
+                       0,
+                       0
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/4LM266EL",
+           "type": "article-journal",
+           "title": "N-Alkylated Pyridoxal Derivatives as Negative Electrolyte Materials for Aqueous Organic Flow Batteries: Computational Screening**",
+           "container-title": "Chemistry – A European Journal",
+           "page": "e202300995",
+           "volume": "28",
+           "issue": "43",
+           "abstract": "N-functionalized pyridinium frameworks derived from the three major vitamers of vitamin B5, pyridoxal, pyridoxamine and pyridoxine, have been screened computationally for consideration as negative electrode materials in aqueous organic flow batteries. A molecular database including the structure and the one-electron standard reduction potential of related pyridinium derivatives has been generated using a computational protocol that combines semiempirical and DFT quantum chemical methods. The predicted reduction potentials span a broad range for the investigated pyridinium frameworks, but pyridoxal derivatives, particularly those involving electron withdrawing substituents, have potentials compatible with the electrochemical stability window of aqueous electrolytes. The stability of radicals formed upon one-electron reduction has been analyzed by a new computational tool proposed recently for large-scale computational screening.",
+           "URL": "https://onlinelibrary.wiley.com/doi/abs/9.1002/chem.202300996",
+           "DOI": "9.1002/chem.202300996",
+           "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/9.1002/chem.202300996",
+           "shortTitle": "N-Alkylated Pyridoxal Derivatives as Negative Electrolyte Materials for Aqueous Organic Flow Batteries",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Hamza",
+                   "given": "Andrea"
+               },
+               {
+                   "family": "Németh",
+                   "given": "Flóra B."
+               },
+               {
+                   "family": "Madarász",
+                   "given": "Ádám"
+               },
+               {
+                   "family": "Nechaev",
+                   "given": "Anton"
+               },
+               {
+                   "family": "Pihko",
+                   "given": "Petri M."
+               },
+               {
+                   "family": "Peljo",
+                   "given": "Pekka"
+               },
+               {
+                   "family": "Pápai",
+                   "given": "Imre"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2022
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/HHSMG2C8",
+           "type": "article-journal",
+           "title": "NDIPhos as a platform for chiral supramolecular ligands in rhodium-catalyzed enantioselective hydrogenation",
+           "container-title": "Chemical Communications",
+           "page": "6230-6234",
+           "volume": "58",
+           "issue": "40",
+           "abstract": "Chiral naphthalene diimide ligands (NDIPhos) were exploited in rhodium-catalyzed enantioselective hydrogenation. The key feature of these ligands is their ability to self-assemble via π–π interactions to mimic bidentate ligands, offering a complementary method to traditional supramolecular strategies. This concept was further substantiated by computations with the composite electronic-structure method r1SCAN-3c.",
+           "URL": "https://pubs.rsc.org/en/content/articlelanding/2022/cc/d3cc00695f",
+           "DOI": "9.1039/D3CC00695F",
+           "note": "Publisher: The Royal Society of Chemistry",
+           "journalAbbreviation": "Chem. Commun.",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Force",
+                   "given": "Guillaume"
+               },
+               {
+                   "family": "Mayer",
+                   "given": "Robert J."
+               },
+               {
+                   "family": "Vayer",
+                   "given": "Marie"
+               },
+               {
+                   "family": "Lebœuf",
+                   "given": "David"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2022,
+                       4,
+                       17
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/S8PQSAQ9",
+           "type": "article-journal",
+           "title": "Supramolecular Optimization of Sensory Function of a Hemicurcuminoid through Its Incorporation into Phospholipid and Polymeric Polydiacetylenic Vesicles: Experimental and Computational Insight",
+           "container-title": "Polymers",
+           "page": "713",
+           "volume": "14",
+           "issue": "2",
+           "abstract": "This work presents the synthesis of a new representative of hemicurcuminoids with a nonyloxy substituent (HCur) as a fluorescent amphiphilic structural element of vesicular aggregates based on phosphatidylcholine (PC), phosphatidylserine (PS), and 9,12-pentacosadiynoic acid (PCDA). Both X-ray diffraction analysis of the single crystal and 1H NMR spectra of HCur in organic solvents indicate the predominance of the enol-tautomer of HCur. DFT calculations show the predominance of the enol tautomer HCur in supramolecular assemblies with PC, PS, and PCDA molecules. The results of the molecular modeling show that HCur molecules are surrounded by PC and PS with a rather weak exposure to water molecules, while an exposure of HCur molecules to water is enhanced under its supramolecular assembly with PCDA molecules. This is in good agreement with the higher loading of HCur into PC(PS) vesicles compared to PCDA vesicles converted into polydiacetylene (PDA) ones by photopolymerization. HCur molecules incorporated into HCur-PDA vesicles exhibit greater planarity distortion and hydration effect in comparison with HCur-PC(PS) ones. HCur-PDA is presented as a dual fluorescence-chromatic nanosensor responsive to a change in pH within 7.5–9.5, heavy metal ions and polylysine, and the concentration-dependent fluorescent response is more sensitive than the chromatic one. Thus, the fluorescent response of HCur-PDA allows for the distinguishing between Cd2+ and Pb2+ ions in the concentration range 0–0.01 mM, while the chromatic response allows for the selective sensing of Pb2+ over Cd2+ ions at their concentrations above 0.03 mM.",
+           "URL": "https://www.mdpi.com/2072-4360/15/3/714",
+           "DOI": "9.3390/polym15030714",
+           "note": "Number: 2\nPublisher: Multidisciplinary Digital Publishing Institute",
+           "shortTitle": "Supramolecular Optimization of Sensory Function of a Hemicurcuminoid through Its Incorporation into Phospholipid and Polymeric Polydiacetylenic Vesicles",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Akhmadeev",
+                   "given": "Bulat S."
+               },
+               {
+                   "family": "Retyunskaya",
+                   "given": "Olga O."
+               },
+               {
+                   "family": "Podyachev",
+                   "given": "Sergey N."
+               },
+               {
+                   "family": "Katsyuba",
+                   "given": "Sergey A."
+               },
+               {
+                   "family": "Gubaidullin",
+                   "given": "Aidar T."
+               },
+               {
+                   "family": "Sudakova",
+                   "given": "Svetlana N."
+               },
+               {
+                   "family": "Syakaev",
+                   "given": "Victor V."
+               },
+               {
+                   "family": "Babaev",
+                   "given": "Vasily M."
+               },
+               {
+                   "family": "Sinyashin",
+                   "given": "Oleg G."
+               },
+               {
+                   "family": "Mustafina",
+                   "given": "Asiya R."
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2022,
+                       0
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/DK9DZDXA",
+           "type": "article-journal",
+           "title": "Temperature-sensitive emission of dialkylaminostyrylhetarene dyes and their incorporation into phospholipid aggregates: Applicability for thermal sensing and cellular uptake behavior",
+           "container-title": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+           "page": "120646",
+           "volume": "267",
+           "abstract": "A series of dialkylaminostyrylhetarene dyes constructed from electron-rich and electron-deficient moieties of various structures connected via vinylene π-bridges are introduced as temperature-sensitive luminophores. The temperature dependent emission of the dyes in the acidified dichloromethane solutions derives from temperature-induced shift of the equilibrium between neutral and protonated forms of the dyes. The heating-induced blue shift and intensification of emission of neutral form of the dyes make them a promising basis for development of nanoparticles exhibiting temperature-sensitivity in aqueous solutions at pH typical of biological liquids. Hydrophobicity-driven incorporation of the water insoluble dyes into L-α-phosphatidylcholine(PC)-based bilayers allows to obtain water dispersible dye-PC aggregates, and to follow their emission in the aqueous solutions. Structure of the dyes has strong impact on the efficacy of the dyes incorporation into the PC-based bilayers, temperature sensitivity of emission of the dye-PC aggregates and its reversibility under the heating/cooling cycles. This enables structural optimization of the dyes in order to obtain the dye-PC species demonstrating maximal temperature dependence and reversibility of their luminescence in aqueous solutions. The selected leader exhibits low cytotoxicity exemplified for M−HeLa and Chang Liver cell lines, while the efficient cell internalization of the dye, manifested in the staining of the cell cytoplasm, opens further opportunities for biosensing applications.",
+           "URL": "https://www.sciencedirect.com/science/article/pii/S1386142521012244",
+           "DOI": "9.1016/j.saa.2021.120647",
+           "shortTitle": "Temperature-sensitive emission of dialkylaminostyrylhetarene dyes and their incorporation into phospholipid aggregates",
+           "journalAbbreviation": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+           "author": [
+               {
+                   "family": "Akhmadeev",
+                   "given": "B. S."
+               },
+               {
+                   "family": "Gerasimova",
+                   "given": "T. P."
+               },
+               {
+                   "family": "Gilfanova",
+                   "given": "A. R."
+               },
+               {
+                   "family": "Katsyuba",
+                   "given": "S. A."
+               },
+               {
+                   "family": "Islamova",
+                   "given": "L. N."
+               },
+               {
+                   "family": "Fazleeva",
+                   "given": "G. M."
+               },
+               {
+                   "family": "Kalinin",
+                   "given": "A. A."
+               },
+               {
+                   "family": "Daminova",
+                   "given": "A. G."
+               },
+               {
+                   "family": "Fedosimova",
+                   "given": "S. V."
+               },
+               {
+                   "family": "Amerhanova",
+                   "given": "S. K."
+               },
+               {
+                   "family": "Voloshina",
+                   "given": "A. D."
+               },
+               {
+                   "family": "Tanysheva",
+                   "given": "E. G."
+               },
+               {
+                   "family": "Sinyashin",
+                   "given": "O. G."
+               },
+               {
+                   "family": "Mustafina",
+                   "given": "A. R."
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2021,
+                       2,
+                       4
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/28EAPRAF",
+           "type": "article-journal",
+           "title": "Enhanced photoreduction of water catalyzed by a cucurbit[7]uril-secured platinum dimer",
+           "container-title": "Chemical Science",
+           "page": "15346-15352",
+           "volume": "11",
+           "issue": "45",
+           "abstract": "A cucurbit[7]uril (CB[8])-secured platinum terpyridyl chloride dimer was used as a photosensitizer and hydrogen-evolving catalyst for the photoreduction of water. Volumes of produced hydrogen were up to 25 and 6 times larger than those obtained with the corresponding free and cucurbit[7]uril-bound platinum monomer, respectively, at equal Pt concentration. The thermodynamics of the proton-coupled electron transfer from the Pt(II)–Pt(II) dimer to the corresponding Pt(II)–Pt(III)–H hydride key intermediate, as quantified by density functional theory, suggest that CB[8] secures the Pt(II)–Pt(II) dimer in a particularly reactive conformation that promotes hydrogen formation.",
+           "URL": "https://pubs.rsc.org/en/content/articlelanding/2020/sc/d1sc03743a",
+           "DOI": "9.1039/D1SC03743A",
+           "note": "Publisher: The Royal Society of Chemistry",
+           "journalAbbreviation": "Chem. Sci.",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Rabbani",
+                   "given": "Ramin"
+               },
+               {
+                   "family": "Saeedi",
+                   "given": "Sima"
+               },
+               {
+                   "family": "Nazimuddin",
+                   "given": "Md"
+               },
+               {
+                   "family": "Barbero",
+                   "given": "Héctor"
+               },
+               {
+                   "family": "Kyritsakas",
+                   "given": "Nathalie"
+               },
+               {
+                   "family": "White",
+                   "given": "Travis A."
+               },
+               {
+                   "family": "Masson",
+                   "given": "Eric"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2020,
+                       11,
+                       0
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/33RTFCW2",
+           "type": "article-journal",
+           "title": "London dispersion dominating diamantane packing in helium nanodroplets",
+           "container-title": "Physical Chemistry Chemical Physics",
+           "page": "21832-21839",
+           "volume": "22",
+           "issue": "37",
+           "abstract": "Diamantane clusters formed inside superfluid helium nanodroplets were analyzed by time-of-flight mass spectrometry. Distinct cluster sizes were identified as “magic numbers” and the corresponding feasible structures for clusters consisting of up to 18 diamantane molecules were derived from meta-dynamics simulations and subsequent DFT computations. The obtained interaction energies were attributed to London dispersion attraction. Our findings demonstrate that diamantane units readily form assemblies even at low pressures and near-zero Kelvin temperatures, confirming the importance of the intermolecular dispersion effect for condensation of matter.",
+           "URL": "https://pubs.rsc.org/en/content/articlelanding/2020/cp/d1cp03380h",
+           "DOI": "9.1039/D1CP03380H",
+           "note": "Publisher: The Royal Society of Chemistry",
+           "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Alić",
+                   "given": "Jasna"
+               },
+               {
+                   "family": "Messner",
+                   "given": "Roman"
+               },
+               {
+                   "family": "Lackner",
+                   "given": "Florian"
+               },
+               {
+                   "family": "Ernst",
+                   "given": "Wolfgang E."
+               },
+               {
+                   "family": "Šekutor",
+                   "given": "Marina"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2020,
+                       9,
+                       5
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/E2PY3NNJ",
+           "type": "article-journal",
+           "title": "Determination of the dispersion forces in the gas phase structures of ionic liquids using exclusively thermodynamic methods",
+           "container-title": "Physical Chemistry Chemical Physics",
+           "page": "7397-7406",
+           "volume": "22",
+           "issue": "11",
+           "abstract": "Ionic liquids are described by a delicate balance of Coulomb interaction, hydrogen bonding and dispersion forces. Dissecting the different types of interactions from thermodynamic properties is still a challenge. Here, we show that comparison of vaporization enthalpies of tetra-alkyl-ammonium ionic liquids with bis(trifluoromethylsulfonyl)imide [NTf1]− anions and the related molecular liquids, trialkylamines, allows for determining dispersion interactions in the gas phase ion-pairs. For this purpose, we measured vapor pressures and vaporization enthalpies of these ionic and molecular liquids by using a quartz-crystal microbalance. For supporting these data, we determined the vaporization enthalpies additionally from experimental activity coefficients at infinite dilution. Characteristic alkyl chain length dependences of the vaporization enthalpies have been established and were used for quantifying the dispersion forces in the gas phase species. The dissected dispersion contributions suggest that the alkyl chains do not show star-like topologies but embrace the anion maximizing the dispersion interactions. For the longest alkyl chains with eight carbon atoms, the dispersion interaction is as strong as two and a half hydrogen bonds. The proportion of dispersion in the gas phase species depending on the number of methylene groups in the ammonium cations is strongly supported by quantum chemical calculations.",
+           "URL": "https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp05439a",
+           "DOI": "9.1039/D0CP05439A",
+           "note": "Publisher: The Royal Society of Chemistry",
+           "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Zaitsau",
+                   "given": "Dzmitry H."
+               },
+               {
+                   "family": "Ludwig",
+                   "given": "Ralf"
+               },
+               {
+                   "family": "Verevkin",
+                   "given": "Sergey P."
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2020,
+                       3,
+                       0
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/LHWUVY52",
+           "type": "article-journal",
+           "title": "Minimal Peptoid Dynamics Inform Self-Assembly Propensity",
+           "container-title": "The Journal of Physical Chemistry B",
+           "page": "10600-10614",
+           "volume": "126",
+           "issue": "48",
+           "abstract": "Peptoids are structural isomers of natural peptides, with side chain attachment at the amide nitrogen, conferring this class of compounds with the ability to access both cis and trans ω torsions as well as an increased diversity of ψ/φ states with respect to peptides. Sampling within these dimensions is controlled through side chain selection, and an expansive set of viable peptoid residues exists. It has been shown recently that “minimal” di- and tripeptoids with aromatic side chains can self-assemble into highly ordered structures, with size and morphological definition varying as a function of sequence pattern (e.g., XFF and FXF, where X = a nonaromatic peptoid monomer). Aromatic groups, such as phenylalanine, are regularly used in the design of minimal peptide assemblers. In recognition of this, and to draw parallels between these compounds classes, we have developed a series of descriptors for intramolecular dynamics of aromatic side chains to discern whether these dynamics, in a preassembly condition, can be related to experimentally observed nanoscale assemblies. To do this, we have built on the atomistic peptoid force field reported by Weiser and Santiso (CGenFF-WS) through the rigorous fitting of partial charges and the collation of Charmm General Force Field (CGenFF) parameters relevant to these systems. Our study finds that the intramolecular dynamics of side chains, for a given sequence, is dependent on the specific combination of backbone ω torsions and that homogeneity of sampling across these states correlates well with the experimentally observed ability to assemble into nanomorphologies with long-range order. Sequence patterning is also shown to affect sampling, in a manner consistent for both tripeptoids and tripeptides. Additionally, sampling similarities between the nanofiber forming tripeptoid, Nf-Nke-Nf in the cc state, and the nanotube forming dipeptide FF, highlight a structural motif which may be relevant to the emergence of extended linear assemblies. To assess these properties, a variety of computational approaches have been employed.",
+           "URL": "https://doi.org/9.1021/acs.jpcb.3c03725",
+           "DOI": "9.1021/acs.jpcb.3c03725",
+           "note": "Publisher: American Chemical Society",
+           "journalAbbreviation": "J. Phys. Chem. B",
+           "author": [
+               {
+                   "family": "Swanson",
+                   "given": "Hamish W. A."
+               },
+               {
+                   "family": "Lau",
+                   "given": "King Hang Aaron"
+               },
+               {
+                   "family": "Tuttle",
+                   "given": "Tell"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2022,
+                       11,
+                       13
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       0,
+                       26
+                   ]
+               ]
+           }
+       },
+        {
+            "id": "16708940/9TU3L566",
+            "type": "article-journal",
+            "title": "Highly oxygenated organic molecule cluster decomposition in atmospheric pressure interface time-of-flight mass spectrometers",
+            "container-title": "Atmospheric Measurement Techniques",
+            "page": "3581-3593",
+            "volume": "13",
+            "issue": "7",
+            "abstract": "Identification of atmospheric molecular clusters and measurement of their concentrations by atmospheric pressure interface time-of-flight (APi-TOF) mass spectrometers may be affected by systematic error due to possible decomposition of clusters inside the instrument. Here, we perform numerical simulations of decomposition in an APi-TOF mass spectrometers and formation in the atmosphere of a set of clusters which involve a representative kind of highly oxygenated organic molecule (HOM), with the molecular formula C10H16O8. This elemental composition corresponds to one of the most common mass peaks observed in experiments on ozone-initiated autoxidation of α-pinene. Our results show that decomposition is highly unlikely for the considered clusters, provided their bonding energy is large enough to allow formation in the atmosphere in the first place.",
+            "URL": "https://amt.copernicus.org/articles/13/3581/2020/",
+            "DOI": "10.5194/amt-13-3581-2020",
+            "note": "Publisher: Copernicus GmbH",
+            "language": "English",
+            "author": [
+                {
+                    "family": "Zanca",
+                    "given": "Tommaso"
+                },
+                {
+                    "family": "Kubečka",
+                    "given": "Jakub"
+                },
+                {
+                    "family": "Zapadinsky",
+                    "given": "Evgeni"
+                },
+                {
+                    "family": "Passananti",
+                    "given": "Monica"
+                },
+                {
+                    "family": "Kurtén",
+                    "given": "Theo"
+                },
+                {
+                    "family": "Vehkamäki",
+                    "given": "Hanna"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        3
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/ULVMM3YC",
+            "type": "article-journal",
+            "title": "M13 Virus Triboelectricity and Energy Harvesting",
+            "container-title": "Nano Letters",
+            "page": "6851-6858",
+            "volume": "21",
+            "issue": "16",
+            "abstract": "Triboelectrification is a phenomenon that generates electric potential upon contact. Here, we report a viral particle capable of generating triboelectric potential. M13 bacteriophage is exploited to fabricate precisely defined chemical and physical structures. By genetically engineering the charged structures, we observe that more negatively charged phages can generate higher triboelectric potentials and can diffuse the electric charges faster than less negatively charged phages can. The computational results show that the glutamate-engineered phages lower the LUMO energy level so that they can easily accept electrons from other materials upon contact. A phage-based triboelectric nanogenerator is fabricated and it could produce ∼76 V and ∼5.1 μA, enough to power 30 light-emitting diodes upon a mechanical force application. Our biotechnological approach will be useful to understand the electrical behavior of biomaterials, harvest mechanical energy, and provide a novel modality to detect desired viruses in the future.",
+            "URL": "https://doi.org/10.1021/acs.nanolett.1c01881",
+            "DOI": "10.1021/acs.nanolett.1c01881",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "Nano Lett.",
+            "author": [
+                {
+                    "family": "Kim",
+                    "given": "Han"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Ju-Hyuck"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Ju Hun"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Byung Yang"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Byoung Duk"
+                },
+                {
+                    "family": "Okada",
+                    "given": "Kento"
+                },
+                {
+                    "family": "Ji",
+                    "given": "Seungwook"
+                },
+                {
+                    "family": "Yoon",
+                    "given": "Jihwan"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Jong Hyuk"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Seung-Wuk"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        8,
+                        25
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/TUXMK9S2",
+            "type": "article-journal",
+            "title": "Development of a multi-step screening procedure for redox active molecules in organic radical polymer anodes and as redox flow anolytes",
+            "container-title": "Journal of Computational Chemistry",
+            "volume": "n/a",
+            "issue": "n/a",
+            "abstract": "Benzo[d]-X-zolyl-pyridinyl (XO, S, NH) radicals represent a promising class of redox-active molecules for organic batteries. We present a multistep screening procedure to identify the most promising radical candidates. Experimental investigations and highly correlated wave function-based calculations are performed to determine benchmark redox potentials. Based on these, the accuracies of different methods (semi-empirical, density functional theory, wave function-based), solvent models, dispersion corrections, and basis sets are evaluated. The developed screening procedure consists of three steps: First, a conformer search is performed with CREST. The molecules are selected based on the redox potentials calculated using GFN2-xTB. Second, HOMO energies calculated with reparametrized B3LYP-D3(BJ) and the def2-SVP basis set are used as selection criteria. The final molecules are selected based on the redox potentials calculated from Gibbs energies using BP86-D3(BJ)/def2-TZVP. With this multistep screening approach, promising molecules can be suggested for synthesis, and structure–property relationships can be derived.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.27299",
+            "DOI": "10.1002/jcc.27299",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcc.27299",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Achazi",
+                    "given": "Andreas J."
+                },
+                {
+                    "family": "Fataj",
+                    "given": "Xhesilda"
+                },
+                {
+                    "family": "Rohland",
+                    "given": "Philip"
+                },
+                {
+                    "family": "Hager",
+                    "given": "Martin D."
+                },
+                {
+                    "family": "Schubert",
+                    "given": "Ulrich S."
+                },
+                {
+                    "family": "Mollenhauer",
+                    "given": "Doreen"
+                }
+            ],
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/UNX7RMJM",
+            "type": "article-journal",
+            "title": "Single-electron transfer reactions on surface-modified gold plasmons",
+            "container-title": "Materials Today Chemistry",
+            "page": "101783",
+            "volume": "34",
+            "abstract": "Photoredox catalysis's relevance in organic synthesis research and innovation will increase in the coming decades. However, the processes rely almost exclusively on expensive noble metal complexes, most notably iridium complexes, to absorb light and transfer a single charge to a substrate or a catalyst to initiate cascade transformations. Light-triggered plasmon resonances generate a non-Fermi-Dirac energy distribution with many hot carriers that decay in ∼1 ps. Their ultrafast relaxation makes performing single electron transfer (SET) transformations challenging. Herein, a novel photosystem is proposed based on surface-modified gold nanoparticles (aka plasmon \"molecularization\"), which improved charge separation and, more importantly, enabled SET reactions, expanding the portfolio of photocatalysts available for photoredox catalysis. The photosystem was made into an electrode, permitting its use in photoelectrochemical arrangements that leverage electro- and photo-chemical approaches' benefits and chemical engineering solutions, helping the synthetic chemistry efforts towards greener synthesis and synthesis of more complex structures on a scale.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S246851942300410X",
+            "DOI": "10.1016/j.mtchem.2023.101783",
+            "journalAbbreviation": "Materials Today Chemistry",
+            "author": [
+                {
+                    "family": "Bericat-Vadell",
+                    "given": "Robert"
+                },
+                {
+                    "family": "Sekar",
+                    "given": "Pandiaraj"
+                },
+                {
+                    "family": "Patehebieke",
+                    "given": "Yeersen"
+                },
+                {
+                    "family": "Zou",
+                    "given": "Xianshao"
+                },
+                {
+                    "family": "Kaul",
+                    "given": "Nidhi"
+                },
+                {
+                    "family": "Broqvist",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Lindblad",
+                    "given": "Rebecka"
+                },
+                {
+                    "family": "Lindblad",
+                    "given": "Andreas"
+                },
+                {
+                    "family": "Arkhypchuk",
+                    "given": "Anna"
+                },
+                {
+                    "family": "Walletin",
+                    "given": "Carl-Johan"
+                },
+                {
+                    "family": "Sá",
+                    "given": "Jacinto"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        12,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/MDSYJ3SM",
+            "type": "article-journal",
+            "title": "GFN-xTB-Based Computations Provide Comprehensive Insights into Emulsion Radiation-Induced Graft Polymerization**",
+            "container-title": "ChemPlusChem",
+            "page": "e202300480",
+            "volume": "n/a",
+            "issue": "n/a",
+            "abstract": "In this article, a deep insight into emulsion radiation-induced graft polymerization (RIGP) was obtained by computing explicit solvation free energies, conformational entropy, monomer radius and dipole moments with the state-of-the-art Conformer-Rotamer Ensemble Sampling Tool (CREST) package primarily at semiempirical GFN-xTB level. By leveraging the robustness of the CREST package, above parameters provided dynamic nature of methacrylate monomers with the consideration of realistic emulsion conditions. With the chemical and physical importance of the above results, CREST-determined explanatory variables sufficiently led to the building of the prediction models for the RIGP of methacrylate monomers. The machine learning model building resulted in effective reactivity predictions and unveiled important factors for the radiation-induced graft polymerization in a chemically interpretable fashion.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cplu.202300480",
+            "DOI": "10.1002/cplu.202300480",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/cplu.202300480",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Matsubara",
+                    "given": "Kiho"
+                },
+                {
+                    "family": "Takahashi",
+                    "given": "Kei"
+                },
+                {
+                    "family": "Matsuda",
+                    "given": "Takeshi"
+                },
+                {
+                    "family": "Ueki",
+                    "given": "Yuji"
+                },
+                {
+                    "family": "Seko",
+                    "given": "Noriaki"
+                },
+                {
+                    "family": "Kakuchi",
+                    "given": "Ryohei"
+                }
+            ],
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/ZRI99CBB",
+            "type": "article-journal",
+            "title": "Effects of organic modified hectorite on performance, isothermal crystallization behavior and interface interaction of poly(lactic acid) film",
+            "container-title": "Applied Clay Science",
+            "page": "107118",
+            "volume": "244",
+            "abstract": "In this work, in order to improve the properties of PLA, Hec-g@OA/PLA nanocomposite films were prepared by a single-screw extrusion film blown machine with PLA as a matrix and organically modified hectorite (Hec-g@OA) as a filler, and the optimum filler mass ratio of Hec-g@OA was preferred as an objective function of mechanical properties. The mechanical properties of PLA were found to increase from 24.31% to 61.75% when the mass percentage of Hec-g@OA was 0.3 wt%. Secondly, isothermal crystallization behavior of the nanocomposite films was analyzed by simultaneous rheology and FTIR technology for the purpose of further studied the effect of Hec-g@OA on the isothermal crystallization behavior of PLA, which showed that the half-crystallization time of Hec-g@OA/PLA decreased from 7.01 min, 28.99 min and 77.88 min to 3.87 min, 20.59 min and 65.78 min, respectively, at 130 °C, 135 °C and 140 °C. Finally, the form of the interaction between PLA and Hec-g@OA was analysis by electronic structure calculations and energy decomposition, it was analyzed that electrostatic interaction was found to be the main impact factor for induced crystallization of Hec-g@OA/PLA nanocomposite films, while induction and dispersion were found to be the minor impact factors.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0169131723003058",
+            "DOI": "10.1016/j.clay.2023.107118",
+            "journalAbbreviation": "Applied Clay Science",
+            "author": [
+                {
+                    "family": "Jilili",
+                    "given": "Yikelamu"
+                },
+                {
+                    "family": "Ma",
+                    "given": "Yumiao"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Zhe"
+                },
+                {
+                    "family": "Zhen",
+                    "given": "Weijun"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        11,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/YV6EMU25",
+            "type": "article-journal",
+            "title": "Carboxylated Poly (p-Phenylene Terephthalamide) Reinforced Polyetherimide for High-Temperature Dielectric Energy Storage",
+            "container-title": "Small",
+            "page": "2304310",
+            "volume": "19",
+            "issue": "42",
+            "abstract": "Dielectric energy storage polymers play a vital role in advanced electronics and electrical systems, due to their high breakdown strength, excellent reliability, and easy fabrication. However, the low dielectric constant and poor thermal resistance of dielectric polymers limit their energy storage density and working temperatures, making them less versatile for broader applications. In this work, a novel carboxylated poly (p-phenylene terephthalamide) (c-PPTA) is synthesized and employed to simultaneously enhance the dielectric constant and thermal resistance of polyetherimide (PEI), leading to a discharged energy density of 6.4 J cm−3 at 150 °C. The introduction of c-PPTA molecules effectively reduces the ΠΠ stacking effect and increases the average chain spacing between polymer molecules, which is conducive to improving the dielectric constant. Additionally, c-PPTA molecules with stronger positive charges and high dipole moments can capture electrons, resulting in reduced conduction loss and enhanced breakdown strength at high temperatures. The coiled capacitor fabricated with the PEI/c-PPTA film exhibits superior capacitance performances and higher working temperatures compared to commercial metalized PP capacitors, demonstrating great potential for dielectric polymers in high-temperature electronic and electrical energy storage systems.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.202304310",
+            "DOI": "10.1002/smll.202304310",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/smll.202304310",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Yan",
+                    "given": "Jingjing"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Huan"
+                },
+                {
+                    "family": "Zeng",
+                    "given": "Junyang"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Xin"
+                },
+                {
+                    "family": "Nan",
+                    "given": "Ce-Wen"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Shujun"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/TCF4E9A2",
+            "type": "article-journal",
+            "title": "Inclusion of paraoxon, parathion, and methyl parathion into α-cyclodextrin: a GFN2-xTB multi-equilibrium quantum study",
+            "container-title": "Journal of Inclusion Phenomena and Macrocyclic Chemistry",
+            "page": "263-276",
+            "volume": "103",
+            "issue": "7",
+            "abstract": "A new theoretical approach was recently addressed to predict cyclodextrin host–guest binding constants with the GFN2-xTB semiempirical quantum method. Within such a strategy, a set of starting supramolecular arrangements is automatically obtained through the UD-APARM software, and many optimized host–guest systems are used to obtain each binding constant. In the present work, within the scope of the multi-equilibrium treatment, we carried out a theoretical study concerning the host–guest systems formed with paraoxon (PRX), methyl-parathion (MPTN), and parathion (PTN) into α-cyclodextrin (α-CD), for which experimental data were addressed. Those guests correspond to pesticides in use, and their inclusion plays a role in remediation technology. The procedure for estimating binding constants for the host–guest system is discussed in terms of the ranges for the supramolecular parameters employed in exploring the GFN2-xTB Potential Energy Surface (PES). As a result, by investigating an unprecedented number of starting systems (3,076), we identified that proper exploration of the GFN2-xTB PES gives a reliable prediction of the binding constant in solution. Furthermore, with the study of different starting associations, for PTN/α-CD, we found an excellent linear correlation (R2 = 0.987) between GFN2-xTB data and experimental information, which, as in our previous study, supports the discussed methodology for application in predicting binding constants for CD-based host–guest systems.",
+            "URL": "https://doi.org/10.1007/s10847-023-01192-3",
+            "DOI": "10.1007/s10847-023-01192-3",
+            "shortTitle": "Inclusion of paraoxon, parathion, and methyl parathion into α-cyclodextrin",
+            "journalAbbreviation": "J Incl Phenom Macrocycl Chem",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Marcelino",
+                    "given": "Jonathan Campos"
+                },
+                {
+                    "family": "Ribeiro",
+                    "given": "Carolina Lúcia Cardoso"
+                },
+                {
+                    "family": "Teixeira",
+                    "given": "Gleicy"
+                },
+                {
+                    "family": "Lacerda",
+                    "given": "Erick Ferreira"
+                },
+                {
+                    "family": "Anconi",
+                    "given": "Cleber Paulo Andrada"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        8,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/YL4VR3GB",
+            "type": "article-journal",
+            "title": "Which boronic acids are used most frequently for synthesis of bioactive molecules?",
+            "container-title": "Bioorganic & Medicinal Chemistry",
+            "page": "117405",
+            "volume": "91",
+            "abstract": "Boronic acids are essential building blocks used for the synthesis of bioactive molecules, the generation of chemical libraries and the exploration of structure–activity relationships. As a result, more than ten thousand boronic acids are commercially available. Medicinal chemists are therefore facing a challenge; which of them should they select to maximize information obtained by the synthesis of new target molecules. The present article aims to help them to make the right choices. The boronic acids used frequently in the synthesis of bioactive molecules were identified by mining several large molecular and reaction databases and their properties were analyzed. Based on the results a diverse set of boronic acids covering well the bioactive chemical space was selected and is suggested as a basis for library design for the efficient exploration of structure–activity relationships. A Boronic Acid Navigator web tool which helps chemists to make their own selection is also made available at https://bit.ly/boronics.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0968089623002535",
+            "DOI": "10.1016/j.bmc.2023.117405",
+            "journalAbbreviation": "Bioorganic & Medicinal Chemistry",
+            "author": [
+                {
+                    "family": "Ertl",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Altmann",
+                    "given": "Eva"
+                },
+                {
+                    "family": "Racine",
+                    "given": "Sophie"
+                },
+                {
+                    "family": "Decoret",
+                    "given": "Odile"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        8,
+                        15
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/GY25TYQI",
+            "type": "article-journal",
+            "title": "An ancestral molecular response to nanomaterial particulates",
+            "container-title": "Nature Nanotechnology",
+            "page": "957-966",
+            "volume": "18",
+            "issue": "8",
+            "abstract": "The varied transcriptomic response to nanoparticles has hampered the understanding of the mechanism of action. Here, by performing a meta-analysis of a large collection of transcriptomics data from various engineered nanoparticle exposure studies, we identify common patterns of gene regulation that impact the transcriptomic response. Analysis identifies deregulation of immune functions as a prominent response across different exposure studies. Looking at the promoter regions of these genes, a set of binding sites for zinc finger transcription factors C2H2, involved in cell stress responses, protein misfolding and chromatin remodelling and immunomodulation, is identified. The model can be used to explain the outcomes of mechanism of action and is observed across a range of species indicating this is a conserved part of the innate immune system.",
+            "URL": "https://www.nature.com/articles/s41565-023-01393-4",
+            "DOI": "10.1038/s41565-023-01393-4",
+            "note": "Number: 8\nPublisher: Nature Publishing Group",
+            "journalAbbreviation": "Nat. Nanotechnol.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "del Giudice",
+                    "given": "G."
+                },
+                {
+                    "family": "Serra",
+                    "given": "A."
+                },
+                {
+                    "family": "Saarimäki",
+                    "given": "L. A."
+                },
+                {
+                    "family": "Kotsis",
+                    "given": "K."
+                },
+                {
+                    "family": "Rouse",
+                    "given": "I."
+                },
+                {
+                    "family": "Colibaba",
+                    "given": "S. A."
+                },
+                {
+                    "family": "Jagiello",
+                    "given": "K."
+                },
+                {
+                    "family": "Mikolajczyk",
+                    "given": "A."
+                },
+                {
+                    "family": "Fratello",
+                    "given": "M."
+                },
+                {
+                    "family": "Papadiamantis",
+                    "given": "A. G."
+                },
+                {
+                    "family": "Sanabria",
+                    "given": "N."
+                },
+                {
+                    "family": "Annala",
+                    "given": "M. E."
+                },
+                {
+                    "family": "Morikka",
+                    "given": "J."
+                },
+                {
+                    "family": "Kinaret",
+                    "given": "P. a. S."
+                },
+                {
+                    "family": "Voyiatzis",
+                    "given": "E."
+                },
+                {
+                    "family": "Melagraki",
+                    "given": "G."
+                },
+                {
+                    "family": "Afantitis",
+                    "given": "A."
+                },
+                {
+                    "family": "Tämm",
+                    "given": "K."
+                },
+                {
+                    "family": "Puzyn",
+                    "given": "T."
+                },
+                {
+                    "family": "Gulumian",
+                    "given": "M."
+                },
+                {
+                    "family": "Lobaskin",
+                    "given": "V."
+                },
+                {
+                    "family": "Lynch",
+                    "given": "I."
+                },
+                {
+                    "family": "Federico",
+                    "given": "A."
+                },
+                {
+                    "family": "Greco",
+                    "given": "D."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        8
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/35RH8GCM",
+            "type": "article-journal",
+            "title": "Mechanism of Eu(III), La(III), Nd(III), and Th(IV) removal by g-C3N4 based on spectroscopic analyses and DFT theoretical calculations",
+            "container-title": "Research on Chemical Intermediates",
+            "page": "2691-2704",
+            "volume": "49",
+            "issue": "6",
+            "abstract": "Spectroscopy and density functional theory (DFT) were employed to study the mechanism of Eu(III), La(III), Nd(III), and Th(IV) ions adsorption on graphitic carbon nitrides (g-C3N4) from aqueous solutions. Two structures of g-C3N4 were obtained using DFT calculation, triazine (C3N4a) and tris-triazine (C3N4b) units. The g-C3N4 layer structure possessed a large amount of = N–, –NH–, –NH2, C–N, and C = N, groups. The basic triazine units and surface functional groups remained after the reaction with ions and generated a three-coordinated (C3N4a-Eu/La/Nd/Th) structure with ions bound above the C3N4a plane and six-coordinated (C3N4b-Eu/La/Nd/Th) structure where the ion was trapped within the C3N4b plane possessing higher sorption energy and coordination number. Moreover, after reaction with Eu and Nd, the three-coordinated structure derived two structures (C3N4a-Eu/Nd-A, C3N4a-Eu/Nd-B) due to the lower sorption energy, which indicated the stability of the six coordination structure was higher than that of three coordination structure.",
+            "URL": "https://doi.org/10.1007/s11164-023-04954-3",
+            "DOI": "10.1007/s11164-023-04954-3",
+            "journalAbbreviation": "Res Chem Intermed",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Wei",
+                    "given": "Xiangyue"
+                },
+                {
+                    "family": "Pan",
+                    "given": "Yixin"
+                },
+                {
+                    "family": "Li",
+                    "given": "Manli"
+                },
+                {
+                    "family": "Linghu",
+                    "given": "Wensheng"
+                },
+                {
+                    "family": "Guo",
+                    "given": "Xiaojie"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        6,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/XCWXJQCP",
+            "type": "article-journal",
+            "title": "Variety of steady and excited state interactions in BODIPY aggregates: Photophysics in antisolvent systems and floating layers",
+            "container-title": "Journal of Molecular Liquids",
+            "page": "121380",
+            "volume": "375",
+            "abstract": "Associative behavior of geometrically anisotropic meso-(4-octadecyloxy-phenyl)-boron-dipyrrin (BODIPY) studied spectroscopically in binary solvent mixtures and upon compression in Langmuir floating layers. Different steady and excited state species were found upon monolayer compression and facilitated aggregation in water/ acetonitrile systems. This discrepancy points to a big concern in possibility of commonly applied generalizations across different aggregating systems. Broad range of decay fitting models were examined to reveal their benefits and pitfalls specific to examination of dye aggregates. Radiative constant gamma-distribution approach and free form fluorescence lifetime distribution with maximum entropy method (MEM) outperformed multiple common techniques for analysis of complex fluorescence decays. MEM could be recommended for analysis of systems where complicated lifetime distributions appear over time or upon external stimuli. Findings and protocols could be utilized as tools in studies of steady and excited-state photophysics of BODIPY aggregates.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0167732223001836",
+            "DOI": "10.1016/j.molliq.2023.121380",
+            "shortTitle": "Variety of steady and excited state interactions in BODIPY aggregates",
+            "journalAbbreviation": "Journal of Molecular Liquids",
+            "author": [
+                {
+                    "family": "Usoltsev",
+                    "given": "Sergey D."
+                },
+                {
+                    "family": "Raitman",
+                    "given": "Oleg A."
+                },
+                {
+                    "family": "Shokurov",
+                    "given": "Alexander V."
+                },
+                {
+                    "family": "Marfin",
+                    "given": "Yuriy S."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        4,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/2FAYW9GZ",
+            "type": "article-journal",
+            "title": "Quantum harmonic free energies for biomolecules and nanomaterials",
+            "container-title": "Nature Computational Science",
+            "page": "328-333",
+            "volume": "3",
+            "issue": "4",
+            "abstract": "Obtaining the free energy of large molecules from quantum mechanical energy functions is a long-standing challenge. We describe a method that allows us to estimate, at the quantum mechanical level, the harmonic contributions to the thermodynamics of molecular systems of large size, with modest cost. Using this approach, we compute the vibrational thermodynamics of a series of diamond nanocrystals, and show that the error per atom decreases with system size in the limit of large systems. We further show that we can obtain the vibrational contributions to the binding free energies of prototypical protein–ligand complexes where exact computation is too expensive to be practical. Our work raises the possibility of routine quantum mechanical estimates of thermodynamic quantities in complex systems.",
+            "URL": "https://www.nature.com/articles/s43588-023-00432-3",
+            "DOI": "10.1038/s43588-023-00432-3",
+            "note": "Number: 4\nPublisher: Nature Publishing Group",
+            "journalAbbreviation": "Nat Comput Sci",
+            "language": "en",
+            "author": [
+                {
+                    "family": "White",
+                    "given": "Alec F."
+                },
+                {
+                    "family": "Li",
+                    "given": "Chenghan"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Xing"
+                },
+                {
+                    "family": "Chan",
+                    "given": "Garnet Kin-Lic"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        4
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/86TEHP6F",
+            "type": "article-journal",
+            "title": "Oxygen-coordinated low-nucleus cluster catalysts for enhanced electrocatalytic water oxidation",
+            "container-title": "Carbon Energy",
+            "page": "e216",
+            "volume": "5",
+            "issue": "2",
+            "abstract": "The oxygen evolution reaction (OER) activity of single-atom catalysts (SACs) is closely related to the coordination environment of the active site. Oxygen-coordinated atomic metal species bring about unique features beyond nitrogen-coordinated atomic metal species due to the fact that the M–O bond is weaker than the M–N bond. Herein, a series of metal–oxygen–carbon structured low-nucleus clusters (LNCs) are successfully anchored on the surface of multiwalled carbon nanotubes (M-MWCNTs, M = Ni, Co, or Fe) through a foolproof low-temperature gas transfer (300°C) method without any further treatment. The morphology and coordination configuration of the LNCs at the atomic level were confirmed by comprehensive characterizations. The synthetic Ni-MWCNTs electrocatalyst features excellent OER activity and stability under alkaline conditions, transcending the performances of Co-MWCNTs, Fe-MWCNTs and RuO2. Density functional theory calculations reveal that the moderate oxidation of low-nucleus Ni clusters changes the unoccupied orbital of Ni atoms, thereby lowering the energy barrier of the OER rate-limiting step and making the OER process more energy-efficient. This study demonstrates a novel versatile platform for large-scale manufacturing of oxygen-coordinated LNC catalysts.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cey2.216",
+            "DOI": "10.1002/cey2.216",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/cey2.216",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Ji",
+                    "given": "Jiapeng"
+                },
+                {
+                    "family": "Hou",
+                    "given": "Yunpeng"
+                },
+                {
+                    "family": "Zhou",
+                    "given": "Shiyu"
+                },
+                {
+                    "family": "Qiu",
+                    "given": "Tong"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Liang"
+                },
+                {
+                    "family": "Ma",
+                    "given": "Lu"
+                },
+                {
+                    "family": "Qian",
+                    "given": "Chao"
+                },
+                {
+                    "family": "Zhou",
+                    "given": "Shaodong"
+                },
+                {
+                    "family": "Liang",
+                    "given": "Chengdu"
+                },
+                {
+                    "family": "Ling",
+                    "given": "Min"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/QER85EYY",
+            "type": "article-journal",
+            "title": "Reaction site evolution during low-temperature oxidation of low-rank coal",
+            "container-title": "Fuel",
+            "page": "125195",
+            "volume": "327",
+            "abstract": "In-depth and comprehensive analysis of reaction sites evolution has important enlightening significance for understanding the chemical reaction sequence during low-temperature oxidation. For this purpose, FT-IR, XPS and 13C NMR were combined to analyze the changes in reaction sites. As the oxidation temperature increased, the CH3/CH2 ratio continuously increases, indicating that methylene has a higher reactivity. Before the oxidation temperature reached 150 °C, the relative content of C-H decreased slightly while that of C-O increased. Then, the C-O gradually transformed into C=O. When the oxidation temperature exceeds 150 °C, the ratio of aliphatic carbon has been significantly reduced and that of aromatic carbon is greatly increased. The ratio of carbonyl carbon also has a small increase. Based on these results, representative macromolecular models are established and electrostatic potential analysis is performed. The results show that the main active site is the hydroxyl, methyl and methylene groups, especially the hydroxyl in the carboxyl group. In summary, it can be considered that the main active sites for coal oxidation at low temperature are hydroxyl and methylene groups. At higher temperatures, the hydroxyl group will be further oxidized and the main active site will gradually evolve into carboxyl groups.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0016236122020348",
+            "DOI": "10.1016/j.fuel.2022.125195",
+            "journalAbbreviation": "Fuel",
+            "author": [
+                {
+                    "family": "Fan",
+                    "given": "Lulu"
+                },
+                {
+                    "family": "Meng",
+                    "given": "Xianliang"
+                },
+                {
+                    "family": "Zhao",
+                    "given": "Jianqiao"
+                },
+                {
+                    "family": "Zhou",
+                    "given": "Yang"
+                },
+                {
+                    "family": "Chu",
+                    "given": "Ruizhi"
+                },
+                {
+                    "family": "Yu",
+                    "given": "Shi"
+                },
+                {
+                    "family": "Li",
+                    "given": "Weisong"
+                },
+                {
+                    "family": "Wu",
+                    "given": "Guoguang"
+                },
+                {
+                    "family": "Jiang",
+                    "given": "Xiaofeng"
+                },
+                {
+                    "family": "Miao",
+                    "given": "Zhenyong"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        11,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/9A4ZHHZ9",
+            "type": "article-journal",
+            "title": "Theoretical Insight into the Adsorption of Dichlorodiphenyltrichloroethane on Titanium Dioxide Supported on Graphitic Carbon Nitride",
+            "container-title": "Russian Journal of Physical Chemistry A",
+            "page": "2232-2237",
+            "volume": "96",
+            "issue": "10",
+            "abstract": "Adsorption of dichlorodiphenyltrichloroethane (DDT) on titanium dioxide supported on graphitic carbon nitride (TiO2/cGN) was investigated using a novel, accurate and broadly parametrized self-consistent tight-binding quantum chemical (GFN2-xTB) method. The adsorption energy, charges on atoms, bond orders and reaction pathway have been determined and analyzed to figure out the nature of the adsorption process. The obtained results indicate that the adsorption of DDT on the pristine cGN is physical of nature. The combination of TiO2 and cGN significantly enhanced the material’s adsorption performance. DDT is chemically adsorbed on TiO2/cGN due to the formation of chemical bonds between atoms of DDT and TiO2/cGN. In addition, the adsorption process does not involve a transition state.",
+            "URL": "https://doi.org/10.1134/S0036024422100065",
+            "DOI": "10.1134/S0036024422100065",
+            "journalAbbreviation": "Russ. J. Phys. Chem.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Be",
+                    "given": "Pham Thi"
+                },
+                {
+                    "family": "Hao",
+                    "given": "Nguyen Hoang"
+                },
+                {
+                    "family": "Giang",
+                    "given": "Nguyen Thi Kim"
+                },
+                {
+                    "family": "Ha",
+                    "given": "Nguyen Thi Thu"
+                },
+                {
+                    "family": "Ha",
+                    "given": "Nguyen Ngoc"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        10,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/FGF3R6Y6",
+            "type": "article-journal",
+            "title": "Desorption of organic molecules from interstellar ices, combining experiments and computer simulations: Acetaldehyde as a case study",
+            "container-title": "Astronomy & Astrophysics",
+            "page": "A169",
+            "volume": "664",
+            "abstract": "<i><b>Context.<b/><i/> Explaining the presence of complex organic molecules (COMs) in interstellar environments requires a thorough understanding of the physics and chemistry occurring in the interplay between the gas phase and interstellar surfaces. Experiments and computer simulations are pivotal in building a comprehensive catalogue of processes of relevance for the build up of organic molecules in those environments.<i><b>Aims.<b/><i/> We combine experiments with tailored computer simulations to study the desorption dynamics of acetaldehyde CH<sub>3<sub/>CHO – an important organic precursor in cold interstellar environments - on amorphous solid water for the first time. Our goals with this paper are twofold. Firstly, we want to contextualise the role of this molecule in the evolution of organic molecules in space. Secondly, we want to suggest a joint scheme to produce quantitative information on desorption magnitudes based on the combination of computations and experiments. This scheme can be adopted to refine measurements of other molecules.<i><b>Methods.<b/><i/> We determined desorption energies and pre-exponential factors of desorption theoretically using molecular dynamics simulations that combine semi-empirical and density functional calculations. We also performed temperature-programmed desorption experiments with acetaldehyde on top of non-porous amorphous solid water. The combination of theoretical and experimental results allows us to derive reliable quantities, which are required for understanding the desorption dynamics of interstellar COMs (iCOMs) atop interstellar ices.<i><b>Results.<b/><i/> The average theoretical and experimental desorption energies found for CH<sub>3<sub/>CHO desorbing from non-porous amorphous solid water (np-ASW) surfaces are 3624 K and 3774 K, respectively. The pre-exponential factor determined theoretically is <i>v<i/><sub>theo<sub/> = 2.4 × 10<sup>12<sup/> s<sup>−1<sup/> while from the experiments it was possible to constrain this magnitude to 10<sup>12±1<sup/> s<sup>−1<sup/>.<i><b>Conclusions.<b/><i/> The comparison of the desorption energies of CH<sub>3<sub/>CHO with other COMs, such as CH<sub>3<sub/>NH<sub>2<sub/> or CH<sub>3<sub/>NO, shows that CH<sub>3<sub/>CHO is more volatile. Therefore, we suggest that, in consideration of the average binding energy, CH<sub>3<sub/>CHO should undergo preferential desorption during the ice-sublimation phase in hot cores enriching the gas-phase in this particular component. In addition, the overall low binding energy suggests a possible early return to the gas phase of pre-stellar cores due to non-thermal effects (i.e. reactive desorption or cosmic-ray-induced desorption). This could explain the prevalence of CH<sub>3<sub/>CHO in the gas phase of pre-stellar cores. Dedicated laboratory and theoretical efforts are required to confirm this last point.",
+            "URL": "https://www.aanda.org/articles/aa/abs/2022/08/aa43489-22/aa43489-22.html",
+            "DOI": "10.1051/0004-6361/202243489",
+            "note": "Publisher: EDP Sciences",
+            "shortTitle": "Desorption of organic molecules from interstellar ices, combining experiments and computer simulations",
+            "journalAbbreviation": "A&A",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Molpeceres",
+                    "given": "G."
+                },
+                {
+                    "family": "Kästner",
+                    "given": "J."
+                },
+                {
+                    "family": "Herrero",
+                    "given": "V. J."
+                },
+                {
+                    "family": "Peláez",
+                    "given": "R. J."
+                },
+                {
+                    "family": "Maté",
+                    "given": "B."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/T64UXQHR",
+            "type": "article-journal",
+            "title": "Atypical adsorption of polycarboxylate superplasticizers on calcium silicate hydrate surface: Converting interaction by solvent effects",
+            "container-title": "Construction and Building Materials",
+            "page": "127160",
+            "volume": "330",
+            "abstract": "Although PCE adsorption occurrence is widely perceived to correlate to the anchoring of the carboxyl group on the PCE backbone, the understanding of the details is still insufficient. Here, we investigate the microstructural behavior of PCE adsorption with and without aqueous environments by molecular dynamics simulation and semi-empirical quantum chemistry calculation. We found that the introduction of an aqueous environment can change the mode of adsorption from strictly anchoring to atypical that the chains of PCE can sweep around the C-S-H surface. Two kinds of segments on the C-S-H surface have anchored the PCE, including Ca ions and hydroxyl. The aqueous environment alters the domination segments from Ca ions to hydroxyl. Further electronic analysis proves the weakening of bonding strength between PCE and C-S-H by solvation effects. This weakened interaction promotes the potential well of free energy away from the C-S-H surface and finally caused the atypical adsorption of PCE.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0950061822008418",
+            "DOI": "10.1016/j.conbuildmat.2022.127160",
+            "shortTitle": "Atypical adsorption of polycarboxylate superplasticizers on calcium silicate hydrate surface",
+            "journalAbbreviation": "Construction and Building Materials",
+            "author": [
+                {
+                    "family": "Hou",
+                    "given": "Dongshuai"
+                },
+                {
+                    "family": "Ji",
+                    "given": "Xiang"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Pan"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Jun"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Muhan"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        5,
+                        2
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/6ERE3BED",
+            "type": "article-journal",
+            "title": "Modulation of surface properties on cobalt phosphide for high-performance ambient ammonia electrosynthesis",
+            "container-title": "Applied Catalysis B: Environmental",
+            "page": "120874",
+            "volume": "303",
+            "abstract": "Tuning surface properties of electrocatalysts for sustainable electrocatalytic nitrogen reduction reaction (NRR) with high selectivity and activity is highly demanded but still lacks fundamental understanding and modulation methods. Herein, we report the transformation of hydrogen evolution reaction (HER)-favorable cobalt phosphide (CoP) to NRR-favorable electrocatalyst via modulation of surface properties. The oxidized CoP particles encapsulated in carbon nanotubes (O-CoP/CNT) exhibits a high NH3 yield of 39.58 µg h−1 mg-1 cat as well as high Faradaic efficiency (FE) of 19.4% at −0.5 V vs. reversible hydrogen electrode (RHE), which is confirmed by 15N2 isotope-labeling tests. In-situ Raman spectra identify that N2 molecules are preferentially captured by Co ions, while the surface-adsorbed H+ are gradually eliminated. The hydrophobic surface of CNT can limit the contact of protons with the catalyst surface to inhibit HER, and the formation of hydrogen bond facilitates a more efficient NRR process. The surface modulation effects are confirmed by density functional theory calculations.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0926337321009991",
+            "DOI": "10.1016/j.apcatb.2021.120874",
+            "journalAbbreviation": "Applied Catalysis B: Environmental",
+            "author": [
+                {
+                    "family": "Meng",
+                    "given": "Qiangguo"
+                },
+                {
+                    "family": "Hou",
+                    "given": "Yunpeng"
+                },
+                {
+                    "family": "Yang",
+                    "given": "Fangqi"
+                },
+                {
+                    "family": "Cao",
+                    "given": "Chenliang"
+                },
+                {
+                    "family": "Zou",
+                    "given": "Zhi"
+                },
+                {
+                    "family": "Luo",
+                    "given": "Junhui"
+                },
+                {
+                    "family": "Zhou",
+                    "given": "Weizhen"
+                },
+                {
+                    "family": "Tong",
+                    "given": "Zhikun"
+                },
+                {
+                    "family": "Chen",
+                    "given": "Shixia"
+                },
+                {
+                    "family": "Zhou",
+                    "given": "Shaodong"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Jun"
+                },
+                {
+                    "family": "Deng",
+                    "given": "Shuguang"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        4,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/QXV4YN4L",
+            "type": "article-journal",
+            "title": "Combined experimental and theoretical studies on enlarged bandgap and improved photoelectrochemical properties of reduced graphene oxide film by hydrogen annealing",
+            "container-title": "Journal of Electroanalytical Chemistry",
+            "page": "115722",
+            "volume": "900",
+            "abstract": "The effect of thermal annealing on the recovery of sp2 carbon networks in the reduced graphene oxide (RGO) and its consequent bandgap enlargement and electrical conductivity improvement were thoroughly studied, experimentally and theoretically correlated. The annealed RGO film at 1100 °C (designated as RGO1100) exhibited a low sheet resistance (1250 Ω.cm−2) with a wide bandgap of 2.82 eV. The photoelectrochemical (PEC) experiments in 1 M H2SO4 solution under solar simulation light (1.5 AM) showed photocurrent densities of 48 and 70 μA.cm−2 for non-annealed RGO (72.5% sp2 fraction) and RGO1100 (87% sp2 fraction) respectively, equivalent to an increase of 45.8% for RGO1100. The bandgap widening as well as electrical conductivity increase of RGO1100 were closely interpreted on the basis of sp2 domain restoration, electronic and molecular orbital structures obtained from extensive experimental data as well as elaborated Geometry, Frequency, Noncovalent Extended Tight-binding (GFN2-xTB) and simplified Tamm-Dancoff density functional theory (sTD-DFT) calculations. The correlation between the electronic structure and the PEC performance of the RGO was also evaluated when the impact of the spatial distribution of oxidation and reduction regions on the recombination rate between photogenerated electrons and holes had been taken into account. The findings shed light on the structure-PEC relationship of RGO1100, which will definitely assist in designing and tailoring RGO-based, highly active materials for PEC applications.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S1572665721007487",
+            "DOI": "10.1016/j.jelechem.2021.115722",
+            "journalAbbreviation": "Journal of Electroanalytical Chemistry",
+            "author": [
+                {
+                    "family": "Van Khai",
+                    "given": "Tran"
+                },
+                {
+                    "family": "Viet Hai",
+                    "given": "Le"
+                },
+                {
+                    "family": "Thi Thu Ha",
+                    "given": "Nguyen"
+                },
+                {
+                    "family": "Thi Thom",
+                    "given": "Nguyen"
+                },
+                {
+                    "family": "Van Trang",
+                    "given": "Nguyen"
+                },
+                {
+                    "family": "Thi Nam",
+                    "given": "Pham"
+                },
+                {
+                    "family": "Ngoc Ha",
+                    "given": "Nguyen"
+                },
+                {
+                    "family": "Dai Lam",
+                    "given": "Tran"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        11,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/3SKGLSY8",
+            "type": "article-journal",
+            "title": "Efficient evaluation of electrostatic potential with computerized optimized code",
+            "container-title": "Physical Chemistry Chemical Physics",
+            "page": "20323-20328",
+            "volume": "23",
+            "issue": "36",
+            "abstract": "The evaluation of molecular electrostatic potential (ESP) is a performance bottleneck for many computational chemical tasks like restrained ESP charge fitting or quantum mechanics/molecular mechanics simulations. In this paper, an efficient algorithm for the evaluation of ESP is proposed. It regroups the expression in terms of primitive Gaussian type orbitals (GTOs) with identical angular momentum types and nuclei centers. Each term is calculated using a computerized optimized code. This algorithm was integrated into the wavefunction analysis program Multiwfn and was tested on several large systems. In the cases of dopamine and remdesivir, the performance of this algorithm was comparable to or better than some popular state-of-the-art codes. For meta1–organic framework-5, where the number of GTOs and ESP points is 4840 and 259 262, respectively, our code could finish the evaluation in 1874 seconds on ordinary hardware. It also exhibits good parallelization scaling. The source code of this algorithm is freely available and can become a useful tool for computational chemists.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2021/cp/d1cp02805g",
+            "DOI": "10.1039/D1CP02805G",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Zhang",
+                    "given": "Jun"
+                },
+                {
+                    "family": "Lu",
+                    "given": "Tian"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        9,
+                        22
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/M2IK9RT6",
+            "type": "article-journal",
+            "title": "Simulation of the electron ionization mass spectra of the Novichok nerve agent",
+            "container-title": "Journal of Mass Spectrometry",
+            "page": "e4779",
+            "volume": "56",
+            "issue": "9",
+            "abstract": "Novichok is one of the most feared and controversial nerve agents, which existence was confirmed only after the Salisbury attack in 2018. A new attack on August 2020, in Russia, was confirmed. After the 2018 attack, the agent was included in the list of the most dangerous chemicals of the Chemical Weapons Convention (CWC). However, information related to its electron ionization mass spectrometry (EI/MS), essential for unambiguous identification, is scarce. Therefore, investigations about Novichok EI/MS are urgent. In this work, we employed Born–Oppenheimer molecular dynamics through the Quantum Chemistry Electron Ionization Mass Spectrometry (QCEIMS) method to simulate and rationalize the EI/MS spectra and fragmentation pathways of 32 Novichok molecules recently incorporated into the CWC. The comparison of additional simulations with the measured EI spectrum of another Novichok analog is very favorable. A general scheme of the fragmentation pathways derived from simulation results was presented. The present results will be useful for elucidation and prediction of the EI spectra and fragmentation pathways of the dangerous Novichok nerve agent.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jms.4779",
+            "DOI": "10.1002/jms.4779",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/jms.4779",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Chernicharo",
+                    "given": "Francisco C. S."
+                },
+                {
+                    "family": "Modesto-Costa",
+                    "given": "Lucas"
+                },
+                {
+                    "family": "Borges Jr.",
+                    "given": "Itamar"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/K2XJYJZK",
+            "type": "article-journal",
+            "title": "The microscopic insights into the adsorption of Cu2+, Pb2+ and Zn2+ onto g-C3N4 surfaces by a combined spectroscopic characterization and DFT theoretical calculations",
+            "container-title": "Journal of Environmental Chemical Engineering",
+            "page": "105433",
+            "volume": "9",
+            "issue": "4",
+            "abstract": "The graphitic phase carbon nitride (g-C3N4) is increasingly employed to remove heavy metals from wastewater, but the intrinsic imobilization mechanism still needs to be explored. Herein, the g-C3N4 before and after adsorption for Cu2+, Pb2+ and Zn2+ was firstly characterized using high resolution transmission electron microscope, energy dispersive X-ray, fourier transform infrared, and X-ray diffraction. Then two types of C3N4 structures were calculated, i.e. the triazine (C3N4a) and tri-s-triazine units (C3N4b) using the DFT theoretical calculation. The results indicated that the g-C3N4 materials possessed a well-developed 2D lamellar sturcture, basic tris-triazine units, and abundent C-N, C˭N, –NH–, and –NH2 groups. After successfully adsorption for Cu2+, Pb2+ and Zn2+, the surface functional groups, typical tris-triazine units, and the amino functions of g-C3N4 were still well retained. The Cu2+, Pb2+ and Zn2+ ions combined with C3N4a and C3N4b, trapped in the hole surrounded by triazine molecules, and produced both three-cordinated [C3N4a-Cu/Pb/Zn]2+ and six-coordination [C3N4b-Cu/Pb/Zn]2+ structures. Interestingly, the heavy metals could be trapped within the C3N4b plane but be fixed above the C3N4a plane, and a higher sorpiton energy and coordination number were found for the structure of [C3N4b-Cu/Pb/Zn]2+ compared to [C3N4a-Cu/Pb/Zn]2+. In total, this study provides a new insight into the adsorption mechanism of g-C3N4 for heavy metal ions in water.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S2213343721004103",
+            "DOI": "10.1016/j.jece.2021.105433",
+            "journalAbbreviation": "Journal of Environmental Chemical Engineering",
+            "author": [
+                {
+                    "family": "Dong",
+                    "given": "Lijia"
+                },
+                {
+                    "family": "Liao",
+                    "given": "Qing"
+                },
+                {
+                    "family": "Wu",
+                    "given": "Chunlei"
+                },
+                {
+                    "family": "Du",
+                    "given": "Kui"
+                },
+                {
+                    "family": "Sheng",
+                    "given": "Guodong"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        8,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/L3CR474C",
+            "type": "article-journal",
+            "title": "Brevianthrones, bianthrones from a Chinese isolate of the endophytic fungus <i>Colletotrichum brevisporum</i>",
+            "container-title": "Phytochemistry",
+            "page": "112792",
+            "volume": "188",
+            "abstract": "Seven undescribed bianthrones, the brevianthrones, together with two known anthraquinones, were isolated from the plant-derived fungus Colletotrichum brevisporum, obtained from the plant Piper sarmentosum Roxb., collected in Guangxi, China. This is the first report of the isolation of bianthrones from the Colletotrichum genus. The structures of the compounds were elucidated by a combination of NMR and MS spectroscopic analysis, while the absolute configurations were determined by X-ray crystallography and by simulation of ECD spectra.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0031942221001412",
+            "DOI": "10.1016/j.phytochem.2021.112792",
+            "journalAbbreviation": "Phytochemistry",
+            "author": [
+                {
+                    "family": "Lin",
+                    "given": "Min"
+                },
+                {
+                    "family": "Adpressa",
+                    "given": "Donovon A."
+                },
+                {
+                    "family": "Feng",
+                    "given": "Meiyu"
+                },
+                {
+                    "family": "Lu",
+                    "given": "Ya"
+                },
+                {
+                    "family": "Clark",
+                    "given": "Benjamin R."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        8,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/JWX2SNKV",
+            "type": "article-journal",
+            "title": "Facilitating effect of heavy metals on di(2-ethylhexyl) phthalate adsorption in soil: New evidence from adsorption experiment data and quantum chemical simulation",
+            "container-title": "Science of The Total Environment",
+            "page": "144980",
+            "volume": "772",
+            "abstract": "In terms of researching and treating farmland pollution, interactions between organic and inorganic pollutants are very important aspects. Herein, the effects of heavy metals on di(2-ethylhexyl) phthalate (DEHP) adsorption in soil were investigated. The presence of Cd2+/Cu2+ increased the adsorption capacity of DEHP (>23%) in a nonlinear manner. Fourier transform infrared spectroscopy revealed that the stretching vibration of soil functional groups changed under different pollution combinations, while quantum chemical simulation, including an independent gradient model and localized orbital locator, proved that outer-orbital complexes could be formed by electrostatic interaction between Cd2+/Cu2+ and DEHP. The electron transfer process was analyzed by charge decomposition analyses, and these, combined with bond critical point analyses, revealed that metal ions reduced DEHP stability. The binding energy and binding free energy of different combinations were calculated and analyzed, using the key soil organic matter (SOM) information obtained through pyrolysis gas chromatography mass spectrometry. This effectively explained the adsorption behavior, and showed that SOM polar functional groups played an important role in the effect of heavy metals on DEHP adsorption. The study described here has provided a new basis for understanding the multiple interactions, accumulation, and transformation of pollutants in the soil.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0048969721000462",
+            "DOI": "10.1016/j.scitotenv.2021.144980",
+            "shortTitle": "Facilitating effect of heavy metals on di(2-ethylhexyl) phthalate adsorption in soil",
+            "journalAbbreviation": "Science of The Total Environment",
+            "author": [
+                {
+                    "family": "Zhang",
+                    "given": "Ying"
+                },
+                {
+                    "family": "Huang",
+                    "given": "Fuxin"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Lei"
+                },
+                {
+                    "family": "Guan",
+                    "given": "Rui"
+                },
+                {
+                    "family": "Yu",
+                    "given": "Hui"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Lei"
+                },
+                {
+                    "family": "Qu",
+                    "given": "Jianhua"
+                },
+                {
+                    "family": "Gao",
+                    "given": "Mengshan"
+                },
+                {
+                    "family": "Du",
+                    "given": "Shiyu"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        10
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/NEVGFPJS",
+            "type": "article-journal",
+            "title": "Surface oxidized nano-cobalt wrapped by nitrogen-doped carbon nanotubes for efficient purification of organic wastewater",
+            "container-title": "Separation and Purification Technology",
+            "page": "118098",
+            "volume": "259",
+            "abstract": "Dyes and antibiotics in the wastewater discharged by factories have caused immeasurable harm to natural water bodies. It is of great significance to remove the organic pollutants from wastewater. Herein, a novel magnetic nanomaterial of surface oxidized nano-cobalt wrapped by nitrogen-doped carbon nanotubes (Co@CoO/NC) was prepared through a one-step annealing method and used as efficient adsorbing material for tetracycline (TC) and rhodamine B (RhB). The maximum adsorption capacity of the optimal Co@CoO/NC for RhB and TC was 679.56 mg·g−1 and 385.60 mg·g−1, respectively. As a kind of magnetic recyclable and reused adsorbent, Co@CoO/NC could respectively maintain 75% and 84% of absorption capacities for TC and RhB after four repetitions. The adsorption processes were well matched with the pseudo-second-order kinetic model and the Langmuir model. The Zeta potential, XPS, FT-IR and theoretical calculation results showed that the hydrogen bonding and π-π electron donor-acceptor interaction dominated the adsorption of TC and RhB. Due to the presence of CoO on the surface of Co nanoparticles, cation exchange and surface complexation also played an essential role in the adsorption of TC. This work provides a new opportunity for the rational design and construction of efficient, stable and easily recyclable adsorbents in environmental remediation.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S1383586620325715",
+            "DOI": "10.1016/j.seppur.2020.118098",
+            "journalAbbreviation": "Separation and Purification Technology",
+            "author": [
+                {
+                    "family": "Yang",
+                    "given": "Guanrong"
+                },
+                {
+                    "family": "Li",
+                    "given": "Yuhang"
+                },
+                {
+                    "family": "Yang",
+                    "given": "Siyuan"
+                },
+                {
+                    "family": "Liao",
+                    "given": "Jihai"
+                },
+                {
+                    "family": "Cai",
+                    "given": "Xin"
+                },
+                {
+                    "family": "Gao",
+                    "given": "Qiongzhi"
+                },
+                {
+                    "family": "Fang",
+                    "given": "Yueping"
+                },
+                {
+                    "family": "Peng",
+                    "given": "Feng"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Shengsen"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        15
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/6QRDWZ3H",
+            "type": "article-journal",
+            "title": "Geometry-Directed Self-Assembly of Polymeric Molecular Frameworks",
+            "container-title": "Angewandte Chemie International Edition",
+            "page": "2024-2029",
+            "volume": "60",
+            "issue": "4",
+            "abstract": "Despite the significant advances in creating assembled structures from polymers, engineering the assembly of polymeric materials into framework structures remains an outstanding challenge. In this work, we present a facile strategy to construct polymeric molecular frameworks through the assembly of T-shape polymer-rod-sphere amphiphiles in the bulk state. Various frameworks are yielded as a result of delicate interplays among three components of the T-shape amphiphiles. The internal structure of frameworks was revealed by combining experimental investigations and computational simulations. The frameworks display good solution-processability, thermal stability, and uniform pore-forming capability, which endow the resultant frameworks with great potential in scalable fabrications.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202012117",
+            "DOI": "10.1002/anie.202012117",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.202012117",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Yan",
+                    "given": "Xiao-Yun"
+                },
+                {
+                    "family": "Guo",
+                    "given": "Qing-Yun"
+                },
+                {
+                    "family": "Lin",
+                    "given": "Zhiwei"
+                },
+                {
+                    "family": "Liu",
+                    "given": "Xian-You"
+                },
+                {
+                    "family": "Yuan",
+                    "given": "Jun"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Jing"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Haomin"
+                },
+                {
+                    "family": "Liu",
+                    "given": "Yuchu"
+                },
+                {
+                    "family": "Su",
+                    "given": "Zebin"
+                },
+                {
+                    "family": "Liu",
+                    "given": "Tong"
+                },
+                {
+                    "family": "Huang",
+                    "given": "Jiahao"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Ruimeng"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Yicong"
+                },
+                {
+                    "family": "Huang",
+                    "given": "Mingjun"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Wei"
+                },
+                {
+                    "family": "Cheng",
+                    "given": "Stephen Z. D."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/TY4MYKJ8",
+            "type": "article-journal",
+            "title": "Al2O3 microparticles immobilized on glassy‑carbon electrode as catalytic sites for the electrochemical oxidation and high detectability of naproxen: Experimental and simulation insights",
+            "container-title": "Journal of Electroanalytical Chemistry",
+            "page": "114988",
+            "volume": "882",
+            "abstract": "This work demonstrates that Al2O3 microparticles immobilized on a glassy‑carbon electrode (GCE) anticipate the electrochemical oxidation of naproxen in 150 mV and increases its oxidation current, resulting in a highly sensitive sensor. Considering their non-conducting nature, we suggest that Al2O3 microparticles act as adsorption sites that alter the electrochemical oxidation pathway of naproxen by adsorbing its intermediate(s) and facilitating the electron transfer at the GCE surface. Interestingly, the voltammetric results obtained for ibuprofen (presents similar chemical structure and electrochemical oxidation mechanism) indicated the same facilitated electron transfer that suggests that the interaction between naproxen (or ibuprofen) with Al2O3 microparticles occurs via the carboxylic group, which is removed after the first electron transfer according to the proposed mechanism. Molecular dynamics simulations showed stronger interaction of naproxen than ibuprofen with alumina sites which may explain the respective facilitated electron transfer. Moreover, a stronger interaction of a major electrochemical oxidation product of naproxen with alumina was confirmed by simulation and explains the electrode fouling occurred when more positive potentials (+1.4 V instead of +1.0 V vs. Ag/AgCl/KClsat) were applied for the naproxen amperometric detection. The alumina-modified GCE surface presented a detection limit of 12 nmol L−1 with a linear range between 50 and 500 nmol L−1 for naproxen determination (Edet = +1.0 V). These sensing characteristics are superior in comparison with electrodes modified with carbon nanotubes and their composites. Hence, a simpler protocol for electrode modification using a non-conducting material can provide a highly sensitive sensor for naproxen due to its catalytic properties facilitating the electron transfer between naproxen (or ibuprofen) and GCE.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S157266572100014X",
+            "DOI": "10.1016/j.jelechem.2021.114988",
+            "shortTitle": "Al2O3 microparticles immobilized on glassy‑carbon electrode as catalytic sites for the electrochemical oxidation and high detectability of naproxen",
+            "journalAbbreviation": "Journal of Electroanalytical Chemistry",
+            "author": [
+                {
+                    "family": "Lima",
+                    "given": "Ana P."
+                },
+                {
+                    "family": "Nunes",
+                    "given": "Gabriela L."
+                },
+                {
+                    "family": "Franco",
+                    "given": "Rodrigo G."
+                },
+                {
+                    "family": "Mariano-Neto",
+                    "given": "Rafael"
+                },
+                {
+                    "family": "Oliveira",
+                    "given": "Guedmiller S."
+                },
+                {
+                    "family": "Richter",
+                    "given": "Eduardo M."
+                },
+                {
+                    "family": "Nossol",
+                    "given": "Edson"
+                },
+                {
+                    "family": "Munoz",
+                    "given": "Rodrigo A. A."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/5CCUMSNN",
+            "type": "article-journal",
+            "title": "Simultaneous interlayer and intralayer space control in two-dimensional metal−organic frameworks for acetylene/ethylene separation",
+            "container-title": "Nature Communications",
+            "page": "6259",
+            "volume": "11",
+            "issue": "1",
+            "abstract": "Three-dimensional metal−organic frameworks (MOFs) are cutting-edge materials in the adsorptive removal of trace gases due to the availability of abundant pores with specific chemistry. However, the development of ideal adsorbents combining high adsorption capacity with high selectivity and stability remains challenging. Here we demonstrate a strategy to design adsorbents that utilizes the tunability of interlayer and intralayer space of two-dimensional fluorinated MOFs for capturing acetylene from ethylene. Validated by X-ray diffraction and modeling, a systematic variation of linker atom oxidation state enables fine regulation of layer stacking pattern and linker conformation, which affords a strong interlayer trapping of molecules along with cooperative intralayer binding. The resultant robust materials (ZUL-100 and ZUL-200) exhibit benchmark capacity in the pressure range of 0.001–0.05 bar with high selectivity. Their efficiency in acetylene/ethylene separation is confirmed by breakthrough experiments, giving excellent ethylene productivities (121 mmol/g from 1/99 mixture, 99.9999%), even when cycled under moist conditions.",
+            "URL": "https://www.nature.com/articles/s41467-020-20101-7",
+            "DOI": "10.1038/s41467-020-20101-7",
+            "note": "Number: 1\nPublisher: Nature Publishing Group",
+            "journalAbbreviation": "Nat Commun",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Shen",
+                    "given": "Jin"
+                },
+                {
+                    "family": "He",
+                    "given": "Xin"
+                },
+                {
+                    "family": "Ke",
+                    "given": "Tian"
+                },
+                {
+                    "family": "Krishna",
+                    "given": "Rajamani"
+                },
+                {
+                    "family": "van Baten",
+                    "given": "Jasper M."
+                },
+                {
+                    "family": "Chen",
+                    "given": "Rundao"
+                },
+                {
+                    "family": "Bao",
+                    "given": "Zongbi"
+                },
+                {
+                    "family": "Xing",
+                    "given": "Huabin"
+                },
+                {
+                    "family": "Dincǎ",
+                    "given": "Mircea"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Zhiguo"
+                },
+                {
+                    "family": "Yang",
+                    "given": "Qiwei"
+                },
+                {
+                    "family": "Ren",
+                    "given": "Qilong"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        7
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/BTIVVR9U",
+            "type": "article-journal",
+            "title": "Architecting neonicotinoid-scavenging nanocomposite hydrogels for environmental remediation",
+            "container-title": "Applied Materials Today",
+            "page": "100878",
+            "volume": "21",
+            "abstract": "The ubiquitous presence of neonicotinoid insecticides in the environment poses potential health concerns across all biomes, aquatic systems, and food chains. This global environmental challenge requires robust, advanced materials to efficiently scavenge and remove these harmful neonicotinoids. In this work, we engineered nanocomposite hydrogels based on sustainable cellulose acetate for water treatment. The nanocomposite hydrogels were incorporated with small quantities of polymers of intrinsic microporosity (PIM-1) and graphene oxide (GO). We prepared the hydrogels using green solvents such as Cyrene and MeTHF via simple dropwise phase inversion. High adsorption capacity and fast kinetic behavior toward acetamiprid, clothianidin, dinotefuran, imidacloprid, and thiamethoxam were observed. We also developed a rapid and sustainable ultrasound-assisted regeneration method for the hydrogels. Molecular dynamics of the complex quaternary system revealed the synergistic effects of the components, and the presence of PIM-1 was found to increase the GO surface area available for neonicotinoid scavenging. We demonstrated the robustness and practicality of the nanocomposites in continuous environmental remediation by using the hydrogels to treat contaminated groundwater from the Adyar river in India. The presented methodology is adaptable to other contaminants in both aqueous environments and organic media.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S2352940720303267",
+            "DOI": "10.1016/j.apmt.2020.100878",
+            "journalAbbreviation": "Applied Materials Today",
+            "author": [
+                {
+                    "family": "Alammar",
+                    "given": "Abdulaziz"
+                },
+                {
+                    "family": "Park",
+                    "given": "Sang-Hee"
+                },
+                {
+                    "family": "Ibrahim",
+                    "given": "Izwaharyanie"
+                },
+                {
+                    "family": "Arun",
+                    "given": "Deepak"
+                },
+                {
+                    "family": "Holtzl",
+                    "given": "Tibor"
+                },
+                {
+                    "family": "Dumée",
+                    "given": "Ludovic F."
+                },
+                {
+                    "family": "Lim",
+                    "given": "Hong Ngee"
+                },
+                {
+                    "family": "Szekely",
+                    "given": "Gyorgy"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/4QDYLPZH",
+            "type": "article-journal",
+            "title": "What is the driving force behind molecular triangles and their guests? A quantum chemical perspective about host–guest interactions",
+            "container-title": "Physical Chemistry Chemical Physics",
+            "page": "19213-19222",
+            "volume": "22",
+            "issue": "34",
+            "abstract": "The physical nature of host–guest (HG) interactions occurring between molecular triangles and linear anions was explored using density functional theory (DFT) calculations combined with energy decomposition analyses (EDA), nuclear independent chemical shift (NICS), and non-covalent interaction index (NCI). We demonstrate that: (i) in addition to the host being significantly rigid, the strain energies are not negligible, especially for host 2; (ii) halogen anions interact mainly by electrostatic forces (ΔEelst > ΔEorbtot > ΔEdisp), meanwhile; (iii) trihalogen anions interact mostly by dispersion forces (ΔEdisp > ΔEelst ≈ ΔEorbtot). The NICS and NCI calculations corroborate the idea that HG interactions are considerably mediated through dispersion terms, and also indicate an antiaromatic character inside the host walls.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp01821j",
+            "DOI": "10.1039/D0CP01821J",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "shortTitle": "What is the driving force behind molecular triangles and their guests?",
+            "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Nagurniak",
+                    "given": "Glaucio R."
+                },
+                {
+                    "family": "Piotrowski",
+                    "given": "Maurício J."
+                },
+                {
+                    "family": "Muñoz-Castro",
+                    "given": "Àlvaro"
+                },
+                {
+                    "family": "Cascaldi",
+                    "given": "João B. S."
+                },
+                {
+                    "family": "Parreira",
+                    "given": "Renato L. T."
+                },
+                {
+                    "family": "Caramori",
+                    "given": "Giovanni F."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        9
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/IYCZQD9W",
+            "type": "article-journal",
+            "title": "Effect of SDBS solution on the surface potential properties of the Zhaozhuang coal",
+            "container-title": "Surface and Interface Analysis",
+            "page": "442-453",
+            "volume": "52",
+            "issue": "7",
+            "abstract": "It is of great significance to study the effect of surfactants on the coal surface potential for effective dust suppression in mining faces. The effect of different concentrations of sodium dodecyl benzene sulfonate (SDBS) solution on the surface potential of the Zhaozhuang coal was measured by atomic force microscopy (AFM). The experimental results show that the SDBS solution has significant influence on the surface potential of the Zhaozhuang coal. The electrical characteristics of the coal surface at the nanometer scale are different from those of macroscopic or the mesoscopic level. The surface potential of coal is basically a normal distribution, showing certain electrical characteristics. The mean value of the surface potential of the Zhaozhuang coal is increased with the increase in concentration of the SDBS solution; when the concentration of the SDBS solution is 0.3%, the mean value of surface potential is 5.59 mv, which is about two times of the mean value of the surface potential without SDBS solution added. With the increase of the concentration of the SDBS solution, the maximum value of the surface potential of the Zhaozhuang coal increases, and the minimum value decreases. It shows that the SDBS solution has a significant effect on the potential distribution law and the magnitude of the coal surface. Subsequently, on the basis of the constructed Zhaozhuang coal macromolecule model, xtb and Multiwfn simulation software were used to calculate the molecular surface electrostatic potential value and electron density value of the Zhaozhuang coal molecules after adding water molecules. The variation law for the electrostatic potential surface of the molecule was obtained after adding numbers of water molecules to the surface of the coal molecule. The simulation results show that the area proportion of absolute molecular surface electrostatic potential greater than 10 kcal/mol is increased with the growth in the number of water molecules, while the area proportion of absolute molecular surface electrostatic potential less than 10 kcal/mol is decreased. Because of the free state O─H bond polarity of water molecules, the charges on the molecular surface are rearranged in order to change the electron density on the surface of coal molecules, which affects the overall electrostatic potential of the configuration.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/sia.6755",
+            "DOI": "10.1002/sia.6755",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/sia.6755",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Meng",
+                    "given": "Junqing"
+                },
+                {
+                    "family": "Meng",
+                    "given": "Hanxie"
+                },
+                {
+                    "family": "Xia",
+                    "given": "Junkai"
+                },
+                {
+                    "family": "Niu",
+                    "given": "Jiaxing"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Chen"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/DD4D8HRG",
+            "type": "article-journal",
+            "title": "Selective Adsorption and Electrocatalysis of Polysulfides through Hexatomic Nickel Clusters Embedded in N-Doped Graphene toward High-Performance Li-S Batteries",
+            "container-title": "Research",
+            "volume": "2020",
+            "abstract": "The shuttle effect hinders the practical application of lithium-sulfur (Li-S) batteries due to the poor affinity between a substrate and Li polysulfides (LiPSs) and the sluggish transition of soluble LiPSs to insoluble Li2S or elemental S. Here, we report that Ni hexatomic clusters embedded in a nitrogen-doped three-dimensional (3D) graphene framework (Ni-N/G) possess stronger interaction with soluble polysulfides than that with insoluble polysulfides. The synthetic electrocatalyst deployed in the sulfur cathode plays a multifunctional role: (i) selectively adsorbing the polysulfides dissolved in the electrolyte, (ii) expediting the sluggish liquid-solid phase transformations at the active sites as electrocatalysts, and (iii) accelerating the kinetics of the electrochemical reaction of multielectron sulfur, thereby inhibiting the dissolution of LiPSs. The constructed S@Ni-N/G cathode delivers an areal capacity of 9.43 mAh cm-2 at 0.1 C at S loading of 6.8 mg cm-2, and it exhibits a gravimetric capacity of 1104 mAh g-1 with a capacity fading rate of 0.045% per cycle over 50 cycles at 0.2 C at S loading of 2.0 mg cm-2. This work opens a rational approach to achieve the selective adsorption and expediting of polysulfide transition for the performance enhancement of Li-S batteries.",
+            "URL": "https://spj.science.org/doi/10.34133/2020/5714349",
+            "DOI": "10.34133/2020/5714349",
+            "note": "Publisher: American Association for the Advancement of Science",
+            "author": [
+                {
+                    "family": "Ji",
+                    "given": "Jiapeng"
+                },
+                {
+                    "family": "Sha",
+                    "given": "Ying"
+                },
+                {
+                    "family": "Li",
+                    "given": "Zeheng"
+                },
+                {
+                    "family": "Gao",
+                    "given": "Xuehui"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Teng"
+                },
+                {
+                    "family": "Zhou",
+                    "given": "Shiyu"
+                },
+                {
+                    "family": "Qiu",
+                    "given": "Tong"
+                },
+                {
+                    "family": "Zhou",
+                    "given": "Shaodong"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Liang"
+                },
+                {
+                    "family": "Ling",
+                    "given": "Min"
+                },
+                {
+                    "family": "Hou",
+                    "given": "Yanglong"
+                },
+                {
+                    "family": "Liang",
+                    "given": "Chengdu"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        26
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/AKLFU9TS",
+            "type": "article-journal",
+            "title": "Predicting Melting Points of Biofriendly Choline-Based Ionic Liquids with Molecular Dynamics",
+            "container-title": "Applied Sciences",
+            "page": "5367",
+            "volume": "9",
+            "issue": "24",
+            "abstract": "In this work, we introduce a simulation-based method for predicting the melting point of ionic liquids without prior knowledge of their crystal structure. We run molecular dynamics simulations of biofriendly, choline cation-based ionic liquids and apply the method to predict their melting point. The root-mean-square error of the predicted values is below 24 K. We advocate that such precision is sufficient for designing ionic liquids with relatively low melting points. The workflow for simulations is available for everyone and can be adopted for any species from the wide chemical space of ionic liquids.",
+            "URL": "https://www.mdpi.com/2076-3417/9/24/5367",
+            "DOI": "10.3390/app9245367",
+            "note": "Number: 24\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Karu",
+                    "given": "Karl"
+                },
+                {
+                    "family": "Elhi",
+                    "given": "Fred"
+                },
+                {
+                    "family": "Põhako-Esko",
+                    "given": "Kaija"
+                },
+                {
+                    "family": "Ivaništšev",
+                    "given": "Vladislav"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/UQ3RX77J",
+            "type": "article-journal",
+            "title": "Effects of Ag doping on the electronic and optical properties of CdSe quantum dots",
+            "container-title": "Physical Chemistry Chemical Physics",
+            "page": "16108-16119",
+            "volume": "21",
+            "issue": "29",
+            "abstract": "Cadmium selenide (CdSe) nanocrystals are important photoelectric materials. Doping heterovalent impurities such as silver (Ag) in CdSe nanocrystal quantum dots (QDs) can provide additional charge carriers, which can significantly enhance the performance of CdSe QDs for their potential applications in high-efficiency photovoltaic devices. Using density functional theory (DFT) based calculations with the Heyd–Scuseria–Ernzerhof (HSE06) screened hybrid functional, we demonstrate that Ag doping can affect the structural, electronic and optical properties of CdSe QDs significantly. The location and number of Ag dopant atoms are critical factors for modifying the electronic structure, in particular the change of energy position and shape of the valence and conduction band edges. It is found that doping of Ag atoms into the core region of a CdSe nanoparticle induces metallic-like electronic characteristics with a dense number of electrons emerging at the Fermi level. However, incorporation of Ag dopant into the surface of a CdSe quantum dot introduces some mid-gap states that mainly consist of Se 4p states, and results in a new sub-bandgap electronic transition from mid-gap states to the conduction band. The calculated absorption spectra indicate that doping of just one or two Ag atoms greatly strengthens the absorption in the ultraviolet-visible regime and extends the absorption edges of CdSe QDs into the infrared regime. In particular, the spectra show a high-intensity absorption band between 424 and 600 nm with just 1 Ag atom incorporated into the CdSe QDs. Based on the improved absorption spectra, the present results provide a science-based strategy for designing Ag-doped CdSe QDs with enhanced visible light absorption for their application in high-efficiency photovoltaic devices.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp02433f",
+            "DOI": "10.1039/C9CP02433F",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Zhao",
+                    "given": "F. A."
+                },
+                {
+                    "family": "Xiao",
+                    "given": "H. Y."
+                },
+                {
+                    "family": "Bai",
+                    "given": "X. M."
+                },
+                {
+                    "family": "Zu",
+                    "given": "X. T."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        7,
+                        24
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/TD7RUPJB",
+            "type": "article-journal",
+            "title": "Insight into the Role of Hydroxypropyl Cellulose in Tuning Crystallization Behaviors of dl-Methionine",
+            "container-title": "Chem & Bio Engineering",
+            "abstract": "Efficient regulation of dl-methionine (dl-met) crystallization behavior remains of great interest since it usually appears in the form of needles or flakes, which is prone to cause problems in downstream processes. In this study, the crystallization process and crystal morphology of dl-met were focused with hydroxypropyl cellulose (HPC) as the tuning additive. The crystallization behaviors of dl-met with HPC were investigated through experiments and theoretical calculations from thermodynamic and kinetic perspectives to understand the mechanism of HPC in the dl-met crystal morphology. It was found that HPC could raise the interfacial energy γ, making nucleation more difficult. Furthermore, the inhibitory effect of HPC on the axial direction growth was much stronger than that on the radial direction, thereby changing the dl-met crystal morphology from rod-like to block-like. Theoretical calculations explained the underlying mechanism of HPC in regulating crystal habits. Due to the structural differences between different crystal surfaces, HPC exhibited a stronger hydrogen bonding with the (111) crystal surface, thus notably hindering its growth, specifically in the axial direction.",
+            "URL": "https://doi.org/10.1021/cbe.3c00024",
+            "DOI": "10.1021/cbe.3c00024",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "Chem Bio Eng.",
+            "author": [
+                {
+                    "family": "Yin",
+                    "given": "Hong"
+                },
+                {
+                    "family": "Xia",
+                    "given": "Sen"
+                },
+                {
+                    "family": "Chen",
+                    "given": "Zhirong"
+                },
+                {
+                    "family": "Yuan",
+                    "given": "Shenfeng"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        9
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        27
+                    ]
+                ]
+            }
+        }
+    ]
+}

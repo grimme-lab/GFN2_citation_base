@@ -1,0 +1,1699 @@
+{
+    "items": [
+        {
+            "id": "16708940/XX8QF56F",
+            "type": "article-journal",
+            "title": "N‐Oxides as Control Element for the Direction of a Sigmatropic Rearrangement: Application as a Switch for Fluorescence",
+            "container-title": "Chemistry – A European Journal",
+            "page": "e202301356",
+            "volume": "29",
+            "issue": "50",
+            "abstract": "Abstract \n             \n              An exceptional level of control over the direction of the (2,3)‐sigmatropic rearrangement between \n              N \n              ‐oxides and alkoxylamine is achieved by simply changing the solvent in which they are dissolved. Protic solvents like water, methanol and hexafluoroisopropanol favour the \n              N \n              ‐oxide form, while other solvents like acetone, acetonitrile and benzene favour the alkoxylamine. The reaction temperature and nature of the substituents on the alkene affect the rate of rearrangement. A \n              N \n              ‐oxide fragment was attached to two fluorescent molecules and acted as an on/off switch for their fluorescence. The conversion of alkoxylamines into the corresponding \n              N \n              ‐oxides has not previously been described and is here termed the ‘Reverse Meisenheimer Rearrangement’.",
+            "URL": "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202301356",
+            "DOI": "10.1002/chem.202301356",
+            "shortTitle": "N‐Oxides as Control Element for the Direction of a Sigmatropic Rearrangement",
+            "journalAbbreviation": "Chemistry A European J",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Spino",
+                    "given": "Claude"
+                },
+                {
+                    "family": "Latil",
+                    "given": "Marine"
+                },
+                {
+                    "family": "Lessard",
+                    "given": "Roxanne"
+                },
+                {
+                    "family": "Fevre‐Renault",
+                    "given": "Quentin"
+                },
+                {
+                    "family": "Legault",
+                    "given": "Claude Y."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        6
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/WWBHTKAW",
+            "type": "article-journal",
+            "title": "Pitfalls in the Optimization of Conformer Populations to Maximize the Similarity between Predicted and Experimental Chiroptical Spectra",
+            "container-title": "The Journal of Physical Chemistry A",
+            "page": "129-138",
+            "volume": "128",
+            "issue": "1",
+            "URL": "https://pubs.acs.org/doi/10.1021/acs.jpca.3c06544",
+            "DOI": "10.1021/acs.jpca.3c06544",
+            "journalAbbreviation": "J. Phys. Chem. A",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Covington",
+                    "given": "Cody L."
+                },
+                {
+                    "family": "Puente",
+                    "given": "Andrew R."
+                },
+                {
+                    "family": "Polavarapu",
+                    "given": "Prasad L."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        11
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/7GPWQKVN",
+            "type": "article-journal",
+            "title": "A general intermolecular force field based on tight-binding quantum chemical calculations",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "161708",
+            "volume": "147",
+            "issue": "16",
+            "abstract": "A black-box type procedure is presented for the generation of a molecule-specific, intermolecular potential energy function. The method uses quantum chemical (QC) information from our recently published extended tight-binding semi-empirical scheme (GFN-xTB) and can treat non-covalently bound complexes and aggregates with almost arbitrary chemical structure. The necessary QC information consists of the equilibrium structure, Mulliken atomic charges, charge centers of localized molecular orbitals, and also of frontier orbitals and orbital energies. The molecular pair potential includes model density dependent Pauli repulsion, penetration, as well as point charge electrostatics, the newly developed D4 dispersion energy model, Drude oscillators for polarization, and a charge-transfer term. Only one element-specific and about 20 global empirical parameters are needed to cover systems with nuclear charges up to radon (Z = 86). The method is tested for standard small molecule interaction energy benchmark sets where it provides accurate intermolecular energies and equilibrium distances. Examples for structures with a few hundred atoms including charged systems demonstrate the versatility of the approach. The method is implemented in a stand-alone computer code which enables rigid-body, global minimum energy searches for molecular aggregation or alignment.",
+            "URL": "https://pubs.aip.org/jcp/article/147/16/161708/77078/A-general-intermolecular-force-field-based-on",
+            "DOI": "10.1063/1.4991798",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Bannwarth",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Caldeweyher",
+                    "given": "Eike"
+                },
+                {
+                    "family": "Pisarek",
+                    "given": "Jana"
+                },
+                {
+                    "family": "Hansen",
+                    "given": "Andreas"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        10,
+                        28
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/H5PJ5E23",
+            "type": "article-journal",
+            "title": "Automated Molecular Cluster Growing for Explicit Solvation by Efficient Force Field and Tight Binding Methods",
+            "container-title": "Journal of Chemical Theory and Computation",
+            "page": "3174-3189",
+            "volume": "18",
+            "issue": "5",
+            "URL": "https://pubs.acs.org/doi/10.1021/acs.jctc.2c00239",
+            "DOI": "10.1021/acs.jctc.2c00239",
+            "journalAbbreviation": "J. Chem. Theory Comput.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Spicher",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Plett",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Pracht",
+                    "given": "Philipp"
+                },
+                {
+                    "family": "Hansen",
+                    "given": "Andreas"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        5,
+                        10
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/EWJPMEFD",
+            "type": "article-journal",
+            "title": "Glide: A New Approach for Rapid, Accurate Docking and Scoring. 2. Enrichment Factors in Database Screening",
+            "container-title": "Journal of Medicinal Chemistry",
+            "page": "1750-1759",
+            "volume": "47",
+            "issue": "7",
+            "URL": "https://pubs.acs.org/doi/10.1021/jm030644s",
+            "DOI": "10.1021/jm030644s",
+            "shortTitle": "Glide",
+            "journalAbbreviation": "J. Med. Chem.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Halgren",
+                    "given": "Thomas A."
+                },
+                {
+                    "family": "Murphy",
+                    "given": "Robert B."
+                },
+                {
+                    "family": "Friesner",
+                    "given": "Richard A."
+                },
+                {
+                    "family": "Beard",
+                    "given": "Hege S."
+                },
+                {
+                    "family": "Frye",
+                    "given": "Leah L."
+                },
+                {
+                    "family": "Pollard",
+                    "given": "W. Thomas"
+                },
+                {
+                    "family": "Banks",
+                    "given": "Jay L."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2004,
+                        3,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/FS6T3WDK",
+            "type": "article-journal",
+            "title": "AutoDock4 and AutoDockTools4: Automated docking with selective receptor flexibility",
+            "container-title": "Journal of Computational Chemistry",
+            "page": "2785-2791",
+            "volume": "30",
+            "issue": "16",
+            "abstract": "Abstract \n            We describe the testing and release of AutoDock4 and the accompanying graphical user interface AutoDockTools. AutoDock4 incorporates limited flexibility in the receptor. Several tests are reported here, including a redocking experiment with 188 diverse ligand‐protein complexes and a cross‐docking experiment using flexible sidechains in 87 HIV protease complexes. We also report its utility in analysis of covalently bound ligands, using both a grid‐based docking method and a modification of the flexible sidechain technique. © 2009 Wiley Periodicals, Inc. J Comput Chem, 2009",
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1002/jcc.21256",
+            "DOI": "10.1002/jcc.21256",
+            "shortTitle": "AutoDock4 and AutoDockTools4",
+            "journalAbbreviation": "J Comput Chem",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Morris",
+                    "given": "Garrett M."
+                },
+                {
+                    "family": "Huey",
+                    "given": "Ruth"
+                },
+                {
+                    "family": "Lindstrom",
+                    "given": "William"
+                },
+                {
+                    "family": "Sanner",
+                    "given": "Michel F."
+                },
+                {
+                    "family": "Belew",
+                    "given": "Richard K."
+                },
+                {
+                    "family": "Goodsell",
+                    "given": "David S."
+                },
+                {
+                    "family": "Olson",
+                    "given": "Arthur J."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2009"
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/Z56CVEII",
+            "type": "article-journal",
+            "title": "ZDOCK: An initial‐stage protein‐docking algorithm",
+            "container-title": "Proteins: Structure, Function, and Bioinformatics",
+            "page": "80-87",
+            "volume": "52",
+            "issue": "1",
+            "abstract": "Abstract \n             \n              The development of scoring functions is of great importance to protein docking. Here we present a new scoring function for the initial stage of unbound docking. It combines our recently developed pairwise shape complementarity with desolvation and electrostatics. We compare this scoring function with three other functions on a large benchmark of 49 nonredundant test cases and show its superior performance, especially for the antibody‐antigen category of test cases. For 44 test cases (90% of the benchmark), we can retain at least one near‐native structure within the top 2000 predictions at the 6° rotational sampling density, with an average of 52 near‐native structures per test case. The remaining five difficult test cases can be explained by a combination of poor binding affinity, large backbone conformational changes, and our algorithm's strong tendency for identifying large concave binding pockets. All four scoring functions have been integrated into our Fast Fourier Transform based docking algorithm ZDOCK, which is freely available to academic users at \n              http://zlab.bu.edu/∼rong/dock \n              . Proteins 2003;52:80–87. © 2003 Wiley‐Liss, Inc.",
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1002/prot.10389",
+            "DOI": "10.1002/prot.10389",
+            "shortTitle": "ZDOCK",
+            "journalAbbreviation": "Proteins",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Chen",
+                    "given": "Rong"
+                },
+                {
+                    "family": "Li",
+                    "given": "Li"
+                },
+                {
+                    "family": "Weng",
+                    "given": "Zhiping"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2003"
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        5,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/EVG2MCNA",
+            "type": "article-journal",
+            "title": "Metal–Organic Cage Receptors for Encapsulation and Sensing of Bile Acids",
+            "container-title": "Inorganic Chemistry",
+            "page": "acs.inorgchem.4c00934",
+            "URL": "https://pubs.acs.org/doi/10.1021/acs.inorgchem.4c00934",
+            "DOI": "10.1021/acs.inorgchem.4c00934",
+            "journalAbbreviation": "Inorg. Chem.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Paul",
+                    "given": "Bhaswati"
+                },
+                {
+                    "family": "Natarajan",
+                    "given": "Ramalingam"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        4,
+                        17
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        4,
+                        24
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/TZ6AZKIK",
+            "type": "article-journal",
+            "title": "A comparative study of ammonia solubility in imidazolium-based ionic liquids with different structural compositions",
+            "container-title": "Heliyon",
+            "page": "e24305",
+            "volume": "10",
+            "issue": "2",
+            "abstract": "Four imidazolium-based ionic liquids (ILs) with two cations 1-pentyl-3-butylimidazolium [PBIM]+ and 1-benzyl-3-butylimidazolium tetrafluoroborate [BzBIM]+, and two anions tetrafluoroborate (BF4−) and trifluoromethanesulfonate (OTf−) were synthesized for NH3 solubility enhancement. The structural, thermal, and electrochemical stabilities, ionic conductivity, and viscosity of the four ILs, namely, [PBIM]BF4, [BzBIM]BF4, [PBIM]OTf, and [BzBIM]OTf, were investigated. Due to the intermolecular interaction of the benzyl group attached to the imidazolium ring, [BzBIM]+-based ILs exhibited higher thermal stability but lower ionic conductivity compared to [PBIM]+-based ILs. Further, the NH3 solubility in all ILs was measured using a custom-made setup at temperatures ranging from 293.15 to 323.15 K and pressures ranging from 1 to 5 bar. The effects of the cation and anion structures of ILs, as well as pressure and temperature, on the NH3 solubility in the ILs were also investigated. [PBIM]BF4 showed the best solubility because of its high free volume and low viscosity. Density functional calculations validated the superior NH3 solubility in [PBIM]BF4, attributable to the minimal reorganization of the [cation]anion complex geometry during the solvation process, yielding a low solvation free energy. The findings of this study suggest that ILs exhibit a high NH3 solubility capacity and cation and anion structures considerably affect the NH3 solubility in ILs.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S2405844024003360",
+            "DOI": "10.1016/j.heliyon.2024.e24305",
+            "journalAbbreviation": "Heliyon",
+            "author": [
+                {
+                    "family": "Salman",
+                    "given": "Muhammad"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Ji Won"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Sang Hyuk"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Min Ho"
+                },
+                {
+                    "family": "Pham",
+                    "given": "Van Duc"
+                },
+                {
+                    "family": "Kim",
+                    "given": "Min-Sik"
+                },
+                {
+                    "family": "Cho",
+                    "given": "Daeheum"
+                },
+                {
+                    "family": "Lee",
+                    "given": "Hye Jin"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        30
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        4,
+                        24
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/6J37GITW",
+            "type": "article-journal",
+            "title": "Reinvigorating aza-Michael reactions under ionic liquid catalysis: a greener approach",
+            "container-title": "Organic & Biomolecular Chemistry",
+            "page": "2423-2434",
+            "volume": "22",
+            "issue": "12",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2024/ob/d3ob02006a",
+            "DOI": "10.1039/D3OB02006A",
+            "shortTitle": "Reinvigorating aza-Michael reactions under ionic liquid catalysis",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Izquierdo",
+                    "given": "Silvia"
+                },
+                {
+                    "family": "Cintas",
+                    "given": "Pedro"
+                },
+                {
+                    "family": "J. Durán-Valle",
+                    "given": "Carlos"
+                },
+                {
+                    "family": "Concepción",
+                    "given": "Juan García de la"
+                },
+                {
+                    "family": "M. López-Coca",
+                    "given": "Ignacio"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        4,
+                        24
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/U7D7J7PJ",
+            "type": "article-journal",
+            "title": "Computationally assisted vibrational spectroscopy of nucleic acid bases. 2. Thymine",
+            "container-title": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+            "page": "123832",
+            "volume": "309",
+            "abstract": "As in the case of cytosine [Phys. Chem. Chem. Phys. 2023, 25, 24121–24128], Raman and infrared (IR) spectra of aqueous thymine and its N-deuterated derivative, thymine-d2 have been computationally reproduced and interpreted with the use of the recently developed efficient protocol to explicit quantum mechanical modeling of structure and IR spectra of liquids and solutions [J. Phys. Chem. B, 2020, 124, 6664–6670]. A cluster model of a solute surrounded by 30 water molecules is shown to be sufficient to reproduce experimental vibrational frequencies and relative Raman intensities with the use of B3LYP-D3/def2-TZVP or B3LYP-D3/aug-cc-pVDZ simulations. Analogous PBE-D3 computations provided a less good, but still reasonably accurate, modeling of Raman spectra. It is shown that strong changes of frequencies and relative intensities of the Raman bands of thymine, caused by its hydration, can be interpreted mainly as a result of hydrogen bonding with 6 nearest water molecules. Non-negligible improvement of the quality of simulations for larger clusters comprising water molecules that do not have direct contacts with the solute, suggests that spectroscopic effects of hydration should be ascribed to the joined action of solute–solvent and solvent–solvent interactions. Nevertheless, the moderate number of water molecules required for successful simulations of the Raman spectra of aqueous thymine, suggests that the vibrational modes and derivatives of the polarizability of the solute are mainly locally influenced, while the effect of bulk water is rather modest.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S1386142523015172",
+            "DOI": "10.1016/j.saa.2023.123832",
+            "journalAbbreviation": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+            "author": [
+                {
+                    "family": "Katsyuba",
+                    "given": "Sergey A."
+                },
+                {
+                    "family": "Burganov",
+                    "given": "Timur I."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        3,
+                        15
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/PNNESPU8",
+            "type": "article-journal",
+            "title": "Lipid Droplet Targeting Type I Photosensitizer for Ferroptosis via Lipid Peroxidation Accumulation",
+            "container-title": "Advanced Materials",
+            "page": "2309711",
+            "volume": "36",
+            "issue": "4",
+            "abstract": "As an iron-dependent lipid peroxidation (LPO) mediated cell death pathway, ferroptosis offers promises for anti-tumor treatment. Photodynamic therapy (PDT) is an ideal way to generate reactive oxygen species (ROS) for LPO. However, the conventional PDT normally functions on subcellular organelles, such as endoplasmic reticulum, mitochondria, and lysosome, causing rapid cell death before triggering ferroptosis. Herein, the first lipid droplet (Ld)-targeting type I photosensitizer (PS) with enhanced superoxide anion (O2−·) production, termed MNBS, is reported. The newly designed PS selectively localizes at Ld in cells, and causes cellular LPO accumulation by generating sufficient O2−· upon irradiation, and subsequently induces ferroptosis mediated chronical PDT, achieving high-efficient anti-tumor PDT in hypoxia and normoxia. Theoretical calculations and comprehensive characterizations indicate that the Ld targeting property and enhanced O2−· generation of MNBS originate from the elevated H-aggregation tendency owing to dispersed molecular electrostatic distribution. Further in vivo studies using MNBS-encapsulated liposomes demonstrate the excellent anti-cancer efficacy as well as anti-metastatic activity. This study offers a paradigm of H-aggregation reinforced type I PS to achieve ferroptosis-mediated PDT.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202309711",
+            "DOI": "10.1002/adma.202309711",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.202309711",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Xiong",
+                    "given": "Tao"
+                },
+                {
+                    "family": "Chen",
+                    "given": "Yingchao"
+                },
+                {
+                    "family": "Peng",
+                    "given": "Qiang"
+                },
+                {
+                    "family": "Lu",
+                    "given": "Shuai"
+                },
+                {
+                    "family": "Long",
+                    "given": "Saran"
+                },
+                {
+                    "family": "Li",
+                    "given": "Mingle"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Heng"
+                },
+                {
+                    "family": "Lu",
+                    "given": "Sheng"
+                },
+                {
+                    "family": "Chen",
+                    "given": "Xiaoqiang"
+                },
+                {
+                    "family": "Fan",
+                    "given": "Jiangli"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Lei"
+                },
+                {
+                    "family": "Peng",
+                    "given": "Xiaojun"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/AYHAGZ2C",
+            "type": "article-journal",
+            "title": "Influence of microsolvation on vibrational circular dichroism spectra in dimethyl sulfoxide solvent: A Bottom-Up approach using Quantum cluster growth",
+            "container-title": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+            "page": "123231",
+            "volume": "303",
+            "abstract": "Chiroptical spectroscopic measurements serve as routine methods to assign the absolute configuration of chiral compounds and interpret their conformational behavior in solution. One common challenge is the use of strongly hydrogen-bonding solvents, which can significantly bias the conformational ensemble and affect the vibrational circular dichroism (VCD) active bands in solution. One such solvent is dimethyl sulfoxide (DMSO)—an excellent solvent for stubborn compounds—that must be explicitly considered in VCD analysis. Explicit consideration of solvent remains a critical challenge in chiroptical spectroscopy due to the need to explore solute–solvent conformational space and the computational expense in modeling these clusters. Interested in the recent development of the Quantum Cluster Growth (QCG) program by the Grimme lab, we set out to model and interpret previously reported VCD spectra for several molecules using their efficient program. Our purposes are two-fold: (1) to investigate the applicability of the QCG program to the problem of reproducing VCD spectra in DMSO solvent and (2) to identify limitations in using this approach. We find that we can conveniently model and analyze the VCD spectra of investigated molecules in DMSO. However, the final set of conformers used for VCD calculations are functional dependent and different sets of conformers can provide satisfactory quantitative agreement between experimental and predicted VCD spectra. We hope that this study provides guidance for future chiroptical studies in the challenging DMSO solvent.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S1386142523009162",
+            "DOI": "10.1016/j.saa.2023.123231",
+            "shortTitle": "Influence of microsolvation on vibrational circular dichroism spectra in dimethyl sulfoxide solvent",
+            "journalAbbreviation": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+            "author": [
+                {
+                    "family": "Puente",
+                    "given": "Andrew R."
+                },
+                {
+                    "family": "Polavarapu",
+                    "given": "Prasad L."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        12,
+                        15
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/TKTD55CX",
+            "type": "article-journal",
+            "title": "Structural modification of resveratrol analogue exhibits anticancer activity against lung cancer stem cells via suppression of Akt signaling pathway",
+            "container-title": "BMC Complementary Medicine and Therapies",
+            "page": "183",
+            "volume": "23",
+            "issue": "1",
+            "abstract": "Compound with cancer stem cell (CSC)-suppressing activity is promising for the improvement of lung cancer clinical outcomes. Toward this goal, we discovered the CSC-targeting activity of resveratrol (RES) analog moscatilin (MOS). With slight structural modification from RES, MOS shows dominant cytotoxicity and CSC-suppressive effect.",
+            "URL": "https://doi.org/10.1186/s12906-023-04016-6",
+            "DOI": "10.1186/s12906-023-04016-6",
+            "journalAbbreviation": "BMC Complementary Medicine and Therapies",
+            "author": [
+                {
+                    "family": "Thongsom",
+                    "given": "Sunisa"
+                },
+                {
+                    "family": "Racha",
+                    "given": "Satapat"
+                },
+                {
+                    "family": "Petsri",
+                    "given": "Korrakod"
+                },
+                {
+                    "family": "Ei",
+                    "given": "Zin Zin"
+                },
+                {
+                    "family": "Visuttijai",
+                    "given": "Kittichate"
+                },
+                {
+                    "family": "Moriue",
+                    "given": "Sohsuke"
+                },
+                {
+                    "family": "Yokoya",
+                    "given": "Masashi"
+                },
+                {
+                    "family": "Chanvorachote",
+                    "given": "Pithi"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        6,
+                        3
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/EHSYIVYN",
+            "type": "article-journal",
+            "title": "Simplified Synthesis of Renieramycin T Derivatives to Target Cancer Stem Cells via β-Catenin Proteasomal Degradation in Human Lung Cancer",
+            "container-title": "Marine Drugs",
+            "page": "627",
+            "volume": "21",
+            "issue": "12",
+            "abstract": "Cancer stem cells (CSCs) found within cancer tissue play a pivotal role in its resistance to therapy and its potential to metastasize, contributing to elevated mortality rates among patients. Significant strides in understanding the molecular foundations of CSCs have led to preclinical investigations and clinical trials focused on CSC regulator β-catenin signaling targeted interventions in malignancies. As part of the ongoing advancements in marine-organism-derived compound development, it was observed that among the six analogs of Renieramycin T (RT), a potential lead alkaloid from the blue sponge Xestospongia sp., the compound DH_32, displayed the most robust anti-cancer activity in lung cancer A549, H23, and H292 cells. In various lung cancer cell lines, DH_32 exhibited the highest efficacy, with IC50 values of 4.06 ± 0.24 μM, 2.07 ± 0.11 μM, and 1.46 ± 0.06 μM in A549, H23, and H292 cells, respectively. In contrast, parental RT compounds had IC50 values of 5.76 ± 0.23 μM, 2.93 ± 0.07 μM, and 1.52 ± 0.05 μM in the same order. Furthermore, at a dosage of 25 nM, DH_32 showed a stronger ability to inhibit colony formation compared to the lead compound, RT. DH_32 was capable of inducing apoptosis in lung cancer cells, as demonstrated by increased PARP cleavage and reduced levels of the proapoptotic protein Bcl2. Our discovery confirms that DH_32 treatment of lung cancer cells led to a reduced level of CD133, which is associated with the suppression of stem-cell-related transcription factors like OCT4. Moreover, DH_32 significantly suppressed the ability of tumor spheroids to form compared to the original RT compound. Additionally, DH_32 inhibited CSCs by promoting the degradation of β-catenin through ubiquitin–proteasomal pathways. In computational molecular docking, a high-affinity interaction was observed between DH_32 (grid score = −35.559 kcal/mol) and β-catenin, indicating a stronger binding interaction compared to the reference compound R9Q (grid score = −29.044 kcal/mol). In summary, DH_32, a newly developed derivative of the right-half analog of RT, effectively inhibited the initiation of lung cancer spheroids and the self-renewal of lung cancer cells through the upstream process of β-catenin ubiquitin–proteasomal degradation.",
+            "URL": "https://www.mdpi.com/1660-3397/21/12/627",
+            "DOI": "10.3390/md21120627",
+            "note": "Number: 12\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Ei",
+                    "given": "Zin Zin"
+                },
+                {
+                    "family": "Racha",
+                    "given": "Satapat"
+                },
+                {
+                    "family": "Yokoya",
+                    "given": "Masashi"
+                },
+                {
+                    "family": "Hotta",
+                    "given": "Daiki"
+                },
+                {
+                    "family": "Zou",
+                    "given": "Hongbin"
+                },
+                {
+                    "family": "Chanvorachote",
+                    "given": "Pithi"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        12
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/G4URD8PG",
+            "type": "article-journal",
+            "title": "Tracking SF5I in the Iodopentafluorosulfanylation of Alkynes",
+            "container-title": "Chemistry – A European Journal",
+            "page": "e202302914",
+            "volume": "29",
+            "issue": "67",
+            "abstract": "In the vibrant field of SF5 chemistry, SF5X reagents (X=F, Cl, Br) are at the heart of current investigations in radical pentafluorosulfanylation reactions. SF5I is the missing link whose existence has not been reported despite its potential as SF5 donor. This study reports the formal addition of the hitherto unknown SF5I reagent to alkynes by means of a combination of SF5Cl/KI/18-crown-6 ether. The exclusive regio- and stereoselective synthesis of unprecedented (E)-1-iodo-2-(pentafluoro-λ6-sulfanyl) alkenes was achieved. A consensus was reached through computational and mechanistic studies for the realistic formation of SF5− anion but not SF5I in solution and the rational involvement of SF5⋅ and iodine radicals in the iodo pentafluorosulfanylation reaction.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202302914",
+            "DOI": "10.1002/chem.202302914",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/chem.202302914",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Nguyen",
+                    "given": "Thi Mo"
+                },
+                {
+                    "family": "Legault",
+                    "given": "Claude Y."
+                },
+                {
+                    "family": "Blanchard",
+                    "given": "Nicolas"
+                },
+                {
+                    "family": "Bizet",
+                    "given": "Vincent"
+                },
+                {
+                    "family": "Cahard",
+                    "given": "Dominique"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/QDLHXQ8K",
+            "type": "article-journal",
+            "title": "Computational analysis of the vibrational spectra and structure of aqueous cytosine",
+            "container-title": "Physical Chemistry Chemical Physics",
+            "page": "24121-24128",
+            "volume": "25",
+            "issue": "35",
+            "abstract": "The recently developed efficient protocol for the explicit quantum mechanical modeling of the structure and IR spectra of liquids and solutions [Katsyuba et al., J. Phys. Chem. B, 2020, 124, 6664–6670] is used to describe aqueous solutions of cytosine. The same cluster model of a solute surrounded by the first solvation shell of solvent molecules was shown to be sufficient to reproduce experimental vibrational frequencies and relative IR and Raman intensities. An equally good quality of Raman spectra was provided by B3LYP-D3/def2-TZVP and B3LYP-D3/aug-cc-pVDZ simulations. Computations using the PBE functional were sufficient for modeling of the IR spectra but failed in the simulations of Raman scattering. It is shown that strong changes of frequencies and relative intensities of Raman and IR bands of cytosine, caused by its hydration, cannot be completely assigned to the influence of hydrogen bonds (HBs) with 7 or 8 closest water molecules. They are rather ascribed to the combined effect of solute–solute and solute–solvent HBs with the participation of at least 30 water molecules separating cytosine from the bulk solvent. This suggests that the vibrational modes and derivatives of the polarizability and dipole moment of the solute are mainly locally influenced by its first hydration shell, while the influence of bulk water is rather modest.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp03059h",
+            "DOI": "10.1039/D3CP03059H",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Katsyuba",
+                    "given": "Sergey A."
+                },
+                {
+                    "family": "Burganov",
+                    "given": "Timur I."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        13
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/PNAXJ7QE",
+            "type": "article-journal",
+            "title": "Ladder-type conjugated molecules as robust multi-state single-molecule switches",
+            "container-title": "Chem",
+            "page": "2282-2297",
+            "volume": "9",
+            "issue": "8",
+            "URL": "https://www.cell.com/chem/abstract/S2451-9294(23)00205-X",
+            "DOI": "10.1016/j.chempr.2023.05.001",
+            "note": "Publisher: Elsevier",
+            "journalAbbreviation": "Chem",
+            "language": "English",
+            "author": [
+                {
+                    "family": "Li",
+                    "given": "Jialing"
+                },
+                {
+                    "family": "Peng",
+                    "given": "Bo-Ji"
+                },
+                {
+                    "family": "Li",
+                    "given": "Shi"
+                },
+                {
+                    "family": "Tabor",
+                    "given": "Daniel P."
+                },
+                {
+                    "family": "Fang",
+                    "given": "Lei"
+                },
+                {
+                    "family": "Schroeder",
+                    "given": "Charles M."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        8,
+                        10
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/3TE8TC6S",
+            "type": "article-journal",
+            "title": "In vitro hepatic metabolism of polychlorinated biphenyls with different chlorine-substituted structures in rats and humans: Kinetics, metabolism, and potential nuclear receptor affinities",
+            "container-title": "Science of The Total Environment",
+            "page": "161043",
+            "volume": "864",
+            "abstract": "In this study, the biotransformation behavior and potential nuclear receptor affinities of polychlorinated biphenyls (PCBs) with different chlorine-substituted structures (PCB 77/110/136/174) were explored using human and rat liver microsomes (HLM and RLM). The rate constants (kobs) of PCBs showed the variations in the order patterns for the HLM (PCB 136 > PCB 110 > PCB 174 > PCB 77) and RLM (PCB 110 > PCB 136 > PCB 174 > PCB 77). However, studied PCBs showed similar metabolite profiles and enantioselective of PCBs between HLM and RLM. The Mono-OH-PCBs were the major metabolites of PCB 77/174, whereas mono-OH- and di-OH-PCBs were the major metabolites of PCB 110/136 for the HLM and RLM, indicating that OH-PCBs could be further oxidized. Enantiomeric enrichment of (−)-PCB 136 and (+)-PCB 174 was observed in microsomal metabolism. Moreover, the inflection point of the enantiomer fraction for PCB 136 metabolized by the HLM suggests a competitive metabolism between individual atropisomers. Furthermore, molecular docking results demonstrated the relatively high affinity between PCBs (or OH-PCBs) and certain nuclear receptors, indicating that abnormal metabolic enzyme expression and endocrine disruption occur in PCB-exposed humans.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0048969722081463",
+            "DOI": "10.1016/j.scitotenv.2022.161043",
+            "shortTitle": "In vitro hepatic metabolism of polychlorinated biphenyls with different chlorine-substituted structures in rats and humans",
+            "journalAbbreviation": "Science of The Total Environment",
+            "author": [
+                {
+                    "family": "Chenchen",
+                    "given": "Huang"
+                },
+                {
+                    "family": "Keqi",
+                    "given": "Hu"
+                },
+                {
+                    "family": "Yanhong",
+                    "given": "Zeng"
+                },
+                {
+                    "family": "Yiye",
+                    "given": "Jiang"
+                },
+                {
+                    "family": "Yankuan",
+                    "given": "Tian"
+                },
+                {
+                    "family": "Xiaojun",
+                    "given": "Luo"
+                },
+                {
+                    "family": "Bixian",
+                    "given": "Mai"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        3,
+                        15
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/5SLS2H4U",
+            "type": "article",
+            "title": "In Vitro Hepatic Metabolism of Polychlorinated Biphenyls with Different Chlorine-Substituted Structures In Rats and Humans: Kinetics, Metabolism, and Potential Nuclear Receptor Affinities",
+            "publisher-place": "Rochester, NY",
+            "genre": "SSRN Scholarly Paper",
+            "event-place": "Rochester, NY",
+            "abstract": "In this study, the biodegradation behavior and potential nuclear receptor affinities of polychlorinated biphenyls (PCBs) with different chlorine-substituted structures (PCB 77/110/136/174) were explored using human and rat liver microsomes (HLMs and RLMs). The rate constants (  k  obs  ) of the four congeners showed the variations in the order patterns for the HLMs (PCB 136 > PCB 110 > PCB 174 > PCB 77) and RLMs (PCB 110 > PCB 136 > PCB 174 > PCB 77). Mono-OH-PCBs were the major metabolites of PCB 77/174, whereas mono-OH- and di-OH-PCBs were the major metabolites of PCB 110/136 for the HLMs and RLMs. For PCB 110/136, the metabolite levels of di-OH-PCBs continued to increase, and the content of mono-OH-PCB compounds first increased and then decreased, indicating that OH-PCBs could be further oxidized by the HLMs and RLMs. Enantiomeric enrichment of (–)-PCB 136 and (+)-PCB 174 was observed in microsomal metabolism. Moreover, the inflection point of the enantiomer fraction for PCB 136 metabolized by the HLMs suggests a competitive metabolism between individual atropisomers. Furthermore, molecular docking results demonstrated the relatively high affinity between PCBs/OH-PCBs and certain nuclear receptors, indicating that abnormal metabolic enzyme expression and endocrine disruption occur in PCB-exposed humans.",
+            "URL": "https://papers.ssrn.com/abstract=4118150",
+            "DOI": "10.2139/ssrn.4118150",
+            "number": "4118150",
+            "shortTitle": "In Vitro Hepatic Metabolism of Polychlorinated Biphenyls with Different Chlorine-Substituted Structures In Rats and Humans",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Huang",
+                    "given": "Chenchen"
+                },
+                {
+                    "family": "Hu",
+                    "given": "Keqi"
+                },
+                {
+                    "family": "Zeng",
+                    "given": "Yan-Hong"
+                },
+                {
+                    "family": "Jiang",
+                    "given": "Yiye"
+                },
+                {
+                    "family": "Tian",
+                    "given": "Yankuan"
+                },
+                {
+                    "family": "Luo",
+                    "given": "Xiaojun"
+                },
+                {
+                    "family": "Mai",
+                    "given": "Bixian"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        5,
+                        24
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/5VR5M5LZ",
+            "type": "article-journal",
+            "title": "Thermodynamics of trans/gauche conformational equilibria and vibrational spectra of 1,2-dihaloethanes in various media",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "204505",
+            "volume": "157",
+            "issue": "20",
+            "abstract": "The recently developed efficient protocols to implicit [Grimme et al., J. Phys. Chem. A 125, 4039–4054 (2021)] and explicit quantum mechanical modeling of non-rigid molecules in solution [Katsyuba et al., J. Phys. Chem. B 124, 6664–6670 (2020)] are used to describe conformational equilibria of 1,2-dichloroethane and 1,2-dibromoethane in various media. Two approaches for evaluation of trans/gauche free energy differences, ΔGt-g, are compared: (a) direct ΔGt-g computation in implicit solution; (b) the use, together with experimental intensities, of infrared absorption coefficients and Raman scattering cross sections computed for each explicitly modeled solution. The same cluster model of a solute surrounded by the first solvation shell of solvent molecules was used to simulate both Raman and IR spectra. The good agreement between the two approaches indicates the reliability of both methods. The importance of using correct absorption coefficients and Raman scattering factors for each medium is discussed. The ΔGt-g estimates from both implicit and explicit solvation simulations were combined with experimentally measured enthalpy differences ΔHt-g available in the literature to obtain condensed-state ΔSt-g estimates.",
+            "URL": "https://doi.org/10.1063/5.0126678",
+            "DOI": "10.1063/5.0126678",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Katsyuba",
+                    "given": "Sergey A."
+                },
+                {
+                    "family": "Gerasimova",
+                    "given": "Tatiana P."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        11,
+                        28
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/MR32GDCU",
+            "type": "article-journal",
+            "title": "Effect of chlorogenic acid plus donepezil on critical neurocortical enzyme activities, inflammatory markers, and synaptophysin immunoreactivity in scopolamine-assaulted rats, supported by multiple ligand simultaneous docking",
+            "container-title": "Journal of Food Biochemistry",
+            "page": "e14312",
+            "volume": "46",
+            "issue": "11",
+            "abstract": "The effect of chlorogenic acid (a natural phenolic acid ubiquitous in plant foods) on selected therapeutic properties of donepezil (DON) in a scopolamine (SCOP)-induced rat model of amnesia was the focus of this study. Adult albino (Wister strain) rats were allocated into five groups (n = 11) consisting of control, SCOP, SCOP + chlorogenic acid (CGA), SCOP + DON, and SCOP + CGA + DON for 7 days. Post-treatment, the rat brain cerebral cortex homogenate was assayed for cholinesterase and monoamine oxidase activities. Also, the reactive oxygen species, total thiol and nitric oxide contents, alongside catalase, and superoxide dismutase activities were determined. Routine histology for neuronal and glial cells as well as synaptophysin immunoreactivity was also carried out on the cerebral cortex. Thereafter, multiple ligand simultaneous docking was carried out for DON and CGA at the active sites of AChE and BChE. The results revealed that the biochemical parameters, glial cells, and synaptophysin immunoreactivity were significantly impaired in the cerebral cortex of scopolamine-treated rats. However, impaired butyrylcholinesterase and monoamine oxidase activity, together with antioxidant, glial cells, and synaptophysin levels were significantly ameliorated in scopolamine-treated rats administered DON + CGA compared to donepezil alone. The docking of both DON and CGA at the active sites of AChE or BChE showed higher binding energy to both enzymes compared to individual interactions of either DON or CGA. Hence, this study has been able to show that CGA could improve some of the therapeutic effects of DON, which could broaden the therapeutic spectrum of this drug. Practical applications This study showed that chlorogenic acid (a major phenolic acid found in plant foods such as coffee) modulated some of the therapeutic properties of donepezil (an anticholinesterase drug used in the treatment of mild-to-moderate Alzheimer's disease). The combinations elicited better anti-butyrylcholinesterase, antimonoamine oxidase, and antioxidant properties, thus presenting this food-drug interaction as potentially able to offer better therapeutic properties.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/jfbc.14312",
+            "DOI": "10.1111/jfbc.14312",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/jfbc.14312",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Ogunsuyi",
+                    "given": "Opeyemi B."
+                },
+                {
+                    "family": "Omage",
+                    "given": "Folorunsho B."
+                },
+                {
+                    "family": "Ijomone",
+                    "given": "Omamuyovwi M."
+                },
+                {
+                    "family": "Oboh",
+                    "given": "Ganiyu"
+                },
+                {
+                    "family": "Rocha",
+                    "given": "João B. T."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/FPTIL6I9",
+            "type": "article-journal",
+            "title": "Experimental and Computational Studies of Phenylene-Bridged Azaacenes as Affinity Materials for Sensing Using Quartz Crystal Microbalances",
+            "container-title": "Organic Materials",
+            "page": "36-42",
+            "volume": "4",
+            "issue": "02",
+            "abstract": "<p>Phenylene-bridged, TIPS-alkynylated azaacenes are excellent materials for selective gas sorption. In this study, we utilized 195 MHz high-fundamental-frequency quartz crystal microbalances, coated with cyclic azaacenes, and determined their affinity towards hazardous and narcotics-related compounds such as benzene, γ-butyrolactone (GBL) or safrole. Computational investigations by extended tight binding intermolecular force field allowed better understanding of the determined unique features. Remarkable selective affinities were found towards GBL and safrole – both dangerous compounds which can be abused as precursors for narcotics. With these systematic approaches, we were able to get a better insight into the selective adsorption and how to design better affinity materials</p>",
+            "URL": "http://www.thieme-connect.de/DOI/DOI?10.1055/a-1873-5186",
+            "DOI": "10.1055/a-1873-5186",
+            "note": "Publisher: Georg Thieme Verlag KG",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Prantl",
+                    "given": "Ephraim"
+                },
+                {
+                    "family": "Hahn",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Bunz",
+                    "given": "Uwe H. F."
+                },
+                {
+                    "family": "Waldvogel",
+                    "given": "Siegfried R."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        6
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/S899VUAV",
+            "type": "article-journal",
+            "title": "Influence of regioisomerism in bis(terpyridine) based exciplexes with delayed fluorescence",
+            "container-title": "Journal of Materials Chemistry C",
+            "page": "7699-7706",
+            "volume": "10",
+            "issue": "19",
+            "abstract": "Exciplexes of individual electron donor and acceptor molecules are a promising approach to utilizing otherwise non-emissive triplet states in optoelectronic applications. In this work, we synthesize a series of bis(terpyridine) pyrimidine (BTP) isomers and employ them as electron acceptors in complexes with tris(4-carbazoyl-9-ylphenyl)amine (TCTA). We show that these TCTA : BTP complexes produce thermally activated delayed fluorescence (TADF) by exciplex emission, and we investigate the influence of the nitrogen position in the pyridine on the optical and electronic properties of the exciplex. The molecular arrangement of the complex is studied using scanning tunneling microscopy (STM) as well as classical force field and density functional theory (DFT) simulations. Finally, we fabricate organic light-emitting diodes (OLEDs) with maximum external quantum efficiencies ranging between 0.5% and 2% – depending on the BTP isomer.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2022/tc/d2tc00800a",
+            "DOI": "10.1039/D2TC00800A",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "J. Mater. Chem. C",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Schleper",
+                    "given": "A. Lennart"
+                },
+                {
+                    "family": "Hillebrandt",
+                    "given": "Sabina"
+                },
+                {
+                    "family": "Bannwarth",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Mischok",
+                    "given": "Andreas"
+                },
+                {
+                    "family": "Kwon",
+                    "given": "Seonil"
+                },
+                {
+                    "family": "Buchner",
+                    "given": "Florian"
+                },
+                {
+                    "family": "Tenopala-Carmona",
+                    "given": "Francisco"
+                },
+                {
+                    "family": "Behm",
+                    "given": "R. Jürgen"
+                },
+                {
+                    "family": "Goll",
+                    "given": "Felix D."
+                },
+                {
+                    "family": "Welscher",
+                    "given": "Philipp J."
+                },
+                {
+                    "family": "Usselmann",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Ziener",
+                    "given": "Ulrich"
+                },
+                {
+                    "family": "Gather",
+                    "given": "Malte C."
+                },
+                {
+                    "family": "Kuehne",
+                    "given": "Alexander J. C."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        5,
+                        19
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/LHQQRL64",
+            "type": "article-journal",
+            "title": "What quantum chemical simulations tell us about the infrared spectra, structure and interionic interactions of a bulk ionic liquid",
+            "container-title": "Physical Chemistry Chemical Physics",
+            "page": "7349-7355",
+            "volume": "24",
+            "issue": "12",
+            "abstract": "The recently developed efficient protocol to explicit quantum mechanical modeling of the structure and IR spectra of liquids and solutions [Katsyuba et al., J. Phys. Chem. B, 2020, 124, 6664–6670] is applied to ionic liquid 1-ethyl-3-methyl-imidazolium tetrafluoroborate [Emim][BF4], and its C2-deuterated analog [Emim-d][BF4]. It is shown that the solvation strongly modifies the frequencies and IR intensities of both cationic and anionic components of the ionic liquids. The main features of the bulk spectra are reproduced by the simulations for cluster ([Emim][BF4])8, representing an ion pair solvated by the first solvation shell. The geometry of the cluster closely resembles the solid-state structure of the actual ionic liquid and is characterized by short contacts of all CH moieties of the imidazolium ring with [BF4]− anions. Both structural and spectroscopic analyses allow the contacts to be interpreted as hydrogen bonds of approximately equal strength. The enthalpies of these liquid-state H-bonds, estimated with the use of empirical correlations, amount to 1.2–1.5 kcal mol−1, while the analogous estimates obtained for the gas-phase charged species [Emim][BF4]2− and [Emim]2[BF4]+ increase to 3.6–3.9 kcal mol−1.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2022/cp/d1cp05745f",
+            "DOI": "10.1039/D1CP05745F",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Katsyuba",
+                    "given": "Sergey A."
+                },
+                {
+                    "family": "Zvereva",
+                    "given": "Elena E."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        3,
+                        23
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/HT4IE7JM",
+            "type": "article-journal",
+            "title": "Computer-aided simulation of infrared spectra of ethanol conformations in gas, liquid and in CCl4 solution",
+            "container-title": "Journal of Computational Chemistry",
+            "page": "279-288",
+            "volume": "43",
+            "issue": "4",
+            "abstract": "The recently developed efficient protocol combining implicit and explicit, accurate quantum-mechanical modeling of the condensed state (Katsyuba et al., J. Chem. Phys. 155, 024507 [2021]) is used to describe the IR spectra of liquid ethanol and its solutions in CCl4. The relative abundance of the anti and gauche conformers of ethanol is shown to increase from 40:60 in the gas phase to 55:45 in the liquid phase. In spite of a moderate impact of media effects on the conformational composition of the liquid, the solvent strongly influences vibrational frequencies, IR intensities, and normal modes of each conformer, producing qualitatively different spectra compared to the gas phase and CCl4 solution. Further, these solvent effects affecting IR frequencies and intensities depend not only on the conformation of the solvated molecule but also on the solvating species. Nevertheless, vibrational frequencies of anti and gauche conformers of liquid ethanol and its several isotopomers practically coincide with each other. Convenient liquid-state conformational markers in the fingerprint region of IR spectra are revealed for the hydroxyl-deuterated species: CH3CH2OD, CH3CHDOD, CH3CD2OD, and CD3CD2OD.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.26788",
+            "DOI": "10.1002/jcc.26788",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcc.26788",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Katsyuba",
+                    "given": "Sergey A."
+                },
+                {
+                    "family": "Gerasimova",
+                    "given": "Tatiana P."
+                },
+                {
+                    "family": "Spicher",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Bohle",
+                    "given": "Fabian"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/LU922F88",
+            "type": "article-journal",
+            "title": "Water-Assisted and Catalyst-Free Hetero-Michael Additions: Mechanistic Insights from DFT Investigations",
+            "container-title": "Asian Journal of Organic Chemistry",
+            "page": "e202100632",
+            "volume": "11",
+            "issue": "2",
+            "abstract": "The reaction mechanism of six catalyst-free hetero-Michael addition reactions in water has been investigated using DFT calculations. Our theoretical results revealed the direct involvement of multiple water molecules in the transition states. The water molecules play a catalytic role in lowering the activation barrier for the three thia-Michael reactions. Concerted transition state with two bridging water molecules yields the lowest energy barrier. The formation of a hydrogen bonding network via one or more water molecules in the transition state facilitates proton shuttling from the nucleophile to the electrophile. For the aza-Michael reactions considered, they follow a stepwise mechanism involving the formation of a stable zwitterionic intermediate. In these cases, water influences the reactions via strong (nonspecific) solvent effect and the catalytic role of water is less important for enones that adopt a stable s-cis conformation. The calculated low reaction barriers (44–83 kJ/mol) of the six studied reactions are in excellent accord with the observed facile hetero-Michael reactions in water.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ajoc.202100632",
+            "DOI": "10.1002/ajoc.202100632",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ajoc.202100632",
+            "shortTitle": "Water-Assisted and Catalyst-Free Hetero-Michael Additions",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Yang",
+                    "given": "Hui"
+                },
+                {
+                    "family": "Wong",
+                    "given": "Ming Wah"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/TQ3SC3D5",
+            "type": "article-journal",
+            "title": "Docking and Molecular Dynamic of Microalgae Compounds as Potential Inhibitors of Beta-Lactamase",
+            "container-title": "International Journal of Molecular Sciences",
+            "page": "1630",
+            "volume": "23",
+            "issue": "3",
+            "abstract": "Bacterial resistance is responsible for a wide variety of health problems, both in children and adults. The persistence of symptoms and infections are mainly treated with β-lactam antibiotics. The increasing resistance to those antibiotics by bacterial pathogens generated the emergence of extended-spectrum β-lactamases (ESBLs), an actual public health problem. This is due to rapid mutations of bacteria when exposed to antibiotics. In this case, β-lactamases are enzymes used by bacteria to hydrolyze the beta-lactam rings present in the antibiotics. Therefore, it was necessary to explore novel molecules as potential β-lactamases inhibitors to find antibacterial compounds against infection caused by ESBLs. A computational methodology based on molecular docking and molecular dynamic simulations was used to find new microalgae metabolites inhibitors of β-lactamase. Six 3D β-lactamase proteins were selected, and the molecular docking revealed that the metabolites belonging to the same structural families, such as phenylacridine (4-Ph), quercetin (Qn), and cryptophycin (Cryp), exhibit a better binding score and binding energy than commercial clinical medicine β-lactamase inhibitors, such as clavulanic acid, sulbactam, and tazobactam. These results indicate that 4-Ph, Qn, and Cryp molecules, homologous from microalgae metabolites, could be used, likely as novel β-lactamase inhibitors or as structural templates for new in-silico pharmaceutical designs, with the possibility of combatting β-lactam resistance",
+            "URL": "https://www.mdpi.com/1422-0067/23/3/1630",
+            "DOI": "10.3390/ijms23031630",
+            "note": "Number: 3\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Pestana-Nobles",
+                    "given": "Roberto"
+                },
+                {
+                    "family": "Aranguren-Díaz",
+                    "given": "Yani"
+                },
+                {
+                    "family": "Machado-Sierra",
+                    "given": "Elwi"
+                },
+                {
+                    "family": "Yosa",
+                    "given": "Juvenal"
+                },
+                {
+                    "family": "Galan-Freyle",
+                    "given": "Nataly J."
+                },
+                {
+                    "family": "Sepulveda-Montaño",
+                    "given": "Laura X."
+                },
+                {
+                    "family": "Kuroda",
+                    "given": "Daniel G."
+                },
+                {
+                    "family": "Pacheco-Londoño",
+                    "given": "Leonardo C."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/T9X8RUMJ",
+            "type": "article-journal",
+            "title": "Impact of Molecular Size and Shape on the Supramolecular Co-Assembly of Chiral Tricarboxamides: A Comparative Study",
+            "container-title": "Chemistry – A European Journal",
+            "page": "14700-14707",
+            "volume": "26",
+            "issue": "64",
+            "abstract": "A comparative investigation of the chiral amplification features of a series of three families of C3-symmetric tricarboxamides, 1,3,5-triphenylbenzenetricarboxamides (TPBAs), benzenetricarboxamides (BTAs) and oligo(phenylene ethynylene) tricarboxamides (OPE-TAs), is here reported. As previously observed for BTAs and OPE-TAs, a similar dichroic response is obtained for TPBAs decorated with one, two or three chiral side chains bearing stereogenic centers, thus confirming the efficient transfer of point chirality to the supramolecular helical aggregates. Unlike BTAs and OPE-TAs, the chiral amplification ability of TPBAs in majority rules experiments shows a negligible dependence on the number of chiral centers per monomeric unit, and stands the largest among the series of tricarboxamides. Detailed experimental and theoretical studies demonstrate that the rotation angle between the TPBA units in the helical stack is intermediate to that observed for BTAs and OPE-TAs. This feature strongly conditions the steric interactions between vicinal molecules in the stack and the final chiral amplification outcome. Furthermore, theoretical calculations show that achiral side chains favor the interdigitation of the helical aggregates and thereby the formation of bundle superstructures.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202002879",
+            "DOI": "10.1002/chem.202002879",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/chem.202002879",
+            "shortTitle": "Impact of Molecular Size and Shape on the Supramolecular Co-Assembly of Chiral Tricarboxamides",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Dorca",
+                    "given": "Yeray"
+                },
+                {
+                    "family": "Sánchez-Naya",
+                    "given": "Roberto"
+                },
+                {
+                    "family": "Cerdá",
+                    "given": "Jesús"
+                },
+                {
+                    "family": "Calbo",
+                    "given": "Joaquín"
+                },
+                {
+                    "family": "Aragó",
+                    "given": "Juan"
+                },
+                {
+                    "family": "Gómez",
+                    "given": "Rafael"
+                },
+                {
+                    "family": "Ortí",
+                    "given": "Enrique"
+                },
+                {
+                    "family": "Sánchez",
+                    "given": "Luis"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/8II9XBGF",
+            "type": "article-journal",
+            "title": "Revisiting Homochiral versus Heterochiral Interactions through a Long Detective Story of a Useful Azobis-Nitrile and Puzzling Racemate",
+            "container-title": "Crystal Growth & Design",
+            "page": "5719-5733",
+            "volume": "23",
+            "issue": "8",
+            "abstract": "This paper documents and reinvestigates the solid-state and crystal structures of 4,4′-azobis-4-cyanopentanoic acid (ACPA), a water-soluble azobis-nitrile of immense utility as a radical initiator in living polymerizations and a labile mechanophore that can be embedded within long polymer chains to undergo selective scission under mechanical activation. Surprisingly, for such applications, both the commercially available reagent and their derivatives are used as “single initiators” when this azonitrile is actually a mixture of stereoisomers. Although the racemate and meso compounds were identified more than half a century ago and their enantiomers were separated by classical resolution, there have been confusing narratives dealing with their characterization, the existence of a conglomeratic phase, and fractional crystallization. Our results report on the X-ray crystal structures of all stereoisomers for the first time, along with further details on enantiodiscrimination and the always intriguing arguments accounting for the stability of homochiral versus heterochiral crystal aggregates. To this end, metadynamic (MTD) simulations on stereoisomer molecular aggregates were performed to capture the incipient nucleation events at the picosecond time scale. This analysis sheds light on the driving homochiral aggregation of ACPA enantiomers.",
+            "URL": "https://doi.org/10.1021/acs.cgd.3c00372",
+            "DOI": "10.1021/acs.cgd.3c00372",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "Crystal Growth & Design",
+            "author": [
+                {
+                    "family": "García de la Concepción",
+                    "given": "Juan"
+                },
+                {
+                    "family": "Flores-Jiménez",
+                    "given": "Mirian"
+                },
+                {
+                    "family": "Cuccia",
+                    "given": "Louis A."
+                },
+                {
+                    "family": "Light",
+                    "given": "Mark E."
+                },
+                {
+                    "family": "Viedma",
+                    "given": "Cristóbal"
+                },
+                {
+                    "family": "Cintas",
+                    "given": "Pedro"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        8,
+                        2
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        27
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/JK6WTCVI",
+            "type": "article-journal",
+            "title": "Measurement of Water Saturation in Soybean Oil",
+            "container-title": "ACS Omega",
+            "page": "19385-19390",
+            "volume": "8",
+            "issue": "22",
+            "abstract": "In a previous study, it was observed that survivability was low when attempting to cryopreserve sperm cells in a nanoliter-sized droplet protected under soybean oil, in stark contrast to the high survival rates in milliliter-sized droplets. In this study, infrared spectroscopy was used to provide an estimate of the saturation concentration of water in soybean oil. By following the time evolution of the infrared absorption spectrum of water–oil mixtures, the saturation of water in soybean oil was found to reach equilibrium after 1 h. From the absorption spectra of neat water and neat soybean oil and the application of the Beer–Lambert law to an estimation of the absorption of a mixture from its individual components, it was estimated that the saturation concentration of water is 0.010 M. This estimate was supported by molecular modeling using the latest semiempirical methods (in particular, GFN2-xTB). While for most applications the very low solubility has little impact, the implications in those exceptions were discussed.",
+            "URL": "https://doi.org/10.1021/acsomega.3c00348",
+            "DOI": "10.1021/acsomega.3c00348",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "ACS Omega",
+            "author": [
+                {
+                    "family": "Galmidi",
+                    "given": "Bat-Sheva"
+                },
+                {
+                    "family": "Iron",
+                    "given": "Mark A."
+                },
+                {
+                    "family": "Zurgil",
+                    "given": "Naomi"
+                },
+                {
+                    "family": "Deutsch",
+                    "given": "Mordechai"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        6,
+                        6
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        27
+                    ]
+                ]
+            }
+        }
+    ]
+}

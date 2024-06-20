@@ -1,0 +1,3426 @@
+{
+    "items": [
+        {
+            "id": "16708940/FZZB6LGB",
+            "type": "article-journal",
+            "title": "Accurate Many-Body Repulsive Potentials for Density-Functional Tight Binding from Deep Tensor Neural Networks",
+            "container-title": "The Journal of Physical Chemistry Letters",
+            "page": "6835-6843",
+            "volume": "11",
+            "issue": "16",
+            "abstract": "We combine density-functional tight binding (DFTB) with deep tensor neural networks (DTNN) to maximize the strengths of both approaches in predicting structural, energetic, and vibrational molecular properties. The DTNN is used to construct a nonlinear model for the localized many-body interatomic repulsive energy, which so far has been treated in an atom-pairwise manner in DFTB. Substantially improving upon standard DFTB and DTNN, the resulting DFTB-NNrep model yields accurate predictions of atomization and isomerization energies, equilibrium geometries, vibrational frequencies, and dihedral rotation profiles for a large variety of organic molecules compared to the hybrid DFT-PBE0 functional. Our results highlight the potential of combining semiempirical electronic-structure methods with physically motivated machine learning approaches for predicting localized many-body interactions. We conclude by discussing future advancements of the DFTB-NNrep approach that could enable chemically accurate electronic-structure calculations for systems with tens of thousands of atoms.",
+            "URL": "https://doi.org/10.1021/acs.jpclett.0c01307",
+            "DOI": "10.1021/acs.jpclett.0c01307",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "J. Phys. Chem. Lett.",
+            "author": [
+                {
+                    "family": "Stöhr",
+                    "given": "Martin"
+                },
+                {
+                    "family": "Medrano Sandonas",
+                    "given": "Leonardo"
+                },
+                {
+                    "family": "Tkatchenko",
+                    "given": "Alexandre"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        20
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        13
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/EFV9T5DA",
+            "type": "article-journal",
+            "title": "Regularized Newton Method with Global \\({\\boldsymbol{\\mathcal{O}(1/{k}^2)}}\\) Convergence",
+            "container-title": "SIAM Journal on Optimization",
+            "page": "1440-1462",
+            "volume": "33",
+            "issue": "3",
+            "abstract": ".We analyze the performance of a variant of the Newton method with quadratic regularization for solving composite convex minimization problems. At each step of our method, we choose a regularization parameter proportional to a certain power of the gradient norm at the current point. We introduce a family of problem classes characterized by the Hölder continuity of either the second or third derivative. Then we present the method with a simple adaptive search procedure allowing an automatic adjustment to the problem class with the best global complexity bounds, without knowing specific parameters of the problem. In particular, for the class of functions with a Lipschitz continuous third derivative, we get the global  rate, which was previously attributed to third-order tensor methods. When the objective function is uniformly convex, we justify an automatic acceleration of our scheme, resulting in a faster global rate and local superlinear convergence. The switching between the different rates (sublinear, linear, and superlinear) is automatic. Again, for that, no a priori knowledge of parameters is needed.",
+            "URL": "https://epubs.siam.org/doi/10.1137/22M1488752",
+            "DOI": "10.1137/22M1488752",
+            "note": "Publisher: Society for Industrial and Applied Mathematics",
+            "journalAbbreviation": "SIAM J. Optim.",
+            "author": [
+                {
+                    "family": "Mishchenko",
+                    "given": "Konstantin"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        30
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/9KARDZNQ",
+            "type": "article-journal",
+            "title": "Combining Machine Learning and Computational Chemistry for Predictive Insights Into Chemical Systems",
+            "container-title": "Chemical Reviews",
+            "page": "9816-9872",
+            "volume": "121",
+            "issue": "16",
+            "abstract": "Machine learning models are poised to make a transformative impact on chemical sciences by dramatically accelerating computational algorithms and amplifying insights available from computational chemistry methods. However, achieving this requires a confluence and coaction of expertise in computer science and physical sciences. This Review is written for new and experienced researchers working at the intersection of both fields. We first provide concise tutorials of computational chemistry and machine learning methods, showing how insights involving both can be achieved. We follow with a critical review of noteworthy applications that demonstrate how computational chemistry and machine learning can be used together to provide insightful (and useful) predictions in molecular and materials modeling, retrosyntheses, catalysis, and drug design.",
+            "URL": "https://doi.org/10.1021/acs.chemrev.1c00107",
+            "DOI": "10.1021/acs.chemrev.1c00107",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "Chem. Rev.",
+            "author": [
+                {
+                    "family": "Keith",
+                    "given": "John A."
+                },
+                {
+                    "family": "Vassilev-Galindo",
+                    "given": "Valentin"
+                },
+                {
+                    "family": "Cheng",
+                    "given": "Bingqing"
+                },
+                {
+                    "family": "Chmiela",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Gastegger",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Müller",
+                    "given": "Klaus-Robert"
+                },
+                {
+                    "family": "Tkatchenko",
+                    "given": "Alexandre"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        8,
+                        25
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/CTY9WBER",
+            "type": "article-journal",
+            "title": "PubChemQC PM6: Data Sets of 221 Million Molecules with Optimized Molecular Geometries and Electronic Properties",
+            "container-title": "Journal of Chemical Information and Modeling",
+            "page": "5891-5899",
+            "volume": "60",
+            "issue": "12",
+            "abstract": "We report on optimized molecular geometries and electronic properties calculated by the PM6 method for 94.0% of the 91.6 million molecules cataloged in PubChem Compounds retrieved on August 29, 2016. In addition to neutral states, we also calculated those for cationic, anionic, and spin flipped electronic states of 56.2%, 49.7%, and 41.3% of the molecules, respectively. Thus, the grand total of the PM6 calculations amounted to 221 million. We compared the resulting molecular geometries with B3LYP/6-31G* optimized geometries for 2.6 million molecules. The root-mean-square deviations in bond length and bond angle were approximately 0.016 Å and 1.7°, respectively. Then, using linear regression to examine the HOMO energy levels E(HOMO) in the B3LYP and PM6 calculations, we found that EB3LYP(HOMO) = 0.876EPM6(HOMO) + 1.975 (eV) and calculated the coefficient of determination to be 0.803. Likewise, we examined the LUMO energy levels and found EB3LYP(LUMO) = 1.069EPM6(LUMO) – 0.420 (eV); the coefficient of determination was 0.842. We also generated four subdata sets, each of which was composed of molecules with molecular weights less than 500. Subdata set i contained C, H, O and N, ii contained C, H, N, O, P, and S, iii contained C, H, N, O, P, S, F, and Cl, and iv contained C, H, N, O, P, S, F, Cl, Na, K, Mg, and Ca. The data sets are available at http://pubchemqc.riken.jp/pm6_datasets.html under a Creative Commons Attribution 4.0 International license.",
+            "URL": "https://doi.org/10.1021/acs.jcim.0c00740",
+            "DOI": "10.1021/acs.jcim.0c00740",
+            "note": "Publisher: American Chemical Society",
+            "shortTitle": "PubChemQC PM6",
+            "journalAbbreviation": "J. Chem. Inf. Model.",
+            "author": [
+                {
+                    "family": "Nakata",
+                    "given": "Maho"
+                },
+                {
+                    "family": "Shimazaki",
+                    "given": "Tomomi"
+                },
+                {
+                    "family": "Hashimoto",
+                    "given": "Masatomo"
+                },
+                {
+                    "family": "Maeda",
+                    "given": "Toshiyuki"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        28
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/AZGLN8CS",
+            "type": "article-journal",
+            "title": "Exchange Spin Coupling from Gaussian Process Regression",
+            "container-title": "The Journal of Physical Chemistry A",
+            "page": "8708-8723",
+            "volume": "124",
+            "issue": "42",
+            "abstract": "Heisenberg exchange spin coupling between metal centers is essential for describing and understanding the electronic structure of many molecular catalysts, metalloenzymes, and molecular magnets for potential application in information technology. We explore the machine-learnability of exchange spin coupling beyond linear regression, which has not been studied yet. We employ Gaussian process regression, since it can potentially deal with small training sets (as likely associated with the rather complex molecular structures required for exploring spin coupling) and since it provides uncertainty estimates (“error bars”) along with predicted values. We compare a range of descriptors and kernels for 257 small dicopper complexes and find that a simple descriptor based on chemical intuition, consisting only of copper–bridge angles and copper–copper distances, clearly outperforms several more sophisticated descriptors when it comes to extrapolating toward larger experimentally relevant complexes. Exchange spin coupling is similarly easy to learn as the polarizability, while learning dipole moments is much harder. The strength of the sophisticated descriptors lies in their ability to linearize structure–property relationships, to the point that a simple linear ridge regression performs just as well as the kernel-based machine-learning model for our small dicopper data set. The superior extrapolation performance of the simple descriptor is unique to exchange spin coupling, reinforcing the crucial role of choosing a suitable descriptor and highlighting the interesting question of the role of chemical intuition vs systematic or automated selection of features for machine learning in chemistry and material science.",
+            "URL": "https://doi.org/10.1021/acs.jpca.0c05983",
+            "DOI": "10.1021/acs.jpca.0c05983",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "J. Phys. Chem. A",
+            "author": [
+                {
+                    "family": "Bahlke",
+                    "given": "Marc Philipp"
+                },
+                {
+                    "family": "Mogos",
+                    "given": "Natnael"
+                },
+                {
+                    "family": "Proppe",
+                    "given": "Jonny"
+                },
+                {
+                    "family": "Herrmann",
+                    "given": "Carmen"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        22
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/TTTELT4T",
+            "type": "article-journal",
+            "title": "Applications of Quantum Chemistry in Pharmaceutical Process Development: Current State and Opportunities",
+            "container-title": "Organic Process Research & Development",
+            "page": "1496-1507",
+            "volume": "24",
+            "issue": "8",
+            "abstract": "Application of computational methods to understanding and predicting properties of analogues for drug discovery has enjoyed a long history of success. However, the drug development space (post-candidate selection) is currently experiencing a rapid growth in this arena. Due to the revolution in computing hardware development and improved computational techniques, quantum chemical (QC) calculations have become an essential tool in this space, allowing results from complex calculations to inform chemical development efforts. As a result, numerous pharmaceutical companies are employing QC as part of their drug development workflow. Calculations cover the range of transition state calculations, reaction path determination, and potential energy surface scans, among others. The impact of this rapid growth is realized by providing an in-depth understanding of chemical processes and predictive insight into the outcome of potential process routes and conditions. This review surveys the state of the art in these drug development applications in the pharmaceutical industry. Statistics of computational methods, software, and other metrics for publications in the last 14 years (2005–2019) are presented. Predictive applications of quantum chemistry for influencing experiments in reaction optimization and catalyst design are described. Important gaps in hardware and software capabilities that need to be addressed in order for quantum chemistry to become a more practical and impactful tool in pharmaceutical drug development are discussed. Perspectives for the future direction of application of QC to pharmaceutical drug development are proposed.",
+            "URL": "https://doi.org/10.1021/acs.oprd.0c00222",
+            "DOI": "10.1021/acs.oprd.0c00222",
+            "note": "Publisher: American Chemical Society",
+            "shortTitle": "Applications of Quantum Chemistry in Pharmaceutical Process Development",
+            "journalAbbreviation": "Org. Process Res. Dev.",
+            "author": [
+                {
+                    "family": "Lam",
+                    "given": "Yu-hong"
+                },
+                {
+                    "family": "Abramov",
+                    "given": "Yuriy"
+                },
+                {
+                    "family": "Ananthula",
+                    "given": "Ravi S."
+                },
+                {
+                    "family": "Elward",
+                    "given": "Jennifer M."
+                },
+                {
+                    "family": "Hilden",
+                    "given": "Lori R."
+                },
+                {
+                    "family": "Nilsson Lill",
+                    "given": "Sten O."
+                },
+                {
+                    "family": "Norrby",
+                    "given": "Per-Ola"
+                },
+                {
+                    "family": "Ramirez",
+                    "given": "Antonio"
+                },
+                {
+                    "family": "Sherer",
+                    "given": "Edward C."
+                },
+                {
+                    "family": "Mustakis",
+                    "given": "Jason"
+                },
+                {
+                    "family": "Tanoury",
+                    "given": "Gerald J."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        21
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/FPS3SF79",
+            "type": "article-journal",
+            "title": "Benchmarking the Performance of the ReaxFF Reactive Force Field on Hydrogen Combustion Systems",
+            "container-title": "The Journal of Physical Chemistry A",
+            "page": "5631-5645",
+            "volume": "124",
+            "issue": "27",
+            "abstract": "A thorough understanding of the kinetics and dynamics of combusting mixtures is of considerable interest, especially in regimes beyond the reach of current experimental validation. The ReaxFF reactive force field method has provided a way to simulate large-scale systems of hydrogen combustion via a parametrized potential that can simulate bond breaking. This modeling approach has been applied to hydrogen combustion, as well as myriad other reactive chemical systems. In this work, we benchmark the performance of several common parametrizations of this potential against higher-level quantum mechanical (QM) approaches. We demonstrate instances where these parametrizations of the ReaxFF potential fail both quantitatively and qualitatively to describe reactive events relevant for hydrogen combustion systems.",
+            "URL": "https://doi.org/10.1021/acs.jpca.0c02734",
+            "DOI": "10.1021/acs.jpca.0c02734",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "J. Phys. Chem. A",
+            "author": [
+                {
+                    "family": "Bertels",
+                    "given": "Luke W."
+                },
+                {
+                    "family": "Newcomb",
+                    "given": "Lucas B."
+                },
+                {
+                    "family": "Alaghemandi",
+                    "given": "Mohammad"
+                },
+                {
+                    "family": "Green",
+                    "given": "Jason R."
+                },
+                {
+                    "family": "Head-Gordon",
+                    "given": "Martin"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        9
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/H6BRHRVB",
+            "type": "article-journal",
+            "title": "100th Anniversary of Macromolecular Science Viewpoint: Recent Advances and Opportunities for Mixed Ion and Charge Conducting Polymers",
+            "container-title": "ACS Macro Letters",
+            "page": "646-655",
+            "volume": "9",
+            "issue": "5",
+            "abstract": "Macromolecules that exhibit both electron transport and ionic mass transport (i.e., mixed conducting polymers) are ascendant with respect to both emerging application spaces and the elucidation of their fundamental physical principles. The unique coupling between the two modes of conduction puts these materials at the center of many next-generation organic electronic applications. The molecular details of this coupling are also at the epicenter of outstanding questions about how these materials function; how monomer and macromolecular chemistry dictates observable properties; and ultimately, how these macromolecular materials can be rationally designed, processed, and implemented into high-performance devices. Here, we focus on what is currently known about coupled ionic-electronic transport in these polymers and where there are open opportunities in the field. These opportunities include the syntheses of designer macromolecules, the need for significant simulation efforts that provide molecular-level insights into the mixed conduction mechanism, and the need for advanced characterization techniques for real-time monitoring of polymer morphology, as this is critical to coupled ion-charge transport processes. Considering the early stage of this important subfield of polymer science, we also present our view of how the development of mixed conductors can benefit from the lessons learned from previous polymer-based electronic devices.",
+            "URL": "https://doi.org/10.1021/acsmacrolett.0c00037",
+            "DOI": "10.1021/acsmacrolett.0c00037",
+            "note": "Publisher: American Chemical Society",
+            "shortTitle": "100th Anniversary of Macromolecular Science Viewpoint",
+            "journalAbbreviation": "ACS Macro Lett.",
+            "author": [
+                {
+                    "family": "Chung",
+                    "given": "Jaeyub"
+                },
+                {
+                    "family": "Khot",
+                    "given": "Aditi"
+                },
+                {
+                    "family": "Savoie",
+                    "given": "Brett M."
+                },
+                {
+                    "family": "Boudouris",
+                    "given": "Bryan W."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        19
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/ILBXCQWZ",
+            "type": "article-journal",
+            "title": "Learning to Use the Force: Fitting Repulsive Potentials in Density-Functional Tight-Binding with Gaussian Process Regression",
+            "container-title": "Journal of Chemical Theory and Computation",
+            "page": "2181-2191",
+            "volume": "16",
+            "issue": "4",
+            "abstract": "The Density-Functional Tight Binding (DFTB) method is a popular semiempirical approximation to Density Functional Theory (DFT). In many cases, DFTB can provide comparable accuracy to DFT at a fraction of the cost, enabling simulations on length and time scales that are unfeasible with first-principles DFT. At the same time (and in contrast to empirical interatomic potentials and force fields), DFTB still offers direct access to electronic properties such as the band structure. These advantages come at the cost of introducing empirical parameters to the method, leading to a reduced transferability compared to true first-principle approaches. Consequently, it would be very useful if the parameter sets could be routinely adjusted for a given project. While fairly robust and transferable parametrization workflows exist for the electronic structure part of DFTB, the so-called repulsive potential Vrep poses a major challenge. In this paper, we propose a machine-learning (ML) approach to fitting Vrep, using Gaussian Process Regression (GPR) to reconstruct Vrep with DFT-DFTB force residues as training data. The use of GPR circumvents the need for nonlinear or global parameter optimization, while at the same time offering arbitrary flexibility in terms of the functional form. We also show that the proposed method can be applied to multiple elements at once, by fitting repulsive potentials for organic molecules containing carbon, hydrogen, and oxygen. Overall, the new approach removes focus from the choice of functional form and parametrization procedure, in favor of a data-driven philosophy.",
+            "URL": "https://doi.org/10.1021/acs.jctc.9b00975",
+            "DOI": "10.1021/acs.jctc.9b00975",
+            "note": "Publisher: American Chemical Society",
+            "shortTitle": "Learning to Use the Force",
+            "journalAbbreviation": "J. Chem. Theory Comput.",
+            "author": [
+                {
+                    "family": "Panosetti",
+                    "given": "Chiara"
+                },
+                {
+                    "family": "Engelmann",
+                    "given": "Artur"
+                },
+                {
+                    "family": "Nemec",
+                    "given": "Lydia"
+                },
+                {
+                    "family": "Reuter",
+                    "given": "Karsten"
+                },
+                {
+                    "family": "Margraf",
+                    "given": "Johannes T."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        14
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/W9JZ5X5X",
+            "type": "article-journal",
+            "title": "Analysis of Density Functional Tight Binding with Natural Bonding Orbitals",
+            "container-title": "The Journal of Physical Chemistry A",
+            "page": "7439-7453",
+            "volume": "123",
+            "issue": "34",
+            "abstract": "The description of chemical bonding by the density functional tight binding (DFTB) model is analyzed using natural bonding orbitals (NBOs) and compared to results from density functional theory (B3LYP/aug-cc-pVTZ) calculations. Several molecular systems have been chosen to represent fairly diverse bonding scenarios that include standard covalent bonds, hypervalent interactions, multicenter bonds, metal–ligand interactions (with and without the pseudo-Jahn–Teller effect), and through-space donor–acceptor interactions. Overall, the results suggest that DFTB3/3OB provides physically sound descriptions for the different bonding scenarios analyzed here, as reflected by the general agreement between DFTB3 and B3LYP NBO properties, such as the nature of the NBOs, the magnitudes of natural charges and bond orders, and the dominant donor–acceptor interactions. The degree of ligand-to-metal charge transfer and the ionic nature of pentavalent phosphate are overestimated, likely reflecting the minimal-basis nature of DFTB3/3OB. Moreover, certain orbital interactions, such as geminal interactions, are observed to be grossly overestimated by DFTB3 for hypervalent phosphate and several transition metal compounds that involve copper and nickel. The study indicates that results from NBO analysis can be instructive for identifying electronic structure descriptions at the approximate quantum-mechanical level that require improvement and thus for guiding the systematic improvement of these methods.",
+            "URL": "https://doi.org/10.1021/acs.jpca.9b05072",
+            "DOI": "10.1021/acs.jpca.9b05072",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "J. Phys. Chem. A",
+            "author": [
+                {
+                    "family": "Lu",
+                    "given": "Xiya"
+                },
+                {
+                    "family": "Duchimaza-Heredia",
+                    "given": "Juan"
+                },
+                {
+                    "family": "Cui",
+                    "given": "Qiang"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        8,
+                        29
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/FE42FGZP",
+            "type": "article-journal",
+            "title": "Transferability of atomic energies from alchemical decomposition",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "054106",
+            "volume": "160",
+            "issue": "5",
+            "abstract": "We study alchemical atomic energy partitioning as a method to estimate atomization energies from atomic contributions, which are defined in physically rigorous and general ways through the use of the uniform electron gas as a joint reference. We analyze quantitatively the relation between atomic energies and their local environment using a dataset of 1325 organic molecules. The atomic energies are transferable across various molecules, enabling the prediction of atomization energies with a mean absolute error of 23 kcal/mol, comparable to simple statistical estimates but potentially more robust given their grounding in the physics-based decomposition scheme. A comparative analysis with other decomposition methods highlights its sensitivity to electrostatic variations, underlining its potential as a representation of the environment as well as in studying processes like diffusion in solids characterized by significant electrostatic shifts.",
+            "URL": "https://doi.org/10.1063/5.0187298",
+            "DOI": "10.1063/5.0187298",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Sahre",
+                    "given": "Michael J."
+                },
+                {
+                    "family": "von Rudorff",
+                    "given": "Guido Falk"
+                },
+                {
+                    "family": "Marquetand",
+                    "given": "Philipp"
+                },
+                {
+                    "family": "von Lilienfeld",
+                    "given": "O. Anatole"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        6
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/6UWUNS7M",
+            "type": "article-journal",
+            "title": "% V Bur index and steric maps: from predictive catalysis to machine learning",
+            "container-title": "Chemical Society Reviews",
+            "page": "853-882",
+            "volume": "53",
+            "issue": "2",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2024/cs/d3cs00725a",
+            "DOI": "10.1039/D3CS00725A",
+            "note": "Publisher: Royal Society of Chemistry",
+            "shortTitle": "% V Bur index and steric maps",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Escayola",
+                    "given": "Sílvia"
+                },
+                {
+                    "family": "Bahri-Laleh",
+                    "given": "Naeimeh"
+                },
+                {
+                    "family": "Poater",
+                    "given": "Albert"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/U5L2ISPT",
+            "type": "article-journal",
+            "title": "A database of molecular properties integrated in the Materials Project",
+            "container-title": "Digital Discovery",
+            "page": "1862-1882",
+            "volume": "2",
+            "issue": "6",
+            "abstract": "Advanced chemical research is increasingly reliant on large computed datasets of molecules and reactions to discover new functional molecules, understand chemical trends, train machine learning models, and more. To be of greatest use to the scientific community, such datasets should follow FAIR principles (i.e. be findable, accessible, interoperable, and reusable). In this work, we present a FAIR expansion of the Materials Project database (“MPcules”) that adds more than 170 000 molecules studied using density functional theory (DFT) to the existing data, which comprises crystalline solids. MPcules is a diverse collection of DFT-calculated molecular properties, with an emphasis on reactive, open-shell, and charged species—relevant for studying reaction pathways—and a wide array of structural, electronic, vibrational, and thermodynamic properties. This database can be queried through an OpenAPI-compliant application programming interface and a featureful web application. We continue to expand the data available on MPcules and encourage contributions from the community.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2023/dd/d3dd00153a",
+            "DOI": "10.1039/D3DD00153A",
+            "note": "Publisher: RSC",
+            "journalAbbreviation": "Digital Discovery",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Spotte-Smith",
+                    "given": "Evan Walter Clark"
+                },
+                {
+                    "family": "Cohen",
+                    "given": "Orion Archer"
+                },
+                {
+                    "family": "Blau",
+                    "given": "Samuel M."
+                },
+                {
+                    "family": "Munro",
+                    "given": "Jason M."
+                },
+                {
+                    "family": "Yang",
+                    "given": "Ruoxi"
+                },
+                {
+                    "family": "Guha",
+                    "given": "Rishabh D."
+                },
+                {
+                    "family": "Patel",
+                    "given": "Hetal D."
+                },
+                {
+                    "family": "Vijay",
+                    "given": "Sudarshan"
+                },
+                {
+                    "family": "Huck",
+                    "given": "Patrick"
+                },
+                {
+                    "family": "Kingsbury",
+                    "given": "Ryan"
+                },
+                {
+                    "family": "Horton",
+                    "given": "Matthew K."
+                },
+                {
+                    "family": "Persson",
+                    "given": "Kristin A."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        12,
+                        4
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/F8HNPCDX",
+            "type": "article-journal",
+            "title": "Reply to Comment on ‘Physics-based representations for machine learning properties of chemical reactions’",
+            "container-title": "Machine Learning: Science and Technology",
+            "page": "048002",
+            "volume": "4",
+            "issue": "4",
+            "abstract": "Recently, we published an article in this journal that explored physics-based representations in combination with kernel models for predicting reaction properties (i.e. TS barrier heights). In an anonymous comment on our contribution, the authors argue, amongst other points, that deep learning models relying on atom-mapped reaction SMILES are more appropriate for the same task. This raises the question: are deep learning models sounding the death knell for kernel based models? By studying several datasets that vary in the type of chemical (i.e. high-quality atom-mapping) and structural information (i.e. Cartesian coordinates of reactants and products) contained within, we illustrate that physics-based representations combined with kernel models are competitive with deep learning models. Indeed, in some cases, such as when reaction barriers are sensitive to the geometry, physics-based models represent the only viable candidate. Furthermore, we illustrate that the good performance of deep learning models relies on high-quality atom-mapping, which comes with significant human time-cost and, in some cases, is impossible. As such, both physics-based and graph models offer their own relative benefits to predict reaction barriers of differing datasets.",
+            "URL": "https://dx.doi.org/10.1088/2632-2153/acee43",
+            "DOI": "10.1088/2632-2153/acee43",
+            "note": "Publisher: IOP Publishing",
+            "journalAbbreviation": "Mach. Learn.: Sci. Technol.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Gerwen",
+                    "given": "Puck van"
+                },
+                {
+                    "family": "Wodrich",
+                    "given": "Matthew D."
+                },
+                {
+                    "family": "Laplaza",
+                    "given": "Ruben"
+                },
+                {
+                    "family": "Corminboeuf",
+                    "given": "Clemence"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        10
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/NEX7AP2F",
+            "type": "article-journal",
+            "title": "Machine learning electronic structure methods based on the one-electron reduced density matrix",
+            "container-title": "Nature Communications",
+            "page": "6281",
+            "volume": "14",
+            "issue": "1",
+            "abstract": "The theorems of density functional theory (DFT) establish bijective maps between the local external potential of a many-body system and its electron density, wavefunction and, therefore, one-particle reduced density matrix. Building on this foundation, we show that machine learning models based on the one-electron reduced density matrix can be used to generate surrogate electronic structure methods. We generate surrogates of local and hybrid DFT, Hartree-Fock and full configuration interaction theories for systems ranging from small molecules such as water to more complex compounds like benzene and propanol. The surrogate models use the one-electron reduced density matrix as the central quantity to be learned. From the predicted density matrices, we show that either standard quantum chemistry or a second machine-learning model can be used to compute molecular observables, energies, and atomic forces. The surrogate models can generate essentially anything that a standard electronic structure method can, ranging from band gaps and Kohn-Sham orbitals to energy-conserving ab-initio molecular dynamics simulations and infrared spectra, which account for anharmonicity and thermal effects, without the need to employ computationally expensive algorithms such as self-consistent field theory. The algorithms are packaged in an efficient and easy to use Python code, QMLearn, accessible on popular platforms.",
+            "URL": "https://www.nature.com/articles/s41467-023-41953-9",
+            "DOI": "10.1038/s41467-023-41953-9",
+            "note": "Number: 1\nPublisher: Nature Publishing Group",
+            "journalAbbreviation": "Nat Commun",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Shao",
+                    "given": "Xuecheng"
+                },
+                {
+                    "family": "Paetow",
+                    "given": "Lukas"
+                },
+                {
+                    "family": "Tuckerman",
+                    "given": "Mark E."
+                },
+                {
+                    "family": "Pavanello",
+                    "given": "Michele"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        10,
+                        7
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/8RH8DNU9",
+            "type": "article-journal",
+            "title": "Modelling local and general quantum mechanical properties with attention-based pooling",
+            "container-title": "Communications Chemistry",
+            "page": "1-11",
+            "volume": "6",
+            "issue": "1",
+            "abstract": "Atom-centred neural networks represent the state-of-the-art for approximating the quantum chemical properties of molecules, such as internal energies. While the design of machine learning architectures that respect chemical principles has continued to advance, the final atom pooling operation that is necessary to convert from atomic to molecular representations in most models remains relatively undeveloped. The most common choices, sum and average pooling, compute molecular representations that are naturally a good fit for many physical properties, while satisfying properties such as permutation invariance which are desirable from a geometric deep learning perspective. However, there are growing concerns that such simplistic functions might have limited representational power, while also being suboptimal for physical properties that are highly localised or intensive. Based on recent advances in graph representation learning, we investigate the use of a learnable pooling function that leverages an attention mechanism to model interactions between atom representations. The proposed pooling operation is a drop-in replacement requiring no changes to any of the other architectural components. Using SchNet and DimeNet++ as starting models, we demonstrate consistent uplifts in performance compared to sum and mean pooling and a recent physics-aware pooling operation designed specifically for orbital energies, on several datasets, properties, and levels of theory, with up to 85% improvements depending on the specific task.",
+            "URL": "https://www.nature.com/articles/s42004-023-01045-7",
+            "DOI": "10.1038/s42004-023-01045-7",
+            "note": "Number: 1\nPublisher: Nature Publishing Group",
+            "journalAbbreviation": "Commun Chem",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Buterez",
+                    "given": "David"
+                },
+                {
+                    "family": "Janet",
+                    "given": "Jon Paul"
+                },
+                {
+                    "family": "Kiddle",
+                    "given": "Steven J."
+                },
+                {
+                    "family": "Oglic",
+                    "given": "Dino"
+                },
+                {
+                    "family": "Liò",
+                    "given": "Pietro"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        11,
+                        29
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/ZZV8GRKJ",
+            "type": "article-journal",
+            "title": "Frontiers of molecular crystal structure prediction for pharmaceuticals and functional organic materials",
+            "container-title": "Chemical Science",
+            "page": "13290-13312",
+            "volume": "14",
+            "issue": "46",
+            "abstract": "The reliability of organic molecular crystal structure prediction has improved tremendously in recent years. Crystal structure predictions for small, mostly rigid molecules are quickly becoming routine. Structure predictions for larger, highly flexible molecules are more challenging, but their crystal structures can also now be predicted with increasing rates of success. These advances are ushering in a new era where crystal structure prediction drives the experimental discovery of new solid forms. After briefly discussing the computational methods that enable successful crystal structure prediction, this perspective presents case studies from the literature that demonstrate how state-of-the-art crystal structure prediction can transform how scientists approach problems involving the organic solid state. Applications to pharmaceuticals, porous organic materials, photomechanical crystals, organic semi-conductors, and nuclear magnetic resonance crystallography are included. Finally, efforts to improve our understanding of which predicted crystal structures can actually be produced experimentally and other outstanding challenges are discussed.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc03903j",
+            "DOI": "10.1039/D3SC03903J",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Chem. Sci.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Beran",
+                    "given": "Gregory J. O."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        11,
+                        29
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/HLUAA6LY",
+            "type": "article-journal",
+            "title": "Combining Molecular Quantum Mechanical Modeling and Machine Learning for Accelerated Reaction Screening and Discovery",
+            "container-title": "Chemistry – A European Journal",
+            "page": "e202301957",
+            "volume": "29",
+            "issue": "60",
+            "abstract": "Molecular quantum mechanical modeling, accelerated by machine learning, has opened the door to high-throughput screening campaigns of complex properties, such as the activation energies of chemical reactions and absorption/emission spectra of materials and molecules; in silico. Here, we present an overview of the main principles, concepts, and design considerations involved in such hybrid computational quantum chemistry/machine learning screening workflows, with a special emphasis on some recent examples of their successful application. We end with a brief outlook of further advances that will benefit the field.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202301957",
+            "DOI": "10.1002/chem.202301957",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/chem.202301957",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Casetti",
+                    "given": "Nicholas"
+                },
+                {
+                    "family": "Alfonso-Ramos",
+                    "given": "Javier E."
+                },
+                {
+                    "family": "Coley",
+                    "given": "Connor W."
+                },
+                {
+                    "family": "Stuyver",
+                    "given": "Thijs"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/MZ68LS2B",
+            "type": "article-journal",
+            "title": "Recent DFT Calculations on the Mechanism of Transition-Metal-Catalyzed C−O Activation of Alcohols",
+            "container-title": "ChemCatChem",
+            "page": "e202300589",
+            "volume": "15",
+            "issue": "16",
+            "abstract": "In recent decades, density functional theory (DFT) calculations have been extensively employed to investigate the mechanism of transition metal-catalyzed C−O activation reactions. These studies provide valuable insights into the structure-reactivity/selectivity correlations via theoretical simulations and energy profile analysis. Alcohols, a category of molecules that are readily available from biomass and are low cost, represent one of the most extensively studied compounds in organic synthesis. In this review, we provide a brief overview of the DFT studies conducted since 2017 on the C−OH bond activation of alcohols catalyzed by transition metals. Specifically, the activation can be mainly divided into four categories: free radical cleavage, metal insertion, nucleophilic attack, and β-OH elimination. We will also cover some promising strategies and give a perspective regarding future research directions in this field.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cctc.202300589",
+            "DOI": "10.1002/cctc.202300589",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/cctc.202300589",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Liu",
+                    "given": "DeGuang"
+                },
+                {
+                    "family": "Xu",
+                    "given": "ZheYuan"
+                },
+                {
+                    "family": "Yu",
+                    "given": "HaiZhu"
+                },
+                {
+                    "family": "Fu",
+                    "given": "Yao"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/MD4RPE6Q",
+            "type": "article-journal",
+            "title": "Kernel based quantum machine learning at record rate: Many-body distribution functionals as compact representations",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "034106",
+            "volume": "159",
+            "issue": "3",
+            "abstract": "The feature vector mapping used to represent chemical systems is a key factor governing the superior data efficiency of kernel based quantum machine learning (QML) models applicable throughout chemical compound space. Unfortunately, the most accurate representations require a high dimensional feature mapping, thereby imposing a considerable computational burden on model training and use. We introduce compact yet accurate, linear scaling QML representations based on atomic Gaussian many-body distribution functionals (MBDF) and their derivatives. Weighted density functions of MBDF values are used as global representations that are constant in size, i.e., invariant with respect to the number of atoms. We report predictive performance and training data efficiency that is competitive with state-of-the-art for two diverse datasets of organic molecules, QM9 and QMugs. Generalization capability has been investigated for atomization energies, highest occupied molecular orbital–lowest unoccupied molecular orbital eigenvalues and gap, internal energies at 0 K, zero point vibrational energies, dipole moment norm, static isotropic polarizability, and heat capacity as encoded in QM9. MBDF based QM9 performance lowers the optimal Pareto front spanned between sampling and training cost to compute node minutes, effectively sampling chemical compound space with chemical accuracy at a sampling rate of ∼48 molecules per core second.",
+            "URL": "https://doi.org/10.1063/5.0152215",
+            "DOI": "10.1063/5.0152215",
+            "shortTitle": "Kernel based quantum machine learning at record rate",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Khan",
+                    "given": "Danish"
+                },
+                {
+                    "family": "Heinen",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "von Lilienfeld",
+                    "given": "O. Anatole"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        7,
+                        18
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/2J6HF8FV",
+            "type": "article-journal",
+            "title": "CrystalClear: an open, modular protocol for predicting molecular crystal growth from solution",
+            "container-title": "Chemical Science",
+            "page": "7192-7207",
+            "volume": "14",
+            "issue": "26",
+            "abstract": "We present a new protocol for the prediction of free energies that determine the growth of sites in molecular crystals for subsequent use in Monte Carlo simulations using tools such as CrystalGrower [Hill et al., Chemical Science, 2021, 12, 1126–1146]. Key features of the proposed approach are that it requires minimal input, namely the crystal structure and solvent only, and provides automated, rapid generation of the interaction energies. The constituent components of this protocol, namely interactions between molecules (growth units) in the crystal, solvation contributions and treatment of long-range interactions are described in detail. The power of this method is shown via prediction of crystal shapes for ibuprofen grown from ethanol, ethyl acetate, toluene and acetonitrile, adipic acid grown from water, and five polymorphs (ON, OP, Y, YT04 and R) of ROY (5-methyl-2-[(2-nitrophenyl)amino]-3-thiophenecarbonitrile), with promising results. The predicted energies may be used directly or subsequently refined against experimental data, facilitating insight into the interactions governing crystal growth, while also providing a prediction of the solubility of the material. The protocol has been implemented in standalone, open-source software made available alongside this publication.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2023/sc/d2sc06761g",
+            "DOI": "10.1039/D2SC06761G",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "shortTitle": "CrystalClear",
+            "journalAbbreviation": "Chem. Sci.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Spackman",
+                    "given": "Peter R."
+                },
+                {
+                    "family": "Walisinghe",
+                    "given": "Alvin J."
+                },
+                {
+                    "family": "Anderson",
+                    "given": "Michael W."
+                },
+                {
+                    "family": "Gale",
+                    "given": "Julian D."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        7,
+                        5
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/X4UBLUEU",
+            "type": "article-journal",
+            "title": "Nitrogen as a probable problematic factor of computational chemistry: A benchmarking study",
+            "container-title": "Journal of the Indian Chemical Society",
+            "page": "101030",
+            "volume": "100",
+            "issue": "7",
+            "abstract": "In the present study, theoretical IR frequencies and geometric parameters of triamterene, furosemide, and triamterene-furosemide salt were investigated. ORCA software was handled for commonly used BLYP, B3LYP, and HF (combined with various basis sets including 6-31G**, def2-SVP, cc-pVDZ, and pcseg-1 basis sets) calculations. Theoretical IR frequencies and geometric parameters of triamterene and furosemide were compared with the corresponding experimental data. In addition, theoretical geometric parameters of triamterene-furosemide salt were, as well, compared with the corresponding experimental data. Based on these comparisons, the performances of computational methods/basis sets were measured. As a result of this study, it was discovered that the studied computational approaches were generally successful in the prediction of molecular geometries and IR frequencies of the target molecules. When IR and geometry data were more deeply investigated, it was observed that there were problems specific to nitrogen atoms. The computed geometry and IR of amine and sulphonamide nitrogen atoms’ bonds strongly disagreed with the experimental data. Similar disagreements were also observed for sulphur, oxygen, and cyclic hydrogen atoms but the level of disagreements was lower.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S001945222300153X",
+            "DOI": "10.1016/j.jics.2023.101030",
+            "shortTitle": "Nitrogen as a probable problematic factor of computational chemistry",
+            "journalAbbreviation": "Journal of the Indian Chemical Society",
+            "author": [
+                {
+                    "family": "Metin",
+                    "given": "Mert"
+                },
+                {
+                    "family": "Kawano",
+                    "given": "Tomonori"
+                },
+                {
+                    "family": "Okobira",
+                    "given": "Tadashi"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        7,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/ATVDTJKU",
+            "type": "article-journal",
+            "title": "Machine learning-accelerated quantum mechanics-based atomistic simulations for industrial applications",
+            "container-title": "Journal of Computer-Aided Molecular Design",
+            "page": "557-586",
+            "volume": "35",
+            "issue": "4",
+            "abstract": "Atomistic simulations have become an invaluable tool for industrial applications ranging from the optimization of protein-ligand interactions for drug discovery to the design of new materials for energy applications. Here we review recent advances in the use of machine learning (ML) methods for accelerated simulations based on a quantum mechanical (QM) description of the system. We show how recent progress in ML methods has dramatically extended the applicability range of conventional QM-based simulations, allowing to calculate industrially relevant properties with enhanced accuracy, at reduced computational cost, and for length and time scales that would have otherwise not been accessible. We illustrate the benefits of ML-accelerated atomistic simulations for industrial R&D processes by showcasing relevant applications from two very different areas, drug discovery (pharmaceuticals) and energy materials. Writing from the perspective of both a molecular and a materials modeling scientist, this review aims to provide a unified picture of the impact of ML-accelerated atomistic simulations on the pharmaceutical, chemical, and materials industries and gives an outlook on the exciting opportunities that could emerge in the future.",
+            "URL": "https://doi.org/10.1007/s10822-020-00346-6",
+            "DOI": "10.1007/s10822-020-00346-6",
+            "journalAbbreviation": "J Comput Aided Mol Des",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Morawietz",
+                    "given": "Tobias"
+                },
+                {
+                    "family": "Artrith",
+                    "given": "Nongnuch"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/DYWBYKA3",
+            "type": "article-journal",
+            "title": "Established and Emerging Computational Tools to Study Homogeneous Catalysis—From Quantum Mechanics to Machine Learning",
+            "container-title": "Chem",
+            "page": "1904-1913",
+            "volume": "6",
+            "issue": "8",
+            "URL": "https://www.cell.com/chem/abstract/S2451-9294(20)30358-2",
+            "DOI": "10.1016/j.chempr.2020.07.008",
+            "note": "Publisher: Elsevier",
+            "journalAbbreviation": "Chem",
+            "language": "English",
+            "author": [
+                {
+                    "family": "Funes-Ardoiz",
+                    "given": "Ignacio"
+                },
+                {
+                    "family": "Schoenebeck",
+                    "given": "Franziska"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        6
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/IBUMJCY3",
+            "type": "article-journal",
+            "title": "Coarse-Grained MD Simulations of Opioid Interactions with the μ-Opioid Receptor and the Surrounding Lipid Membrane",
+            "container-title": "Biophysica",
+            "page": "263-275",
+            "volume": "3",
+            "issue": "2",
+            "abstract": "In our previous studies, a new opioid (NFEPP) was developed to only selectively bind to the μ-opoid receptor (MOR) in inflamed tissue and thus avoid the severe side effects of fentanyl. We know that NFEPP has a reduced binding affinity to MOR in healthy tissue. Inspired by the modelling and simulations performed by Sutcliffe et al., we present our own results of coarse-grained molecular dynamics simulations of fentanyl and NFEPP with regards to their interaction with the μ-opioid receptor embedded within the lipid cell membrane. For technical reasons, we have slightly modified Sutcliffe’s parametrisation of opioids. The pH-dependent opioid simulations are of interest because while fentanyl is protonated at the physiological pH, NFEPP is deprotonated due to its lower pKa value than that of fentanyl. Here, we analyse for the first time whether pH changes have an effect on the dynamical behaviour of NFEPP when it is inside the cell membrane. Besides these changes, our analysis shows a possible alternative interaction of NFEPP at pH 7.4 outside the binding region of the MOR. The interaction potential of NFEPP with MOR is also depicted by analysing the provided statistical molecular dynamics simulations with the aid of an eigenvector analysis of a transition rate matrix. In our modelling, we see differences in the XY-diffusion profiles of NFEPP compared with fentanyl in the cell membrane.",
+            "URL": "https://www.mdpi.com/2673-4125/3/2/17",
+            "DOI": "10.3390/biophysica3020017",
+            "note": "Number: 2\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Ray",
+                    "given": "Sourav"
+                },
+                {
+                    "family": "Fackeldey",
+                    "given": "Konstantin"
+                },
+                {
+                    "family": "Stein",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Weber",
+                    "given": "Marcus"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        6
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/2G53CKVE",
+            "type": "article-journal",
+            "title": "Benchmarking general neural network potential ANI-2x on aerosol nucleation molecular clusters",
+            "container-title": "International Journal of Quantum Chemistry",
+            "page": "e27087",
+            "volume": "123",
+            "issue": "10",
+            "abstract": "New particle formation including atmospheric aerosol nucleation and subsequent growth, contributes to about half of cloud condensation nuclei and can grow to form haze under certain conditions, so its role in climate change and air quality is indispensable. However, various kinds of nucleation precursors create vast combinations of molecular clustering, hindering the understanding the detailed picture of nucleation mechanism. The recently appeared general neural network potential, ANI-2x, covering most of elements composing nucleation clusters, looks promising to be embedded into the nucleation theoretical workflows to improve the nucleation simulation accuracy. Here we benchmarked ANI-2x's performance on both low and high energy isomers based workflows through comparing it with semi-empirical (PM7) and DFT (ωB97XD/6-31++G(d,p)) methods. Results show that ANI-2x is superior to PM7 in single point energy and geometry optimization calculations when compared against DFT. However, generally ANI-2x's accuracy on high energy isomers is still far less than that on low energy isomers. Besides, force comparison indicates that PM7's accuracy is better than that of ANI-2x. After all, accuracy of the workflow that focuses on low energy isomers can be benefitted from ANI-2x while for high energy isomers based workflow, PM7 is still the better choice than ANI-2x due to the more important role of force labels than that of energy labels in preparing machine learning dataset. However, due to the linear relation between the ANI-2x force and DFT force, a scale factor of approximately 0.50 is expected to greatly improve the ANI-2x force performance.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.27087",
+            "DOI": "10.1002/qua.27087",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/qua.27087",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Jiang",
+                    "given": "Shuai"
+                },
+                {
+                    "family": "Liu",
+                    "given": "Yi-Rong"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Chun-Yu"
+                },
+                {
+                    "family": "Huang",
+                    "given": "Teng"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/8XX3TAP4",
+            "type": "article-journal",
+            "title": "Continuum vs. atomistic approaches to computational spectroscopy of solvated systems",
+            "container-title": "Chemical Communications",
+            "page": "5644-5660",
+            "volume": "59",
+            "issue": "38",
+            "abstract": "Molecular spectral signals can be significantly altered by solvent effects. Among the many theoretical approaches to this problem, continuum and atomistic solvation models have emerged as the most effective for properly describing solvent effects on the spectroscopic signal. In this feature article, we review the continuum and atomistic descriptions as applied to the calculation of molecular spectra, by detailing the similarities and differences between the two approaches from the formal point of view and by analyzing their advantages and disadvantages from the computational point of view. Various spectral signals, of increasing complexity, are considered and illustrative examples, selected to exacerbate the differences between the two approaches, are discussed.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2023/cc/d2cc07079k",
+            "DOI": "10.1039/D2CC07079K",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Chem. Commun.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Giovannini",
+                    "given": "Tommaso"
+                },
+                {
+                    "family": "Cappelli",
+                    "given": "Chiara"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        5,
+                        9
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/KWWR24GM",
+            "type": "article-journal",
+            "title": "Shadow energy functionals and potentials in Born–Oppenheimer molecular dynamics",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "154105",
+            "volume": "158",
+            "issue": "15",
+            "abstract": "In Born–Oppenheimer molecular dynamics (BOMD) simulations based on the density functional theory (DFT), the potential energy and the interatomic forces are calculated from an electronic ground state density that is determined by an iterative self-consistent field optimization procedure, which, in practice, never is fully converged. The calculated energies and forces are, therefore, only approximate, which may lead to an unphysical energy drift and instabilities. Here, we discuss an alternative shadow BOMD approach that is based on backward error analysis. Instead of calculating approximate solutions for an underlying exact regular Born–Oppenheimer potential, we do the opposite. Instead, we calculate the exact electron density, energies, and forces, but for an underlying approximate shadow Born–Oppenheimer potential energy surface. In this way, the calculated forces are conservative with respect to the approximate shadow potential and generate accurate molecular trajectories with long-term energy stabilities. We show how such shadow Born–Oppenheimer potentials can be constructed at different levels of accuracy as a function of the integration time step, δt, from the constrained minimization of a sequence of systematically improvable, but approximate, shadow energy density functionals. For each energy functional, there is a corresponding ground state Born–Oppenheimer potential. These pairs of shadow energy functionals and potentials are higher-level generalizations of the original “zeroth-level” shadow energy functionals and potentials used in extended Lagrangian BOMD [Niklasson, Eur. Phys. J. B 94, 164 (2021)]. The proposed shadow energy functionals and potentials are useful only within this extended dynamical framework, where also the electronic degrees of freedom are propagated as dynamical field variables together with the atomic positions and velocities. The theory is quite general and can be applied to MD simulations using approximate DFT, Hartree–Fock, or semi-empirical methods, as well as to coarse-grained flexible charge models.",
+            "URL": "https://doi.org/10.1063/5.0146431",
+            "DOI": "10.1063/5.0146431",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Niklasson",
+                    "given": "Anders M. N."
+                },
+                {
+                    "family": "Negre",
+                    "given": "Christian F. A."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        4,
+                        17
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/7D4KMN9R",
+            "type": "article-journal",
+            "title": "Fast and accurate prediction of material properties with three-body tight-binding model for the periodic table",
+            "container-title": "Physical Review Materials",
+            "page": "044603",
+            "volume": "7",
+            "issue": "4",
+            "abstract": "Parametrized tight-binding models fit to first-principles calculations can provide an efficient and accurate quantum mechanical method for predicting properties of molecules and solids. However, well-tested parameter sets are generally only available for a limited number of atom combinations, making routine use of this method difficult. Furthermore, many previous models consider only simple two-body interactions, which limits accuracy. To tackle these challenges, we develop a density functional theory database of nearly 1 000 000 materials, which we use to fit a universal set of tight-binding parameters for 65 elements and their binary combinations. We include both two-body and three-body effective interaction terms in our model, plus self-consistent charge transfer, enabling our model to work for metallic, covalent, and ionic bonds with the same parameter set. To ensure predictive power, we adopt a learning framework where we repeatedly test the model on new low-energy crystal structures and then add them to the fitting data set, iterating until predictions improve. We distribute the materials database and tools developed in this paper publicly.",
+            "URL": "https://link.aps.org/doi/10.1103/PhysRevMaterials.7.044603",
+            "DOI": "10.1103/PhysRevMaterials.7.044603",
+            "note": "Publisher: American Physical Society",
+            "journalAbbreviation": "Phys. Rev. Mater.",
+            "author": [
+                {
+                    "family": "Garrity",
+                    "given": "Kevin F."
+                },
+                {
+                    "family": "Choudhary",
+                    "given": "Kamal"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        4,
+                        14
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/QK2FVG85",
+            "type": "article-journal",
+            "title": "Graph-based quantum response theory and shadow Born–Oppenheimer molecular dynamics",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "074108",
+            "volume": "158",
+            "issue": "7",
+            "abstract": "Graph-based linear scaling electronic structure theory for quantum-mechanical molecular dynamics simulations [A. M. N. Niklasson et al., J. Chem. Phys. 144, 234101 (2016)] is adapted to the most recent shadow potential formulations of extended Lagrangian Born–Oppenheimer molecular dynamics, including fractional molecular-orbital occupation numbers [A. M. N. Niklasson, J. Chem. Phys. 152, 104103 (2020) and A. M. N. Niklasson, Eur. Phys. J. B 94, 164 (2021)], which enables stable simulations of sensitive complex chemical systems with unsteady charge solutions. The proposed formulation includes a preconditioned Krylov subspace approximation for the integration of the extended electronic degrees of freedom, which requires quantum response calculations for electronic states with fractional occupation numbers. For the response calculations, we introduce a graph-based canonical quantum perturbation theory that can be performed with the same natural parallelism and linear scaling complexity as the graph-based electronic structure calculations for the unperturbed ground state. The proposed techniques are particularly well-suited for semi-empirical electronic structure theory, and the methods are demonstrated using self-consistent charge density-functional tight-binding theory both for the acceleration of self-consistent field calculations and for quantum-mechanical molecular dynamics simulations. Graph-based techniques combined with the semi-empirical theory enable stable simulations of large, complex chemical systems, including tens-of-thousands of atoms.",
+            "URL": "https://doi.org/10.1063/5.0137119",
+            "DOI": "10.1063/5.0137119",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Negre",
+                    "given": "Christian F. A."
+                },
+                {
+                    "family": "Wall",
+                    "given": "Michael E."
+                },
+                {
+                    "family": "Niklasson",
+                    "given": "Anders M. N."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        2,
+                        21
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/B45PU7RL",
+            "type": "article-journal",
+            "title": "Predictive stochastic analysis of massive filter-based electrochemical reaction networks",
+            "container-title": "Digital Discovery",
+            "page": "123-137",
+            "volume": "2",
+            "issue": "1",
+            "abstract": "Chemical reaction networks (CRNs) are powerful tools for obtaining insight into complex reactive processes. However, they are difficult to employ in domains such as electrochemistry where reaction mechanisms and outcomes are not well understood. To overcome these limitations, we report new methods to assist in CRN construction and analysis. Beginning with a known set of potentially relevant species, we enumerate and then filter all stoichiometrically valid reactions, constructing CRNs without reaction templates. By applying efficient stochastic algorithms, we can then interrogate CRNs to predict network products and reveal reaction pathways to species of interest. We apply this methodology to study solid-electrolyte interphase (SEI) formation in Li-ion batteries, automatically recovering products from the literature and predicting previously unknown species. We validate these results by combining CRN-predicted pathways with first-principles mechanistic analysis, discovering novel mechanisms which could realistically contribute to SEI formation. This methodology enables the exploration of vast chemical spaces, with the potential for applications throughout electrochemistry.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2023/dd/d2dd00117a",
+            "DOI": "10.1039/D2DD00117A",
+            "note": "Publisher: RSC",
+            "journalAbbreviation": "Digital Discovery",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Barter",
+                    "given": "Daniel"
+                },
+                {
+                    "family": "Spotte-Smith",
+                    "given": "Evan Walter Clark"
+                },
+                {
+                    "family": "Redkar",
+                    "given": "Nikita S."
+                },
+                {
+                    "family": "Khanwale",
+                    "given": "Aniruddh"
+                },
+                {
+                    "family": "Dwaraknath",
+                    "given": "Shyam"
+                },
+                {
+                    "family": "Persson",
+                    "given": "Kristin A."
+                },
+                {
+                    "family": "Blau",
+                    "given": "Samuel M."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        2,
+                        13
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/SI5D35TL",
+            "type": "article-journal",
+            "title": "Cu-Catalyzed Atom Transfer Radical Polymerization: The Effect of Cocatalysts",
+            "container-title": "Macromolecular Chemistry and Physics",
+            "page": "2200347",
+            "volume": "224",
+            "issue": "3",
+            "abstract": "Atom transfer radical polymerization (ATRP) is one of the most powerful methods to prepare well-defined (co)polymers. Cu-catalyzed ATRP methods are most commonly used because of the excellent control and tunable catalytic activities via ligand functionalization. This minireview summarizes the development of Cu-catalyzed ATRP in the presence of cocatalysts, which are used to regenerate CuI complex activators during polymerizations. Fundamentals of Cu-based ATRP catalysts are first introduced, followed by the discussion of different types of cocatalysts in different Cu-catalyzed ATRP methods. Recent developments of photochemical cocatalysts for oxygen-tolerant ATRP and ATRP using long-wavelength irradiation are highlighted, which significantly expand the applications of Cu-catalyzed ATRP. Methods to study the properties of cocatalysts and their roles in Cu-catalyzed ATRP are discussed, with an outlook for the future development of cocatalysts.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/macp.202200347",
+            "DOI": "10.1002/macp.202200347",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/macp.202200347",
+            "shortTitle": "Cu-Catalyzed Atom Transfer Radical Polymerization",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Sun",
+                    "given": "Mingkang"
+                },
+                {
+                    "family": "Szczepaniak",
+                    "given": "Grzegorz"
+                },
+                {
+                    "family": "Dadashi-Silab",
+                    "given": "Sajjad"
+                },
+                {
+                    "family": "Lin",
+                    "given": "Ting-Chih"
+                },
+                {
+                    "family": "Kowalewski",
+                    "given": "Tomasz"
+                },
+                {
+                    "family": "Matyjaszewski",
+                    "given": "Krzysztof"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/2J5GDY4C",
+            "type": "article-journal",
+            "title": "Long-range corrected fragment molecular orbital density functional tight-binding method for excited states in large molecular systems",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "044121",
+            "volume": "158",
+            "issue": "4",
+            "abstract": "Herein, we present a new method to efficiently calculate electronically excited states in large molecular assemblies, consisting of hundreds of molecules. For this purpose, we combine the long-range corrected tight-binding density functional fragment molecular orbital method (FMO-LC-DFTB) with an excitonic Hamiltonian, which is constructed in the basis of locally excited and charge-transfer configuration state functions calculated for embedded monomers and dimers and accounts explicitly for the electronic coupling between all types of excitons. We first evaluate both the accuracy and efficiency of our fragmentation approach for molecular dimers and aggregates by comparing it with the full LC-TD-DFTB method. The comparison of the calculated spectra of an anthracene cluster shows a very good agreement between our method and the LC-TD-DFTB reference. The effective computational scaling of our method has been explored for anthracene clusters and for perylene bisimide aggregates. We demonstrate the applicability of our method by the calculation of the excited state properties of pentacene crystal models consisting of up to 319 molecules. Furthermore, the participation ratio of the monomer fragments to the excited states is analyzed by the calculation of natural transition orbital participation numbers, which are verified by the hole and particle density for a chosen pentacene cluster. The use of our FMO-LC-TDDFTB method will allow for future studies of excitonic dynamics and charge transport to be performed on complex molecular systems consisting of thousands of atoms.",
+            "URL": "https://doi.org/10.1063/5.0136844",
+            "DOI": "10.1063/5.0136844",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Einsele",
+                    "given": "Richard"
+                },
+                {
+                    "family": "Hoche",
+                    "given": "Joscha"
+                },
+                {
+                    "family": "Mitrić",
+                    "given": "Roland"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        27
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/QHZBCDB2",
+            "type": "article-journal",
+            "title": "ReaxFF-based nonadiabatic dynamics method for azobenzene derivatives",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "244101",
+            "volume": "157",
+            "issue": "24",
+            "abstract": "ReaxFF reactive force fields have been parameterized for the ground and first excited states of azobenzene and its derivatives. In addition, an extended set of ab initio reference data ensures wide applicability, including to azosystems in complex environments. Based on the optimized force fields, nonadiabatic surface hopping simulations produce photoisomerization quantum yields and decay times of azobenzene, both in the gas phase and in n-hexane solution, in reasonable agreement with higher level theory and experiment. The transferability to other azo-compounds is illustrated for different arylazopyrazoles as well as ethylene-bridged azobenzene. Moreover, it has been shown that the model can be easily extended to adsorbates on metal surfaces. The simulation of the ring-opening of cyclobutene triggered by the photoisomerization of azobenzene in a macrocycle highlights the advantages of a reactive force field model.",
+            "URL": "https://doi.org/10.1063/5.0129699",
+            "DOI": "10.1063/5.0129699",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Osthues",
+                    "given": "Helena"
+                },
+                {
+                    "family": "Doltsinis",
+                    "given": "Nikos L."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        12,
+                        22
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/E24VZGNN",
+            "type": "article-journal",
+            "title": "Open Challenges in Developing Generalizable Large-Scale Machine-Learning Models for Catalyst Discovery",
+            "container-title": "ACS Catalysis",
+            "page": "8572-8581",
+            "volume": "12",
+            "issue": "14",
+            "abstract": "The development of machine-learned potentials for catalyst discovery has predominantly been focused on very specific chemistries and material compositions. While they are effective in interpolating between available materials, these approaches struggle to generalize across chemical space. The recent curation of large-scale catalyst data sets has offered the opportunity to build a universal machine-learning potential, spanning chemical and composition space. If accomplished, said potential could accelerate the catalyst discovery process across a variety of applications (CO2 reduction, NH3 production, etc.) without the additional specialized training efforts that are currently required. The release of the Open Catalyst 2020 Data set (OC20) has begun just that, pushing the heterogeneous catalysis and machine-learning communities toward building more accurate and robust models. In this Perspective, we discuss some of the challenges and findings of recent developments on OC20. We examine the performance of current models across different materials and adsorbates to identify notably underperforming subsets. We then discuss some of the modeling efforts surrounding energy conservation, approaches to finding and evaluating the local minima, and augmentation of off-equilibrium data. To complement the community’s ongoing developments, we end with an outlook to some of the important challenges that have yet to be thoroughly explored for large-scale catalyst discovery.",
+            "URL": "https://doi.org/10.1021/acscatal.2c02291",
+            "DOI": "10.1021/acscatal.2c02291",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "ACS Catal.",
+            "author": [
+                {
+                    "family": "Kolluru",
+                    "given": "Adeesh"
+                },
+                {
+                    "family": "Shuaibi",
+                    "given": "Muhammed"
+                },
+                {
+                    "family": "Palizhati",
+                    "given": "Aini"
+                },
+                {
+                    "family": "Shoghi",
+                    "given": "Nima"
+                },
+                {
+                    "family": "Das",
+                    "given": "Abhishek"
+                },
+                {
+                    "family": "Wood",
+                    "given": "Brandon"
+                },
+                {
+                    "family": "Zitnick",
+                    "given": "C. Lawrence"
+                },
+                {
+                    "family": "Kitchin",
+                    "given": "John R."
+                },
+                {
+                    "family": "Ulissi",
+                    "given": "Zachary W."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        7,
+                        15
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/9FDYWJVS",
+            "type": "article-journal",
+            "title": "BRD4: quantum mechanical protein–ligand binding free energies using the full-protein DFT-based QM-PBSA method",
+            "container-title": "Physical Chemistry Chemical Physics",
+            "page": "25240-25249",
+            "volume": "24",
+            "issue": "41",
+            "abstract": "Fully quantum mechanical approaches to calculating protein–ligand free energies of binding have the potential to reduce empiricism and explicitly account for all physical interactions responsible for protein–ligand binding. In this study, we show a realistic test of the linear-scaling DFT-based QM-PBSA method to estimate quantum mechanical protein–ligand binding free energies for a set of ligands binding to the pharmaceutical drug-target bromodomain containing protein 4 (BRD4). We show that quantum mechanical QM-PBSA is a significant improvement over traditional MM-PBSA in terms of accuracy against experiment and ligand rank ordering and that the quantum and classical binding energies are converged to a similar degree. We test the interaction entropy and normal mode entropy correction terms to QM- and MM-PBSA.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2022/cp/d2cp03705j",
+            "DOI": "10.1039/D2CP03705J",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "shortTitle": "BRD4",
+            "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Gundelach",
+                    "given": "Lennart"
+                },
+                {
+                    "family": "Fox",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Tautermann",
+                    "given": "Christofer S."
+                },
+                {
+                    "family": "Skylaris",
+                    "given": "Chris-Kriton"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        10,
+                        27
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/P3LTHCZY",
+            "type": "article-journal",
+            "title": "Zeo-1, a computational data set of zeolite structures",
+            "container-title": "Scientific Data",
+            "page": "61",
+            "volume": "9",
+            "issue": "1",
+            "abstract": "Fast, empirical potentials are gaining increased popularity in the computational fields of materials science, physics and chemistry. With it, there is a rising demand for high-quality reference data for the training and validation of such models. In contrast to research that is mainly focused on small organic molecules, this work presents a data set of geometry-optimized bulk phase zeolite structures. Covering a majority of framework types from the Database of Zeolite Structures, this set includes over thirty thousand geometries. Calculated properties include system energies, nuclear gradients and stress tensors at each point, making the data suitable for model development, validation or referencing applications focused on periodic silica systems.",
+            "URL": "https://www.nature.com/articles/s41597-022-01160-5",
+            "DOI": "10.1038/s41597-022-01160-5",
+            "note": "Number: 1\nPublisher: Nature Publishing Group",
+            "journalAbbreviation": "Sci Data",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Komissarov",
+                    "given": "Leonid"
+                },
+                {
+                    "family": "Verstraelen",
+                    "given": "Toon"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        2,
+                        22
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/6G5VIA7M",
+            "type": "article-journal",
+            "title": "An open-source molecular builder and free energy preparation workflow",
+            "container-title": "Communications Chemistry",
+            "page": "1-9",
+            "volume": "5",
+            "issue": "1",
+            "abstract": "Automated free energy calculations for the prediction of binding free energies of congeneric series of ligands to a protein target are growing in popularity, but building reliable initial binding poses for the ligands is challenging. Here, we introduce the open-source FEgrow workflow for building user-defined congeneric series of ligands in protein binding pockets for input to free energy calculations. For a given ligand core and receptor structure, FEgrow enumerates and optimises the bioactive conformations of the grown functional group(s), making use of hybrid machine learning/molecular mechanics potential energy functions where possible. Low energy structures are optionally scored using the gnina convolutional neural network scoring function, and output for more rigorous protein–ligand binding free energy predictions. We illustrate use of the workflow by building and scoring binding poses for ten congeneric series of ligands bound to targets from a standard, high quality dataset of protein–ligand complexes. Furthermore, we build a set of 13 inhibitors of the SARS-CoV-2 main protease from the literature, and use free energy calculations to retrospectively compute their relative binding free energies. FEgrow is freely available at https://github.com/cole-group/FEgrow, along with a tutorial.",
+            "URL": "https://www.nature.com/articles/s42004-022-00754-9",
+            "DOI": "10.1038/s42004-022-00754-9",
+            "note": "Number: 1\nPublisher: Nature Publishing Group",
+            "journalAbbreviation": "Commun Chem",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Bieniek",
+                    "given": "Mateusz K."
+                },
+                {
+                    "family": "Cree",
+                    "given": "Ben"
+                },
+                {
+                    "family": "Pirie",
+                    "given": "Rachael"
+                },
+                {
+                    "family": "Horton",
+                    "given": "Joshua T."
+                },
+                {
+                    "family": "Tatum",
+                    "given": "Natalie J."
+                },
+                {
+                    "family": "Cole",
+                    "given": "Daniel J."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        10,
+                        27
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/CLFWUS5S",
+            "type": "article-journal",
+            "title": "nablaDFT: Large-Scale Conformational Energy and Hamiltonian Prediction benchmark and dataset",
+            "container-title": "Physical Chemistry Chemical Physics",
+            "page": "25853-25863",
+            "volume": "24",
+            "issue": "42",
+            "abstract": "Electronic wave function calculation is a fundamental task of computational quantum chemistry. Knowledge of the wave function parameters allows one to compute physical and chemical properties of molecules and materials. Unfortunately, it is infeasible to compute the wave functions analytically even for simple molecules. Classical quantum chemistry approaches such as the Hartree–Fock method or density functional theory (DFT) allow to compute an approximation of the wave function but are very computationally expensive. One way to lower the computational complexity is to use machine learning models that can provide sufficiently good approximations at a much lower computational cost. In this work we: (1) introduce a new curated large-scale dataset of electron structures of drug-like molecules, (2) establish a novel benchmark for the estimation of molecular properties in the multi-molecule setting, and (3) evaluate a wide range of methods with this benchmark. We show that the accuracy of recently developed machine learning models deteriorates significantly when switching from the single-molecule to the multi-molecule setting. We also show that these models lack generalization over different chemistry classes. In addition, we provide experimental evidence that larger datasets lead to better ML models in the field of quantum chemistry.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2022/cp/d2cp03966d",
+            "DOI": "10.1039/D2CP03966D",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "shortTitle": "nablaDFT",
+            "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Khrabrov",
+                    "given": "Kuzma"
+                },
+                {
+                    "family": "Shenbin",
+                    "given": "Ilya"
+                },
+                {
+                    "family": "Ryabov",
+                    "given": "Alexander"
+                },
+                {
+                    "family": "Tsypin",
+                    "given": "Artem"
+                },
+                {
+                    "family": "Telepov",
+                    "given": "Alexander"
+                },
+                {
+                    "family": "Alekseev",
+                    "given": "Anton"
+                },
+                {
+                    "family": "Grishin",
+                    "given": "Alexander"
+                },
+                {
+                    "family": "Strashnov",
+                    "given": "Pavel"
+                },
+                {
+                    "family": "Zhilyaev",
+                    "given": "Petr"
+                },
+                {
+                    "family": "Nikolenko",
+                    "given": "Sergey"
+                },
+                {
+                    "family": "Kadurin",
+                    "given": "Artur"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        11,
+                        2
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/98DGNWPU",
+            "type": "article-journal",
+            "title": "Deep learning of dynamically responsive chemical Hamiltonians with semiempirical quantum mechanics",
+            "container-title": "Proceedings of the National Academy of Sciences",
+            "page": "e2120333119",
+            "volume": "119",
+            "issue": "27",
+            "abstract": "Conventional machine-learning (ML) models in computational chemistry learn to directly predict molecular properties using quantum chemistry only for reference data. While these heuristic ML methods show quantum-level accuracy with speeds several orders of magnitude faster than traditional quantum chemistry methods, they suffer from poor extensibility and transferability; i.e., their accuracy degrades on large or new chemical systems. Incorporating quantum chemistry frameworks into the ML models directly solves this problem. Here we take the structure of semiempirical quantum mechanics (SEQM) methods to construct dynamically responsive Hamiltonians. SEQM methods use empirical parameters fitted to experimental properties to construct reduced-order Hamiltonians, facilitating much faster calculations than ab initio methods but with compromised accuracy. By replacing these static parameters with machine-learned dynamic values inferred from the local environment, we greatly improve the accuracy of the SEQM methods. Trained on molecular energies and atomic forces, these dynamically generated Hamiltonian parameters show a strong correlation with atomic hybridization and bonding. Trained with only about 60,000 small organic molecular conformers, the resulting model retains interpretability, extensibility, and transferability when testing on much larger chemical systems and predicting various molecular properties. Overall, this work demonstrates the virtues of incorporating physics-based descriptions with ML to develop models that are simultaneously accurate, transferable, and interpretable.",
+            "URL": "https://www.pnas.org/doi/full/10.1073/pnas.2120333119",
+            "DOI": "10.1073/pnas.2120333119",
+            "note": "Publisher: Proceedings of the National Academy of Sciences",
+            "author": [
+                {
+                    "family": "Zhou",
+                    "given": "Guoqing"
+                },
+                {
+                    "family": "Lubbers",
+                    "given": "Nicholas"
+                },
+                {
+                    "family": "Barros",
+                    "given": "Kipton"
+                },
+                {
+                    "family": "Tretiak",
+                    "given": "Sergei"
+                },
+                {
+                    "family": "Nebgen",
+                    "given": "Benjamin"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        7,
+                        5
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/AJY5JTS6",
+            "type": "article-journal",
+            "title": "Chemical Reactivity Prediction: Current Methods and Different Application Areas",
+            "container-title": "Molecular Informatics",
+            "page": "2100277",
+            "volume": "41",
+            "issue": "6",
+            "abstract": "The ability to predict chemical reactivity of a molecule is highly desirable in drug discovery, both ex vivo (synthetic route planning, formulation, stability) and in vivo: metabolic reactions determine pharmacodynamics, pharmacokinetics and potential toxic effects, and early assessment of liabilities is vital to reduce attrition rates in later stages of development. Quantum mechanics offer a precise description of the interactions between electrons and orbitals in the breaking and forming of new bonds. Modern algorithms and faster computers have allowed the study of more complex systems in a punctual and accurate fashion, and answers for chemical questions around stability and reactivity can now be provided. Through machine learning, predictive models can be built out of descriptors derived from quantum mechanics and cheminformatics, even in the absence of experimental data to train on. In this article, current progress on computational reactivity prediction is reviewed: applications to problems in drug design, such as modelling of metabolism and covalent inhibition, are highlighted and unmet challenges are posed.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/minf.202100277",
+            "DOI": "10.1002/minf.202100277",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/minf.202100277",
+            "shortTitle": "Chemical Reactivity Prediction",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Ertl",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Gerebtzoff",
+                    "given": "Grégori"
+                },
+                {
+                    "family": "Lewis",
+                    "given": "Richard"
+                },
+                {
+                    "family": "Muenkler",
+                    "given": "Hagen"
+                },
+                {
+                    "family": "Schneider",
+                    "given": "Nadine"
+                },
+                {
+                    "family": "Sirockin",
+                    "given": "Finton"
+                },
+                {
+                    "family": "Stiefl",
+                    "given": "Nikolaus"
+                },
+                {
+                    "family": "Tosco",
+                    "given": "Paolo"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/KMLDD557",
+            "type": "article-journal",
+            "title": "Machine-learned potentials for next-generation matter simulations",
+            "container-title": "Nature Materials",
+            "page": "750-761",
+            "volume": "20",
+            "issue": "6",
+            "abstract": "The choice of simulation methods in computational materials science is driven by a fundamental trade-off: bridging large time- and length-scales with highly accurate simulations at an affordable computational cost. Venturing the investigation of complex phenomena on large scales requires fast yet accurate computational methods. We review the emerging field of machine-learned potentials, which promises to reach the accuracy of quantum mechanical computations at a substantially reduced computational cost. This Review will summarize the basic principles of the underlying machine learning methods, the data acquisition process and active learning procedures. We highlight multiple recent applications of machine-learned potentials in various fields, ranging from organic chemistry and biomolecules to inorganic crystal structure predictions and surface science. We furthermore discuss the developments required to promote a broader use of ML potentials, and the possibility of using them to help solve open questions in materials science and facilitate fully computational materials design.",
+            "URL": "https://www.nature.com/articles/s41563-020-0777-6",
+            "DOI": "10.1038/s41563-020-0777-6",
+            "note": "Number: 6\nPublisher: Nature Publishing Group",
+            "journalAbbreviation": "Nat. Mater.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Friederich",
+                    "given": "Pascal"
+                },
+                {
+                    "family": "Häse",
+                    "given": "Florian"
+                },
+                {
+                    "family": "Proppe",
+                    "given": "Jonny"
+                },
+                {
+                    "family": "Aspuru-Guzik",
+                    "given": "Alán"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        6
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        13
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/EVQ2I2PD",
+            "type": "article-journal",
+            "title": "Machine learning the quantum-chemical properties of metal–organic frameworks for accelerated materials discovery",
+            "container-title": "Matter",
+            "page": "1578-1597",
+            "volume": "4",
+            "issue": "5",
+            "abstract": "The modular nature of metal–organic frameworks (MOFs) enables synthetic control over their physical and chemical properties, but it can be difﬁcult to know which MOFs would be optimal for a given application. High-throughput computational screening and machine learning are promising routes to efﬁciently navigate the vast chemical space of MOFs but have rarely been used for the prediction of properties that need to be calculated by quantum mechanical methods. Here, we introduce the Quantum MOF (QMOF) database, a publicly available database of computed quantum-chemical properties for more than 14,000 experimentally synthesized MOFs. Throughout this study, we demonstrate how machine learning models trained on the QMOF database can be used to rapidly discover MOFs with targeted electronic structure properties, using the prediction of theoretically computed band gaps as a representative example. We conclude by highlighting several MOFs predicted to have low band gaps, a challenging task given the electronically insulating nature of most MOFs.",
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2590238521000709",
+            "DOI": "10.1016/j.matt.2021.02.015",
+            "journalAbbreviation": "Matter",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Rosen",
+                    "given": "Andrew S."
+                },
+                {
+                    "family": "Iyer",
+                    "given": "Shaelyn M."
+                },
+                {
+                    "family": "Ray",
+                    "given": "Debmalya"
+                },
+                {
+                    "family": "Yao",
+                    "given": "Zhenpeng"
+                },
+                {
+                    "family": "Aspuru-Guzik",
+                    "given": "Alán"
+                },
+                {
+                    "family": "Gagliardi",
+                    "given": "Laura"
+                },
+                {
+                    "family": "Notestein",
+                    "given": "Justin M."
+                },
+                {
+                    "family": "Snurr",
+                    "given": "Randall Q."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        "2021"
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        13
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/LPD5YUCK",
+            "type": "article-journal",
+            "title": "Tracing the Primordial Chemical Life of Glycine: A Review from Quantum Chemical Simulations",
+            "container-title": "International Journal of Molecular Sciences",
+            "page": "4252",
+            "volume": "23",
+            "issue": "8",
+            "abstract": "Glycine (Gly), NH2CH2COOH, is the simplest amino acid. Although it has not been directly detected in the interstellar gas-phase medium, it has been identified in comets and meteorites, and its synthesis in these environments has been simulated in terrestrial laboratory experiments. Likewise, condensation of Gly to form peptides in scenarios resembling those present in a primordial Earth has been demonstrated experimentally. Thus, Gly is a paradigmatic system for biomolecular building blocks to investigate how they can be synthesized in astrophysical environments, transported and delivered by fragments of asteroids (meteorites, once they land on Earth) and comets (interplanetary dust particles that land on Earth) to the primitive Earth, and there react to form biopolymers as a step towards the emergence of life. Quantum chemical investigations addressing these Gly-related events have been performed, providing fundamental atomic-scale information and quantitative energetic data. However, they are spread in the literature and difficult to harmonize in a consistent way due to different computational chemistry methodologies and model systems. This review aims to collect the work done so far to characterize, at a quantum mechanical level, the chemical life of Gly, i.e., from its synthesis in the interstellar medium up to its polymerization on Earth.",
+            "URL": "https://www.mdpi.com/1422-0067/23/8/4252",
+            "DOI": "10.3390/ijms23084252",
+            "note": "Number: 8\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "shortTitle": "Tracing the Primordial Chemical Life of Glycine",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Rimola",
+                    "given": "Albert"
+                },
+                {
+                    "family": "Balucani",
+                    "given": "Nadia"
+                },
+                {
+                    "family": "Ceccarelli",
+                    "given": "Cecilia"
+                },
+                {
+                    "family": "Ugliengo",
+                    "given": "Piero"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/B7SAVTQP",
+            "type": "article-journal",
+            "title": "Independent gradient model based on Hirshfeld partition: A new method for visual study of interactions in chemical systems",
+            "container-title": "Journal of Computational Chemistry",
+            "page": "539-555",
+            "volume": "43",
+            "issue": "8",
+            "abstract": "The powerful independent gradient model (IGM) method has been increasingly popular in visual analysis of intramolecular and intermolecular interactions in recent years. However, we frequently observed that there is an evident shortcoming of IGM map in graphically studying weak interactions, that is its isosurfaces are usually too bulgy; in these cases, not only the graphical effect is poor, but also the color on some areas on the isosurfaces is inappropriate and may lead to erroneous analysis conclusions. In addition, the IGM method was originally proposed based on promolecular density, which is quite crude and does not take actual electronic structure into account. In this article, we propose an improvement version of IGM, namely IGM based on Hirshfeld partition of molecular density (IGMH), which replaces the free-state atomic densities involved in the IGM method with the atomic densities derived by Hirshfeld partition of actual molecular electron density. This change makes IGM have more rigorous physical background. A large number of application examples in this article, including molecular and periodic systems, weak and chemical bond interactions, fully demonstrate the important value of IGMH in intuitively understanding interactions in chemical systems. Comparisons also showed that the IGMH usually has markedly better graphical effect than IGM and overcomes known problems in IGM. Currently IGMH analysis has been supported in our wavefunction analysis code Multiwfn (http://sobereva.com/multiwfn). We hope that IGMH will become a new useful method among chemists for exploring interactions in wide variety of chemical systems.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.26812",
+            "DOI": "10.1002/jcc.26812",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcc.26812",
+            "shortTitle": "Independent gradient model based on Hirshfeld partition",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Lu",
+                    "given": "Tian"
+                },
+                {
+                    "family": "Chen",
+                    "given": "Qinxue"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/9R7MDMJ8",
+            "type": "article-journal",
+            "title": "Benchmarks of the density functional tight-binding method for redox, protonation and electronic properties of quinones",
+            "container-title": "Physical Chemistry Chemical Physics",
+            "page": "6742-6756",
+            "volume": "24",
+            "issue": "11",
+            "abstract": "Organic materials with controllable molecular design and sustainable resources are promising electrode materials. Crystalline quinones have been investigated in a variety of rechargeable battery chemistries due to their ubiquitous nature, voltage tunability and environmental friendliness. In acidic electrolytes, quinone crystals can undergo proton-coupled electron transfer (PCET), resulting in charge storage. However, the detailed mechanism of this phenomenon remains elusive. To model PCET in crystalline quinones, force field-based methods are not viable due to variable redox states of the quinone molecules during battery operation and computationally efficient quantum mechanical methods are strongly desired. The semi-empirical density functional tight-binding (DFTB) method has been widely used to study inorganic crystalline systems and biological systems but has not been comprehensively benchmarked for studying charge transport in quinones. In this work, we benchmark the third order variant of DFTB (DFTB3) for the reduction potential of quinones in aqueous solution, energetics of proton transfer between quinones and between quinones and water, and structural and electronic properties of crystalline quinones. Our results reveal the deficiencies of the DFTB3 method in describing the proton affinity of quinones and the structural and electronic properties of crystalline quinones, and highlight the need for further development of the DFTB method for describing charge transport in crystalline quinones.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2022/cp/d1cp05333g",
+            "DOI": "10.1039/D1CP05333G",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Kitheka",
+                    "given": "Maureen M."
+                },
+                {
+                    "family": "Redington",
+                    "given": "Morgan"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Jibo"
+                },
+                {
+                    "family": "Yao",
+                    "given": "Yan"
+                },
+                {
+                    "family": "Goyal",
+                    "given": "Puja"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        3,
+                        16
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/Y9VS8SNG",
+            "type": "article-journal",
+            "title": "Computer aided molecular design coupled with molecular dynamics as a novel approach to design new lubricants",
+            "container-title": "Computers & Chemical Engineering",
+            "page": "107523",
+            "volume": "156",
+            "abstract": "In this work we present an approach to design lubricants, based on Computer Aided Molecular Design (CAMD) methodologies for the design of an ionic liquid based lubricant, coupled with molecular dynamics to validate the molecular design. The case of study is an ionic liquid based lubricant for use in automotive engine applications, the design meets SAE 40 monograde standard. CAMD model uses Quantitative Structure Property Relationship (QSPR) methods for estimate properties. CAMD model is solved as MINLP problem using classical optimization techniques. The validation of properties and chemical feasibility of the molecule is performed using classical molecular dynamics simulations. Results shows good agreement with experimental results from literature. Hence, a reduction in time and investment necessary for design new materials can be achieved by combining CAMD and molecular dynamic methodologies.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S009813542100301X",
+            "DOI": "10.1016/j.compchemeng.2021.107523",
+            "journalAbbreviation": "Computers & Chemical Engineering",
+            "author": [
+                {
+                    "family": "Valencia-Marquez",
+                    "given": "Darinel"
+                },
+                {
+                    "family": "Flores-Tlacuahuac",
+                    "given": "Antonio"
+                },
+                {
+                    "family": "García-Cuéllar",
+                    "given": "Alejandro J."
+                },
+                {
+                    "family": "Ricardez-Sandoval",
+                    "given": "Luis"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        1,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/3U87MDH7",
+            "type": "article-journal",
+            "title": "Real-time prediction of 1H and 13C chemical shifts with DFT accuracy using a 3D graph neural network",
+            "container-title": "Chemical Science",
+            "page": "12012-12026",
+            "volume": "12",
+            "issue": "36",
+            "abstract": "Nuclear magnetic resonance (NMR) is one of the primary techniques used to elucidate the chemical structure, bonding, stereochemistry, and conformation of organic compounds. The distinct chemical shifts in an NMR spectrum depend upon each atom's local chemical environment and are influenced by both through-bond and through-space interactions with other atoms and functional groups. The in silico prediction of NMR chemical shifts using quantum mechanical (QM) calculations is now commonplace in aiding organic structural assignment since spectra can be computed for several candidate structures and then compared with experimental values to find the best possible match. However, the computational demands of calculating multiple structural- and stereo-isomers, each of which may typically exist as an ensemble of rapidly-interconverting conformations, are expensive. Additionally, the QM predictions themselves may lack sufficient accuracy to identify a correct structure. In this work, we address both of these shortcomings by developing a rapid machine learning (ML) protocol to predict 1H and 13C chemical shifts through an efficient graph neural network (GNN) using 3D structures as input. Transfer learning with experimental data is used to improve the final prediction accuracy of a model trained using QM calculations. When tested on the CHESHIRE dataset, the proposed model predicts observed 13C chemical shifts with comparable accuracy to the best-performing DFT functionals (1.5 ppm) in around 1/6000 of the CPU time. An automated prediction webserver and graphical interface are accessible online at http://nova.chem.colostate.edu/cascade/. We further demonstrate the model in three applications: first, we use the model to decide the correct organic structure from candidates through experimental spectra, including complex stereoisomers; second, we automatically detect and revise incorrect chemical shift assignments in a popular NMR database, the NMRShiftDB; and third, we use NMR chemical shifts as descriptors for determination of the sites of electrophilic aromatic substitution.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2021/sc/d1sc03343c",
+            "DOI": "10.1039/D1SC03343C",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Chem. Sci.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Guan",
+                    "given": "Yanfei"
+                },
+                {
+                    "family": "Sowndarya",
+                    "given": "S. V. Shree"
+                },
+                {
+                    "family": "Gallegos",
+                    "given": "Liliana C."
+                },
+                {
+                    "family": "John",
+                    "given": "Peter C. St"
+                },
+                {
+                    "family": "Paton",
+                    "given": "Robert S."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        9,
+                        22
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/J82L6IKK",
+            "type": "article-journal",
+            "title": "Rapid Prescreening of Organic Compounds for Redox Flow Batteries: A Graph Convolutional Network for Predicting Reaction Enthalpies from SMILES",
+            "container-title": "Batteries & Supercaps",
+            "page": "1482-1490",
+            "volume": "4",
+            "issue": "9",
+            "abstract": "Identifying interesting redox-active couples from the vastness of organic chemical space requires rapid screening techniques. A good initial indicator for couples worthy of further investigation is the heat of reaction ΔH°. Traditional methods of calculating this quantity, both experimental and computational, are prohibitively costly at large scale. Instead, we apply a graph convolutional network to estimate the heats of reaction of arbitrary redox couples orders of magnitude faster than conventional computational methods. Our graph takes only SMILES strings as input, rather than full three-dimensional geometries. A network trained on a dataset of atomization enthalpies for approximately 45,000 hydrogenation reactions, applied to a separate test set of 235 compounds and benchmarked against experimental heats of reaction, produces promisingly accurate results, and we anticipate that this methodology can be extended to other RFB-relevant reactions. However, lower predictivity for compounds in regions of chemical space not covered by the training dataset reinforces the pivotal importance of the particular chemistries presented to a model during training.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/batt.202100059",
+            "DOI": "10.1002/batt.202100059",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/batt.202100059",
+            "shortTitle": "Rapid Prescreening of Organic Compounds for Redox Flow Batteries",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Barker",
+                    "given": "James"
+                },
+                {
+                    "family": "Berg",
+                    "given": "Laura-Sophie"
+                },
+                {
+                    "family": "Hamaekers",
+                    "given": "Jan"
+                },
+                {
+                    "family": "Maass",
+                    "given": "Astrid"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/KIYZIT3S",
+            "type": "article-journal",
+            "title": "Integration of theory, simulation, artificial intelligence and virtual reality: a four-pillar approach for reconciling accuracy and interpretability in computational spectroscopy",
+            "container-title": "Physical Chemistry Chemical Physics",
+            "page": "17079-17096",
+            "volume": "23",
+            "issue": "32",
+            "abstract": "The established pillars of computational spectroscopy are theory and computer based simulations. Recently, artificial intelligence and virtual reality are becoming the third and fourth pillars of an integrated strategy for the investigation of complex phenomena. The main goal of the present contribution is the description of some new perspectives for computational spectroscopy, in the framework of a strategy in which computational methodologies at the state of the art, high-performance computing, artificial intelligence and virtual reality tools are integrated with the aim of improving research throughput and achieving goals otherwise not possible. Some of the key tools (e.g., continuous molecular perception model and virtual multifrequency spectrometer) and theoretical developments (e.g., non-periodic boundaries, joint variational-perturbative models) are shortly sketched and their application illustrated by means of representative case studies taken from recent work by the authors. Some of the results presented are already well beyond the state of the art in the field of computational spectroscopy, thereby also providing a proof of concept for other research fields.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2021/cp/d1cp02507d",
+            "DOI": "10.1039/D1CP02507D",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "shortTitle": "Integration of theory, simulation, artificial intelligence and virtual reality",
+            "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Barone",
+                    "given": "Vincenzo"
+                },
+                {
+                    "family": "Puzzarini",
+                    "given": "Cristina"
+                },
+                {
+                    "family": "Mancini",
+                    "given": "Giordano"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        8,
+                        18
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/ZGN89ZG5",
+            "type": "article-journal",
+            "title": "Extended Lagrangian Born–Oppenheimer molecular dynamics: from density functional theory to charge relaxation models",
+            "container-title": "The European Physical Journal B",
+            "page": "164",
+            "volume": "94",
+            "issue": "8",
+            "abstract": "We present a review of extended Lagrangian Born–Oppenheimer molecular dynamics and its most recent development. The molecular dynamics framework is first derived for general Hohenberg–Kohn density functional theory and it is then presented in explicit forms for thermal Hartree–Fock theory using a density matrix formalism, for self-consistent charge density functional tight-binding theory, and for general non-linear charge relaxation models that can be designed and optimized using modern machine learning methods. Our intention is to give a self-contained but brief and hopefully pedagogical presentation.",
+            "URL": "https://doi.org/10.1140/epjb/s10051-021-00151-6",
+            "DOI": "10.1140/epjb/s10051-021-00151-6",
+            "shortTitle": "Extended Lagrangian Born–Oppenheimer molecular dynamics",
+            "journalAbbreviation": "Eur. Phys. J. B",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Niklasson",
+                    "given": "Anders M. N."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        8,
+                        11
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/BHKLV5B6",
+            "type": "article-journal",
+            "title": "Multifactor theoretical modeling of solar thermal fuels built on azobenzene and norbornadiene scaffolds",
+            "container-title": "Sustainable Energy & Fuels",
+            "page": "2335-2346",
+            "volume": "5",
+            "issue": "8",
+            "abstract": "Solar thermal fuels (STFs) offer a unique way of harnessing energy from the sun by absorbing photons and storing the energy in a metastable photoisomerized state. The reverse isomerization process can then be catalytically or thermally triggered to release the stored energy and return the fuel to its stable configuration. Functionalization of these compounds is necessary to reach practical energy storage densities, but substitutions that increase the energy storage density may adversely impact performance at other steps along the fuel cycle. Recent computational screening efforts to identify high-performance STF candidates have focused on properties that can be estimated from ground-state electronic structure methods. Here we argue that computational screening of STF candidates across the full fuel cycle benefits from a multifactor approach with excited-state properties like excitation energies and photoisomerization quantum yields addressed alongside key ground-state properties like energy storage densities and reverse isomerization barriers. As a critical step toward multifactor high-throughput screening and optimization of STFs, in this work we first systematically simulate the specific storage energy and excitation energy of substituted azobenzene- and norbornadiene-based STFs through electronic structure calculations. Density-functional tight-binding (DFTB) predictions are benchmarked against density functional theory (DFT) and experimental measurements where available. To encompass the complete solar thermal fuel cycle in these compounds, we then apply DFT methods to analyze the reverse isomerization process and its relationship to the photoisomerization quantum yield. We find that DFTB provides a useful balance between accuracy and computational efficiency for virtual screening of STF photoabsorption and energy storage, while isomerization barrier and quantum yield predictions require more sophisticated approaches.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2021/se/d1se00041a",
+            "DOI": "10.1039/D1SE00041A",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Sustainable Energy Fuels",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Szabo",
+                    "given": "Reuben"
+                },
+                {
+                    "family": "Le",
+                    "given": "Khoa N."
+                },
+                {
+                    "family": "Kowalczyk",
+                    "given": "Tim"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        20
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/96SG25PK",
+            "type": "article-journal",
+            "title": "Optimized Atomic Partial Charges and Radii Defined by Radical Voronoi Tessellation of Bulk Phase Simulations",
+            "container-title": "Molecules",
+            "page": "1875",
+            "volume": "26",
+            "issue": "7",
+            "abstract": "We present a novel method for the computation of well-defined optimized atomic partial charges and radii from the total electron density. Our method is based on a two-step radical Voronoi tessellation of the (possibly periodic) system and subsequent integration of the total electron density within each Voronoi cell. First, the total electron density is partitioned into the contributions of each molecule, and subsequently the electron density within each molecule is assigned to the individual atoms using a second set of atomic radii for the radical Voronoi tessellation. The radii are optimized on-the-fly to minimize the fluctuation (variance) of molecular and atomic charges. Therefore, our method is completely free of empirical parameters. As a by-product, two sets of optimized atomic radii are produced in each run, which take into account many specific properties of the system investigated. The application of an on-the-fly interpolation scheme reduces discretization noise in the Voronoi integration. The approach is particularly well suited for the calculation of partial charges in periodic bulk phase systems. We apply the method to five exemplary liquid phase simulations and show how the optimized charges can help to understand the interactions in the systems. Well-known effects such as reduced ion charges below unity in ionic liquid systems are correctly predicted without any tuning, empiricism, or rescaling. We show that the basis set dependence of our method is very small. Only the total electron density is evaluated, and thus, the approach can be combined with any electronic structure method that provides volumetric total electron densities—it is not limited to Hartree–Fock or density functional theory (DFT). We have implemented the method into our open-source software tool TRAVIS.",
+            "URL": "https://www.mdpi.com/1420-3049/26/7/1875",
+            "DOI": "10.3390/molecules26071875",
+            "note": "Number: 7\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Brehm",
+                    "given": "Martin"
+                },
+                {
+                    "family": "Thomas",
+                    "given": "Martin"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/37YM6Y69",
+            "type": "article-journal",
+            "title": "The KOALA program: Wavefunction frozen-density embedding",
+            "container-title": "International Journal of Quantum Chemistry",
+            "page": "e26351",
+            "volume": "121",
+            "issue": "3",
+            "abstract": "The KOALA program is presented, and its capabilities are discussed. KOALA is an ab initio code that uses Gaussian-type basis sets with a focus on a treatment of wavefunction embedding methods, for which all subsystems can be relaxed with their corresponding wavefunction density. Among the key features of the program is a Davidson solver that is capable of treating, for example, both linear response for coupled-cluster methods and density functional theory, as well as solving the Z-vector equations for orbital-relaxed ground-state and excited-state molecular properties. This solver is combined with frozen-density embedding, which circumvents the problem of the steep scaling of conventional supermolecular correlation methods, enabling the computation of anisotropic environment effects without using semiempirical methods. A brief theoretical overview is given, and case studies for which the program could be used are discussed, as well as the efficiency for systems containing a total of hundreds of atoms, which can be divided into smaller subsystems.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.26351",
+            "DOI": "10.1002/qua.26351",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/qua.26351",
+            "shortTitle": "The KOALA program",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Höfener",
+                    "given": "Sebastian"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/ZXHSQRC2",
+            "type": "article-journal",
+            "title": "The Six Isomers of the Cyclohexanol Dimer: A Delicate Test for Dispersion Models",
+            "container-title": "Angewandte Chemie International Edition",
+            "page": "14081-14085",
+            "volume": "59",
+            "issue": "33",
+            "abstract": "The cyclohexanol homodimer acts as a delicate test model of the role of dispersion forces in intermolecular association. Whereas phenol produces a single dimer, the suppression of π interactions and the larger conformational flexibility in cyclohexanol results in multiple isomerism, with six competing dimers of the free molecule being observed in a supersonic jet expansion. Rotational spectroscopy reveals accurate structural data, specifically the formation of homo- and heterochiral diastereoisomers and the presence of both equatorial and axial forms in the dimers. Four dispersion-corrected density-functional molecular orbital calculations were tested against the experiment, with B3LYP-D3(BJ) offering good structural reproducibility with an Alrich's triple-ζ basis set. However, the prediction of the dimer energetics is largely model-dependent, thus offering a testbed for the validation of dispersion-corrected computational models.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202005063",
+            "DOI": "10.1002/anie.202005063",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.202005063",
+            "shortTitle": "The Six Isomers of the Cyclohexanol Dimer",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Juanes",
+                    "given": "Marcos"
+                },
+                {
+                    "family": "Usabiaga",
+                    "given": "Imanol"
+                },
+                {
+                    "family": "León",
+                    "given": "Iker"
+                },
+                {
+                    "family": "Evangelisti",
+                    "given": "Luca"
+                },
+                {
+                    "family": "Fernández",
+                    "given": "José A."
+                },
+                {
+                    "family": "Lesarri",
+                    "given": "Alberto"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/WNUBMDNZ",
+            "type": "article-journal",
+            "title": "Density-functional tight-binding for phosphine-stabilized nanoscale gold clusters",
+            "container-title": "Chemical Science",
+            "page": "13113-13128",
+            "volume": "11",
+            "issue": "48",
+            "abstract": "We report a parameterization of the second-order density-functional tight-binding (DFTB2) method for the quantum chemical simulation of phosphine-ligated nanoscale gold clusters, metalloids, and gold surfaces. Our parameterization extends the previously released DFTB2 “auorg” parameter set by connecting it to the electronic parameter of phosphorus in the “mio” parameter set. Although this connection could technically simply be accomplished by creating only the required additional Au–P repulsive potential, we found that the Au 6p and P 3d virtual atomic orbital energy levels exert a strong influence on the overall performance of the combined parameter set. Our optimized parameters are validated against density functional theory (DFT) geometries, ligand binding and cluster isomerization energies, ligand dissociation potential energy curves, and molecular orbital energies for relevant phosphine-ligated Aun clusters (n = 2–70), as well as selected experimental X-ray structures from the Cambridge Structural Database. In addition, we validate DFTB simulated far-IR spectra for several phosphine- and thiolate-ligated gold clusters against experimental and DFT spectra. The transferability of the parameter set is evaluated using DFT and DFTB potential energy surfaces resulting from the chemisorption of a PH3 molecule on the gold (111) surface. To demonstrate the potential of the DFTB method for quantum chemical simulations of metalloid gold clusters that are challenging for traditional DFT calculations, we report the predicted molecular geometry, electronic structure, ligand binding energy, and IR spectrum of Au108S24(PPh3)16.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc04514d",
+            "DOI": "10.1039/D0SC04514D",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Chem. Sci.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Vuong",
+                    "given": "Van Quan"
+                },
+                {
+                    "family": "Madridejos",
+                    "given": "Jenica Marie L."
+                },
+                {
+                    "family": "Aradi",
+                    "given": "Bálint"
+                },
+                {
+                    "family": "Sumpter",
+                    "given": "Bobby G."
+                },
+                {
+                    "family": "Metha",
+                    "given": "Gregory F."
+                },
+                {
+                    "family": "Irle",
+                    "given": "Stephan"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        24
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/VT7GXKVP",
+            "type": "article-journal",
+            "title": "Understanding the solubilization of Ca acetylide with a new computational model for ionic pairs",
+            "container-title": "Chemical Science",
+            "page": "13102-13112",
+            "volume": "11",
+            "issue": "48",
+            "abstract": "The unique reactivity of the acetylenic unit in DMSO gives rise to ubiquitous synthetic methods. We theoretically consider CaC2 solubility and protolysis in DMSO and formulate a strategy for CaC2 activation in solution-phase chemical transformations. For this, we use a new strategy for the modeling of ionic compounds in strongly coordinating solvents combining Born–Oppenheimer molecular dynamics with the DFTB3-D3(BJ) Hamiltonian and static DFT computations at the PBE0-D3(BJ)/pob-TZVP-gCP level. We modeled the thermodynamics of CaC2 protolysis under ambient conditions, taking into account its known heterogeneity and considering three polymorphs of CaC2. We give a theoretical basis for the existence of the elusive intermediate HCC–Ca–OH and show that CaC2 insolubility in DMSO is of thermodynamic nature. We confirm the unique role of water and specific properties of DMSO in CaC2 activation and explain how the activation is realized. The proposed strategy for the utilization of CaC2 in sustainable organic synthesis is outlined.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2020/sc/d0sc04752j",
+            "DOI": "10.1039/D0SC04752J",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Chem. Sci.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Polynski",
+                    "given": "Mikhail V."
+                },
+                {
+                    "family": "Sapova",
+                    "given": "Mariia D."
+                },
+                {
+                    "family": "Ananikov",
+                    "given": "Valentine P."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        24
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/N63G6B7E",
+            "type": "article-journal",
+            "title": "Mean-field density matrix decompositions",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "214109",
+            "volume": "153",
+            "issue": "21",
+            "abstract": "We introduce new and robust decompositions of mean-field Hartree–Fock and Kohn–Sham density functional theory relying on the use of localized molecular orbitals and physically sound charge population protocols. The new lossless property decompositions, which allow for partitioning one-electron reduced density matrices into either bond-wise or atomic contributions, are compared to alternatives from the literature with regard to both molecular energies and dipole moments. Besides commenting on possible applications as an interpretative tool in the rationalization of certain electronic phenomena, we demonstrate how decomposed mean-field theory makes it possible to expose and amplify compositional features in the context of machine-learned quantum chemistry. This is made possible by improving upon the granularity of the underlying data. On the basis of our preliminary proof-of-concept results, we conjecture that many of the structure–property inferences in existence today may be further refined by efficiently leveraging an increase in dataset complexity and richness.",
+            "URL": "https://doi.org/10.1063/5.0030764",
+            "DOI": "10.1063/5.0030764",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Eriksen",
+                    "given": "Janus J."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        3
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/ID3Z74BV",
+            "type": "article-journal",
+            "title": "SQM/COSMO Scoring Function: Reliable Quantum-Mechanical Tool for Sampling and Ranking in Structure-Based Drug Design",
+            "container-title": "ChemPlusChem",
+            "page": "2362-2371",
+            "volume": "85",
+            "issue": "11",
+            "abstract": "Quantum mechanical (QM) methods have been gaining importance in structure-based drug design where a reliable description of protein-ligand interactions is of utmost significance. However, strategies i. e. QM/MM, fragmentation or semiempirical (SQM) methods had to be pursued to overcome the unfavorable scaling of QM methods. Various SQM-based approaches have significantly contributed to the accuracy of docking and improvement of lead compounds. Parametrizations of SQM and implicit solvent methods in our laboratory have been instrumental to obtain a reliable SQM-based scoring function. The experience gained in its application for activity ranking of ligands binding to tens of protein targets resulted in setting up a faster SQM/COSMO scoring approach, which outperforms standard scoring methods in native pose identification for two dozen protein targets with ten thousand poses. Recently, SQM/COSMO was effectively applied in a proof-of-concept study of enrichment in virtual screening. Due to its superior performance, feasibility and chemical generality, we propose the SQM/COSMO approach as an efficient tool in structure-based drug design.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cplu.202000120",
+            "DOI": "10.1002/cplu.202000120",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/cplu.202000120",
+            "shortTitle": "SQM/COSMO Scoring Function",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Pecina",
+                    "given": "Adam"
+                },
+                {
+                    "family": "Eyrilmez",
+                    "given": "Saltuk M."
+                },
+                {
+                    "family": "Köprülüoğlu",
+                    "given": "Cemal"
+                },
+                {
+                    "family": "Miriyala",
+                    "given": "Vijay Madhav"
+                },
+                {
+                    "family": "Lepšík",
+                    "given": "Martin"
+                },
+                {
+                    "family": "Fanfrlík",
+                    "given": "Jindřich"
+                },
+                {
+                    "family": "Řezáč",
+                    "given": "Jan"
+                },
+                {
+                    "family": "Hobza",
+                    "given": "Pavel"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/NFKADJMI",
+            "type": "article-journal",
+            "title": "Beyond two-center tight binding: Models for Mg and Zr",
+            "container-title": "Physical Review Materials",
+            "page": "113806",
+            "volume": "4",
+            "issue": "11",
+            "abstract": "We describe a systematic approach to building ab initio tight-binding models and apply this to hexagonal metals Mg and Zr. Our models contain three approximations to plane-wave density functional theory (DFT): (i) we use a small basis set, (ii) we approximate self-consistency, and (iii) we approximate many-center exchange and correlation effects. We test a range of approximations for many-center exchange-correlation and self-consistency to gauge the accuracy of each in isolation. This systematic approach also allows us to combine multiple approximations in the optimal manner for our final tight-binding models. Furthermore, the breakdown of errors into those from individual approximations is expected to be a useful guide for which approximations to include in other tight-binding models. We attempt to correct any remaining errors in our models by fitting a pair potential. Our final tight-binding model for Mg shows excellent agreement with plane-wave results for a wide range of properties (e.g., errors below 10% for self-interstitial formation energies and below 3% for equilibrium volumes) and is expected to be highly transferable due to the minimal amount of fitting. Calculations with our Zr model also show good agreement with plane-wave results (e.g., errors below 2% for equilibrium volumes) except for properties where self-consistency is important, such as self-interstitial formation energies. However, for these properties we are able to generate a tight-binding model which shows excellent agreement with non-self-consistent DFT with a small basis set (i.e., many-center effects are captured accurately by our approximations). As we understand the source of remaining errors in our Zr model we are able to outline the methods required to build upon it to describe the remaining properties with greater accuracy.",
+            "URL": "https://link.aps.org/doi/10.1103/PhysRevMaterials.4.113806",
+            "DOI": "10.1103/PhysRevMaterials.4.113806",
+            "note": "Publisher: American Physical Society",
+            "shortTitle": "Beyond two-center tight binding",
+            "journalAbbreviation": "Phys. Rev. Mater.",
+            "author": [
+                {
+                    "family": "Fogarty",
+                    "given": "R. M."
+                },
+                {
+                    "family": "Smutna",
+                    "given": "J."
+                },
+                {
+                    "family": "Wenman",
+                    "given": "M. R."
+                },
+                {
+                    "family": "Horsfield",
+                    "given": "A. P."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        11,
+                        16
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/GWV2A8WQ",
+            "type": "article-journal",
+            "title": "Relations between angular and Cartesian orientational expansions",
+            "container-title": "AIP Advances",
+            "page": "035106",
+            "volume": "10",
+            "issue": "3",
+            "abstract": "Orientational expansions, which are widely used in natural sciences, exist in angular and Cartesian forms. Although these expansions are orderwise equivalent, it is difficult to relate them in practice. In this article, both types of expansions and their relations are explained in detail. We give explicit formulas for the conversion between angular and Cartesian expansion coefficients for functions depending on one, two, and three angles in two and three spatial dimensions. These formulas are useful, e.g., for comparing theoretical and experimental results in liquid crystal physics. The application of the expansions in the definition of orientational order parameters is also discussed.",
+            "URL": "https://doi.org/10.1063/1.5141367",
+            "DOI": "10.1063/1.5141367",
+            "journalAbbreviation": "AIP Advances",
+            "author": [
+                {
+                    "family": "te Vrugt",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Wittkowski",
+                    "given": "Raphael"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        3
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/E6HZ9HQ6",
+            "type": "article-journal",
+            "title": "Understanding chemical reactivity using the activation strain model",
+            "container-title": "Nature Protocols",
+            "page": "649-667",
+            "volume": "15",
+            "issue": "2",
+            "abstract": "Understanding chemical reactivity through the use of state-of-the-art computational techniques enables chemists to both predict reactivity and rationally design novel reactions. This protocol aims to provide chemists with the tools to implement a powerful and robust method for analyzing and understanding any chemical reaction using PyFrag 2019. The approach is based on the so-called activation strain model (ASM) of reactivity, which relates the relative energy of a molecular system to the sum of the energies required to distort the reactants into the geometries required to react plus the strength of their mutual interactions. Other available methods analyze only a stationary point on the potential energy surface, but our methodology analyzes the change in energy along a reaction coordinate. The use of this methodology has been proven to be critical to the understanding of reactions, spanning the realms of the inorganic and organic, as well as the supramolecular and biochemical, fields. This protocol provides step-by-step instructions—starting from the optimization of the stationary points and extending through calculation of the potential energy surface and analysis of the trend-decisive energy terms—that can serve as a guide for carrying out the analysis of any given reaction of interest within hours to days, depending on the size of the molecular system.",
+            "URL": "https://www.nature.com/articles/s41596-019-0265-0",
+            "DOI": "10.1038/s41596-019-0265-0",
+            "note": "Number: 2\nPublisher: Nature Publishing Group",
+            "journalAbbreviation": "Nat Protoc",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Vermeeren",
+                    "given": "Pascal"
+                },
+                {
+                    "family": "van der Lubbe",
+                    "given": "Stephanie C. C."
+                },
+                {
+                    "family": "Fonseca Guerra",
+                    "given": "Célia"
+                },
+                {
+                    "family": "Bickelhaupt",
+                    "given": "F. Matthias"
+                },
+                {
+                    "family": "Hamlin",
+                    "given": "Trevor A."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        2
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/5RGGYS2Q",
+            "type": "article-journal",
+            "title": "Emerging DFT Methods and Their Importance for Challenging Molecular Systems with Orbital Degeneracy",
+            "container-title": "Computation",
+            "page": "62",
+            "volume": "7",
+            "issue": "4",
+            "abstract": "We briefly present some of the most modern and outstanding non-conventional density-functional theory (DFT) methods, which have largely broadened the field of applications with respect to more traditional calculations. The results of these ongoing efforts reveal that a DFT-inspired solution always exists even for pathological cases. Among the set of emerging methods, we specifically mention FT-DFT, OO-DFT, RSX-DFT, MC-PDFT, and FLOSIC-DFT, complementing the last generation of existing density functionals, such as local hybrid and double-hybrid expressions.",
+            "URL": "https://www.mdpi.com/2079-3197/7/4/62",
+            "DOI": "10.3390/computation7040062",
+            "note": "Number: 4\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "language": "en",
+            "author": [
+                {
+                    "family": "San-Fabián Maroto",
+                    "given": "Emilio"
+                },
+                {
+                    "family": "Sancho-García",
+                    "given": "Juan-Carlos"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        12
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/PDG3Q6YD",
+            "type": "article-journal",
+            "title": "Towards the online computer-aided design of catalytic pockets",
+            "container-title": "Nature Chemistry",
+            "page": "872-879",
+            "volume": "11",
+            "issue": "10",
+            "abstract": "The engineering of catalysts with desirable properties can be accelerated by computer-aided design. To achieve this aim, features of molecular catalysts can be condensed into numerical descriptors that can then be used to correlate reactivity and structure. Based on such descriptors, we have introduced topographic steric maps that provide a three-dimensional image of the catalytic pocket—the region of the catalyst where the substrate binds and reacts—enabling it to be visualized and also reshaped by changing various parameters. These topographic steric maps, especially when used in conjunction with density functional theory calculations, enable catalyst structural modifications to be explored quickly, making the online design of new catalysts accessible to the wide chemical community. In this Perspective, we discuss the application of topographic steric maps either to rationalize the behaviour of known catalysts—from synthetic molecular species to metalloenzymes—or to design improved catalysts.",
+            "URL": "https://www.nature.com/articles/s41557-019-0319-5",
+            "DOI": "10.1038/s41557-019-0319-5",
+            "note": "Number: 10\nPublisher: Nature Publishing Group",
+            "journalAbbreviation": "Nat. Chem.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Falivene",
+                    "given": "Laura"
+                },
+                {
+                    "family": "Cao",
+                    "given": "Zhen"
+                },
+                {
+                    "family": "Petta",
+                    "given": "Andrea"
+                },
+                {
+                    "family": "Serra",
+                    "given": "Luigi"
+                },
+                {
+                    "family": "Poater",
+                    "given": "Albert"
+                },
+                {
+                    "family": "Oliva",
+                    "given": "Romina"
+                },
+                {
+                    "family": "Scarano",
+                    "given": "Vittorio"
+                },
+                {
+                    "family": "Cavallo",
+                    "given": "Luigi"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        10
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/A69X5IR5",
+            "type": "article-journal",
+            "title": "QM/MM Benchmarking of Cyanobacteriochrome Slr1393g3 Absorption Spectra",
+            "container-title": "Molecules",
+            "page": "1720",
+            "volume": "24",
+            "issue": "9",
+            "abstract": "Cyanobacteriochromes are compact and spectrally diverse photoreceptor proteins that are promising candidates for biotechnological applications. Computational studies can contribute to an understanding at a molecular level of their wide spectral tuning and diversity. In this contribution, we benchmark methods to model a 110 nm shift in the UV/Vis absorption spectrum from a red- to a green-absorbing form of the cyanobacteriochrome Slr1393g3. Based on an assessment of semiempirical methods to describe the chromophore geometries of both forms in vacuo, we find that DFTB2+D leads to structures that are the closest to the reference method. The benchmark of the excited state calculations is based on snapshots from quantum mechanics/molecular mechanics molecular dynamics simulations. In our case, the methods RI-ADC(2) and sTD-DFT based on CAM-B3LYP ground state calculations perform the best, whereas no functional can be recommended to simulate the absorption spectra of both forms with time-dependent density functional theory. Furthermore, the difference in absorption for the lowest energy absorption maxima of both forms can already be modelled with optimized structures, but sampling is required to improve the shape of the absorption bands of both forms, in particular for the second band. This benchmark study can guide further computational studies, as it assesses essential components of a protocol to model the spectral tuning of both cyanobacteriochromes and the related phytochromes.",
+            "URL": "https://www.mdpi.com/1420-3049/24/9/1720",
+            "DOI": "10.3390/molecules24091720",
+            "note": "Number: 9\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Wiebeler",
+                    "given": "Christian"
+                },
+                {
+                    "family": "Schapiro",
+                    "given": "Igor"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/ECEDE6XG",
+            "type": "article-journal",
+            "title": "A generally applicable atomic-charge dependent London dispersion correction",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "154122",
+            "volume": "150",
+            "issue": "15",
+            "abstract": "The so-called D4 model is presented for the accurate computation of London dispersion interactions in density functional theory approximations (DFT-D4) and generally for atomistic modeling methods. In this successor to the DFT-D3 model, the atomic coordination-dependent dipole polarizabilities are scaled based on atomic partial charges which can be taken from various sources. For this purpose, a new charge-dependent parameter-economic scaling function is designed. Classical charges are obtained from an atomic electronegativity equilibration procedure for which efficient analytical derivatives with respect to nuclear positions are developed. A numerical Casimir-Polder integration of the atom-in-molecule dynamic polarizabilities then yields charge- and geometry-dependent dipole-dipole dispersion coefficients. Similar to the D3 model, the dynamic polarizabilities are precomputed by time-dependent DFT and all elements up to radon (Z = 86) are covered. The two-body dispersion energy expression has the usual sum-over-atom-pairs form and includes dipole-dipole as well as dipole-quadrupole interactions. For a benchmark set of 1225 molecular dipole-dipole dispersion coefficients, the D4 model achieves an unprecedented accuracy with a mean relative deviation of 3.8% compared to 4.7% for D3. In addition to the two-body part, three-body effects are described by an Axilrod-Teller-Muto term. A common many-body dispersion expansion was extensively tested, and an energy correction based on D4 polarizabilities is found to be advantageous for larger systems. Becke-Johnson-type damping parameters for DFT-D4 are determined for more than 60 common density functionals. For various standard energy benchmark sets, DFT-D4 slightly but consistently outperforms DFT-D3. Especially for metal containing systems, the introduced charge dependence of the dispersion coefficients improves thermochemical properties. We suggest (DFT-)D4 as a physically improved and more sophisticated dispersion model in place of DFT-D3 for DFT calculations as well as other low-cost approaches like semi-empirical models.",
+            "URL": "https://doi.org/10.1063/1.5090222",
+            "DOI": "10.1063/1.5090222",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Caldeweyher",
+                    "given": "Eike"
+                },
+                {
+                    "family": "Ehlert",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Hansen",
+                    "given": "Andreas"
+                },
+                {
+                    "family": "Neugebauer",
+                    "given": "Hagen"
+                },
+                {
+                    "family": "Spicher",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Bannwarth",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        4,
+                        19
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/GKX7KRZQ",
+            "type": "article-journal",
+            "title": "Reactivity of Organosilicon Additives with Water in Li-ion Batteries",
+            "container-title": "The Journal of Physical Chemistry C",
+            "abstract": "Introducing small volumes of organosilicon-containing additives as part of lithium-ion battery (LIB) electrolyte engineering has been getting a lot of attention owing to these additives’ multifunctional properties. Tris(trimethylsilyl)phosphate (TMSPa) is a prominent member of this class of additives and scavenges Lewis bases such as water, although the rate at which the reaction occurs and the fate of the resultant product in the battery system still remain unknown. Herein, we have employed complementary nuclear magnetic resonance and gas chromatography–mass spectrometry to systematically study the reactivity of TMSPa with water in conventional organic carbonate solvents mimicking the Li-ion cell environment. The reaction products are identified, and a working reaction pathway is proposed by following the chemical evolution of the products over varying time and temperatures. We found that the main reaction products are trimethylsilanol (TMSOH) and phosphoric acid (H3PO4); however, various P–O–Si-containing intermediates were also found. Similar to water, the Lewis base TMSOH can undergo reaction with TMSPa at room temperature to form hexamethyldisiloxane and can also activate ethylene carbonate (EC) ring-opening reactions at elevated temperatures (≥80 °C), yielding a TMS derivative with ethylene glycol (TMS-EG). While the formation of TMS-EG at the expense of EC is in principle an unwanted parasitic reaction, it should be noted that this reaction is only activated at elevated temperatures in comparison to EC ring-opening by H2O, which takes place at ≥40 °C. Thus, the study underlines the advantages of organo-silicon compounds as electrolyte additives. Elucidating the reaction mechanism in model systems like this is important for future studies of similar additives in order to improve the accuracy of additive exploration in LIBs.",
+            "URL": "https://doi.org/10.1021/acs.jpcc.3c07505",
+            "DOI": "10.1021/acs.jpcc.3c07505",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "J. Phys. Chem. C",
+            "author": [
+                {
+                    "family": "Gogoi",
+                    "given": "Neeha"
+                },
+                {
+                    "family": "Wahyudi",
+                    "given": "Wandi"
+                },
+                {
+                    "family": "Mindemark",
+                    "given": "Jonas"
+                },
+                {
+                    "family": "Hernández",
+                    "given": "Guiomar"
+                },
+                {
+                    "family": "Broqvist",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Berg",
+                    "given": "Erik J."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        23
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        27
+                    ]
+                ]
+            }
+        }
+    ]
+}

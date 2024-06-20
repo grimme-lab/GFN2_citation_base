@@ -1,0 +1,2130 @@
+{
+    "items": [
+        {
+            "id": "16708940/CRXWIQ8A",
+            "type": "article-journal",
+            "title": "The chemical gymnastics of enterocin: evidence for stereodivergence in Nature",
+            "container-title": "Organic & Biomolecular Chemistry",
+            "page": "5879-5890",
+            "volume": "18",
+            "issue": "30",
+            "abstract": "Stereodivergence in Nature encapsulates both enzymatic (biosynthetic) and non-enzymatic (chemical) diversification of natural product scaffolds arising from a single biosynthetic pathway. Herein, we report a fascinating example of stereodivergence for the bacterial polyketide enterocin, which we observed to undergo a series of facile skeletal rearrangements in solution, leading to four distinct isomeric structures. The final distribution of the four isomers was found to be highly sensitive to the conditions used, including solvent, temperature and pH. In this study, we have investigated the kinetics of these isomeric conversions, and using a combination of DFT and thermochemical calculations, were able to establish a mechanism detailing a concerted rearrangement and an unusual “gymnastic” sequence of pseudo-chair-boat conformational interconversions. In addition to these kinetic and mechanistic studies, we also performed a semisynthetic study aimed at stabilising the enterocin scaffold. In total, seven analogues of enterocin were synthesised and investigated for their stability and in vitro activity against a panel of bacteria, fungi, plants and mammalian cells.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2020/ob/d0ob01099e",
+            "DOI": "10.1039/D0OB01099E",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "shortTitle": "The chemical gymnastics of enterocin",
+            "journalAbbreviation": "Org. Biomol. Chem.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Cowled",
+                    "given": "Michael S."
+                },
+                {
+                    "family": "Vuong",
+                    "given": "Daniel"
+                },
+                {
+                    "family": "Crombie",
+                    "given": "Andrew"
+                },
+                {
+                    "family": "Lacey",
+                    "given": "Ernest"
+                },
+                {
+                    "family": "Karuso",
+                    "given": "Peter"
+                },
+                {
+                    "family": "Piggott",
+                    "given": "Andrew M."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        5
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/RPCTCYG8",
+            "type": "article-journal",
+            "title": "Experimental and Theoretical Insights into a Novel Lightfast Thiophene Azo Dye",
+            "container-title": "Crystals",
+            "page": "31",
+            "volume": "14",
+            "issue": "1",
+            "abstract": "Thiophene ring-enhancing electron delocalization imparts unique properties to azoic chromophore tools. The novel TA-OH dye contains a push–pull π-electron system, including a thiophene-azo scaffold with a hydroxyl group at the ortho position to the azo bridge. The hydroxyl group is expected to lock the azo bridge in its trans conformation, concurring with the photostability and fastness of the dye. The single crystal analysis identified the molecule’s primary conjugation plane, and the theoretical analysis provided electronic pattern insights. The absorption behavior and the trans-to-cis conversion were examined from both experimental and theoretical perspectives. The effect of solvent polarity and the role of pH on the photophysical properties were explored. The solvent polarity strongly affects the absorbance spectrum of TA-OH, therefore potentially making NLO active. Additionally, TA-OH exhibited pH responsiveness akin to classic dichromatic pH indicators, with a noticeable color shift from red to blue observed as pH transitioned from neutral to alkaline. Absorbance titration experiments, along with experimental/theoretical determination of pKa, defined the pH sensing ability.",
+            "URL": "https://www.mdpi.com/2073-4352/14/1/31",
+            "DOI": "10.3390/cryst14010031",
+            "note": "Number: 1\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Diana",
+                    "given": "Rosita"
+                },
+                {
+                    "family": "Sessa",
+                    "given": "Lucia"
+                },
+                {
+                    "family": "Concilio",
+                    "given": "Simona"
+                },
+                {
+                    "family": "Piotto",
+                    "given": "Stefano"
+                },
+                {
+                    "family": "Di Costanzo",
+                    "given": "Luigi"
+                },
+                {
+                    "family": "Carella",
+                    "given": "Antonio"
+                },
+                {
+                    "family": "Panunzi",
+                    "given": "Barbara"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/FKQ9U7J3",
+            "type": "article-journal",
+            "title": "4-Thiaproline accelerates the slow folding phase of proteins containing cis prolines in the native state by two orders of magnitude",
+            "container-title": "Protein Science",
+            "page": "e4877",
+            "volume": "33",
+            "issue": "2",
+            "abstract": "The cis/trans isomerization of peptidyl-prolyl peptide bonds is often the bottleneck of the refolding reaction for proteins containing cis proline residues in the native state. Proline (Pro) analogues, especially C4-substituted fluoroprolines, have been widely used in protein engineering to enhance the thermodynamic stability of peptides and proteins and to investigate folding kinetics. 4-thiaproline (Thp) has been shown to bias the ring pucker of Pro, to increase the cis population percentage of model peptides in comparison to Pro, and to diminish the activation energy barrier for the cis/trans isomerization reaction. Despite its intriguing properties, Thp has been seldom incorporated into proteins. Moreover, the impact of Thp on the folding kinetics of globular proteins has never been reported. In this study, we show that upon incorporation of Thp at cisPro76 into the thioredoxin variant Trx1P the half-life of the refolding reaction decreased from 2 h to 35 s. A dramatic acceleration of the refolding rate could be observed also for the protein pseudo wild-type barstar upon replacement of cisPro48 with Thp. Quantum chemical calculations suggested that the replacement of the CγH2 group by a sulfur atom in the pyrrolidine ring, might lower the barrier for cis/trans rotation due to a weakened peptide bond. The protein variants retained their thermodynamic stability upon incorporation of Thp, while the catalytic and enzymatic activities of the modified Trx1P remained unchanged. Our results show that the Pro isostere Thp might accelerate the rate of the slow refolding reaction for proteins containing cis proline residues in the native state, independent from the local structural environment.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/pro.4877",
+            "DOI": "10.1002/pro.4877",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/pro.4877",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Loughlin",
+                    "given": "Jennie O'"
+                },
+                {
+                    "family": "Zinovjev",
+                    "given": "Kirill"
+                },
+                {
+                    "family": "Napolitano",
+                    "given": "Silvia"
+                },
+                {
+                    "family": "van der Kamp",
+                    "given": "Marc"
+                },
+                {
+                    "family": "Rubini",
+                    "given": "Marina"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/EJRFFLXH",
+            "type": "article-journal",
+            "title": "Rapid Access to Polychlorodiacetylene Single Crystals through H-Bond Templating and Computations on Helical PDA Oligomers",
+            "container-title": "Crystal Growth & Design",
+            "page": "5648-5656",
+            "volume": "20",
+            "issue": "9",
+            "abstract": "Until now, only two structures of polyhalogenodiacetylene (PXDA) have been reported in the literature: polydiiododiacetylene (PDIDA) and polydibromodiacetylene (PDBDA). Herein we report the first example of the synthesis and topochemical polymerization of chlorodiacetylene (ClDA) to afford the single crystal X-ray diffraction (SCXRD) structure determination of polychlorodiacetylene (PClDA). A unique H-bonded network was exploited to achieve polymerization. The latter is parallel and close to the conjugated backbone, which constitutes the first clear single crystal example of this kind of system. Comparative DFT computational studies between the torsional potential on a model oligoClDA with the parent nonhalogenated compound were also performed. Finally, the capacity of the H-bonded network to induce helicity in the PDA chains was evaluated using semiempirical tight-binding calculations. The present work should contribute to the understanding of the exceptional optoelectronic properties of PDA associated with the presence of delocalized p-electrons in their backbone, with multiple possible sensing applications and electronic device conception, among many other possibilities.",
+            "URL": "https://doi.org/10.1021/acs.cgd.0c00877",
+            "DOI": "10.1021/acs.cgd.0c00877",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "Crystal Growth & Design",
+            "author": [
+                {
+                    "family": "Baillargeon",
+                    "given": "Pierre"
+                },
+                {
+                    "family": "Robidas",
+                    "given": "Raphaël"
+                },
+                {
+                    "family": "Legault",
+                    "given": "Claude Y."
+                },
+                {
+                    "family": "Rahem",
+                    "given": "Tarik"
+                },
+                {
+                    "family": "Paré Fouapon",
+                    "given": "Alexandra"
+                },
+                {
+                    "family": "Boivin",
+                    "given": "Sarah-Maude"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        9,
+                        2
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/LNWMAZVT",
+            "type": "article-journal",
+            "title": "Exploring borderline SN1–SN2 mechanisms: the role of explicit solvation protocols in the DFT investigation of isopropyl chloride",
+            "container-title": "RSC Advances",
+            "page": "4692-4701",
+            "volume": "14",
+            "issue": "7",
+            "abstract": "Nucleophilic substitution at saturated carbon is a crucial class of organic reactions, playing a pivotal role in various chemical transformations that yield valuable compounds for society. Despite the well-established SN1 and SN2 mechanisms, secondary substrates, particularly in solvolysis reactions, often exhibit a borderline pathway. A molecular-level understanding of these processes is fundamental for developing more efficient chemical transformations. Typically, quantum-chemical simulations of the solvent medium combine explicit and implicit solvation methods. The configuration of explicit molecules can be defined through top-down approaches, such as Monte Carlo (MC) calculations for generating initial configurations, and bottom-up methods that involve user-dependent protocols to add solvent molecules around the substrate. Herein, we investigated the borderline mechanism of the hydrolysis of a secondary substrate, isopropyl chloride (iPrCl), at DFT-M06-2X/aug-cc-pVDZ level, employing explicit and explicit + implicit protocols. Top-down and bottom-up approaches were employed to generate substrate–solvent complexes of varying number (n = 1, 3, 5, 7, 9, and 12) and configurations of H2O molecules. Our findings consistently reveal that regardless of the solvation approach, the hydrolysis of iPrCl follows a loose-SN2-like mechanism with nucleophilic solvent assistance. Increasing the water cluster around the substrate in most cases led to reaction barriers of ΔH‡ ≈ 21 kcal mol−1, with nine water molecules from MC configurations sufficient to describe the reaction. The More O'Ferrall–Jencks plot demonstrates an SN1-like character for all transition state structures, showing a clear merged profile. The fragmentation activation strain analyses indicate that energy barriers are predominantly controlled by solvent–substrate interactions, supported by the leaving group stabilization assessed through CHELPG atomic charges.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2024/ra/d4ra00066h",
+            "DOI": "10.1039/D4RA00066H",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "shortTitle": "Exploring borderline SN1–SN2 mechanisms",
+            "journalAbbreviation": "RSC Adv.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Andrade",
+                    "given": "Karine Nascimento de"
+                },
+                {
+                    "family": "Peixoto",
+                    "given": "Bárbara Pereira"
+                },
+                {
+                    "family": "Carneiro",
+                    "given": "José Walkimar de Mesquita"
+                },
+                {
+                    "family": "Fiorot",
+                    "given": "Rodolfo Goetze"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        31
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/LJFXH52W",
+            "type": "article-journal",
+            "title": "Iminopyrrole-Based Self-Assembly: A Route to Intrinsically Flexible Molecular Links and Knots",
+            "container-title": "Angewandte Chemie International Edition",
+            "page": "e202316489",
+            "volume": "63",
+            "issue": "4",
+            "abstract": "The use of 2,5-diformylpyrrole in self-assembly reactions with diamines and Zn(II)/Cd(II) salts allowed the preparation of [2]catenane, trefoil knot, and Borromean rings. The intrinsically dynamic nature of the diiminopyrrole motif rendered all of the formed assemblies intramolecularly flexible. The presence of diiminopyrrole revealed new coordination motifs and influenced the host–guest chemistry of the systems, as illustrated by hexafluorophosphate encapsulation by Borromean rings.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202316489",
+            "DOI": "10.1002/anie.202316489",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.202316489",
+            "shortTitle": "Iminopyrrole-Based Self-Assembly",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Sarwa",
+                    "given": "Aleksandra"
+                },
+                {
+                    "family": "Białońska",
+                    "given": "Agata"
+                },
+                {
+                    "family": "Sobieraj",
+                    "given": "Michał"
+                },
+                {
+                    "family": "Martínez",
+                    "given": "Juan Pablo"
+                },
+                {
+                    "family": "Trzaskowski",
+                    "given": "Bartosz"
+                },
+                {
+                    "family": "Szyszko",
+                    "given": "Bartosz"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/8CRT884N",
+            "type": "article-journal",
+            "title": "Computational and experimental assessment of efficient dye adsorption method from aqueous effluents by halloysite and palygorskite clay minerals",
+            "container-title": "Environmental Science and Pollution Research",
+            "abstract": "The removal of dyes from effluents of textile industries represents a technological challenge, due to their significant environmental impact. The application of halloysite (Hal) and palygorskite (Pal) clay minerals as adsorbents for the removal of Congo red (CR) and methylene blue (MB) was evaluated in this work. The materials were applied both in natural and acid-treated forms, and characterized by XRD, XPS, SEM–EDS, FTIR, and N2 adsorption–desorption isotherm techniques to identify their properties and main active sites. The adsorbents showed potential to remove CR (> 98%) and MB (> 85%) within 180 min, using 0.3 g adsorbent and initial dye concentration of 250 mg L−1. Semi-empirical quantum mechanical calculations (SQM) confirmed the interaction mechanism between dyes and the adsorbents via chemisorption (− 69.0 kcal mol−1 < Eads <  − 28.8 kcal mol−1), which was further observed experimentally due to the high fit of adsorption data to pseudo-second order kinetic model (R2 > 0.99) and Langmuir isotherm (R2 > 0.98). The use of Pal and Hal to remove dyes was proven to be economically and environmentally viable for industrial application.",
+            "URL": "https://doi.org/10.1007/s11356-023-31546-w",
+            "DOI": "10.1007/s11356-023-31546-w",
+            "journalAbbreviation": "Environ Sci Pollut Res",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Câmara",
+                    "given": "Anne B. F."
+                },
+                {
+                    "family": "Silva",
+                    "given": "Mariana R. L."
+                },
+                {
+                    "family": "de Longe",
+                    "given": "Clenildo"
+                },
+                {
+                    "family": "Moura",
+                    "given": "Heloise O. M. A."
+                },
+                {
+                    "family": "Silva",
+                    "given": "Sérgio R. B."
+                },
+                {
+                    "family": "de Souza",
+                    "given": "Miguel A. F."
+                },
+                {
+                    "family": "Rodríguez-Castellón",
+                    "given": "Enrique"
+                },
+                {
+                    "family": "de Carvalho",
+                    "given": "Luciene S."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        12,
+                        29
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/FN9PSZ3V",
+            "type": "article-journal",
+            "title": "Toward De Novo Catalyst Discovery: Fast Identification of New Catalyst Candidates for Alcohol-Mediated Morita–Baylis–Hillman Reactions**",
+            "container-title": "Angewandte Chemie International Edition",
+            "page": "e202310580",
+            "volume": "62",
+            "issue": "49",
+            "abstract": "Recently we have demonstrated how a genetic algorithm (GA) starting from random tertiary amines can be used to discover a new and efficient catalyst for the alcohol-mediated Morita–Baylis–Hillman (MBH) reaction. In particular, the discovered catalyst was shown experimentally to be eight times more active than DABCO, commonly used to catalyze the MBH reaction. This represents a breakthrough in using generative models for catalyst optimization. However, the GA procedure, and hence discovery, relied on two important pieces of information; 1) the knowledge that tertiary amines catalyze the reaction and 2) the mechanism and reaction profile for the catalyzed reaction, in particular the transition state structure of the rate-determining step. Thus, truly de novo catalyst discovery must include these steps. Here we present such a method for discovering catalyst candidates for a specific reaction while simultaneously proposing a mechanism for the catalyzed reaction. We show that tertiary amines and phosphines are potential catalysts for the MBH reaction by screening 11 molecular templates representing common functional groups. The method relies on an automated reaction discovery workflow using meta-dynamics calculations. Combining this method for catalyst candidate discovery with our GA-based catalyst optimization method results in an algorithm for truly de novo catalyst discovery.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202310580",
+            "DOI": "10.1002/anie.202310580",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.202310580",
+            "shortTitle": "Toward De Novo Catalyst Discovery",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Rasmussen",
+                    "given": "Maria H."
+                },
+                {
+                    "family": "Seumer",
+                    "given": "Julius"
+                },
+                {
+                    "family": "Jensen",
+                    "given": "Jan H."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/485QX7HB",
+            "type": "article-journal",
+            "title": "Reaction profiles for quantum chemistry-computed [3 + 2] cycloaddition reactions",
+            "container-title": "Scientific Data",
+            "page": "66",
+            "volume": "10",
+            "issue": "1",
+            "abstract": "Bio-orthogonal click chemistry based on [3 + 2] dipolar cycloadditions has had a profound impact on the field of biochemistry and significant effort has been devoted to identify promising new candidate reactions for this purpose. To gauge whether a prospective reaction could be a suitable bio-orthogonal click reaction, information about both on- and off-target activation and reaction energies is highly valuable. Here, we use an automated workflow, based on the autodE program, to compute over 5000 reaction profiles for [3 + 2] cycloadditions involving both synthetic dipolarophiles and a set of biologically-inspired structural motifs. Based on a succinct benchmarking study, the B3LYP-D3(BJ)/def2-TZVP//B3LYP-D3(BJ)/def2-SVP level of theory was selected for the DFT calculations, and standard conditions and an (aqueous) SMD model were imposed to mimic physiological conditions. We believe that this data, as well as the presented workflow for high-throughput reaction profile computation, will be useful to screen for new bio-orthogonal reactions, as well as for the development of novel machine learning models for the prediction of chemical reactivity more broadly.",
+            "URL": "https://www.nature.com/articles/s41597-023-01977-8",
+            "DOI": "10.1038/s41597-023-01977-8",
+            "note": "Number: 1\nPublisher: Nature Publishing Group",
+            "journalAbbreviation": "Sci Data",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Stuyver",
+                    "given": "Thijs"
+                },
+                {
+                    "family": "Jorner",
+                    "given": "Kjell"
+                },
+                {
+                    "family": "Coley",
+                    "given": "Connor W."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        2,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/4TMBIXGD",
+            "type": "article-journal",
+            "title": "Comprehensive exploration of graphically defined reaction spaces",
+            "container-title": "Scientific Data",
+            "page": "145",
+            "volume": "10",
+            "issue": "1",
+            "abstract": "Existing reaction transition state (TS) databases are comparatively small and lack chemical diversity. Here, this data gap has been addressed using the concept of a graphically-defined model reaction to comprehensively characterize a reaction space associated with C, H, O, and N containing molecules with up to 10 heavy (non-hydrogen) atoms. The resulting dataset is composed of 176,992 organic reactions possessing at least one validated TS, activation energy, heat of reaction, reactant and product geometries, frequencies, and atom-mapping. For 33,032 reactions, more than one TS was discovered by conformational sampling, allowing conformational errors in TS prediction to be assessed. Data is supplied at the GFN2-xTB and B3LYP-D3/TZVP levels of theory. A subset of reactions were recalculated at the CCSD(T)-F12/cc-pVDZ-F12 and ωB97X-D2/def2-TZVP levels to establish relative errors. The resulting collection of reactions and properties are called the Reaction Graph Depth 1 (RGD1) dataset. RGD1 represents the largest and most chemically diverse TS dataset published to date and should find immediate use in developing novel machine learning models for predicting reaction properties.",
+            "URL": "https://www.nature.com/articles/s41597-023-02043-z",
+            "DOI": "10.1038/s41597-023-02043-z",
+            "note": "Number: 1\nPublisher: Nature Publishing Group",
+            "journalAbbreviation": "Sci Data",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Zhao",
+                    "given": "Qiyuan"
+                },
+                {
+                    "family": "Vaddadi",
+                    "given": "Sai Mahit"
+                },
+                {
+                    "family": "Woulfe",
+                    "given": "Michael"
+                },
+                {
+                    "family": "Ogunfowora",
+                    "given": "Lawal A."
+                },
+                {
+                    "family": "Garimella",
+                    "given": "Sanjay S."
+                },
+                {
+                    "family": "Isayev",
+                    "given": "Olexandr"
+                },
+                {
+                    "family": "Savoie",
+                    "given": "Brett M."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        3,
+                        20
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/IRJCTY85",
+            "type": "article-journal",
+            "title": "Structural basis of peptidoglycan synthesis by E. coli RodA-PBP2 complex",
+            "container-title": "Nature Communications",
+            "page": "5151",
+            "volume": "14",
+            "issue": "1",
+            "abstract": "Peptidoglycan (PG) is an essential structural component of the bacterial cell wall that is synthetized during cell division and elongation. PG forms an extracellular polymer crucial for cellular viability, the synthesis of which is the target of many antibiotics. PG assembly requires a glycosyltransferase (GT) to generate a glycan polymer using a Lipid II substrate, which is then crosslinked to the existing PG via a transpeptidase (TP) reaction. A Shape, Elongation, Division and Sporulation (SEDS) GT enzyme and a Class B Penicillin Binding Protein (PBP) form the core of the multi-protein complex required for PG assembly. Here we used single particle cryo-electron microscopy to determine the structure of a cell elongation-specific E. coli RodA-PBP2 complex. We combine this information with biochemical, genetic, spectroscopic, and computational analyses to identify the Lipid II binding sites and propose a mechanism for Lipid II polymerization. Our data suggest a hypothesis for the movement of the glycan strand from the Lipid II polymerization site of RodA towards the TP site of PBP2, functionally linking these two central enzymatic activities required for cell wall peptidoglycan biosynthesis.",
+            "URL": "https://www.nature.com/articles/s41467-023-40483-8",
+            "DOI": "10.1038/s41467-023-40483-8",
+            "note": "Number: 1\nPublisher: Nature Publishing Group",
+            "journalAbbreviation": "Nat Commun",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Nygaard",
+                    "given": "Rie"
+                },
+                {
+                    "family": "Graham",
+                    "given": "Chris L. B."
+                },
+                {
+                    "family": "Belcher Dufrisne",
+                    "given": "Meagan"
+                },
+                {
+                    "family": "Colburn",
+                    "given": "Jonathan D."
+                },
+                {
+                    "family": "Pepe",
+                    "given": "Joseph"
+                },
+                {
+                    "family": "Hydorn",
+                    "given": "Molly A."
+                },
+                {
+                    "family": "Corradi",
+                    "given": "Silvia"
+                },
+                {
+                    "family": "Brown",
+                    "given": "Chelsea M."
+                },
+                {
+                    "family": "Ashraf",
+                    "given": "Khuram U."
+                },
+                {
+                    "family": "Vickery",
+                    "given": "Owen N."
+                },
+                {
+                    "family": "Briggs",
+                    "given": "Nicholas S."
+                },
+                {
+                    "family": "Deering",
+                    "given": "John J."
+                },
+                {
+                    "family": "Kloss",
+                    "given": "Brian"
+                },
+                {
+                    "family": "Botta",
+                    "given": "Bruno"
+                },
+                {
+                    "family": "Clarke",
+                    "given": "Oliver B."
+                },
+                {
+                    "family": "Columbus",
+                    "given": "Linda"
+                },
+                {
+                    "family": "Dworkin",
+                    "given": "Jonathan"
+                },
+                {
+                    "family": "Stansfeld",
+                    "given": "Phillip J."
+                },
+                {
+                    "family": "Roper",
+                    "given": "David I."
+                },
+                {
+                    "family": "Mancia",
+                    "given": "Filippo"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        8,
+                        24
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/3AWB8GTQ",
+            "type": "article-journal",
+            "title": "On the Nature of the Rotational Energy Barrier of Atropisomeric Hydrazides",
+            "container-title": "Molecules",
+            "page": "7856",
+            "volume": "28",
+            "issue": "23",
+            "abstract": "N-N atropisomers represent a useful class of compounds that has recently received important attention from many research groups. This article presents an in-depth analysis of the energy barrier needed for the racemization process of atropoisomeric hydrazides, combining an experimental and computational approach. The focus is on examining how electronic and steric factors impact the racemization process. The results obtained indicate that the barrier observed during the racemization process mainly arises from an increase in the p-orbital character of the nitrogen atoms.",
+            "URL": "https://www.mdpi.com/1420-3049/28/23/7856",
+            "DOI": "10.3390/molecules28237856",
+            "note": "Number: 23\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Pellegrini",
+                    "given": "Andrea"
+                },
+                {
+                    "family": "Marcon",
+                    "given": "Laura"
+                },
+                {
+                    "family": "Righi",
+                    "given": "Paolo"
+                },
+                {
+                    "family": "Centonze",
+                    "given": "Giovanni"
+                },
+                {
+                    "family": "Portolani",
+                    "given": "Chiara"
+                },
+                {
+                    "family": "Capodiferro",
+                    "given": "Marco"
+                },
+                {
+                    "family": "Oljira",
+                    "given": "Shilashi Badasa"
+                },
+                {
+                    "family": "Manetto",
+                    "given": "Simone"
+                },
+                {
+                    "family": "Ciogli",
+                    "given": "Alessia"
+                },
+                {
+                    "family": "Bencivenni",
+                    "given": "Giorgio"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/ABHCF68X",
+            "type": "article-journal",
+            "title": "An in silico investigation of Kv2.1 potassium channel: Model building and inhibitors binding sites analysis**",
+            "container-title": "Molecular Informatics",
+            "page": "e202300072",
+            "volume": "42",
+            "issue": "12",
+            "abstract": "Kv2.1 is widely expressed in brain, and inhibiting Kv2.1 is a potential strategy to prevent cell death and achieve neuroprotection in ischemic stroke. Herein, an in silico model of Kv2.1 tetramer structure was constructed by employing the AlphaFold-Multimer deep learning method to facilitate the rational discovery of Kv2.1 inhibitors. GaMD was utilized to create an ion transporting trajectory, which was analyzed with HMM to generate multiple representative receptor conformations. The binding site of RY785 and RY796(S) under the P-loop was defined with Fpocket program together with the competitive binding electrophysiology assay. The docking poses of the two inhibitors were predicted with the aid of the semi-empirical quantum mechanical calculation, and the IGMH results suggested that Met375, Thr376, and Thr377 of the P-helix and Ile405 of the S6 segment made significant contributions to the binding affinity. These results provided insights for rational molecular design to develop novel Kv2.1 inhibitors.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/minf.202300072",
+            "DOI": "10.1002/minf.202300072",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/minf.202300072",
+            "shortTitle": "An in silico investigation of Kv2.1 potassium channel",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Wang",
+                    "given": "Xiaoyu"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Xinyuan"
+                },
+                {
+                    "family": "Zhou",
+                    "given": "Jie"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Weiping"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Xiaoliang"
+                },
+                {
+                    "family": "Xu",
+                    "given": "Bailing"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/WI2W4NI9",
+            "type": "article-journal",
+            "title": "Efficient time-dependent vibrational coupled cluster computations with time-dependent basis sets at the two-mode coupling level: Full and hybrid TDMVCC[2]",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "204106",
+            "volume": "159",
+            "issue": "20",
+            "abstract": "The computation of the nuclear quantum dynamics of molecules is challenging, requiring both accuracy and efficiency to be applicable to systems of interest. Recently, theories have been developed for employing time-dependent basis functions (denoted modals) with vibrational coupled cluster theory (TDMVCC). The TDMVCC method was introduced along with a pilot implementation, which illustrated good accuracy in benchmark computations. In this paper, we report an efficient implementation of TDMVCC, covering the case where the wave function and Hamiltonian contain up to two-mode couplings. After a careful regrouping of terms, the wave function can be propagated with a cubic computational scaling with respect to the number of degrees of freedom. We discuss the use of a restricted set of active one-mode basis functions for each mode, as well as two interesting limits: (i) the use of a full active basis where the variational modal determination amounts essentially to the variational determination of a time-dependent reference state for the cluster expansion; and (ii) the use of a single function as an active basis for some degrees of freedom. The latter case defines a hybrid TDMVCC/TDH (time-dependent Hartree) approach that can obtain even lower computational scaling. The resulting computational scaling for hybrid and full TDMVCC[2] is illustrated for polyaromatic hydrocarbons with up to 264 modes. Finally, computations on the internal vibrational redistribution of benzoic acid (39 modes) are used to show the faster convergence of TDMVCC/TDH hybrid computations towards TDMVCC compared to simple neglect of some degrees of freedom.",
+            "URL": "https://doi.org/10.1063/5.0175506",
+            "DOI": "10.1063/5.0175506",
+            "shortTitle": "Efficient time-dependent vibrational coupled cluster computations with time-dependent basis sets at the two-mode coupling level",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Jensen",
+                    "given": "Andreas Buchgraitz"
+                },
+                {
+                    "family": "Højlund",
+                    "given": "Mads Greisen"
+                },
+                {
+                    "family": "Zoccante",
+                    "given": "Alberto"
+                },
+                {
+                    "family": "Madsen",
+                    "given": "Niels Kristian"
+                },
+                {
+                    "family": "Christiansen",
+                    "given": "Ove"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        11,
+                        27
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/BSS8QADY",
+            "type": "article-journal",
+            "title": "Searching the Chemical Space of Bicyclic Dienes for Molecular Solar Thermal Energy Storage Candidates",
+            "container-title": "Angewandte Chemie International Edition",
+            "page": "e202309543",
+            "volume": "62",
+            "issue": "40",
+            "abstract": "Photoswitches are molecular systems that are chemically transformed subsequent to interaction with light and they find potential application in many new technologies. The design and discovery of photoswitch candidates require intricate molecular engineering of a range of properties to optimize a candidate to a specific applications, a task which can be tackled efficiently using quantum chemical screening procedures. In this paper, we perform a large scale screening of approximately half a million bicyclic diene photoswitches in the context of molecular solar thermal energy storage using ab initio quantum chemical methods. We further device an efficient strategy for scoring the systems based on their predicted solar energy conversion efficiency and elucidate potential pitfalls of this approach. Our search through the chemical space of bicyclic dienes reveals systems with unprecedented solar energy conversion efficiencies and storage densities that show promising design guidelines for next generation molecular solar thermal energy storage systems.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202309543",
+            "DOI": "10.1002/anie.202309543",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.202309543",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Hillers-Bendtsen",
+                    "given": "Andreas Erbs"
+                },
+                {
+                    "family": "Elholm",
+                    "given": "Jacob Lynge"
+                },
+                {
+                    "family": "Obel",
+                    "given": "Oscar Berlin"
+                },
+                {
+                    "family": "Hölzel",
+                    "given": "Helen"
+                },
+                {
+                    "family": "Moth-Poulsen",
+                    "given": "Kasper"
+                },
+                {
+                    "family": "Mikkelsen",
+                    "given": "Kurt V."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/SM88Z3FX",
+            "type": "article-journal",
+            "title": "Mechanistic analysis of nanocellulose formation tuned by deep eutectic solvents",
+            "container-title": "Cellulose",
+            "page": "9349-9364",
+            "volume": "30",
+            "issue": "15",
+            "abstract": "Clean energy and green solvents have attracted wide attention due to their non-toxic, biodegradable, and recyclable properties. Deep eutectic solvent (DES), as a green solvent, has advantages in the formation of nanocellulose. To reveal the formation mechanism during cellulose nanocrystal (CNC) preparation, different carboxylic acid DESs are compared in the optimal experimental conditions. Experimental observations show that oxalic acid (OA) DESs can fabricate CNCs with higher yield, higher crystalline index than that of citric acid series. Moreover, crystal water molecules in DESs promote the reaction activity of DESs in the CNC formation. To understand the interaction among the DES/cellulose complex, molecular dynamics simulations and quantum chemical calculations were applied to investigate the arrangement of CNCs in the atomic scale. The radial distribution function and intermolecular interactions indicate that the non-covalent intermolecular interactions between DESs and cellulose are strong, which could be further enhanced by the crystal waters in DESs. Reaction pathways during the formation of CNCs were revealed by computational simulations, which show that OA is more prone to react with cellulose in esterification and acidolysis reactions. Both computational and experimental results demonstrate that the OA DESs are more beneficial in the production of CNCs. The synergistic effects of chemical reactions and non-covalent interactions favor the formation of CNCs by DESs.",
+            "URL": "https://doi.org/10.1007/s10570-023-05443-x",
+            "DOI": "10.1007/s10570-023-05443-x",
+            "journalAbbreviation": "Cellulose",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Bi",
+                    "given": "Xuerong"
+                },
+                {
+                    "family": "Guo",
+                    "given": "Jiansheng"
+                },
+                {
+                    "family": "Wen",
+                    "given": "Jin"
+                },
+                {
+                    "family": "Yu",
+                    "given": "Chongwen"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        10,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/3PCTAH4G",
+            "type": "article-journal",
+            "title": "Theoretical investigation of hydroxylated analogues of valinomycin as potassium transporter",
+            "container-title": "Computational Biology and Chemistry",
+            "page": "107936",
+            "volume": "106",
+            "abstract": "Valinomycin is a potent ionophore known for its ability to transport potassium ions across biological membranes. The study focuses on the hydroxylated analogues of valinomycin (HyVLMs) and compares their energy profiles and capabilities for transporting potassium ions across phospholipid membranes. Using metadynamics, we investigated the energy profiles of wildtype valinomycin (VLM_1) and its three hydroxylated analogues (VLM_2, VLM_3, and VLM_4). We observed that all analogues exhibited energy maxima in the centre of the membrane and preferred positions below the phospholipid heads. Furthermore, the entry barriers for membrane penetration were similar among the analogues, suggesting that the hydroxyl group did not significantly affect their passage through the membrane. Transition state calculations provided insights into the ability of valinomycin analogues to capture potassium ions, with VLM_4 showing the lowest activation energy and VLM_2 displaying the highest. Our findings contribute to understanding the mechanisms of potassium transport by valinomycin analogues and highlight their potential as ionophores. The presence of the hydroxyl group is of particular importance because it paves the way for subsequent chemical modifications and the synthesis of new antiviral agents with reduced intrinsic toxicity.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S1476927123001275",
+            "DOI": "10.1016/j.compbiolchem.2023.107936",
+            "journalAbbreviation": "Computational Biology and Chemistry",
+            "author": [
+                {
+                    "family": "Sessa",
+                    "given": "Lucia"
+                },
+                {
+                    "family": "Concilio",
+                    "given": "Simona"
+                },
+                {
+                    "family": "Marrafino",
+                    "given": "Francesco"
+                },
+                {
+                    "family": "Sarkar",
+                    "given": "Arkadeep"
+                },
+                {
+                    "family": "Diana",
+                    "given": "Rosita"
+                },
+                {
+                    "family": "Piotto",
+                    "given": "Stefano"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        10,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/C28W22K9",
+            "type": "article-journal",
+            "title": "Molecular dynamics simulations and machine-learning assisted study of the reaction path bifurcation: Application to the intramolecular Diels–Alder cycloaddition between cyclobutadiene and butadiene",
+            "container-title": "Computational and Theoretical Chemistry",
+            "page": "114239",
+            "volume": "1227",
+            "abstract": "The intramolecular Diels–Alder cycloaddition between cyclobutadiene and butadiene, which involves post-transition-state bifurcation (PTSB), has been investigated using the ring-polymer molecular dynamics (RPMD), classical MD and quasi-classical trajectory (QCT) simulations, and supervised machine-learning (ML) technique. The branching fraction of this reaction strongly depends on the simulation temperature. While QCT, classical MD and RPMD simulations performed at room temperature, starting from the ambimodal transition state (TS), showed the similar dynamics, QCT overestimated the minor branching fraction at low temperature. The supervised machine-learning analysis revealed that the initial coordinates and momenta for low frequency modes at the ambimodal TS contribute to the branching dynamics. The classical MD and RPMD methods follow similar conditions to quantum Boltzmann distributions, whereas the artificially localized phase distribution, considering that the zero-point energy is wedged into the classical particles. As a result, the QCT method can provide inadequate bifurcation dynamics, such as the overestimation of the minor product.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S2210271X23002219",
+            "DOI": "10.1016/j.comptc.2023.114239",
+            "shortTitle": "Molecular dynamics simulations and machine-learning assisted study of the reaction path bifurcation",
+            "journalAbbreviation": "Computational and Theoretical Chemistry",
+            "author": [
+                {
+                    "family": "Murakami",
+                    "given": "Tatsuhiro"
+                },
+                {
+                    "family": "Ibuki",
+                    "given": "Shunichi"
+                },
+                {
+                    "family": "Takayanagi",
+                    "given": "Toshiyuki"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        9,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/QWYF6WR6",
+            "type": "article-journal",
+            "title": "Concentration-Flux-Steered Mechanism Exploration with an Organocatalysis Application",
+            "container-title": "Israel Journal of Chemistry",
+            "page": "e202200123",
+            "volume": "63",
+            "issue": "7-8",
+            "abstract": "Investigating a reactive chemical system with automated reaction network exploration algorithms provides a more detailed picture of its chemical mechanism than what would be accessible by manual investigation. In general, exploration algorithms cannot uncover reaction networks exhaustively for feasibility reasons. They should therefore decide which part of a network is kinetically relevant under some external conditions given. Here, we propose an automated algorithm that identifies and explores kinetically accessible regions of a reaction network on the fly by explicit modeling of concentration fluxes through an (incomplete) reaction network that is emerging during automated first-principles exploration. Key compounds are automatically identified and selected for the continuation of the exploration. As an example, we explore the reaction network of the multi-component proline-catalyzed Michael addition of propanal and nitropropene. Our algorithm provides a mechanistic picture of the Michael addition in unprecedented detail.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ijch.202200123",
+            "DOI": "10.1002/ijch.202200123",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/ijch.202200123",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Bensberg",
+                    "given": "Moritz"
+                },
+                {
+                    "family": "Reiher",
+                    "given": "Markus"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/Y3U8HNM7",
+            "type": "article-journal",
+            "title": "Impact sensitivities of energetic materials derived from easy-to-compute ab initio rate constants",
+            "container-title": "Physical Chemistry Chemical Physics",
+            "page": "10550-10560",
+            "volume": "25",
+            "issue": "15",
+            "abstract": "New procedures to estimate the impact sensitivity of energetic materials are derived from an earlier semiempirical model correlating the drop weight impact height h50 to the rate constant k for the propagation of the decomposition process, assumed to be the limiting step. The new models are obtained by removing step by step the empiricism in the evaluation of k. We end up with a full ab initio expression for this constant in terms of theoretical activation energies and prefactors. The resulting model casts doubt on a previously introduced assumption regarding the temperature at the reaction front. Moreover, it questions possible interpretations of semiempirical estimates. A systematic comparison against alternative methods shows that although somewhat less accurate than its earlier semiempirical version, this ab initio model shows a predictive value similar to heavily parameterized approaches. The results imply that the decomposition kinetics accounts for at least 50% of the variation in the logarithms of drop height data.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2023/cp/d2cp05742e",
+            "DOI": "10.1039/D2CP05742E",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Claveau",
+                    "given": "Romain"
+                },
+                {
+                    "family": "Glorian",
+                    "given": "Julien"
+                },
+                {
+                    "family": "Mathieu",
+                    "given": "Didier"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        4,
+                        12
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/MHLEA6II",
+            "type": "article-journal",
+            "title": "Low-temperature NOx capture and reduction via NO oxidation by O3 on Cu-CHA",
+            "container-title": "Applied Catalysis A: General",
+            "page": "119099",
+            "volume": "655",
+            "abstract": "We studied the transient reduction of NOx with NH3 over Cu-exchanged CHA zeolite (Cu-CHA) assisted by the catalyst-free oxidation of NO by O3. The room-temperature catalyst-free oxidation of NO by O3 yielded NO2 at low O3/NO ratio and N2O5 as the main product at higher ratios. DFT calculations verified the reaction of NO2 +O3 to N2O5 proceeding with low activation energies. Transient operando IR measurements demonstrated that Cu-CHA exposure to NO+O3 at 100 °C resulted in the storage of NOx as NO3− on the Cu2+ site. The stored NOx reacted with NH3 to yield N2 and NH4NO3. Preadsorbed NH3 on Cu-CHA was oxidized by O3 to yield N2 and N2O. The reaction of preadsorbed NH3 with NO+O3 caused the selective formation of N2. The obtained results may aid in developing a new O3-assisted unsteady-state lean De-NOx process involving reactions of captured NOx with NH3 or reduction of NOx with stored NH3.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0926860X23000790",
+            "DOI": "10.1016/j.apcata.2023.119099",
+            "journalAbbreviation": "Applied Catalysis A: General",
+            "author": [
+                {
+                    "family": "Qian",
+                    "given": "Yucheng"
+                },
+                {
+                    "family": "Yasumura",
+                    "given": "Shunsaku"
+                },
+                {
+                    "family": "Mine",
+                    "given": "Shinya"
+                },
+                {
+                    "family": "Toyao",
+                    "given": "Takashi"
+                },
+                {
+                    "family": "Shimizu",
+                    "given": "Ken-ichi"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        4,
+                        5
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/E6R94DR4",
+            "type": "article-journal",
+            "title": "Construction of Fluorinated Propane-Trap in Metal–Organic Frameworks for Record Polymer-Grade Propylene Production under High Humidity Conditions",
+            "container-title": "Advanced Materials",
+            "page": "2207955",
+            "volume": "35",
+            "issue": "14",
+            "abstract": "Propane/propene (C3H8/C3H6) separation is essential in the petrochemical industry but challenging because of their similar physical and chemical properties. Adsorptive separation with C3H8-selective porous materials can energy-efficiently produce high-purity C3H6, which is highly promising for replacing conventional cryogenic distillation but suffers from unsatisfactory performance. Herein, through the precise incorporation of fluorinated functional groups into the confined pore space, a new fluorinated metal–organic framework (FDMOF-2) featuring the unique and strong C3H8-trap is successfully constructed. FDMOF-2 exhibits an unprecedented C3H8 capture capacity of 140 cm3 cm−3 and excellent C3H8/C3H6 (1:1, v/v) selectivity up to 2.18 (298 K and 1 bar), thus setting new benchmarks for all reported porous materials. Single-crystal X-ray diffraction studies reveal that the tailored pore confinement in FDMOF-2 provides stronger and multiple attractive interactions with C3H8, enabling excellent binding affinities. Breakthrough experiments demonstrate that C3H8 can be directly extracted from various C3H8/C3H6 mixtures with FDMOF-2, affording an outstanding C3H6 production (501 mmol L−1) with over 99.99% purity. Benefiting from the robust framework and hydrophobic ligands, the separation performance of FDMOF-2 can be well maintained even under 70% relative humidity conditions.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202207955",
+            "DOI": "10.1002/adma.202207955",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/adma.202207955",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Wang",
+                    "given": "Yong"
+                },
+                {
+                    "family": "Li",
+                    "given": "Tong"
+                },
+                {
+                    "family": "Li",
+                    "given": "Libo"
+                },
+                {
+                    "family": "Lin",
+                    "given": "Rui-Biao"
+                },
+                {
+                    "family": "Jia",
+                    "given": "Xiaoxia"
+                },
+                {
+                    "family": "Chang",
+                    "given": "Zeyu"
+                },
+                {
+                    "family": "Wen",
+                    "given": "Hui-Min"
+                },
+                {
+                    "family": "Chen",
+                    "given": "Xiao-Ming"
+                },
+                {
+                    "family": "Li",
+                    "given": "Jinping"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/V2HEVJUW",
+            "type": "article-journal",
+            "title": "Hyper-CEST NMR of metal organic polyhedral cages reveals hidden diastereomers with diverse guest exchange kinetics",
+            "container-title": "Nature Communications",
+            "page": "1708",
+            "volume": "13",
+            "issue": "1",
+            "abstract": "Guest capture and release are important properties of self-assembling nanostructures. Over time, a significant fraction of guests might engage in short-lived states with different symmetry and stereoselectivity and transit frequently between multiple environments, thereby escaping common spectroscopy techniques. Here, we investigate the cavity of an iron-based metal organic polyhedron (Fe-MOP) using spin-hyperpolarized 129Xe Chemical Exchange Saturation Transfer (hyper-CEST) NMR. We report strong signals unknown from previous studies that persist under different perturbations. On-the-fly delivery of hyperpolarized gas yields CEST signatures that reflect different Xe exchange kinetics from multiple environments. Dilute pools with ~ 104-fold lower spin numbers than reported for directly detected hyperpolarized nuclei are readily detected due to efficient guest turnover. The system is further probed by instantaneous and medium timescale perturbations. Computational modeling indicates that these signals originate likely from Xe bound to three Fe-MOP diastereomers (T, C3, S4). The symmetry thus induces steric effects with aperture size changes that tunes selective spin manipulation as it is employed in CEST MRI agents and, potentially, impacts other processes occurring on the millisecond time scale.",
+            "URL": "https://www.nature.com/articles/s41467-022-29249-w",
+            "DOI": "10.1038/s41467-022-29249-w",
+            "note": "Number: 1\nPublisher: Nature Publishing Group",
+            "journalAbbreviation": "Nat Commun",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Jayapaul",
+                    "given": "Jabadurai"
+                },
+                {
+                    "family": "Komulainen",
+                    "given": "Sanna"
+                },
+                {
+                    "family": "Zhivonitko",
+                    "given": "Vladimir V."
+                },
+                {
+                    "family": "Mareš",
+                    "given": "Jiří"
+                },
+                {
+                    "family": "Giri",
+                    "given": "Chandan"
+                },
+                {
+                    "family": "Rissanen",
+                    "given": "Kari"
+                },
+                {
+                    "family": "Lantto",
+                    "given": "Perttu"
+                },
+                {
+                    "family": "Telkki",
+                    "given": "Ville-Veikko"
+                },
+                {
+                    "family": "Schröder",
+                    "given": "Leif"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        3,
+                        31
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/7REH8XQL",
+            "type": "article-journal",
+            "title": "Deep reaction network exploration at a heterogeneous catalytic interface",
+            "container-title": "Nature Communications",
+            "page": "4860",
+            "volume": "13",
+            "issue": "1",
+            "abstract": "Characterizing the reaction energies and barriers of reaction networks is central to catalyst development. However, heterogeneous catalytic surfaces pose several unique challenges to automatic reaction network characterization, including large sizes and open-ended reactant sets, that make ad hoc network construction the current state-of-the-art. Here, we show how automated network exploration algorithms can be adapted to the constraints of heterogeneous systems using ethylene oligomerization on silica-supported single-site Ga3+ as a model system. Using only graph-based rules for exploring the network and elementary constraints based on activation energy and size for identifying network terminations, a comprehensive reaction network is generated and validated against standard methods. The algorithm (re)discovers the Ga-alkyl-centered Cossee-Arlman mechanism that is hypothesized to drive major product formation while also predicting several new pathways for producing alkanes and coke precursors. These results demonstrate that automated reaction exploration algorithms are rapidly maturing towards general purpose capability for exploratory catalytic applications.",
+            "URL": "https://www.nature.com/articles/s41467-022-32514-7",
+            "DOI": "10.1038/s41467-022-32514-7",
+            "note": "Number: 1\nPublisher: Nature Publishing Group",
+            "journalAbbreviation": "Nat Commun",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Zhao",
+                    "given": "Qiyuan"
+                },
+                {
+                    "family": "Xu",
+                    "given": "Yinan"
+                },
+                {
+                    "family": "Greeley",
+                    "given": "Jeffrey"
+                },
+                {
+                    "family": "Savoie",
+                    "given": "Brett M."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        8,
+                        18
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/84X8WIUZ",
+            "type": "article-journal",
+            "title": "Studies on the thermal degradation mechanism of polyethylene terephthalate and its 2-carboxy ethyl (phenyl) phosphinic acid copolymers",
+            "container-title": "Polymer Degradation and Stability",
+            "page": "110185",
+            "volume": "206",
+            "abstract": "In this paper, the thermal degradation of polyethylene terephthalate (PET) and 2-carboxy ethyl (phenyl) phosphinic acid (CEPPA)-PET copolymer was comparatively studied by TG-MS, TG-IR, and Py-GC-MS methods. A theoretical study on the thermal degradation mechanism of PET and CEPPA/PET copolymer was carried out using density functional theory (DFT). In an inert atmosphere, the homolytic cleavage reaction of PET was dominant at first, followed by the β-cis-elimination reaction, which resulted in the generation of abundant benzoic acid and 4-carboxybenzaldehyde, instead of terephthalic acid, as the main products. However, CEPPA-PET degraded easier and captured specific free radicals changing the homolytic cleavage reaction path and generating more 4-carboxybenzaldehyde. The proposed mechanism was consistent with experimental observations of small molecular gases, benzoic acid, and 4-carboxybenzaldehyde as the main degradation products.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0141391022003639",
+            "DOI": "10.1016/j.polymdegradstab.2022.110185",
+            "journalAbbreviation": "Polymer Degradation and Stability",
+            "author": [
+                {
+                    "family": "Ma",
+                    "given": "Tianyi"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Rui"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Wenqing"
+                },
+                {
+                    "family": "Gu",
+                    "given": "Weiwen"
+                },
+                {
+                    "family": "Yuan",
+                    "given": "Ye"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Anying"
+                },
+                {
+                    "family": "Wei",
+                    "given": "Jianfei"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        12,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/6QUFUDW6",
+            "type": "article-journal",
+            "title": "Fast-track computational access to reaction mechanisms provides comprehensive insights into aminolysis postpolymerization modification reactions",
+            "container-title": "Molecular Systems Design & Engineering",
+            "page": "1263-1276",
+            "volume": "7",
+            "issue": "10",
+            "abstract": "With the aim of providing a computational guideline for activated ester–amine chemistry, a series of activated esters commonly used in polymer synthesis have been systematically analyzed at the DLPNO-CCSD(T) level of theory by taking advantage of the recently developed density functional theory-based semiempirical method GFN2-xTB. The fast-track computational analysis based on the GFN2-xTB and DLPNO-CCSD(T) methods can explain well the experimentally observed reactivity in aminolysis postpolymerization modification reactions. Moreover, transition state search calculations can be performed with realistic model structures consisting of more than a hundred atoms, offering a new approach for reaction profiling for large molecular systems without further approximations. The realistic reaction profiling allows a preliminary assessment and visualization of the polymer effect during the postpolymerization modification at the DLPNO-CCSD(T) level of theory. This study offers a computational compass for activated ester–amine chemistry for application in postpolymerization modification reactions.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2022/me/d2me00083k",
+            "DOI": "10.1039/D2ME00083K",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Mol. Syst. Des. Eng.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Matsubara",
+                    "given": "Kiho"
+                },
+                {
+                    "family": "Chou",
+                    "given": "Li-Chieh"
+                },
+                {
+                    "family": "Amii",
+                    "given": "Hideki"
+                },
+                {
+                    "family": "Kakuchi",
+                    "given": "Ryohei"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        10,
+                        3
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/FKG7AADX",
+            "type": "article-journal",
+            "title": "Theoretical calculations of formation and reactivity of o-quinomethide derivatives of resorcin[4]arene with reference to empirical data",
+            "container-title": "Royal Society Open Science",
+            "page": "220541",
+            "volume": "9",
+            "issue": "10",
+            "abstract": "This paper describes theoretical reaction pathways of alkoxybenzyl derivatives of resorcin[4]arene leading to the formation of o-quinomethide derivatives of resorcin[4]arene (o-QMR[4]A). For each case, the activation energies for the formation of one o-QMR[4]A unit and the activation energies for the backward reaction were calculated. Based on the calculated reaction pathways, the reaction mechanism of o-QMR[4]A formation was proposed. Using the example of o-QMR[4]A generated from a methoxy derivative of resorcin[4]arene, the activation energies with selected nucleophiles were calculated and the reaction mechanisms discussed. Reaction path calculations were performed using the nudged elastic band method and semiempirical extended tight-binding method (GFN2-xTB). Using hydroxybenzyl derivatives of resorcin[4]arene as an example, a comparison of calculated activation energies by selected density-functional theory methods with GFN2-xTB and B97-3c geometries was performed. B97-3c and wB97XD methods were used to calculate the energies of the reactants (R), transition states (TS) and products (P) of the analysed reactions. Theoretical reaction mechanisms were discussed with respect to the orbital-weighted Fukui dual descriptor (Δfw) and experimental data.",
+            "URL": "https://royalsocietypublishing.org/doi/10.1098/rsos.220541",
+            "DOI": "10.1098/rsos.220541",
+            "note": "Publisher: Royal Society",
+            "author": [
+                {
+                    "family": "Iwanek",
+                    "given": "Waldemar"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        10,
+                        12
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/J559HIA3",
+            "type": "article-journal",
+            "title": "Underlying Mechanisms of Reductive Amination on Pd-Catalysts: The Unique Role of Hydroxyl Group in Generating Sterically Hindered Amine",
+            "container-title": "International Journal of Molecular Sciences",
+            "page": "7621",
+            "volume": "23",
+            "issue": "14",
+            "abstract": "Pd nanospecies supported on porous g-C3N4 nanosheets were prepared for efficient reductive amination reactions. The structures of the catalysts were characterized via FTIR, XRD, XPS, SEM, TEM, and TG analysis, and the mechanisms were investigated using in situ ATR–FTIR spectroscopic analysis complemented by theoretical calculation. It transpired that the valence state of the Pd is not the dominating factor; rather, the hydroxyl group of the Pd(OH)2 cluster is crucial. Thus, by passing protons between different molecules, the hydroxyl group facilitates both the generation of the imine intermediate and the reduction of the C=N unit. As a result, the sterically hindered amines can be obtained at high selectivity (>90%) at room temperature.",
+            "URL": "https://www.mdpi.com/1422-0067/23/14/7621",
+            "DOI": "10.3390/ijms23147621",
+            "note": "Number: 14\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "shortTitle": "Underlying Mechanisms of Reductive Amination on Pd-Catalysts",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Hong",
+                    "given": "Zeng"
+                },
+                {
+                    "family": "Ge",
+                    "given": "Xin"
+                },
+                {
+                    "family": "Zhou",
+                    "given": "Shaodong"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/DS9YSYHB",
+            "type": "article-journal",
+            "title": "A Theoretical Study on the Structural, Electronic, and Magnetic Properties of Bimetallic Pt13−nNin (N = 0, 3, 6, 9, 13) Nanoclusters to Unveil the Catalytic Mechanisms for the Water-Gas Shift Reaction",
+            "container-title": "Frontiers in Chemistry",
+            "volume": "10",
+            "abstract": "In this work, first-principles calculations by using density functional theory at the GFN-xTB level, are performed to investigate the relative stability and structural, electronic, and magnetic properties of bimetallic Pt13−nNin (n = 0, 3, 6, 9, 13) nanoclusters by using corrected Hammer and Nørskov model. In addition, by employing the reaction path and the energetic span models, the energy profile and the turnover frequency are calculated to disclose the corresponding reaction mechanism of the water-gas shift reaction catalyzed by these nanoclusters. Our findings render that Ni causes an overall shrinking of the nanocluster’s size and misalignment of the spin channels, increasing the magnetic nature of the nanoclusters. Pt7Ni6 nanocluster is the most stable as a result of the better coupling between the Pt and Ni d-states. Pt4Ni9 maintains its structure over the reaction cycle, with a larger turnover frequency value than Pt7Ni6. On the other hand, despite Pt10Ni3 presenting the highest value of turnover frequency, it suffers a strong structural deformation over the completion of a reaction cycle, indicating that the catalytic activity can be altered.",
+            "URL": "https://www.frontiersin.org/articles/10.3389/fchem.2022.852196",
+            "author": [
+                {
+                    "family": "Barrionuevo",
+                    "given": "Manoel Victor Frutuoso"
+                },
+                {
+                    "family": "Andrés",
+                    "given": "Juan"
+                },
+                {
+                    "family": "San-Miguel",
+                    "given": "Miguel Angel"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/CVVTMRNG",
+            "type": "article-journal",
+            "title": "Two novel mono-hydroxyl pyranoanthocyanidins bearing dimethylamino substituent(s) for dye-sensitized solar cell",
+            "container-title": "Journal of Molecular Structure",
+            "page": "132055",
+            "volume": "1252",
+            "abstract": "Two novel analogues (AF3-1 and AF3-2) of natural pigments that were originally found in wine product, pyranoanthocyanidins, were designed based on pyrano-4′-dimethylamino-10-phenyl-flavylium (AF3) by respectively introducing another electron donor(s), dimethylamino and two methoxyl groups, to the phenyl moiety. They were synthesized and then successfully applied as sensitizers in DSSC to study effect of the additional donor(s) on the DSSC performance for such pyranoanthocyanidin. The introduced second dimethylamino substituent of AF3-1 slightly red shifts the absorption spectrum. Both title dyes show relatively strong ability to shield the photoanode surface from electrolyte and to restrain the electron recapture process. Yet it is difficulty for them to adsorb on the semiconductor surface effectively and to avoid undesirable dye aggregation. DSSCs based on the designed pyranoanthocyanidin turn out to have much higher Voc but decreased Jsc compared to AF3. PCE of DSSC assembled with the better of the two pyranoanthocyanidins, AF3-1, is 1.79%, on the same level as that of the reference sensitizer.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S002228602102175X",
+            "DOI": "10.1016/j.molstruc.2021.132055",
+            "journalAbbreviation": "Journal of Molecular Structure",
+            "author": [
+                {
+                    "family": "Shi",
+                    "given": "Xiaolong"
+                },
+                {
+                    "family": "Li",
+                    "given": "Yuanzuo"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Lihai"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        3,
+                        15
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/CKQ2VN3U",
+            "type": "article-journal",
+            "title": "Efficient Computation of Geometries for Gold Complexes",
+            "container-title": "ChemPhysChem",
+            "page": "1262-1268",
+            "volume": "22",
+            "issue": "12",
+            "abstract": "Computationally obtaining structural parameters along a reaction coordinate is commonly performed with Kohn-Sham density functional theory which generally provides a good balance between speed and accuracy. However, CPU times still range from inconvenient to prohibitive, depending on the size of the system under study. Herein, the tight binding GFN2-xTB method [C. Bannwarth, S. Ehlert, S. Grimme, J. Chem. Theory Comput. 2019, 15, 1652] is investigated as an alternative to produce reasonable geometries along a reaction path, that is, reactant, product and transition state structures for a series of transformations involving gold complexes. A small mean error (1 kcal/mol) was found, with respect to an efficient composite hybrid-GGA exchange-correlation functional (PBEh-3c) paired with a double-ζ basis set, which is 2–3 orders of magnitude slower. The outlined protocol may serve as a rapid tool to probe the viability of proposed mechanistic pathways in the field of gold catalysis.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202001052",
+            "DOI": "10.1002/cphc.202001052",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/cphc.202001052",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Leach",
+                    "given": "Isaac F."
+                },
+                {
+                    "family": "Belpassi",
+                    "given": "Leonardo"
+                },
+                {
+                    "family": "Belanzoni",
+                    "given": "Paola"
+                },
+                {
+                    "family": "Havenith",
+                    "given": "Remco W. A."
+                },
+                {
+                    "family": "Klein",
+                    "given": "Johannes E. M. N."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/N4SAQ74R",
+            "type": "article-journal",
+            "title": "Computational predictions of metal–macrocycle stability constants require accurate treatments of local solvent and pH effects",
+            "container-title": "Physical Chemistry Chemical Physics",
+            "page": "9189-9197",
+            "volume": "23",
+            "issue": "15",
+            "abstract": "Rational design of molecular chelating agents requires a detailed understanding of physicochemical ligand–metal interactions in solvent phase. Computational quantum chemistry methods should be able to provide this, but computational reports have shown poor accuracy when determining absolute binding constants for many chelating molecules. To understand why, we compare and benchmark static- and dynamics-based computational procedures for a range of monovalent and divalent cations binding to a conventional cryptand molecule: 2.2.2-cryptand ([2.2.2]). The benchmarking comparison shows that dynamics simulations using standard OPLS-AA classical potentials can reasonably predict binding constants for monovalent cations, but these procedures fail for divalent cations. We also consider computationally efficient static procedure using Kohn–Sham density functional theory (DFT) and cluster-continuum modeling that accounts for local microsolvation and pH effects. This approach accurately predicts binding energies for monovalent and divalent cations with an average error of 3.2 kcal mol−1 compared to experiment. This static procedure thus should be useful for future molecular screening efforts, and high absolute errors in the literature may be due to inadequate modeling of local solvent and pH effects.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2021/cp/d1cp00611h",
+            "DOI": "10.1039/D1CP00611H",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Gentry",
+                    "given": "Brian M."
+                },
+                {
+                    "family": "Choi",
+                    "given": "Tae Hoon"
+                },
+                {
+                    "family": "Belfield",
+                    "given": "William S."
+                },
+                {
+                    "family": "Keith",
+                    "given": "John A."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        22
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/6AVCZRPP",
+            "type": "article-journal",
+            "title": "Theoretical insights into the direct radical scavenging activities of 8-hydroxyquinoline: Mechanistic, thermodynamic and kinetic studies",
+            "container-title": "Computational and Theoretical Chemistry",
+            "page": "113174",
+            "volume": "1198",
+            "abstract": "A Density Functional Theory study of the mechanisms, thermodynamics and kinetics of some antiradical reactions of 8-hydroxyquinoline (8HQ) against •OH is reported. The radical adduct formation (RAF), hydrogen atom transfer (HAT) and single electron transfer (SET) mechanisms are investigated. The results indicate that 8HQ is an efficient RAF-dependent direct •OH radical deactivator, in accordance with recent experimental findings that 8HQ is a potent scavenger of reactive oxygen species (ROS). The ortho and para carbons to the hydroxyl group in 8HQ, not including the bridgehead carbon, are identified as highly favorable RAF sites in polar and nonpolar solvents. Interestingly, RAF via the para carbon is thermodynamically feasible, fast (with apparent rate constants 2.867 × 108 and 1.012 × 107 M-1s-1 in water and benzene, respectively), and contributes over 70% of 8HQ’s antioxidant capacity. Our results support the viewpoint that direct ROS scavenging plays a key role in 8HQ’s anti-neurodegenerative activities.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S2210271X21000335",
+            "DOI": "10.1016/j.comptc.2021.113174",
+            "shortTitle": "Theoretical insights into the direct radical scavenging activities of 8-hydroxyquinoline",
+            "journalAbbreviation": "Computational and Theoretical Chemistry",
+            "author": [
+                {
+                    "family": "Kennet Nkungli",
+                    "given": "Nyiang"
+                },
+                {
+                    "family": "Numbonui Tasheh",
+                    "given": "Stanley"
+                },
+                {
+                    "family": "Didier Tamafo Fouegue",
+                    "given": "Aymard"
+                },
+                {
+                    "family": "Kogge Bine",
+                    "given": "Fritzgerald"
+                },
+                {
+                    "family": "Numbonui Ghogomu",
+                    "given": "Julius"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/7B65KA2J",
+            "type": "article-journal",
+            "title": "Ruthenium-Catalyzed Secondary Amine Formation Studied by Density Functional Theory",
+            "container-title": "ChemCatChem",
+            "page": "1383-1388",
+            "volume": "13",
+            "issue": "5",
+            "abstract": "Amines are a ubiquitous class of compounds found in a variety of functional organic building blocks. Within the past years, hydrogen autotransfer catalysis has evolved as a new concept for the synthesis of amines. A through understanding of the mechanism of these reactions is necessary to design optimal catalysts. We investigate secondary amine formation catalyzed by a NNNN(P)Ru-complex and provide understanding on the three reaction steps involved. We find that the ligand has to open one coordination site in order to allow the formation of a metal hydride intermediate. In a second step, a condensation reaction, which could also happen uncatalyzed in solution, is significantly enhanced by the presence of the ruthenium complex. The back-transfer of the hydride to the substrate in a third step regenerates the catalyst.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cctc.202001588",
+            "DOI": "10.1002/cctc.202001588",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/cctc.202001588",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Hückmann",
+                    "given": "Lukas"
+                },
+                {
+                    "family": "Álvarez-Barcia",
+                    "given": "Sonia"
+                },
+                {
+                    "family": "Fuhrer",
+                    "given": "Marina"
+                },
+                {
+                    "family": "Plietker",
+                    "given": "Bernd"
+                },
+                {
+                    "family": "Kästner",
+                    "given": "Johannes"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/FMFTEYZL",
+            "type": "article-journal",
+            "title": "New insights into the biphasic “CO-free” Pauson–Khand cyclisation reaction through combined in situ spectroscopy and multiple linear regression modelling",
+            "container-title": "Catalysis Science & Technology",
+            "page": "1626-1636",
+            "volume": "11",
+            "issue": "4",
+            "abstract": "“CO-free” carbonylations are catalytic reactions, which strive to replace toxic synthesis gas with less harmful surrogate molecules like formaldehyde. This study sheds light on the mechanism of the biphasic, Rh-catalysed Pauson–Khand type cyclisation reaction by applying in situ Raman spectroscopy together with NMR, dynamic light scattering measurements, and quantum chemical calculations. The reaction is particularly challenging to analyse as the Rh-catalyst features different ligands in the aqueous and organic phase. To tackle this challenge, a novel approach was designed, coupling in situ Raman spectroscopy with an advanced data analysis model in the form of multiple linear regression. This fruitful combination of highly specific vibrational spectroscopy with state-of-the-art data analysis allowed not only identification of a new reaction mechanism, but also identification of parameters to accelerate the “CO-free” Pauson–Khand cyclisation, i.e. using mononuclear Rh–phosphine complexes with labile ligands, small organic micelles formed by an increased surfactant concentration, low formaldehyde concentration, and elevated temperature. This novel knowledge-driven optimisation protocol is superior to simple qualitative optimization routines and can be transferred to other reactions and spectroscopy techniques.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2021/cy/d0cy02267e",
+            "DOI": "10.1039/D0CY02267E",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Catal. Sci. Technol.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Geitner",
+                    "given": "Robert"
+                },
+                {
+                    "family": "Huang",
+                    "given": "Tianbai"
+                },
+                {
+                    "family": "Kupfer",
+                    "given": "Stephan"
+                },
+                {
+                    "family": "Gräfe",
+                    "given": "Stefanie"
+                },
+                {
+                    "family": "Meirer",
+                    "given": "Florian"
+                },
+                {
+                    "family": "Weckhuysen",
+                    "given": "Bert M."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        2
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/YCTHT6IW",
+            "type": "article-journal",
+            "title": "Evidence for protein misfolding in the presence of nanoplastics",
+            "container-title": "International Journal of Quantum Chemistry",
+            "page": "e26372",
+            "volume": "121",
+            "issue": "3",
+            "abstract": "The possible effect of plastic nanoparticles of waste origin on biological systems is still unclear and could pose a severe threat. Model studies at the molecular level are urgently needed in order to help reveal the interplay between these particles and biological systems, and thereby to indicate the direction of further research. In the present study, simulated annealing molecular dynamics is adjusted and applied to generate an array of conformations for a sample peptide oligoalanine possibly binding to polyethylene and nylon 6,6 nanoplastics. The resulting structures, with a diameter of up to 5 nm, were investigated with the aid of static quantum chemical calculations. The obtained data unequivocally show that both plastic nanoparticles influence the relative stability of α-helix, β-hairpin, and other conformations strongly. Polyethylene nanoparticle increases the stability of the helical foldamer. Nylon 6,6 nanoplastic offers strong plastic-peptide interactions on its surface, making the unfolding of the peptide thermodynamically highly favorable. These results further underscore that nanoplastics can do significant molecular-level damage to living organisms via facilitating the misfolding and denaturation of proteins. Furthermore, it is apparent that plastics can have very different effects on living matter depending upon their composition, and hence experiments with any single kind of plastics (eg, polystyrene) should not be considered generally valid for all nanoplastics.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.26372",
+            "DOI": "10.1002/qua.26372",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/qua.26372",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Hollóczki",
+                    "given": "Oldamur"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/69FCTTAL",
+            "type": "article-journal",
+            "title": "Theoretical study on the adsorption ability of (ZnO)6 cluster for dimethylmercury removal and the influences of the supports and other ions in the adsorption process",
+            "container-title": "Adsorption",
+            "page": "1335-1344",
+            "volume": "26",
+            "issue": "8",
+            "abstract": "In this work a number of computational methods have been applied to study the adsorption of dimethylmercury (DMM) on the (ZnO)6 cluster and the influences of the supports (MgO, SBA-15) and external ions (Cl−, OH−) on the adsorption process: the energy and electronic properties were calculated using Geometry, Frequency, Noncovalent, eXtended Tight Binding method; global minimum was found by using the Artificial Bee Colony algorithm; the Growing String Method was used to scan the potential energy surface to determine the transition states, and the stability of the adsorption products was investigated via molecular dynamic simulations. The calculated results show that the interaction between (ZnO)6 and DMM are both kinetically and thermodynamically favorable. The strong chemisorption of DMM on the (ZnO)6/MgO and (ZnO)6/SBA-15 is the consequence of the interaction between (ZnO)6 cluster and the supports. The higher adsorption affinity toward DMM of (ZnO)6/MgO, compared to (ZnO)6/SBA-15, is due to the synergistic effect of MgO with (ZnO)6. However, in the OH− ion environment, (ZnO)6/SBA-15, reversely, seemed to be a better adsorbent for DMM molecules.",
+            "URL": "https://doi.org/10.1007/s10450-020-00252-1",
+            "DOI": "10.1007/s10450-020-00252-1",
+            "journalAbbreviation": "Adsorption",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Nguyen",
+                    "given": "Thi Thu Ha"
+                },
+                {
+                    "family": "Le",
+                    "given": "Minh Cam"
+                },
+                {
+                    "family": "Jiang",
+                    "given": "Zhong-Tao"
+                },
+                {
+                    "family": "Nguyen",
+                    "given": "Ngoc Ha"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        11,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/GU6IQI99",
+            "type": "article-journal",
+            "title": "Enaminone Substituted Resorcin[4]arene—Sealing of an Upper-Rim with a Directional System of Hydrogen-Bonds",
+            "container-title": "International Journal of Molecular Sciences",
+            "page": "7494",
+            "volume": "21",
+            "issue": "20",
+            "abstract": "The paper presents the synthesis of an enaminone resorcin[4]arene via a thermally activated o-quinomethide. The crystal structure indicates that in the solid state all enaminone units participate in a unidirectional seam of 12 intramolecular hydrogen bonds that are formed around the cavity. The molecule exhibits C2 symmetry, with two opposite-laying enaminone units directed inside the cavity (“in”), and the other two units outside the cavity (“out”). In the solution the enaminone resorcin[4]arene exists as a mixture of conformers with distribution controlled by temperature and solvent. The experimental data are compared with the results of theoretical calculations using DFT B3LYP/6-31G(d,p) and fast semi-empirical DFTB/GFN2-xTB method in various solvents.",
+            "URL": "https://www.mdpi.com/1422-0067/21/20/7494",
+            "DOI": "10.3390/ijms21207494",
+            "note": "Number: 20\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Szafraniec",
+                    "given": "Anna"
+                },
+                {
+                    "family": "Grajda",
+                    "given": "Marcin"
+                },
+                {
+                    "family": "Jędrzejewska",
+                    "given": "Hanna"
+                },
+                {
+                    "family": "Szumna",
+                    "given": "Agnieszka"
+                },
+                {
+                    "family": "Iwanek",
+                    "given": "Waldemar"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/TYJ2GHE4",
+            "type": "article-journal",
+            "title": "Dispersion-driven conformational preference in the gas phase: Microwave spectroscopic and theoretical study of allyl isocyanate",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "194304",
+            "volume": "151",
+            "issue": "19",
+            "abstract": "The conformations of allyl isocyanate (CH2=CHCH2N=C=O) were explored in the gas phase by combining theoretical calculations and Fourier transform microwave spectroscopy, including the chirped pulse and Balle-Flygare types. Three conformers (I, II, and III) were predicted using D3(BJ) dispersion-corrected B3LYP and MP2 methods; however, the lowest energy conformer (conf. I) was absent at the standard B3LYP level. The observed microwave spectra are consistent with the presence of both conf. I and III in the supersonic jet, and surprisingly, this is the first report of the global minimum conf. I both experimentally and theoretically. Rotational transitions from the parent species of both conformers as well as their minor isotopologues (13C, 15N, and 18O) in natural abundance were assigned allowing experimental geometries to be derived. For conf. I, in addition to the typical splitting pattern due to the 14N quadrupole nucleus, the transitions show a tunneling splitting which arises from the interconversion motion between its two mirror images. The experimental observation of conf. I and the absence of conf. II in the jet are rationalized using quantum-chemical calculations to explore the importance of electron correlation and in particular, demonstrate the necessity of including dispersion effects in density functional theory calculations even for seemingly small molecules.",
+            "URL": "https://doi.org/10.1063/1.5129526",
+            "DOI": "10.1063/1.5129526",
+            "shortTitle": "Dispersion-driven conformational preference in the gas phase",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Sun",
+                    "given": "Wenhao"
+                },
+                {
+                    "family": "Sogeke",
+                    "given": "Olamide P."
+                },
+                {
+                    "family": "Silva",
+                    "given": "Weslley G. D. P."
+                },
+                {
+                    "family": "van Wijngaarden",
+                    "given": "Jennifer"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        11,
+                        19
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        15
+                    ]
+                ]
+            } 
+        }
+    ]
+}

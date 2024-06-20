@@ -1,0 +1,2957 @@
+{
+   "items": [
+       {
+           "id": "16708939/B8HCVTV7",
+           "type": "article",
+           "title": "A Robust Non-Self-Consistent Tight-Binding Quantum Chemistry Method for large Molecules",
+           "publisher": "ChemRxiv",
+           "abstract": "We propose a semiempirical quantum chemical method, designed for the fast calculation of molecular Geometries, vibrational Frequencies and Non-covalent interaction energies (GFN) of systems with up to a few thousand atoms. Like its predecessors GFN-xTB and GFN1-xTB, the new method termed GFN0-xTB is parameterized for all elements up to radon (Z = 86) and mostly shares well-known density functional tight-binding approximations as well as basis set and integral approximations. The main new feature is the avoidance of the self-consistent charge iterations leading to speed-ups of a factor of 2-20 depending on the size and electronic complexity of the system. This is achieved by including only quantum mechanical contributions up to first-order which are incorporated similar to the previous versions without any pair-specific parameterization. The essential electrostatic electronic interaction is treated by a classical electronegativity equilibration charge model yielding atomic partial charges that enter the electronic Hamiltonian indirectly. Furthermore, the atomic charge-dependent D4 dispersion correction is included to account for long range London correlation effects. Formulas for analytical total energy gradients with respect to nuclear displacements are derived and implemented in the xtb code allowing numerically very precise structure optimizations. The neglect of self-consistent energy terms not only leads to a large gain in computational speed but also can increase robustness in electronically difficult situations because ill-convergence or artificial charge-transfer (CT) is avoided. The comparison of GFN0-xTB and GFN/GFN2-xTB allows dissection of quantum electronic polarization and CT effects thereby improving our understanding of chemical bonding. Compared to the most sophisticated multipole-based GFN2-xTB model (which approaches DFT accuracy for the target properties closely), GFN0-xTB performs slightly worse for non-covalent interactions and molecular structures, while very good results are observed for conformational energies. Vibrational frequencies are obtained less accurately than with GFN/GFN2-xTB but they may still be useful for various purposes like estimating relative thermostatistical reaction energies. Most exceptional is the fact that even relatively complicated transition metal complex structures can be accurately optimized with a non-self-consistent quantum approach. The new method bridges the gap between force-fields and traditional semiempirical methods with its excellent computational cost to accuracy ratio and is intended to explore the chemical space of large molecular systems and solids.",
+           "URL": "https://chemrxiv.org/engage/chemrxiv/article-details/59c742abbdbb890c7ba3851a",
+           "DOI": "9.26434/chemrxiv.8326202.v1",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Pracht",
+                   "given": "Philipp"
+               },
+               {
+                   "family": "Caldeweyher",
+                   "given": "Eike"
+               },
+               {
+                   "family": "Ehlert",
+                   "given": "Sebastian"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2018,
+                       5,
+                       26
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       4,
+                       23
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/6BPJFIDI",
+           "type": "article-journal",
+           "title": "mcGFN-FF: an accurate force field for optimization and energetic screening of molecular crystals",
+           "container-title": "Zeitschrift für Naturforschung B",
+           "page": "190-200",
+           "volume": "78",
+           "issue": "3",
+           "abstract": "Abstract \n             \n              This work presents a periodic extension of the GFN-FF force field for molecular crystals named mcGFN-FF. Non-covalent interactions in the force field are adjusted to reduce the systematic overbinding of the original, molecular version for molecular crystals. A diverse set of molecular crystal benchmarks for lattice energies and unit cell volumes is studied. The modified force field shows good results with a mean absolute relative deviation (MARD) of 18.9 % for lattice energies and 10.0 % for unit cell volumes. In many cases, mcGFN-FF approaches the accuracy of the GFN1-xTB quantum chemistry method which has an MARD of 18.7 % for lattice energies and 6.2 % for unit cell volumes. Further, the newly compiled mcVOL22 benchmark set is presented which features r \n              2 \n              SCAN-D4/900 eV DFT reference volumes for molecular crystals with phosphorus-, sulfur-, and chlorine-containing compounds of various sizes. Overall, the mcGFN-FF poses an efficient tool for the optimization and energetic screening of molecular crystals containing elements up to radon.",
+           "URL": "https://www.degruyter.com/document/doi/9.1515/znb-2023-0088/html",
+           "DOI": "9.1515/znb-2023-0088",
+           "shortTitle": "mcGFN-FF",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               },
+               {
+                   "family": "Rose",
+                   "given": "Thomas"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2023,
+                       3,
+                       24
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       4,
+                       20
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/EDU2RWJ5",
+           "type": "article-journal",
+           "title": "Efficient Quantum Chemical Calculation of Structure Ensembles and Free Energies for Nonrigid Molecules",
+           "container-title": "The Journal of Physical Chemistry A",
+           "page": "4038-4054",
+           "volume": "124",
+           "issue": "18",
+           "abstract": "The application of quantum chemical, automatic multilevel modeling workflows for the determination of thermodynamic (e.g., conformation equilibria, partition coefficients, pKa values) and spectroscopic properties of relatively large, nonrigid molecules in solution is described. Key points are the computation of rather complete structure (conformer) ensembles with extremely fast but still reasonable GFN1-xTB or GFN-FF semiempirical methods in the CREST searching approach and subsequent refinement at a recently developed, accurate r2SCAN-3c DFT composite level. Solvation effects are included in all steps by accurate continuum solvation models (ALPB, (D)COSMO-RS). Consistent inclusion of thermostatistical contributions in the framework of the modified rigid-rotor-harmonic-oscillator approximation (mRRHO) based on xTB/FF computed PES is also recommended.",
+           "URL": "https://doi.org/9.1021/acs.jpca.1c00971",
+           "DOI": "9.1021/acs.jpca.1c00971",
+           "note": "Publisher: American Chemical Society",
+           "journalAbbreviation": "J. Phys. Chem. A",
+           "author": [
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               },
+               {
+                   "family": "Bohle",
+                   "given": "Fabian"
+               },
+               {
+                   "family": "Hansen",
+                   "given": "Andreas"
+               },
+               {
+                   "family": "Pracht",
+                   "given": "Philipp"
+               },
+               {
+                   "family": "Spicher",
+                   "given": "Sebastian"
+               },
+               {
+                   "family": "Stahn",
+                   "given": "Marcel"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2020,
+                       4,
+                       19
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       20
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/V8Z62PVB",
+           "type": "article-journal",
+           "title": "Automated and Efficient Generation of General Molecular Aggregate Structures",
+           "container-title": "Angewandte Chemie International Edition",
+           "page": "e202214476",
+           "volume": "61",
+           "issue": "3",
+           "abstract": "Modeling intermolecular interactions of complex non-covalent structures is important in many areas of chemistry. To facilitate the generation of reasonable dimer, oligomer, and general aggregate geometries, we introduce an automated computational interaction site screening (aISS) workflow. This easy-to-use tool combines a genetic algorithm employing the intermolecular force-field xTB-IFF for initial search steps with the general force-field GFN-FF and the semi-empirical GFN1-xTB method for geometry optimizations. Compared with the alternative CREST program, aISS yields similar results but with computer time savings of 1–3 orders of magnitude. This allows for the treatment of systems with thousands of atoms composed of elements up to radon, e.g., metal-organic complexes, or even polyhedra and zeolite cut-outs which were not accessible before. Moreover, aISS can identify reactive sites and provides options like site-directed (user-guided) screening.",
+           "URL": "https://onlinelibrary.wiley.com/doi/abs/9.1002/anie.202214477",
+           "DOI": "9.1002/anie.202214477",
+           "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/9.1002/anie.202214477",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Plett",
+                   "given": "Christoph"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2022
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/Q4MNS8KG",
+           "type": "article-journal",
+           "title": "Robust and Efficient Implicit Solvation Model for Fast Semiempirical Methods",
+           "container-title": "Journal of Chemical Theory and Computation",
+           "page": "4249-4261",
+           "volume": "16",
+           "issue": "6",
+           "abstract": "We present a robust and efficient method to implicitly account for solvation effects in modern semiempirical quantum mechanics and force fields. A computationally efficient yet accurate solvation model based on the analytical linearized Poisson–Boltzmann (ALPB) model is parameterized for the extended tight binding (xTB) and density functional tight binding (DFTB) methods as well as for the recently proposed GFN-FF general force field. The proposed methods perform well over a broad range of systems and applications, from conformational energies over transition-metal complexes to large supramolecular association reactions of charged species. For hydration free energies of small molecules, GFN0-xTB(ALPB) is reaching the accuracy of sophisticated explicitly solvated approaches, with a mean absolute deviation of only 1.4 kcal/mol compared to the experiment. Logarithmic octanol–water partition coefficients (log Kow) are computed with a mean absolute deviation of about 0.65 using GFN2-xTB(ALPB) compared to experimental values indicating a consistent description of differential solvent effects. Overall, more than twenty solvents for each of the six semiempirical methods are parameterized and tested. They are readily available in the xtb and dftb+ programs for diverse computational applications.",
+           "URL": "https://doi.org/9.1021/acs.jctc.1c00471",
+           "DOI": "9.1021/acs.jctc.1c00471",
+           "note": "Publisher: American Chemical Society",
+           "journalAbbreviation": "J. Chem. Theory Comput.",
+           "author": [
+               {
+                   "family": "Ehlert",
+                   "given": "Sebastian"
+               },
+               {
+                   "family": "Stahn",
+                   "given": "Marcel"
+               },
+               {
+                   "family": "Spicher",
+                   "given": "Sebastian"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2020,
+                       6,
+                       12
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       14
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/D8L6BY2C",
+           "type": "article-journal",
+           "title": "From QCEIMS to QCxMS: A Tool to Routinely Calculate CID Mass Spectra Using Molecular Dynamics",
+           "container-title": "Journal of the American Society for Mass Spectrometry",
+           "page": "1734-1751",
+           "volume": "31",
+           "issue": "6",
+           "abstract": "Mass spectrometry (MS) is a powerful tool in chemical research and substance identification. For the computational modeling of electron ionization MS, we have developed the quantum-chemical electron ionization mass spectra (QCEIMS) program. Here, we present an extension of QCEIMS to calculate collision-induced dissociation (CID) spectra. The more general applicability is accounted for by the new name QCxMS, where “x” refers to EI or CID. To this end, fragmentation and rearrangement reactions are computed “on-the-fly” in Born–Oppenheimer molecular dynamics (MD) simulations with the semiempirical GFN1-xTB Hamiltonian, which provides an efficient quantum mechanical description of all elements up to Z = 86 (Rn). Through the explicit modeling of multicollision processes between precursor ions and neutral gas atoms as well as temperature-induced decomposition reactions, QCxMS provides detailed insight into the collision kinetics and fragmentation pathways. In combination with the CREST program to determine the preferential protonation sites, QCxMS becomes the first standalone MD-based program that can predict mass spectra based solely on molecular structures as input. We demonstrate this for six organic molecules with masses ranging from 159 to 296 Da, for which QCxMS yields CID spectra in reasonable agreement with experiments.",
+           "URL": "https://doi.org/9.1021/jasms.1c00098",
+           "DOI": "9.1021/jasms.1c00098",
+           "note": "Publisher: American Society for Mass Spectrometry. Published by the American Chemical Society. All rights reserved.",
+           "shortTitle": "From QCEIMS to QCxMS",
+           "journalAbbreviation": "J. Am. Soc. Mass Spectrom.",
+           "author": [
+               {
+                   "family": "Koopman",
+                   "given": "Jeroen"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2020,
+                       6,
+                       6
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       14
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/J42DQK7Q",
+           "type": "article-journal",
+           "title": "Perspective on Simplified Quantum Chemistry Methods for Excited States and Response Properties",
+           "container-title": "The Journal of Physical Chemistry A",
+           "page": "3840-3851",
+           "volume": "124",
+           "issue": "17",
+           "abstract": "We review recent developments in the framework of simplified quantum chemistry for excited state and optical response properties (sTD-DFT) and present future challenges for new method developments to improve accuracy and extend the range of application. In recent years, the scope of sTD-DFT was extended to molecular response calculations of the polarizability, optical rotation, first hyperpolarizability, two-photon absorption (1PA), and excited-state absorption for large systems with hundreds to thousands of atoms. The recently introduced spin-flip simplified time-dependent density functional theory (SF-sTD-DFT) variant enables an ultrafast treatment for diradicals and related strongly correlated systems. A few drawbacks were also identified, specifically for the computation of 2PA cross sections. We propose solutions to this problem and how to generally improve the accuracy of simplified schemes. New possible simplified schemes are also introduced for strongly correlated systems, e.g., with a second-order perturbative correlation correction. Interpretation tools that can extract chemical structure–property relationships from excited state or response calculations are also discussed. In particular, the recently introduced method-agnostic RespA approach based on natural response orbitals (NROs) as the key concept is employed.",
+           "URL": "https://doi.org/9.1021/acs.jpca.1c02362",
+           "DOI": "9.1021/acs.jpca.1c02362",
+           "note": "Publisher: American Chemical Society",
+           "journalAbbreviation": "J. Phys. Chem. A",
+           "author": [
+               {
+                   "family": "de Wergifosse",
+                   "given": "Marc"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2020,
+                       4,
+                       12
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/JGH59JYW",
+           "type": "article-journal",
+           "title": "Single-Point Hessian Calculations for Improved Vibrational Frequencies and Rigid-Rotor-Harmonic-Oscillator Thermodynamics",
+           "container-title": "Journal of Chemical Theory and Computation",
+           "page": "1700-1714",
+           "volume": "16",
+           "issue": "2",
+           "abstract": "The calculation of harmonic vibrational frequencies (HVF) to interpret infrared (IR) spectra and to convert molecular energies to free energies is one of the essential steps in computational chemistry. A prerequisite for accurate thermostatistics so far was to optimize the molecular input structures in order to avoid imaginary frequencies, which inevitably leads to changes in the geometry if different theoretical levels are applied for geometry optimization and frequency calculations. In this work, we propose a new method termed single-point Hessian (SPH) for the computation of HVF and thermodynamic contributions to the free energy within the modified rigid-rotor-harmonic-oscillator approximation for general nonequilibrium molecular geometries. The key ingredient is the application of a biasing potential given as Gaussian functions expressed with the root-mean-square-deviation (RMSD) in Cartesian space in order to retain the initial geometry. The theory derived herein is generally applicable to quantum mechanical (QM), semiempirical QM, and force-field (FF) methods. Besides a detailed description of the underlying theory including the important back-correction of the biased HVF, the SPH approach is tested for reaction paths, molecular dynamics snapshots of crambin, and supramolecular association free energies in comparison to high-level density functional theory (DFT) values. Furthermore, the effect on IR spectra is investigated for organic dimers and transition-metal complexes revealing improved spectra at low theoretical levels. On average, DFT reference free energies are better reproduced by the newly developed SPH scheme than by conventional calculations on freely optimized geometries or without any relaxation.",
+           "URL": "https://doi.org/9.1021/acs.jctc.0c01306",
+           "DOI": "9.1021/acs.jctc.0c01306",
+           "note": "Publisher: American Chemical Society",
+           "journalAbbreviation": "J. Chem. Theory Comput.",
+           "author": [
+               {
+                   "family": "Spicher",
+                   "given": "Sebastian"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2020,
+                       2,
+                       8
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/XFVWZ8RF",
+           "type": "article-journal",
+           "title": "Semiautomated Transition State Localization for Organometallic Complexes with Semiempirical Quantum Chemical Methods",
+           "container-title": "Journal of Chemical Theory and Computation",
+           "page": "2001-2012",
+           "volume": "15",
+           "issue": "2",
+           "abstract": "We present an efficient computational protocol for robust transition state localization that can be routinely applied to complex (organometallic) reactions. The capabilities of the combination of extended tight-binding semiempirical methods (GFNn-xTB) with a state-of-the-art transition state localization algorithm (mGSM) is demonstrated on a modified version of the MOBH34 benchmark set, consisting of 29 organometallic reactions and transition states. Furthermore, for three examples we demonstrate how error-prone the conventional (manual) approach based on chemical intuition can be and how errors are avoided by a semiautomated generation of reaction profiles. The performance of the GFNn-xTB methods is carefully assessed and compared with that of the widely used PM6-D3H4 and PM7 semiempirical methods. The GFNn-xTB methods show much higher success rates of 89.7% (GFN1-xTB) and 86.2% (GFN2-xTB) compared with 72.4% for PM6-D3H4 and 69.0% for PM7. The barrier heights and reaction energies are computed with much better accuracy at reduced computational cost for the GFNn-xTB methods compared with the PMx methods, allowing a semiquantitative assessment of possible reaction pathways already at a semiempirical level. The mean error of GFN2-xTB for the barrier heights (8.2 kcal mol–1) is close to what low-cost density functional approximations provide and substantially smaller than the corresponding error of the competitor methods.",
+           "URL": "https://doi.org/9.1021/acs.jctc.9b01266",
+           "DOI": "9.1021/acs.jctc.9b01266",
+           "note": "Publisher: American Chemical Society",
+           "journalAbbreviation": "J. Chem. Theory Comput.",
+           "author": [
+               {
+                   "family": "Dohm",
+                   "given": "Sebastian"
+               },
+               {
+                   "family": "Bursch",
+                   "given": "Markus"
+               },
+               {
+                   "family": "Hansen",
+                   "given": "Andreas"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2019,
+                       2,
+                       9
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/RFRSMKPX",
+           "type": "article-journal",
+           "title": "Calculation of Electron Ionization Mass Spectra with Semiempirical GFNn-xTB Methods",
+           "container-title": "ACS Omega",
+           "page": "15119-15133",
+           "volume": "3",
+           "issue": "11",
+           "abstract": "In this work, we have tested two different extended tight-binding methods in the framework of the quantum chemistry electron ionization mass spectrometry (QCEIMS) program to calculate electron ionization mass spectra. The QCEIMS approach provides reasonable, first-principles computed spectra, which can be directly compared to experiment. Furthermore, it provides detailed insight into the reaction mechanisms of mass spectrometry experiments. It sheds light upon the complicated fragmentation procedures of bond breakage and structural rearrangements that are difficult to derive otherwise. The required accuracy and computational demands for successful reproduction of a mass spectrum in relation to the underlying quantum chemical method are discussed. To validate the new GFN1-xTB approach, we conduct simulations for 15 organic, transition-metal, and main-group inorganic systems. Major fragmentation patterns are analyzed, and the entire calculated spectra are directly compared to experimental data taken from the literature. We discuss the computational costs and the robustness (outliers) of several calculation protocols presented. Overall, the new, theoretically more sophisticated semiempirical method GFN2-xTB performs well and robustly for a wide range of organic, inorganic, and organometallic systems.",
+           "URL": "https://doi.org/9.1021/acsomega.9b02011",
+           "DOI": "9.1021/acsomega.9b02011",
+           "note": "Publisher: American Chemical Society",
+           "journalAbbreviation": "ACS Omega",
+           "author": [
+               {
+                   "family": "Koopman",
+                   "given": "Jeroen"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2018,
+                       8,
+                       16
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/XYCSS32P",
+           "type": "article-journal",
+           "title": "A Simplified Spin-Flip Time-Dependent Density Functional Theory Approach for the Electronic Excitation Spectra of Very Large Diradicals",
+           "container-title": "The Journal of Physical Chemistry A",
+           "page": "5814-5825",
+           "volume": "122",
+           "issue": "26",
+           "abstract": "Experimentalists working with diradicals are often facing the question of what kind of species among singlet or triplet diradicals or closed-shell molecules are observed. To treat large diradicals with a high density of electronic states, we propose a simplified version of the spin-flip time-dependent density functional theory (SF-TD-DFT) method for a fast computation of their state energies and absorption spectra with an accuracy similar to the nonsimplified scheme. An ultrafast tight-binding variant called SF-sTD-DFT-xTB is also developed to treat even larger systems. For a benchmark set of nine diradicals, good agreement between simplified and conventional SF excitation energies for standard functionals is found. This shows that the proposed parameterization is robust for a wide range of Fock exchange mixing values. With the asymptotically correct response integrals used in SF-sTD-DFT and a correction factor of 1 for the transition moments, the SF-sTD-DFT/B5050LYP/cc-pVDZ method even outperforms the nonsimplified scheme at drastically reduced computational effort when comparing to the experimental absorption spectra for this set of diradicals. To showcase the actual performance of the method, absorption spectra of two μ-hydroxo-bridged dimers of corrole tape Ga(III) complex derivatives were computed and compared to the experiment, providing good qualitative agreement. Finally, a comparison with the high-spin triplet spectrum of a perylene bisimide biradical and the one determined at the SF-sTD-DFT level showed that at room temperature, mostly triplet diradicals are present in solution.",
+           "URL": "https://doi.org/9.1021/acs.jpca.9b03176",
+           "DOI": "9.1021/acs.jpca.9b03176",
+           "note": "Publisher: American Chemical Society",
+           "journalAbbreviation": "J. Phys. Chem. A",
+           "author": [
+               {
+                   "family": "de Wergifosse",
+                   "given": "Marc"
+               },
+               {
+                   "family": "Bannwarth",
+                   "given": "Christoph"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2018,
+                       6,
+                       10
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/ZNAJ6H7X",
+           "type": "article-journal",
+           "title": "Exploration of Chemical Compound, Conformer, and Reaction Space with Meta-Dynamics Simulations Based on Tight-Binding Quantum Chemical Calculations",
+           "container-title": "Journal of Chemical Theory and Computation",
+           "page": "2846-2862",
+           "volume": "14",
+           "issue": "4",
+           "abstract": "The semiempirical tight-binding based quantum chemistry method GFN1-xTB is used in the framework of meta-dynamics (MTD) to globally explore chemical compound, conformer, and reaction space. The biasing potential given as a sum of Gaussian functions is expressed with the root-mean-square-deviation (RMSD) in Cartesian space as a metric for the collective variables. This choice makes the approach robust and generally applicable to three common problems (i.e., conformer search, chemical reaction space exploration in a virtual nanoreactor, and for guessing reaction paths). Because of the inherent locality of the atomic RMSD, functional group or fragment selective treatments are possible facilitating the investigation of catalytic processes where, for example, only the substrate is thermally activated. Due to the approximate character of the GFN2-xTB method, the resulting structure ensembles require further refinement with more sophisticated, for example, density functional or wave function theory methods. However, the approach is extremely efficient running routinely on common laptop computers in minutes to hours of computation time even for realistically sized molecules with a few hundred atoms. Furthermore, the underlying potential energy surface for molecules containing almost all elements (Z = 1–86) is globally consistent including the covalent dissociation process and electronically complicated situations in, for example, transition metal systems. As examples, thermal decomposition, ethyne oligomerization, the oxidation of hydrocarbons (by oxygen and a P450 enzyme model), a Miller-Urey model system, a thermally forbidden dimerization, and a multistep intramolecular cyclization reaction are shown. For typical conformational search problems of organic drug molecules, the new MTD(RMSD) algorithm yields lower energy structures and more complete conformer ensembles at reduced computational effort compared with its already well performing predecessor.",
+           "URL": "https://doi.org/9.1021/acs.jctc.9b00143",
+           "DOI": "9.1021/acs.jctc.9b00143",
+           "note": "Publisher: American Chemical Society",
+           "journalAbbreviation": "J. Chem. Theory Comput.",
+           "author": [
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2018,
+                       4,
+                       13
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/MQKQA7SP",
+           "type": "article-journal",
+           "title": "Machine learning-based correction for spin–orbit coupling effects in NMR chemical shift calculations",
+           "container-title": "Physical Chemistry Chemical Physics",
+           "page": "4869-4884",
+           "volume": "25",
+           "issue": "5",
+           "abstract": "As one of the most powerful analytical methods for molecular and solid-state structure elucidation, NMR spectroscopy is an integral part of chemical laboratories associated with a great research interest in its computational simulation. Particularly when heavy atoms are present, a relativistic treatment is essential in the calculations as these influence also the nearby light atoms. In this work, we present a Δ-machine learning method that approximates the contribution to 12C and 1H NMR chemical shifts that stems from spin–orbit (SO) coupling effects. It is built on computed reference data at the spin–orbit zeroth-order regular approximation (ZORA) DFT level for a set of 6388 structures with 38 740 13C and 64 436 1H NMR chemical shifts. The scope of the methods covers the 17 most important heavy p-block elements that exhibit heavy atom on the light atom (HALA) effects to covalently bound carbon or hydrogen atoms. Evaluated on the test data set, the approach is able to recover roughly 85% of the SO contribution for 13C and 70% for 1H from a scalar-relativistic PBE0/ZORA-def2-TZVP calculation at virtually no extra computational costs. Moreover, the method is transferable to other baseline DFT methods even without retraining the model and performs well for realistic organotin and -lead compounds. Finally, we show that using a combination of the new approach with our previous Δ-ML method for correlation contributions to NMR chemical shifts, the mean absolute NMR shift deviations from non-relativistic DFT calculations to experimental values can be halved.",
+           "URL": "https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp05556f",
+           "DOI": "9.1039/D3CP05556F",
+           "note": "Publisher: The Royal Society of Chemistry",
+           "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Büning",
+                   "given": "Julius B. Kleine"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               },
+               {
+                   "family": "Bursch",
+                   "given": "Markus"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       6
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/YKMJFKXG",
+           "type": "article-journal",
+           "title": "Simplified quantum chemistry methods to evaluate non-linear optical properties of large systems",
+           "container-title": "WIREs Computational Molecular Science",
+           "page": "e1694",
+           "volume": "13",
+           "issue": "0",
+           "abstract": "This review presents the theoretical background concerning simplified quantum chemistry (sQC) methods to compute non-linear optical (NLO) properties and their applications to large systems. To evaluate any NLO responses such as hyperpolarizabilities or two-photon absorption (1PA), one should evidently perform first a ground state calculation and compute its response. Because of this, methods used to compute ground states of large systems are outlined, especially the xTB (extended tight-binding) scheme. An overview on approaches to compute excited state and response properties is given, emphasizing the simplified time-dependent density functional theory (sTD-DFT). The formalism of the eXact integral sTD-DFT (XsTD-DFT) method is also introduced. For the first hyperpolarizability, 2PA, excited state absorption, and second hyperpolarizability, a brief historical review is given on early-stage semi-empirical method applications to systems that were considered large at the time. Then, we showcase recent applications with sQC methods, especially the sTD-DFT scheme to large challenging systems such as fluorescent proteins or fluorescent organic nanoparticles as well as dynamic structural effects on flexible tryptophan-rich peptides and gramicidin A. Thanks to the sTD-DFT-xTB scheme, all-atom quantum chemistry methodologies are now possible for the computation of the first hyperpolarizability and 2PA of systems up to 5000 atoms. This review concludes by summing-up current and future method developments in the sQC framework as well as forthcoming applications on large systems. This article is categorized under: Electronic Structure Theory > Ab Initio Electronic Structure Methods Structure and Mechanism > Molecular Structures Electronic Structure Theory > Density Functional Theory Electronic Structure Theory > Semiempirical Electronic Structure Methods",
+           "URL": "https://onlinelibrary.wiley.com/doi/abs/9.1002/wcms.1695",
+           "DOI": "9.1002/wcms.1695",
+           "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/9.1002/wcms.1695",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Löffelsender",
+                   "given": "Sarah"
+               },
+               {
+                   "family": "Beaujean",
+                   "given": "Pierre"
+               },
+               {
+                   "family": "de Wergifosse",
+                   "given": "Marc"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2023
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/IVS7GBMZ",
+           "type": "article-journal",
+           "title": "ONIOM meets xtb: efficient, accurate, and robust multi-layer simulations across the periodic table",
+           "container-title": "Physical Chemistry Chemical Physics",
+           "page": "17859-17868",
+           "volume": "24",
+           "issue": "26",
+           "abstract": "The computational treatment of large molecular structures is of increasing interest in fields of modern chemistry. Accordingly, efficient quantum chemical approaches are needed to perform sophisticated investigations on such systems. This engaged the development of the well-established “Our own N-layered integrated molecular orbital and molecular mechanics” (ONIOM) multi-layer scheme [L. W. Chung et al., Chem. Rev., 2014, 115, 5678–5796]. In this work, we present the specific implementation of the ONIOM scheme into the xtb semi-empirical extended tight-binding program package and its application to challenging transition-metal complexes. The efficient and broadly applicable GFNn-xTB and -FF methods are applied in the ONIOM framework to elucidate reaction energies, geometry optimizations, and explicit solvation effects for metal–organic systems with up to several hundreds of atoms. It is shown that an ONIOM-based combination of density functional theory, semi-empirical, and force-field methods can be used to drastically reduce the computational costs and thus enable the investigation of huge systems at almost no significant loss in accuracy.",
+           "URL": "https://pubs.rsc.org/en/content/articlelanding/2022/cp/d3cp02178e",
+           "DOI": "9.1039/D3CP02178E",
+           "note": "Publisher: The Royal Society of Chemistry",
+           "shortTitle": "ONIOM meets xtb",
+           "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Plett",
+                   "given": "Christoph"
+               },
+               {
+                   "family": "Katbashev",
+                   "given": "Abylay"
+               },
+               {
+                   "family": "Ehlert",
+                   "given": "Sebastian"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               },
+               {
+                   "family": "Bursch",
+                   "given": "Markus"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2022,
+                       6,
+                       11
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       14
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/NILGWJ78",
+           "type": "article-journal",
+           "title": "High-throughput screening of spin states for transition metal complexes with spin-polarized extended tight-binding methods",
+           "container-title": "Journal of Computational Chemistry",
+           "page": "2119-2129",
+           "volume": "43",
+           "issue": "26",
+           "abstract": "The semiempirical GFNn-xTB (n=0,2) tight-binding methods are extended with a spin-dependent energy term (spin-polarization), enabling the fast and efficient screening of different spin states for transition metal complexes. While GFNn-xTB methods inherently can not differentiate properly between high-spin (HS) and low-spin (LS) states, this shortcoming is corrected with the presented methods termed spGFNn-xTB. The performance of spGFNn-xTB methods for spin state energy splittings is evaluated on a newly compiled benchmark set of 90 complexes (27 HS and 63 LS complexes) containing 3d, 4d, and 5d transition metals (termed TM90S) employing DFT references at the TPSSh-D4/def2-QZVPP level of theory. The challenging TM90S set contains complexes with charges between −4 and +3, spin multiplicities between 1 and 6, and spin-splitting energies that range from −47.8 to 146.6 kcal/mol with a mean average of 32.2 kcal/mol. On this set the (sp)GFNn-xTB methods, the PM6-D3H4 method, and the PM7 method are evaluated with spGFN1-xTB yielding the lowest MAD of 19.6 kcal/mol followed by spGFN2-xTB with 24.8 kcal/mol. While for the 4d and 5d subsets small or no improvements are observed with spin-polarization, large improvements are obtained for the 3d subset with spGFN1-xTB yielding the smallest MAD of 14.2 kcal/mol followed by spGFN2-xTB with 17.9 kcal/mol and PM6-D3H4 with 28.4 kcal/mol. The correct sign of the spin state splittings is obtained with spGFN2-xTB in 89% of all cases closely followed by spGFN1-xTB with 88%. On the full set, a pure semiempirical vertical spGFN2-xTB//GFN2-xTB-based workflow for screening purposes yields a slightly better MAD of 22.2 kcal/mol due to error compensation, while being qualitative correct for one additional case. In combination with their low computational cost (scanning spin states in seconds), the spGFNn-xTB methods represent robust tools for pre-screening steps of spin state calculations and high-throughput workflows.",
+           "URL": "https://onlinelibrary.wiley.com/doi/abs/9.1002/jcc.27185",
+           "DOI": "9.1002/jcc.27185",
+           "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/9.1002/jcc.27185",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Neugebauer",
+                   "given": "Hagen"
+               },
+               {
+                   "family": "Bädorf",
+                   "given": "Benedikt"
+               },
+               {
+                   "family": "Ehlert",
+                   "given": "Sebastian"
+               },
+               {
+                   "family": "Hansen",
+                   "given": "Andreas"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2022
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       14
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/UCYT25PH",
+           "type": "article-journal",
+           "title": "A non-self-consistent tight-binding electronic structure potential in a polarized double-ζ basis set for all spd-block elements up to Z = 85",
+           "container-title": "The Journal of Chemical Physics",
+           "page": "124110",
+           "volume": "157",
+           "issue": "11",
+           "abstract": "Existing semiempirical molecular orbital methods suffer from the usually minimal atomic-orbital (AO) basis set used to simplify the calculations. Here, a completely new and consistently parameterized tight-binding electronic structure Hamiltonian evaluated in a deeply contracted, properly polarized valence double-zeta basis set (vDZP) is described. The inner-shell electrons are accounted for by standard, large-core effective potentials and approximations to them. The primary target of this so-called density matrix tight-binding method is to reproduce the one-particle density matrix P of a molecular ωB96X-V range-separated hybrid density functional theory (DFT) calculation in exactly the same basis set. Additional properties considered are orbital energies, dipole polarizabilities and dipole moments, and dipole polarizability derivatives. The key features of the method are as follows: (a) it is non-self-consistent with an overall fixed number of only three required matrix diagonalizations; (b) only AO overlap integrals are needed to construct the effective Hamiltonian matrix; (c) new P-dependent terms emulating non-local exchange are included; and (d) only element-specific empirical parameters (about 50 per element) need to be determined. The method globally achieves a high accuracy for the target properties at a speedup compared to the ωB97X-V/vDZP reference of about 3–4 orders of magnitude. It performs robustly for difficult transition metal complexes, for highly charged or zwitterionic systems, and for chemically unusual bonding situations, indicating a generally robust approximation of the (self-consistent) Kohn–Sham potential. As an example application, the vibrational Raman spectrum of an entire protein with 327 atoms with respect to the DFT reference calculation is shown. This method may be used out-of-the-box to generate molecular/atomic features for machine learning applications or as the basis for accurate high-speed DFT methods.",
+           "URL": "https://doi.org/9.1063/5.0137838",
+           "DOI": "9.1063/5.0137838",
+           "journalAbbreviation": "The Journal of Chemical Physics",
+           "author": [
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               },
+               {
+                   "family": "Müller",
+                   "given": "Marcel"
+               },
+               {
+                   "family": "Hansen",
+                   "given": "Andreas"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2022,
+                       2,
+                       21
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/PSMTLBGG",
+           "type": "article-journal",
+           "title": "Extended tight-binding quantum chemistry methods",
+           "container-title": "WIREs Computational Molecular Science",
+           "page": "e1492",
+           "volume": "10",
+           "issue": "1",
+           "abstract": "This review covers a family of atomistic, mostly quantum chemistry (QC) based semiempirical methods for the fast and reasonably accurate description of large molecules in gas and condensed phase. The theory is derived from a density functional (DFT) perturbation expansion of the electron density in fluctuation terms to various orders similar to the original density functional tight binding model. The term “eXtended” in their name (xTB) emphasizes the parameter availability for almost the entire periodic table of elements (Z ≤ 85) and improvements of the underlying theory regarding, for example, the atomic orbital basis set, the level of multipole approximation and the treatment of the important electrostatic and dispersion interactions. A common feature of most members is their consistent parameterization on accurate gas phase theoretical reference data for geometries, vibrational frequencies and noncovalent interactions, which are the primary properties of interest in typical applications to systems composed of up to a few thousand atoms. Further specialized versions were developed for the description of electronic spectra and corresponding response properties. Besides a provided common theoretical background with some important implementation details in the efficient and free xtb program, various benchmarks for structural and thermochemical properties including (transition-)metal systems are discussed. The review is completed by recent extensions of the model to the force-field (FF) level as well as its application to solids under periodic boundary conditions. The general applicability together with the excellent cost-accuracy ratio and the high robustness make the xTB family of methods very attractive for various fields of computer-aided chemical research. This article is categorized under: Electronic Structure Theory > Ab Initio Electronic Structure Methods Electronic Structure Theory > Semiempirical Electronic Structure Methods Software > Quantum Chemistry",
+           "URL": "https://onlinelibrary.wiley.com/doi/abs/9.1002/wcms.1493",
+           "DOI": "9.1002/wcms.1493",
+           "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/9.1002/wcms.1493",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Bannwarth",
+                   "given": "Christoph"
+               },
+               {
+                   "family": "Caldeweyher",
+                   "given": "Eike"
+               },
+               {
+                   "family": "Ehlert",
+                   "given": "Sebastian"
+               },
+               {
+                   "family": "Hansen",
+                   "given": "Andreas"
+               },
+               {
+                   "family": "Pracht",
+                   "given": "Philipp"
+               },
+               {
+                   "family": "Seibert",
+                   "given": "Jakob"
+               },
+               {
+                   "family": "Spicher",
+                   "given": "Sebastian"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2020
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       14
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/DA7QPIHM",
+           "type": "article-journal",
+           "title": "GFN1-xTB—An Accurate and Broadly Parametrized Self-Consistent Tight-Binding Quantum Chemical Method with Multipole Electrostatics and Density-Dependent Dispersion Contributions",
+           "container-title": "Journal of Chemical Theory and Computation",
+           "page": "1651-1671",
+           "volume": "14",
+           "issue": "2",
+           "abstract": "An extended semiempirical tight-binding model is presented, which is primarily designed for the fast calculation of structures and noncovalent interaction energies for molecular systems with roughly 999 atoms. The essential novelty in this so-called GFN2-xTB method is the inclusion of anisotropic second order density fluctuation effects via short-range damped interactions of cumulative atomic multipole moments. Without noticeable increase in the computational demands, this results in a less empirical and overall more physically sound method, which does not require any classical halogen or hydrogen bonding corrections and which relies solely on global and element-specific parameters (available up to radon, Z = 86). Moreover, the atomic partial charge dependent D4 London dispersion model is incorporated self-consistently, which can be naturally obtained in a tight-binding picture from second order density fluctuations. Fully analytical and numerically precise gradients (nuclear forces) are implemented. The accuracy of the method is benchmarked for a wide variety of systems and compared with other semiempirical methods. Along with excellent performance for the “target” properties, we also find lower errors for “off-target” properties such as barrier heights and molecular dipole moments. High computational efficiency along with the improved physics compared to its precursor GFN-xTB makes this method well-suited to explore the conformational space of molecular systems. Significant improvements are furthermore observed for various benchmark sets, which are prototypical for biomolecular systems in aqueous solution.",
+           "URL": "https://doi.org/9.1021/acs.jctc.8b01176",
+           "DOI": "9.1021/acs.jctc.8b01176",
+           "note": "Publisher: American Chemical Society",
+           "journalAbbreviation": "J. Chem. Theory Comput.",
+           "author": [
+               {
+                   "family": "Bannwarth",
+                   "given": "Christoph"
+               },
+               {
+                   "family": "Ehlert",
+                   "given": "Sebastian"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2018,
+                       2,
+                       11
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       0,
+                       26
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/RHXGQIWM",
+           "type": "article-journal",
+           "title": "Calculation of absolute molecular entropies and heat capacities made simple",
+           "container-title": "Chemical Science",
+           "page": "6550-6568",
+           "volume": "11",
+           "issue": "18",
+           "abstract": "We propose a fully-automated composite scheme for the accurate and numerically stable calculation of molecular entropies by efficiently combining density-functional theory (DFT), semi-empirical methods (SQM), and force-field (FF) approximations. The scheme is systematically expandable and can be integrated seamlessly with continuum-solvation models. Anharmonic effects are included through the modified rigid-rotor-harmonic-oscillator (msRRHO) approximation and the Gibbs–Shannon formula for extensive conformer ensembles (CEs), which are generated by a metadynamics search algorithm and are extrapolated to completeness. For the first time, variations of the ro-vibrational entropy over the CE are consistently accounted-for through a Boltzmann-population average. Extensive tests of the protocol with the two standard DFT approaches B96-3c and B3LYP-D3 reveal an unprecedented accuracy with mean deviations <1 cal mol−1 K−1 (about <1–2%) for the total gas phase molecular entropy of medium-sized molecules. Even for the hardship case of extremely flexible linear alkanes (C14H30–C16H34), errors are only about 3 cal mol−1 K−1. Comprehensive tests indicate a relatively strong variation of the conformational entropy on the underlying level of theory for typical drug molecules, inferring the complex potential energy surfaces as the main source of error. Furthermore, we show some application examples for the calculation of free energy differences in typical chemical reactions.",
+           "URL": "https://pubs.rsc.org/en/content/articlelanding/2020/sc/d1sc00621e",
+           "DOI": "9.1039/D1SC00621E",
+           "note": "Publisher: The Royal Society of Chemistry",
+           "journalAbbreviation": "Chem. Sci.",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Pracht",
+                   "given": "Philipp"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2020,
+                       4,
+                       18
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/B9ZEJ25V",
+           "type": "article-journal",
+           "title": "Simplified time-dependent density functional theory (sTD-DFT) for molecular optical rotation",
+           "container-title": "The Journal of Chemical Physics",
+           "page": "84115",
+           "volume": "152",
+           "issue": "7",
+           "abstract": "Theoretical methods able to screen large sets (e.g., conformers) of possibly large compounds are needed in many typical quantum chemistry applications. For this purpose, we here extend the well-established simplified time-dependent density functional theory (sTD-DFT) method for the calculation of optical rotation. This new scheme is benchmarked against 41 compounds of the OR45 set as well as thirteen helicene derivatives and one bio-molecular system. The sTD-DFT method yields optical rotations in good quantitative agreement with experiment for compounds with a valence-dominated response, e.g., conjugated π-systems, at a small fraction of the computational cost compared to TD-DFT (1–3 orders of magnitude speed-up). For smaller molecules with a Rydberg state dominated response, the agreement between TD-DFT and the simplified version using standard hybrid functionals is somewhat worse but still reasonable for typical applications. Our new implementation in the stda code enables computations for systems with up to 1000 atoms, e.g., for studying flexible bio-molecules.",
+           "URL": "https://doi.org/9.1063/5.0020543",
+           "DOI": "9.1063/5.0020543",
+           "journalAbbreviation": "The Journal of Chemical Physics",
+           "author": [
+               {
+                   "family": "de Wergifosse",
+                   "given": "Marc"
+               },
+               {
+                   "family": "Seibert",
+                   "given": "Jakob"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2019,
+                       7,
+                       27
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       15
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/AXCGN739",
+           "type": "article-journal",
+           "title": "Automated exploration of the low-energy chemical space with fast quantum chemical methods",
+           "container-title": "Physical Chemistry Chemical Physics",
+           "page": "7168-7192",
+           "volume": "21",
+           "issue": "13",
+           "abstract": "We propose and discuss an efficient scheme for the in silico sampling for parts of the molecular chemical space by semiempirical tight-binding methods combined with a meta-dynamics driven search algorithm. The focus of this work is set on the generation of proper thermodynamic ensembles at a quantum chemical level for conformers, but similar procedures for protonation states, tautomerism and non-covalent complex geometries are also discussed. The conformational ensembles consisting of all significantly populated minimum energy structures normally form the basis of further, mostly DFT computational work, such as the calculation of spectra or macroscopic properties. By using basic quantum chemical methods, electronic effects or possible bond breaking/formation are accounted for and a very reasonable initial energetic ranking of the candidate structures is obtained. Due to the huge computational speedup gained by the fast low-cost quantum chemical methods, overall short computation times even for systems with hundreds of atoms (typically drug-sized molecules) are achieved. Furthermore, specialized applications, such as sampling with implicit solvation models or constrained conformational sampling for transition-states, metal-, surface-, or noncovalently bound complexes are discussed, opening many possible applications in modern computational chemistry and drug discovery. The procedures have been implemented in a freely available computer code called CREST, that makes use of the fast and reliable GFNn-xTB methods.",
+           "URL": "https://pubs.rsc.org/en/content/articlelanding/2019/cp/c9cp06869d",
+           "DOI": "9.1039/C9CP06869D",
+           "note": "Publisher: The Royal Society of Chemistry",
+           "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+           "language": "en",
+           "author": [
+               {
+                   "family": "Pracht",
+                   "given": "Philipp"
+               },
+               {
+                   "family": "Bohle",
+                   "given": "Fabian"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2019,
+                       3,
+                       7
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       14
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/9C8J97NZ",
+           "type": "webpage",
+           "title": "Extension of the element parameter set for ultra-fast excitation spectra calculation (sTDA-xTB): Molecular Physics: Vol 116 , No 9-12 - Get Access",
+           "URL": "https://www.tandfonline.com/doi/full/9.1080/00268976.2018.1510141",
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       14
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/V9Y6ZAVD",
+           "type": "article-journal",
+           "title": "TBMaLT, a flexible toolkit for combining tight-binding and machine learning",
+           "container-title": "The Journal of Chemical Physics",
+           "page": "34800",
+           "volume": "157",
+           "issue": "2",
+           "abstract": "Tight-binding approaches, especially the Density Functional Tight-Binding (DFTB) and the extended tight-binding schemes, allow for efficient quantum mechanical simulations of large systems and long-time scales. They are derived from ab initio density functional theory using pragmatic approximations and some empirical terms, ensuring a fine balance between speed and accuracy. Their accuracy can be improved by tuning the empirical parameters using machine learning techniques, especially when information about the local environment of the atoms is incorporated. As the significant quantum mechanical contributions are still provided by the tight-binding models, and only short-ranged corrections are fitted, the learning procedure is typically shorter and more transferable as it were with predicting the quantum mechanical properties directly with machine learning without an underlying physically motivated model. As a further advantage, derived quantum mechanical quantities can be calculated based on the tight-binding model without the need for additional learning. We have developed the open-source framework—Tight-Binding Machine Learning Toolkit—which allows the easy implementation of such combined approaches. The toolkit currently contains layers for the DFTB method and an interface to the GFN0-xTB Hamiltonian, but due to its modular structure and its well-defined interfaces, additional atom-based schemes can be implemented easily. We are discussing the general structure of the framework, some essential implementation details, and several proof-of-concept applications demonstrating the perspectives of the combined methods and the functionality of the toolkit.",
+           "URL": "https://doi.org/9.1063/5.0132892",
+           "DOI": "9.1063/5.0132892",
+           "journalAbbreviation": "The Journal of Chemical Physics",
+           "author": [
+               {
+                   "family": "McSloy",
+                   "given": "A."
+               },
+               {
+                   "family": "Fan",
+                   "given": "G."
+               },
+               {
+                   "family": "Sun",
+                   "given": "W."
+               },
+               {
+                   "family": "Hölzer",
+                   "given": "C."
+               },
+               {
+                   "family": "Friede",
+                   "given": "M."
+               },
+               {
+                   "family": "Ehlert",
+                   "given": "S."
+               },
+               {
+                   "family": "Schütte",
+                   "given": "N.-E."
+               },
+               {
+                   "family": "Grimme",
+                   "given": "S."
+               },
+               {
+                   "family": "Frauenheim",
+                   "given": "T."
+               },
+               {
+                   "family": "Aradi",
+                   "given": "B."
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2022,
+                       0,
+                       17
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       14
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/SWZ3LDIR",
+           "type": "article-journal",
+           "title": "Calculation of Mass Spectra with the QCxMS Method for Negatively and Multiply Charged Molecules",
+           "container-title": "Journal of the American Society for Mass Spectrometry",
+           "page": "2225-2242",
+           "volume": "32",
+           "issue": "11",
+           "abstract": "Analysis and validation of a mass spectrometry (MS) experiment are usually performed by comparison to reference spectra. However, if references are missing, measured spectra cannot be properly matched. To close this gap, the Quantum Chemical Mass Spectrometry (QCxMS) program has been developed. It enables fully automatic calculations of electron ionization (EI) and positive ion collision-induced dissociation (CID) mass spectra of singly charged molecular ions. In this work, the extension to negative and multiple ion charge for the CID run mode is presented. QCxMS is now capable of calculating structures carrying any charge, without the need for pretabulated fragmentation pathways or machine learning of database spectra. Mass spectra of four single negatively charged and two multiple positively charged organic ions with molecular sizes from 11 to 92 atoms were computed and compared to reference spectra. The underlying Born–Oppenheimer molecular dynamics (MD) calculations were conducted using the semiempirical quantum mechanical GFN2-xTB method, while for some small molecules, ab initio DFT-based MD simulations were performed. Detailed insights into the fragmentation pathways were gained, and the effects of the computed charge assignments on the resulting spectrum are discussed. Especially for the negative ion mode, the influence of the deprotonation site to create the anion was found to be substantial. Doubly charged fragments could successfully be calculated fully automatically for the first time, while higher charged structures introduced severe assignment problems. Overall, this extension of the QCxMS program further enhances its applicability and underlines its value as a sophisticated toolkit for CID-based tandem MS structure elucidation.",
+           "URL": "https://doi.org/9.1021/jasms.2c00209",
+           "DOI": "9.1021/jasms.2c00209",
+           "note": "Publisher: American Society for Mass Spectrometry. Published by the American Chemical Society. All rights reserved.",
+           "journalAbbreviation": "J. Am. Soc. Mass Spectrom.",
+           "author": [
+               {
+                   "family": "Koopman",
+                   "given": "Jeroen"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2021,
+                       11,
+                       6
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       14
+                   ]
+               ]
+           }
+       },
+       {
+           "id": "16708939/KRLRM8TA",
+           "type": "article-journal",
+           "title": "Extended Conductor-like Polarizable Continuum Solvation Model (CPCM-X) for Semiempirical Methods",
+           "container-title": "The Journal of Physical Chemistry A",
+           "page": "7035-7043",
+           "volume": "126",
+           "issue": "32",
+           "abstract": "We have developed a new method to accurately account for solvation effects in semiempirical quantum mechanics based on a polarizable continuum model (PCM). The extended conductor-like polarizable continuum model (CPCM-X) incorporates a computationally efficient domain decomposition conductor-like screening model (ddCOSMO) for extended tight binding (xTB) methods and uses a post-processing approach based on established solvation models, like the conductor-like screening model for real solvents (COSMO-RS) and the universal solvent model based on solute electron density (SMD). According to various benchmarks, the approach performs well across a broad range of systems and applications, including hydration free energies, non-aqueous solvation free energies, and large supramolecular association reactions of neutral and charged species. Our method for computing solvation free energies is much more accurate than the current methods in the xtb program package. It improves the accuracy of solvation free energies by up to 39% for larger supramolecular association reactions to match even the accuracy of higher-level DFT-based solvation models like COSMO-RS and SMD while being computationally more than 2 orders of magnitude faster. The proposed method and the underlying ddCOSMO model are readily available for a wide variety of solvents and are accessible in xtb for use in various computational applications.",
+           "URL": "https://doi.org/9.1021/acs.jpca.3c04382",
+           "DOI": "9.1021/acs.jpca.3c04382",
+           "note": "Publisher: American Chemical Society",
+           "journalAbbreviation": "J. Phys. Chem. A",
+           "author": [
+               {
+                   "family": "Stahn",
+                   "given": "Marcel"
+               },
+               {
+                   "family": "Ehlert",
+                   "given": "Sebastian"
+               },
+               {
+                   "family": "Grimme",
+                   "given": "Stefan"
+               }
+           ],
+           "issued": {
+               "date-parts": [
+                   [
+                       2022,
+                       7,
+                       23
+                   ]
+               ]
+           },
+           "accessed": {
+               "date-parts": [
+                   [
+                       2023,
+                       1,
+                       14
+                   ]
+               ]
+           }
+       },
+        {
+            "id": "16708940/2WBCJTIZ",
+            "type": "article-journal",
+            "title": "Probing a Hydrogen-π Interaction Involving a Trapped Water Molecule in the Solid State",
+            "container-title": "Angewandte Chemie International Edition",
+            "page": "e202217725",
+            "volume": "62",
+            "issue": "14",
+            "abstract": "The detection and characterization of trapped water molecules in chemical entities and biomacromolecules remains a challenging task for solid materials. We herein present proton-detected solid-state Nuclear Magnetic Resonance (NMR) experiments at 100 kHz magic-angle spinning and at high static magnetic-field strengths (28.2 T) enabling the detection of a single water molecule fixed in the calix[4]arene cavity of a lanthanide complex by a combination of three types of non-covalent interactions. The water proton resonances are detected at a chemical-shift value close to zero ppm, which we further confirm by quantum-chemical calculations. Density Functional Theory calculations pinpoint to the sensitivity of the proton chemical-shift value for hydrogen-π interactions. Our study highlights how proton-detected solid-state NMR is turning into the method-of-choice in probing weak non-covalent interactions driving a whole branch of molecular-recognition events in chemistry and biology.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202217725",
+            "DOI": "10.1002/anie.202217725",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.202217725",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Bartalucci",
+                    "given": "Ettore"
+                },
+                {
+                    "family": "Malär",
+                    "given": "Alexander A."
+                },
+                {
+                    "family": "Mehnert",
+                    "given": "Anne"
+                },
+                {
+                    "family": "Kleine Büning",
+                    "given": "Julius B."
+                },
+                {
+                    "family": "Günzel",
+                    "given": "Lennart"
+                },
+                {
+                    "family": "Icker",
+                    "given": "Maik"
+                },
+                {
+                    "family": "Börner",
+                    "given": "Martin"
+                },
+                {
+                    "family": "Wiebeler",
+                    "given": "Christian"
+                },
+                {
+                    "family": "Meier",
+                    "given": "Beat H."
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Kersting",
+                    "given": "Berthold"
+                },
+                {
+                    "family": "Wiegand",
+                    "given": "Thomas"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/XS2JLFJD",
+            "type": "article-journal",
+            "title": "Quantum Chemical Calculation of Molecular and Periodic Peptide and Protein Structures",
+            "container-title": "The Journal of Physical Chemistry B",
+            "page": "3636-3646",
+            "volume": "124",
+            "issue": "18",
+            "abstract": "Special-purpose classical force fields (FFs) provide good accuracy at very low computational cost, but their application is limited to systems for which potential energy functions are available. This excludes most metal-containing proteins or those containing cofactors. In contrast, the GFN2-xTB semiempirical quantum chemical method is parametrized for almost the entire periodic table. The accuracy of GFN2-xTB is assessed for protein structures with respect to experimental X-ray data. Furthermore, the results are compared with those of two special-purpose FFs, HF-3c, PM6-D3H4X, and PM7. The test sets include proteins without any prosthetic groups as well as metalloproteins. Crystal packing effects are examined for a set of smaller proteins to validate the molecular approach. For the proteins without prosthetic groups, the special purpose FF OPLS-2005 yields the smallest overall RMSD to the X-ray data but GFN2-xTB provides similarly good structures with even better bond-length distributions. For the metalloproteins with up to 5000 atoms, a good overall structural agreement is obtained with GFN2-xTB. The full geometry optimizations of protein structures with on average 1000 atoms in wall-times below 1 day establishes the GFN2-xTB method as a versatile tool for the computational treatment of various biomolecules with a good accuracy/computational cost ratio.",
+            "URL": "https://doi.org/10.1021/acs.jpcb.0c00549",
+            "DOI": "10.1021/acs.jpcb.0c00549",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "J. Phys. Chem. B",
+            "author": [
+                {
+                    "family": "Schmitz",
+                    "given": "Sarah"
+                },
+                {
+                    "family": "Seibert",
+                    "given": "Jakob"
+                },
+                {
+                    "family": "Ostermeir",
+                    "given": "Katja"
+                },
+                {
+                    "family": "Hansen",
+                    "given": "Andreas"
+                },
+                {
+                    "family": "Göller",
+                    "given": "Andreas H."
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        7
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        21
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/H4T948CH",
+            "type": "article-journal",
+            "title": "Fast and Reasonable Geometry Optimization of Lanthanoid Complexes with an Extended Tight Binding Quantum Chemical Method",
+            "container-title": "Inorganic Chemistry",
+            "page": "12485-12491",
+            "volume": "56",
+            "issue": "20",
+            "abstract": "The recently developed tight binding electronic structure approach GFN-xTB is tested in a comprehensive and diverse lanthanoid geometry optimization benchmark containing 80 lanthanoid complexes. The results are evaluated with reference to high-quality X-ray molecular structures obtained from the Cambridge Structural Database and theoretical DFT-D3(BJ) optimized structures for a few Pm (Z = 61) containing systems. The average structural heavy-atom root-mean-square deviation of GFN-xTB (0.65 Å) is smaller compared to its competitors, the Sparkle/PM6 (0.86 Å) and HF-3c (0.68 Å) quantum chemical methods. It is shown that GFN-xTB yields chemically reasonable structures, less outliers, and performs well in terms of overall computational speed compared to other low-cost methods. The good reproduction of large lanthanoid complex structures corroborates the wide applicability of the GFN-xTB approach and its value as an efficient low-cost quantum chemical method. Its main purpose is the search for energetically low-lying complex conformations in the elucidation of reaction mechanisms.",
+            "URL": "https://doi.org/10.1021/acs.inorgchem.7b01950",
+            "DOI": "10.1021/acs.inorgchem.7b01950",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "Inorg. Chem.",
+            "author": [
+                {
+                    "family": "Bursch",
+                    "given": "Markus"
+                },
+                {
+                    "family": "Hansen",
+                    "given": "Andreas"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2017,
+                        10,
+                        16
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/TFTQEES8",
+            "type": "article-journal",
+            "title": "Comprehensive Benchmark Study on the Calculation of 29Si NMR Chemical Shifts",
+            "container-title": "Inorganic Chemistry",
+            "page": "272-285",
+            "volume": "60",
+            "issue": "1",
+            "abstract": "A comprehensive and diverse benchmark set for the calculation of 29Si NMR chemical shifts is presented. The SiS146 set includes 100 silicon containing compounds with 146 experimentally determined reference 29Si NMR chemical shifts measured in nine different solvents in a range from −400 to +828 ppm. Silicon atoms bound to main group elements as well as transition metals with coordination numbers of 2–6 in various bonding patterns including multiple bonds and coordinative and aromatic bonding are represented. The performance of various common and specialized density functional approximations including (meta-)GGA, hybrid, and double-hybrid functionals in combination with different AO basis sets and for differently optimized geometries is evaluated. The role of scalar-relativistic effects is further investigated by inclusion of the zeroth order regular approximation (ZORA) method into the calculations. GGA density functional approximations (DFAs) are found to outperform hybrid DFAs with B97-D3 performing best with an MAD of 7.2 ppm for the subset including only light atoms (Z < 18), while TPSSh is the best tested hybrid functional with an MAD of 10.3 ppm. For 29Si cores in the vicinity of heavier atoms, the application of ZORA proved indispensable. Inclusion of spin–orbit effects into the 29Si NMR chemical shift calculation decreases the mean absolute deviations by up to 74% compared to calculations applying effective core potentials.",
+            "URL": "https://doi.org/10.1021/acs.inorgchem.0c02907",
+            "DOI": "10.1021/acs.inorgchem.0c02907",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "Inorg. Chem.",
+            "author": [
+                {
+                    "family": "Bursch",
+                    "given": "Markus"
+                },
+                {
+                    "family": "Gasevic",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Stückrath",
+                    "given": "Julius B."
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        4
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/W7LW63PE",
+            "type": "article-journal",
+            "title": "Comment on “The Nature of Chalcogen-Bonding-Type Tellurium–Nitrogen Interactions”: Fixing the Description of Finite-Temperature Effects Restores the Agreement Between Experiment and Theory",
+            "container-title": "Angewandte Chemie International Edition",
+            "page": "13144-13149",
+            "volume": "60",
+            "issue": "24",
+            "abstract": "Mitzel and co-workers recently presented an intriguing molecule displaying a tellurium–nitrogen interaction. Structural data obtained in the solid and in gas phase indicated a large increase of the Te–N equilibrium distance re from 2.64 to 2.92 Å, respectively. Although some DFT calculations appear to support the large re in gas phase, we argue that the lions share of the increase is due to an incomplete description of finite-temperature effects in the back-corrected experimental data. This hypothesis is based on high-level coupled-cluster (CC) and periodic DFT calculations, which consistently point towards a much smaller re in the isolated molecule. Further support comes through MD simulations with a tuned GFN2-xTB Hamiltonian: Calibrated against a CC reference, these show a six-times larger influence of temperature than with the originally used GFN1-xTB. Taking this into account, the back-corrected re in gas phase becomes 2.67±0.08 Å, in good agreement with high-level CC theory and most DFT methods.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202102679",
+            "DOI": "10.1002/anie.202102679",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.202102679",
+            "shortTitle": "Comment on “The Nature of Chalcogen-Bonding-Type Tellurium–Nitrogen Interactions”",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Mewes",
+                    "given": "Jan-Michael"
+                },
+                {
+                    "family": "Hansen",
+                    "given": "Andreas"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/7K8RVP6N",
+            "type": "article-journal",
+            "title": "Efficient Quantum-Chemical Calculations of Acid Dissociation Constants from Free-Energy Relationships",
+            "container-title": "The Journal of Physical Chemistry A",
+            "page": "5681-5692",
+            "volume": "125",
+            "issue": "25",
+            "abstract": "The calculation of acid dissociation constants (pKa) is an important task in computational chemistry and chemoinformatics. Theoretically and with minimal empiricism, this is possible from computed acid dissociation free energies via so-called linear free-energy relationships. In this study some modifications are introduced to the latter, providing a straightforward, broadly applicable protocol with an adjustable degree of sophistication for quantum chemistry-based calculations of pKa in water. It targets a wide pKa range (∼70 units) and medium-sized, flexible molecules. Herein, a focus is set on the recently published r2SCAN-3c and related efficient composite density functionals and the semiempirical GFN2–xTB method, including a newly introduced energy correction for heterolytic dissociation, both in combination with implicit solvation models. The performance is evaluated in comparison with experimental data, showing mean errors often smaller than a targeted 1 pKa unit accuracy. Larger deviations are observed only upon inclusion of challenging highly negative (<−5) or positive (>15) pKa values. Among all those tested, it is found that B97-3c is the best performing functional, although rather independently of the density functional theory (DFT) method used; low root-mean-square errors of 0.8–1.0 pKa units for typical drugs are obtained. For optimal performance, it is recommended to employ DFT functional specific free-energy relationship parameters. Additionally, a significant conformational dependence of the pKa values is revealed and quantified for some nonrigid drug molecules.",
+            "URL": "https://doi.org/10.1021/acs.jpca.1c03463",
+            "DOI": "10.1021/acs.jpca.1c03463",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "J. Phys. Chem. A",
+            "author": [
+                {
+                    "family": "Pracht",
+                    "given": "Philipp"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        7,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/4MQSWZEU",
+            "type": "article-journal",
+            "title": "Efficient Computation of Free Energy Contributions for Association Reactions of Large Molecules",
+            "container-title": "The Journal of Physical Chemistry Letters",
+            "page": "6606-6611",
+            "volume": "11",
+            "issue": "16",
+            "abstract": "Modern density functional theory (DFT) methods are capable of providing accurate association energies for supramolecular systems and even protein–ligand complexes. However, the calculation of the essential harmonic vibrational frequencies needed to obtain free energies is often too computationally demanding. In this work, the corresponding thermostatistical contributions are computed in the well-established (modified) rigid-rotor-harmonic-oscillator approximation with structures and frequencies taken from low-cost quantum chemical methods, namely, GFN2-xTB and PM6-D3H4. Additionally, a recently developed new general force field (GFN-FF) is tested for this purpose. DFT reference values for 59 complexes composed of three standard noncovalent and supramolecular benchmark sets (S22, L7, and S30L) are used in the evaluation. Overall, the accuracy of the low-cost methods is remarkable with typical deviations of only 0.5–2 kcal mol–1 (5–10%) from the DFT reference values. In particular, the performance of the GFN-FF is promising considering the acceleration of 5 and 2–3 orders of magnitude compared to DFT and GFN2-xTB, respectively. This opens new perspectives for computing thermodynamic properties of, e.g., biomacromolecules as shown, for example, for the binding of retinol and rivaroxaban in protein complexes consisting of ≤4700 atoms.",
+            "URL": "https://doi.org/10.1021/acs.jpclett.0c01930",
+            "DOI": "10.1021/acs.jpclett.0c01930",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "J. Phys. Chem. Lett.",
+            "author": [
+                {
+                    "family": "Spicher",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        8,
+                        20
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/9J57SV96",
+            "type": "article-journal",
+            "title": "Fast and Accurate Quantum Chemical Modeling of Infrared Spectra of Condensed-Phase Systems",
+            "container-title": "The Journal of Physical Chemistry B",
+            "page": "6664-6670",
+            "volume": "124",
+            "issue": "30",
+            "abstract": "An efficient approach for an accurate quantum mechanical (QM) modeling of infrared (IR) spectra of condensed-phase systems is described. An ensemble of energetically low-lying cluster structures of a solute molecule surrounded by an explicit shell of solvent molecules is efficiently generated at the semiempirical tight-binding QM level and then reoptimized at the density functional theory level of theory. The IR spectrum of the solvated molecule is obtained as a thermodynamic average of harmonically computed QM spectra for all significantly populated cluster structures. The accuracy of such simulations in comparison to experimental data for some organic compounds and their solutions is shown to be the same or even better than the corresponding QM computations of the gas-phase IR spectrum for the isolated molecule.",
+            "URL": "https://doi.org/10.1021/acs.jpcb.0c05857",
+            "DOI": "10.1021/acs.jpcb.0c05857",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "J. Phys. Chem. B",
+            "author": [
+                {
+                    "family": "Katsyuba",
+                    "given": "Sergey A."
+                },
+                {
+                    "family": "Spicher",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Gerasimova",
+                    "given": "Tatiana P."
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        30
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/89JDB34L",
+            "type": "article-journal",
+            "title": "Exploration of the Solid-State Sorption Properties of Shape-Persistent Macrocyclic Nanocarbons as Bulk Materials and Small Aggregates",
+            "container-title": "Journal of the American Chemical Society",
+            "page": "8763-8775",
+            "volume": "142",
+            "issue": "19",
+            "abstract": "Porous molecular materials combine benefits such as convenient processability and the possibility for atom-precise structural fine-tuning which makes them remarkable candidates for specialty applications in the areas of gas separation, catalysis, and sensing. In order to realize the full potential of these materials and guide future molecular design, knowledge of the transition from molecular properties into materials behavior is essential. In this work, the class of compounds termed cycloparaphenylenes (CPPs)—shape-persistent macrocycles with built-in cavities and radially oriented π-systems—was selected as a conceptually simple class of intrinsically porous nanocarbons to serve as a platform for studying the transition from analyte sorption properties of small aggregates to those of bulk materials. In our detailed investigation, two series of CPPs were probed: previously reported hoop-shaped [n]CPPs and a novel family of all-phenylene figure-8 shaped (lemniscal) bismacrocycles, termed spiro[n,n]CPPs. A series of nanocarbons with different macrocycle sizes and heteroatom content have been prepared by atom-precise organic synthetic methods, and their structural, photophysical, and electronic attributes were disclosed. Detailed experimental studies (X-ray crystallography, gas sorption, and quartz-crystal microbalance measurements) and quantum chemical calculations provided ample evidence for the importance of the solid-state arrangement on the porosity and analyte uptake ability of intrinsically porous molecular nanocarbons. We demonstrate that this molecular design principle, i.e., incorporation of sterically demanding spiro junctions into the backbone of nanohoops, enables the manipulation of solid-state morphology without significantly changing the nature and size of the macrocyclic cavities. As a result, the novel spiro[n,n]CPPs showed a remarkable performance as high affinity material for vapor analyte sensing.",
+            "URL": "https://doi.org/10.1021/jacs.0c01117",
+            "DOI": "10.1021/jacs.0c01117",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "J. Am. Chem. Soc.",
+            "author": [
+                {
+                    "family": "Schaub",
+                    "given": "Tobias A."
+                },
+                {
+                    "family": "Prantl",
+                    "given": "Ephraim A."
+                },
+                {
+                    "family": "Kohn",
+                    "given": "Julia"
+                },
+                {
+                    "family": "Bursch",
+                    "given": "Markus"
+                },
+                {
+                    "family": "Marshall",
+                    "given": "Checkers R."
+                },
+                {
+                    "family": "Leonhardt",
+                    "given": "Erik J."
+                },
+                {
+                    "family": "Lovell",
+                    "given": "Terri C."
+                },
+                {
+                    "family": "Zakharov",
+                    "given": "Lev N."
+                },
+                {
+                    "family": "Brozek",
+                    "given": "Carl K."
+                },
+                {
+                    "family": "Waldvogel",
+                    "given": "Siegfried R."
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Jasti",
+                    "given": "Ramesh"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        13
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/EBJ5KJ58",
+            "type": "article-journal",
+            "title": "Dynamic Structural Effects on the Second-Harmonic Generation of Tryptophane-Rich Peptides and Gramicidin A",
+            "container-title": "The Journal of Physical Chemistry B",
+            "page": "2568-2578",
+            "volume": "124",
+            "issue": "13",
+            "abstract": "Peptide chains can model endogenous biotags for applications in second-harmonic imaging microscopy. Such structures are flexible which may strongly affect their structure–property relationship. Here, we explore quantum-mechanically the conformational space of a set of tryptophan-rich model peptides. This has become feasible because of the recently proposed meta-dynamics method based on efficient tight-binding (TB) calculations. The TB version of the simplified time-dependent density functional theory (sTD-DFT-xTB) method is used to evaluate the first hyperpolarizability (β). These new tools enable us to calculate nonlinear optical properties for systems with several thousand atoms and/or to screen large structure ensembles. First, we show that the indole chromophore in tryptophan residues dominates the β response of these systems. Their relative orientation mostly determines the global β tensor and affects the static β response. The results underline the importance of finding low-energy conformers for modeling β of flexible molecules. Additionally, we compare calculated and extrapolated experimental static β. The sTD-DFT-xTB method is capable of providing reliable second-harmonic generation values for tryptophan-rich systems at a fraction of the computational cost of the commonly used TD-DFT/TD-HF levels of theory.",
+            "URL": "https://doi.org/10.1021/acs.jpcb.0c00643",
+            "DOI": "10.1021/acs.jpcb.0c00643",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "J. Phys. Chem. B",
+            "author": [
+                {
+                    "family": "Seibert",
+                    "given": "Jakob"
+                },
+                {
+                    "family": "Champagne",
+                    "given": "Benoît"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "de Wergifosse",
+                    "given": "Marc"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        2
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/EABZGWI4",
+            "type": "article-journal",
+            "title": "Isolation and Computational Studies of a Series of Terphenyl Substituted Diplumbynes with Ligand Dependent Lead–Lead Multiple-Bonding Character",
+            "container-title": "Journal of the American Chemical Society",
+            "page": "14370-14383",
+            "volume": "141",
+            "issue": "36",
+            "abstract": "A series of formally triply bonded diplumbyne analogues of alkynes of the general formula ArPbPbAr (Ar = terphenyl ligand with different steric properties) was synthesized by two routes. All diplumbyne products were synthesized by a simple reduction of the corresponding Pb(II) halide precursor ArPb(Br) by DIBAL-H with yields in the range 8–48%. For one of the diplumbynes ArPri4PbPbArPri4 (ArPri4 = C6H3-2,6-(C6H3-2,6-Pri2)2) it was shown that reduction of ArPri4Pb(Br) using a magnesium(I) beta-diketiminate afforded a much improved yield in comparison (29 vs 8%) to that obtained by reduction with DIBAL-H. The more sterically crowded diplumbyne ArPri8PbPbArPri8 (ArPri8 = C6H-3,5-Pri2-2,6-(C6H2-2,4,6-Pri3)2) displayed a shortened Pb–Pb bond with a length of 3.0382(5) Å and wide Pb–Pb–C angles of 114.73(7)° and 116.02(6)° consistent with multiple-bond character with a bond order of up to 1.5. The others displayed longer metal–metal distances and narrower Pb–Pb–C angles that were consistent with a lower bond order that approached one. Computational studies of the diplumbynes yielded detailed insight of the unusual bonding and explained their similar electronic spectra arising from the flexibility of the C–Pb–Pb–C core in solution. Furthermore, the importance of London dispersion interactions for the stabilization of the diplumbynes was demonstrated.",
+            "URL": "https://doi.org/10.1021/jacs.9b07072",
+            "DOI": "10.1021/jacs.9b07072",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "J. Am. Chem. Soc.",
+            "author": [
+                {
+                    "family": "Queen",
+                    "given": "Joshua D."
+                },
+                {
+                    "family": "Bursch",
+                    "given": "Markus"
+                },
+                {
+                    "family": "Seibert",
+                    "given": "Jakob"
+                },
+                {
+                    "family": "Maurer",
+                    "given": "Leonard R."
+                },
+                {
+                    "family": "Ellis",
+                    "given": "Bobby D."
+                },
+                {
+                    "family": "Fettinger",
+                    "given": "James C."
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Power",
+                    "given": "Philip P."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        9,
+                        11
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/6HA8TDN3",
+            "type": "article-journal",
+            "title": "Conformational energies of biomolecules in solution: Extending the MPCONF196 benchmark with explicit water molecules",
+            "container-title": "Journal of Computational Chemistry",
+            "page": "419-429",
+            "volume": "45",
+            "issue": "7",
+            "abstract": "A prerequisite for the computational prediction of molecular properties like conformational energies of biomolecules is a reliable, robust, and computationally affordable method usually selected according to its performance for relevant benchmark sets. However, most of these sets comprise molecules in the gas phase and do not cover interactions with a solvent, even though biomolecules typically occur in aqueous solution. To address this issue, we introduce a with explicit water molecules solvated version of a gas-phase benchmark set containing 196 conformers of 13 peptides and other relevant macrocycles, namely MPCONF196 [J. Řezáč et al., JCTC 2018, 14, 1254–1266], and provide very accurate PNO-LCCSD(T)-F12b/AVQZ' reference values. The novel solvMPCONF196 benchmark set features two additional challenges beyond the description of conformers in the gas phase: conformer–water and water–water interactions. The overall best performing method for this set is the double hybrid revDSDPBEP86-D4/def2-QZVPP yielding conformational energies of almost coupled cluster quality. Furthermore, some (meta-)GGAs and hybrid functionals like B97M-V and ωB97M-D with a large basis set reproduce the coupled cluster reference with an MAD below 1 kcal mol−1 . If more efficient methods are required, the composite DFT-method r2SCAN-3c (MAD of 1.2 kcal mol−1) is a good alternative, and when conformational energies of polypeptides or macrocycles with more than 500–1000 atoms are in the focus, the semi-empirical GFN2-xTB or the MMFF94 force field (for very large systems) are recommended.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.27248",
+            "DOI": "10.1002/jcc.27248",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcc.27248",
+            "shortTitle": "Conformational energies of biomolecules in solution",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Plett",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Hansen",
+                    "given": "Andreas"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/HEELT9WC",
+            "type": "article-journal",
+            "title": "Modular Bicyclophane-Based Molecular Platforms",
+            "container-title": "Chemistry – A European Journal",
+            "page": "e202302662",
+            "volume": "29",
+            "issue": "70",
+            "abstract": "The modular synthesis of a series of nanoscale phenylene bicyclophanes with an intraannular orthogonal pillar is described. The compounds are obtained by a Suzuki cross-coupling condensation and are characterized by mass spectrometry and NMR spectroscopy as well as in situ scanning tunneling microscopy at the solid/liquid interface of highly ordered pyrolytic graphite. In addition, their structures and conformations are supported by quantum chemical calculations, also after adsorption to the substrate. A set of two alkyl chain substitution patterns as well as a combination of both were investigated with respect to their ability to form extended 2D-crystalline superstructures on graphite. It shows that not the most densely packed surface coverage gives the most stable structure, but the largest number of alkyl chains per molecule determines the structural robustness to alterations at the pillar functionality.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202302662",
+            "DOI": "10.1002/chem.202302662",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/chem.202302662",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Kalle",
+                    "given": "Daniel"
+                },
+                {
+                    "family": "Bahr",
+                    "given": "Joshua"
+                },
+                {
+                    "family": "Keller",
+                    "given": "Tristan Johannes"
+                },
+                {
+                    "family": "Kleine Büning",
+                    "given": "Julius B."
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Bursch",
+                    "given": "Markus"
+                },
+                {
+                    "family": "Jester",
+                    "given": "Stefan-Sven"
+                },
+                {
+                    "family": "Höger",
+                    "given": "Sigurd"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/KKU5FCPF",
+            "type": "article-journal",
+            "title": "Proton-transfer rate constants for the determination of organic indoor air pollutants by online mass spectrometry",
+            "container-title": "RSC Advances",
+            "page": "17856-17868",
+            "volume": "13",
+            "issue": "26",
+            "abstract": "Proton transfer reaction mass spectrometry (PTR-MS) has become an indispensable analytical tool for indoor related sciences. With high-resolution techniques not only is the online monitoring of the selected ions in the gas phase possible, but also, with some limitations, the identification of substance mixtures without chromatographic separation. The quantification is carried out with the help of kinetic laws, which require knowledge of the conditions in the reaction chamber, the reduced ion moblilities and the reaction rate constant kPT under these conditions. Ion–dipole collision theory can be used to calculate kPT. One approach is an extension of Langevin's equation and is known as average dipole orientation (ADO). In a further development, the analytical solution of ADO was replaced by trajectory analysis, which resulted in capture theory. The calculations according to ADO and capture theory require precise knowledge of the dipole moment and the polarizability of the respective target molecule. However, for many relevant indoor related substances, these data are insufficiently known or not known at all. Consequently, the dipole moment μD and polarizability α of 114 organic compounds that are frequently found in indoor air had to be determined using advanced quantum mechanical methods. This required the development of an automated workflow that performs conformer analysis before computing μD and α using density functional theory (DFT). Then the reaction rate constants with the H3O+ ion are calculated according to the ADO theory (kADO), capture theory (kcap) and advanced capture theory for different conditions in the reaction chamber. The kinetic parameters are evaluated with regard to their plausibility and critically discussed for their applicability in PTR-MS measurements.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2023/ra/d3ra01705b",
+            "DOI": "10.1039/D3RA01705B",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "RSC Adv.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Salthammer",
+                    "given": "Tunga"
+                },
+                {
+                    "family": "Hohm",
+                    "given": "Uwe"
+                },
+                {
+                    "family": "Stahn",
+                    "given": "Marcel"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        6,
+                        9
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/EAKTTYFC",
+            "type": "article-journal",
+            "title": "Reliable prediction of association (free) energies of supramolecular complexes with heavy main group elements – the HS13L benchmark set",
+            "container-title": "Physical Chemistry Chemical Physics",
+            "page": "28831-28843",
+            "volume": "24",
+            "issue": "47",
+            "abstract": "We introduce a set of 13 supramolecular complexes featuring diverse non-covalent interactions with heavy main group elements (Zn, As, Se, Te, Br, I), high charges (−2 up to +4), and large systems with up to 266 atoms (HS13L). The experimental Gibbs free energies of association cover the typical range (−1.9 to −9.2 kcal mol−1). An efficient automated multilevel theoretical workflow is applied for the determination of the respective minimum structures in solution by conformer ensemble generation with the CREST program at the semiempirical GFN2-xTB level. Subsequent refinement is performed with the r2SCAN-3c composite DFT method including thermostatistical corrections at the GFN2-xTB level and solvation contributions by COSMO-RS using the CENSO free energy ranking algorithm. Various density functional approximations in combination with three London dispersion correction schemes are assessed against “back-corrected” experimental association energies as well as accurate local coupled cluster reference values. Our protocol predicts association free energies with a mean absolute deviation of only 2 kcal mol−1 from the measured values. Thus, it is well suited to generate reference association free energies for assessing theoretical methods on realistically sized supramolecular complexes or to support experimental chemists. For specifically evaluating methods for calculating gas-phase association energies, we recommend using the provided accurate coupled cluster reference values. We propose to use this set as an extension of the S30L benchmark set [Sure et al., J. Chem. Theory Comput., 2015, 11, 3785–3801] with a special focus on the challenging computation of non-covalent interactions of heavy main group elements.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2022/cp/d2cp04049b",
+            "DOI": "10.1039/D2CP04049B",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Gorges",
+                    "given": "Johannes"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Hansen",
+                    "given": "Andreas"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        12,
+                        7
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/QA6QWT55",
+            "type": "article-journal",
+            "title": "Computational study of ground-state properties of μ2-bridged group 14 porphyrinic sandwich complexes",
+            "container-title": "Journal of Computational Chemistry",
+            "page": "229-239",
+            "volume": "44",
+            "issue": "3",
+            "abstract": "The structural properties of μ2-bridged porphyrinic double-decker complexes are investigated and the influence of various ligands, metals, substituents, and bridging atoms on the dominant structural motif is elucidated. A variety of quantum chemical methods including semiempirical (SQM) methods and density functional theory (DFT) is assessed for the calculation of ecliptic and staggered conformational energies. Local coupled cluster (DLPNO-CCSD(T1)) data are generated for reference. The r2SCAN-3c composite scheme as well as the B2PLYP-D4/def2-QZVPP approach are identified as reliable methods. Energy decomposition analyses (EDA) and localized molecular orbital analyses (LMO) are used to investigate the bonding situation and the nature of the inter-ligand interaction energy underlining the crucial role of attractive London dispersion interactions. Targeted modification of the bridging atom, e.g., by replacing O2− by S2− is shown to drastically change the major structural features of the investigated complexes. Further, the influence of different substituents of varying size at the phthalocyanine ligand regarding the dominant conformation is described.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/jcc.26870",
+            "DOI": "10.1002/jcc.26870",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/jcc.26870",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Kohn",
+                    "given": "Julia"
+                },
+                {
+                    "family": "Bursch",
+                    "given": "Markus"
+                },
+                {
+                    "family": "Hansen",
+                    "given": "Andreas"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/Q3E9AIY8",
+            "type": "article-journal",
+            "title": "Multifunctional Organocatalysts - Singly-Linked and Macrocyclic Bisphosphoric Acids for Asymmetric Phase-Transfer and Brønsted-Acid Catalysis",
+            "container-title": "Chemistry – A European Journal",
+            "page": "e202202953",
+            "volume": "29",
+            "issue": "2",
+            "abstract": "Abstract The linking of phosphoric acids via covalent or mechanical bonds has proven to be a successful strategy for the design of novel organocatalysts. Here, we present the first systematic investigation of singly-linked and macrocyclic bisphosphoric acids, including their synthesis and their application in phase-transfer and Br?nsted acid catalysis. We found that the novel bisphosphoric acids show dramatically increased enantioselectivities in comparison to their monophosphoric acid analogues. However, the nature, length and number of linkers has a profound influence on the enantioselectivities. In the asymmetric dearomative fluorination via phase-transfer catalysis, bisphosphoric acids with a single, rigid bisalkyne-linker give the best results with moderate to good enantiomeric excesses. In contrast, bisphosphoric acids with flexible linkers give excellent enantioselectivities in the transfer-hydrogenation of quinolines via cooperative Br?nsted acid catalysis. In the latter case, sufficiently long linkers are needed for high stereoselectivities, as found experimentally and supported by DFT calculations.",
+            "URL": "https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.202202953",
+            "DOI": "10.1002/chem.202202953",
+            "note": "Publisher: John Wiley & Sons, Ltd",
+            "author": [
+                {
+                    "family": "Thiele",
+                    "given": "Maike"
+                },
+                {
+                    "family": "Rose",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Lõkov",
+                    "given": "Märt"
+                },
+                {
+                    "family": "Stadtfeld",
+                    "given": "Sophia"
+                },
+                {
+                    "family": "Tshepelevitsh",
+                    "given": "Sofja"
+                },
+                {
+                    "family": "Parman",
+                    "given": "Elisabeth"
+                },
+                {
+                    "family": "Opara",
+                    "given": "Karina"
+                },
+                {
+                    "family": "Wölper",
+                    "given": "Christoph"
+                },
+                {
+                    "family": "Leito",
+                    "given": "Ivo"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Niemeyer",
+                    "given": "Jochen"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        9
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/GAMMESX6",
+            "type": "article-journal",
+            "title": "Quantum chemical calculation of the vapor pressure of volatile and semi volatile organic compounds",
+            "container-title": "Environmental Science: Processes & Impacts",
+            "page": "2153-2166",
+            "volume": "24",
+            "issue": "11",
+            "abstract": "The vapor pressure is a specific and temperature-dependent parameter that describes the volatility of a substance and thus its driving force for evaporation or sublimation into the gas phase. Depending on the magnitude of the vapor pressure, there are different methods for experimental determination. However, these are usually associated with a corresponding amount of effort and become less accurate as the vapor pressure decreases. For purposes of vapor pressure prediction, algorithms were developed that are usually based on quantitative structure–activity relationships (QSAR). The quantum mechanical (QM) approach followed here applies an alternative, much less empirical strategy, where the change in Gibbs free energy for the transition from the condensed to the gas phase is obtained from conformer ensembles computed for each phase separately. The results of this automatic, so-called CRENSO workflow are compared with experimentally determined vapor pressures for a large set of environmentally relevant compounds. In addition, comparisons are made with the single structure-based COSMO-RS QM approach, linear-free-energy relationships (LFER) as well as results from the SPARC program. We show that our CRENSO workflow is superior to conventional prediction models and provides reliable vapor pressures for liquids and sub-cooled liquids over a wide pressure range.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2022/em/d2em00271j",
+            "DOI": "10.1039/D2EM00271J",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Environ. Sci.: Processes Impacts",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Stahn",
+                    "given": "Marcel"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Salthammer",
+                    "given": "Tunga"
+                },
+                {
+                    "family": "Hohm",
+                    "given": "Uwe"
+                },
+                {
+                    "family": "Palm",
+                    "given": "Wolf-Ulrich"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        11,
+                        16
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/NZWZ558Q",
+            "type": "article-journal",
+            "title": "Uncertainty quantification of phase transition quantities from cluster weighting calculations",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "014505",
+            "volume": "157",
+            "issue": "1",
+            "abstract": "In this work, we investigate how uncertainties in experimental input data influence the results of quantum cluster equilibrium calculations. In particular, we focus on the calculation of vaporization enthalpies and entropies of seven organic liquids, compare two computational approaches for their calculation, and investigate how these properties are affected by changes in the experimental input data. It is observed that the vaporization enthalpies and entropies show a smooth dependence on changes in the reference density and boiling point. The reference density is found to have only a small influence on the vaporization thermodynamics, whereas the boiling point has a large influence on the vaporization enthalpy but only a small influence on the vaporization entropy. Furthermore, we employed the Gauss--Hermite estimator in order to quantify the uncertainty in thermodynamic functions that stems from inaccuracies in the experimental reference data for the example of the vaporization enthalpy of (R)-butan-2-ol. We quantify the uncertainty as 30.95 · 10−3 kJ mol−1. In addition, we compare the convergence behavior and computational effort of the Gauss–Hermite estimator with the Monte Carlo approach and show the superiority of the former. Using this study, we present how uncertainty quantification can be applied to examples from theoretical chemistry.",
+            "URL": "https://doi.org/10.1063/5.0093057",
+            "DOI": "10.1063/5.0093057",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Blasius",
+                    "given": "Jan"
+                },
+                {
+                    "family": "Zaby",
+                    "given": "Paul"
+                },
+                {
+                    "family": "Dölz",
+                    "given": "Jürgen"
+                },
+                {
+                    "family": "Kirchner",
+                    "given": "Barbara"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        7,
+                        5
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/R7LLI4EH",
+            "type": "article-journal",
+            "title": "The Role of Packing, Dispersion, Electrostatics, and Solvation in High-Affinity Complexes of Cucurbit[n]urils with Uncharged Polar Guests",
+            "container-title": "Chemistry – A European Journal",
+            "page": "e202200529",
+            "volume": "28",
+            "issue": "38",
+            "abstract": "The rationalization of non-covalent binding trends is both of fundamental interest and provides new design concepts for biomimetic molecular systems. Cucurbit[n]urils (CBn) are known for a long time as the strongest synthetic binders for a wide range of (bio)organic compounds in water. However, their host-guest binding mechanism remains ambiguous despite their symmetric and simple macrocyclic structure and the wealth of literature reports. We herein report experimental thermodynamic binding parameters (ΔG, ΔH, TΔS) for CB7 and CB8 with a set of hydroxylated adamantanes, di-, and triamantanes as uncharged, rigid, and spherical/ellipsoidal guests. Binding geometries and binding energy decomposition were obtained from high-level theory computations. This study reveals that neither London dispersion interactions, nor electronic energies or entropic factors are decisive, selectivity-controlling factors for CBn complexes. In contrast, peculiar host-related solvation effects were identified as the major factor for rationalizing the unique behavior and record-affinity characteristics of cucurbit[n]urils.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202200529",
+            "DOI": "10.1002/chem.202200529",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/chem.202200529",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Grimm",
+                    "given": "Laura M."
+                },
+                {
+                    "family": "Spicher",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Tkachenko",
+                    "given": "Boryslav"
+                },
+                {
+                    "family": "Schreiner",
+                    "given": "Peter R."
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Biedermann",
+                    "given": "Frank"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/GCT73J8X",
+            "type": "article-journal",
+            "title": "Quantum Chemistry-based Molecular Dynamics Simulations as a Tool for the Assignment of ESI-MS/MS Spectra of Drug Molecules",
+            "container-title": "Chemistry – A European Journal",
+            "page": "e202200318",
+            "volume": "28",
+            "issue": "27",
+            "abstract": "In organic mass spectrometry, fragment ions provide important information on the analyte as a central part of its structure elucidation. With increasing molecular size and possible protonation sites, the potential energy surface (PES) of the analyte can become very complex, which results in a large number of possible fragmentation patterns. Quantum chemical (QC) calculations can help here, enabling the fast calculation of the PES and thus enhancing the mass spectrometry-based structure elucidation processes. In this work, the previously unknown fragmentation pathways of the two drug molecules Nateglinide (45 atoms) and Zopiclone (51 atoms) were investigated using a combination of generic formalisms and calculations conducted with the Quantum Chemical Mass Spectrometry (QCxMS) program. The computations of the de novo fragment spectra were conducted with the semi-empirical GFNn-xTB (n=1, 2) methods and compared against Orbitrap measured electrospray ionization (ESI) spectra in positive ion mode. It was found that the unbiased QC calculations are particularly suitable to predict non-evident fragment ion structures, sometimes contrasting the accepted generic formulation of fragment ion structures from electron migration rules, where the “true” ion fragment structures are approximated. For the first time, all fragment and intermediate structures of these large-sized molecules could be elucidated completely and routinely using this merger of methods, finding new undocumented mechanisms, that are not considered in common rules published so far. Given the importance of ESI for medicinal chemistry, pharmacokinetics, and metabolomics, this approach can significantly enhance the mass spectrometry-based structure elucidation processes and contribute to the understanding of previously unknown fragmentation pathways.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202200318",
+            "DOI": "10.1002/chem.202200318",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/chem.202200318",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Schnegotzki",
+                    "given": "Romina"
+                },
+                {
+                    "family": "Koopman",
+                    "given": "Jeroen"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Süssmuth",
+                    "given": "Roderich D."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/SB2M6EUN",
+            "type": "article-journal",
+            "title": "The incorporation of upper <i>vs</i> lower rim substituted thia- and calix[4]arene ligands into polydiacethylene polymeric bilayers for rational design of sensors to heavy metal ions",
+            "container-title": "Polymer",
+            "page": "124728",
+            "volume": "245",
+            "abstract": "1,3-Diketone calix [4]arene (CA) and thiacalix [4]arene (TCA), with the hydrophobic substituents introduced onto lower or upper rims respectively, form mixed aggregates with 10,12-pentacosadiynoic acid (PCDA) through the thin film hydration technique. Computer simulations, showing the arrangement of TCA and CA molecules in supramolecular clusters with PCDA molecules, suggest that PCDA assemblies with both cyclophanes are a convinient basis for the coordination of metal ions. However, photopolymerization of mixed aggregates reveals more disruption of the vesicular nanostructure of polydiacetylene (PDA) when CA molecules are included compared to TCA. The incorporation of the TCA and CA ligands influences the ability of the mixed PDA-bilayers to conformational and spectral changes and provides tight coordination of Tb3+ ions and efficient sensitizing of the Tb3+-centered luminescence. The PDA-bilayers incorporated by terbium TCA complex provide more sensitive response on the series of heavy metal ions vs their CA-based analogues. The surface exposed TCA rims and carboxylate moieties of PDA provide two different binding sites for Tb3+ and heavy metal ions. Both distribution of Tb3+ and heavy metal ions between these sites and heterometallic complex formation are revealed as the factors affecting the luminescence response of PDA-TCA terbium complex in the solutions of heavy metal ions. The interplay between these factors is the reason for the different luminescence response of PDA-TCA terbium complex on Cd2+, Hg2+ and Pb2+ ions. The PDA-vesicles incorporated by terbium TCA complex exhibit easier phase separation vs the PDA vesicles themselves, which favors the extraction of Pb2+ ions.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0032386122002154",
+            "DOI": "10.1016/j.polymer.2022.124728",
+            "journalAbbreviation": "Polymer",
+            "author": [
+                {
+                    "family": "Akhmadeev",
+                    "given": "B. S."
+                },
+                {
+                    "family": "Podyachev",
+                    "given": "S. N."
+                },
+                {
+                    "family": "Katsyuba",
+                    "given": "S. A."
+                },
+                {
+                    "family": "Spicher",
+                    "given": "S."
+                },
+                {
+                    "family": "Sudakova",
+                    "given": "S. N."
+                },
+                {
+                    "family": "Gimazetdinova",
+                    "given": "G. Sh"
+                },
+                {
+                    "family": "Syakaev",
+                    "given": "V. V."
+                },
+                {
+                    "family": "Sinyashin",
+                    "given": "O. G."
+                },
+                {
+                    "family": "Mustafina",
+                    "given": "A. R."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        4,
+                        6
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/ZSQWRNFT",
+            "type": "article-journal",
+            "title": "Coexistence of Tellurium Cations and Anions in Phosphonium-Based Ionic Liquids",
+            "container-title": "Chemistry – A European Journal",
+            "page": "e202103770",
+            "volume": "28",
+            "issue": "7",
+            "abstract": "Elemental tellurium readily dissolves in ionic liquids (ILs) based on tetraalkylphosphonium cations even at temperatures below 100 °C. In the case of ILs with acetate, decanoate, or dicyanamide anions, dark red to purple colored solutions form. A study combining NMR, UV-Vis and Raman spectroscopy revealed the formation of tellurium anions (Ten)2− with chain lengths up to at least n=5, which are in dynamic equilibrium with each other. Since external influences could be excluded and no evidence of an ionic liquid reaction was found, disproportionation of the tellurium is the only possible dissolution mechanism. Although the spectroscopic detection of tellurium cations in these solutions is difficult, the coexistence of tellurium cations, such as (Te4)2+ and (Te6)4+, and tellurium anions could be proven by cyclic voltammetry and electrodeposition experiments. DFT calculations indicate that electrostatic interactions with the ions of the ILs are sufficient to stabilize both types of tellurium ions in solution.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202103770",
+            "DOI": "10.1002/chem.202103770",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/chem.202103770",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Grasser",
+                    "given": "Matthias A."
+                },
+                {
+                    "family": "Pietsch",
+                    "given": "Tobias"
+                },
+                {
+                    "family": "Blasius",
+                    "given": "Jan"
+                },
+                {
+                    "family": "Hollóczki",
+                    "given": "Oldamur"
+                },
+                {
+                    "family": "Brunner",
+                    "given": "Eike"
+                },
+                {
+                    "family": "Doert",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Ruck",
+                    "given": "Michael"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/TWMEN9Y4",
+            "type": "article-journal",
+            "title": "Frustrated Lewis-Pair Neighbors at the Xanthene Framework: Epimerization at Phosphorus and Cooperative Formation of Macrocyclic Adduct Structures",
+            "container-title": "Chemistry – A European Journal",
+            "page": "12104-12114",
+            "volume": "27",
+            "issue": "47",
+            "abstract": "Attachment of a pair of P-stereogenic mesityl(alkynyl)phosphanyl groups at the 4- and 5-positions of a 9,9-dimethylxanthene framework gave mixtures of the respective rac- and meso-bisphosphanyl diastereoisomers. They slowly epimerized in a thermally induced reaction with Gibbs activation barriers of about 25 kcal mol−1 at room temperature (measured and DFT calculated). The reaction of the meso-mesityl(tert-butylethynyl)phosphanyl derivative with two molar equivalents of Piers′ borane [HB(C6F5)2] led to the formation of the alkylidene-bridged geminal bisphosphane/borane-frustrated Lewis pair system. The compound was obtained enriched (>85 %) in the rac diastereoisomer. With a variety of bifunctional donor substrates, the rac-bis-P/B FLP formed macrocyclic compounds. They were all formally derived from meso-configurated diastereoisomers of the bisphosphanylxanthene backbone.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202100835",
+            "DOI": "10.1002/chem.202100835",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/chem.202100835",
+            "shortTitle": "Frustrated Lewis-Pair Neighbors at the Xanthene Framework",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Škoch",
+                    "given": "Karel"
+                },
+                {
+                    "family": "Daniliuc",
+                    "given": "Constantin G."
+                },
+                {
+                    "family": "Kehr",
+                    "given": "Gerald"
+                },
+                {
+                    "family": "Ehlert",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Müller",
+                    "given": "Marcel"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Erker",
+                    "given": "Gerhard"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/JBSP3NBK",
+            "type": "article-journal",
+            "title": "Revisiting conformations of methyl lactate in water and methanol",
+            "container-title": "The Journal of Chemical Physics",
+            "page": "024507",
+            "volume": "155",
+            "issue": "2",
+            "abstract": "The recently developed efficient protocols to implicit [Grimme et al., J. Phys. Chem. A 125, 4039–4054 (2021)] and explicit quantum mechanical modeling of non-rigid molecules in solution [Katsyuba et al., J. Phys. Chem. B 124, 6664–6670 (2020)] are applied to methyl lactate (ML). Building upon this work, a new combination scheme is proposed to incorporate solvation effects for the computation of infrared (IR) absorption spectra. Herein, Boltzmann populations calculated for implicitly solvated single conformers are used to weight the IR spectra of explicitly solvated clusters with a size of typically ten solvent molecules, i.e., accounting for the first solvation shell. It is found that in water and methanol, the most abundant conformers of ML are structurally modified relative to the gas phase, where the major form is ML1, in which the syn conformation of the –OH moiety is stabilized by a OH⋯O=C intramolecular hydrogen bond (HB). In solution, this syn conformation transforms to the gauche form because the intramolecular HB is disrupted by explicit water molecules that form intermolecular HBs with the hydroxyl and carbonyl groups. Similar changes induced by the gas-solution transition are observed for the minor conformers, ML2 and/or ML3, characterized by OH⋯OCH3 intramolecular HB in the gas phase. The relative abundance of ML1 is shown to decrease from ∼96% in gas to ∼51% in water and ∼92% in methanol. The solvent strongly influences frequencies, IR intensities, and normal modes, resulting in qualitatively different spectra compared to the gas phase. Some liquid-state conformational markers in the fingerprint region of IR spectra are revealed.",
+            "URL": "https://doi.org/10.1063/5.0057024",
+            "DOI": "10.1063/5.0057024",
+            "journalAbbreviation": "The Journal of Chemical Physics",
+            "author": [
+                {
+                    "family": "Katsyuba",
+                    "given": "Sergey A."
+                },
+                {
+                    "family": "Spicher",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Gerasimova",
+                    "given": "Tatiana P."
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        7,
+                        13
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/REKABADE",
+            "type": "article-journal",
+            "title": "Titanocene-Catalyzed [2+2] Cycloaddition of Bisenones and Comparison with Photoredox Catalysis and Established Methods",
+            "container-title": "Angewandte Chemie International Edition",
+            "page": "14339-14344",
+            "volume": "60",
+            "issue": "26",
+            "abstract": "Cp2Ti(TFA) is a broadly applicable catalyst for the [2+2] cycloaddition of bisenones by inner-sphere electron transfer. The attractiveness of this mechanism is shown by comparison with outer-sphere ET methods. DFT calculations show that the reaction proceeds through a unique unfavorable 5-exo (the rate-determining step) and a favorable 4-exo cyclization.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202102739",
+            "DOI": "10.1002/anie.202102739",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.202102739",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Zhang",
+                    "given": "Zhenhua"
+                },
+                {
+                    "family": "Stückrath",
+                    "given": "Julius B."
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Gansäuer",
+                    "given": "Andreas"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/UFDYDH74",
+            "type": "article-journal",
+            "title": "Quantification of Noncovalent Interactions in Azide–Pnictogen, –Chalcogen, and –Halogen Contacts",
+            "container-title": "Chemistry – A European Journal",
+            "page": "4627-4639",
+            "volume": "27",
+            "issue": "14",
+            "abstract": "The noncovalent interactions between azides and oxygen-containing moieties are investigated through a computational study based on experimental findings. The targeted synthesis of organic compounds with close intramolecular azide–oxygen contacts yielded six new representatives, for which X-ray structures were determined. Two of those compounds were investigated with respect to their potential conformations in the gas phase and a possible significantly shorter azide–oxygen contact. Furthermore, a set of 44 high-quality, gas-phase computational model systems with intermolecular azide–pnictogen (N, P, As, Sb), –chalcogen (O, S, Se, Te), and –halogen (F, Cl, Br, I) contacts are compiled and investigated through semiempirical quantum mechanical methods, density functional approximations, and wave function theory. A local energy decomposition (LED) analysis is applied to study the nature of the noncovalent interaction. The special role of electrostatic and London dispersion interactions is discussed in detail. London dispersion is identified as a dominant factor of the azide–donor interaction with mean London dispersion energy-interaction energy ratios of 1.3. Electrostatic contributions enhance the azide–donor coordination motif. The association energies range from −1.00 to −5.5 kcal mol−1.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202004525",
+            "DOI": "10.1002/chem.202004525",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/chem.202004525",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Bursch",
+                    "given": "Markus"
+                },
+                {
+                    "family": "Kunze",
+                    "given": "Lukas"
+                },
+                {
+                    "family": "Vibhute",
+                    "given": "Amol M."
+                },
+                {
+                    "family": "Hansen",
+                    "given": "Andreas"
+                },
+                {
+                    "family": "Sureshan",
+                    "given": "Kana M."
+                },
+                {
+                    "family": "Jones",
+                    "given": "Peter G."
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Werz",
+                    "given": "Daniel B."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/CQ2Q5QL3",
+            "type": "article-journal",
+            "title": "Sensory Perception of Non-Deuterated and Deuterated Organic Compounds",
+            "container-title": "Chemistry – A European Journal",
+            "page": "1046-1056",
+            "volume": "27",
+            "issue": "3",
+            "abstract": "The chemical background of olfactory perception has been subject of intensive research, but no available model can fully explain the sense of smell. There are also inconsistent results on the role of the isotopology of molecules. In experiments with human subjects it was found that the isotope effect is weak with acetone and D6-acetone. In contrast, clear differences were observed in the perception of octanoic acid and D15-octanoic acid. Furthermore, a trained sniffer dog was initially able to distinguish between these isotopologues of octanoic acid. In chromatographic measurements, the respective deuterated molecule showed weaker interaction with a non-polar liquid phase. Quantum chemical calculations give evidence that deuterated octanoic acid binds more strongly to a model receptor than non-deuterated. In contrast, the binding of the non-deuterated molecule is stronger with acetone. The isotope effect is calculated in the framework of statistical mechanics. It results from a complicated interplay between various thermostatistical contributions to the non-covalent free binding energies and it turns out to be very molecule-specific. The vibrational terms including non-classical zero-point energies play about the same role as rotational/translational contributions and are larger than bond length effects for the differential isotope perception of odor for which general rules cannot be derived.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.202003754",
+            "DOI": "10.1002/chem.202003754",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/chem.202003754",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Salthammer",
+                    "given": "Tunga"
+                },
+                {
+                    "family": "Monegel",
+                    "given": "Friederike"
+                },
+                {
+                    "family": "Schulz",
+                    "given": "Nicole"
+                },
+                {
+                    "family": "Uhde",
+                    "given": "Erik"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Seibert",
+                    "given": "Jakob"
+                },
+                {
+                    "family": "Hohm",
+                    "given": "Uwe"
+                },
+                {
+                    "family": "Palm",
+                    "given": "Wolf-Ulrich"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/IJTLGXPG",
+            "type": "article-journal",
+            "title": "Robust Atomistic Modeling of Materials, Organometallic, and Biochemical Systems",
+            "container-title": "Angewandte Chemie International Edition",
+            "page": "15665-15673",
+            "volume": "59",
+            "issue": "36",
+            "abstract": "Modern chemistry seems to be unlimited in molecular size and elemental composition. Metal-organic frameworks or biological macromolecules involve complex architectures and a large variety of elements. Yet, a general and broadly applicable theoretical method to describe the structures and interactions of molecules beyond the 1000-atom size regime semi-quantitatively is not self-evident. For this purpose, a generic force field named GFN-FF is presented, which is completely newly developed to enable fast structure optimizations and molecular-dynamics simulations for basically any chemical structure consisting of elements up to radon. The freely available computer program requires only starting coordinates and elemental composition as input from which, fully automatically, all potential-energy terms are constructed. GFN-FF outperforms other force fields in terms of generality and accuracy, approaching the performance of much more elaborate quantum-mechanical methods in many cases.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202004239",
+            "DOI": "10.1002/anie.202004239",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.202004239",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Spicher",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/CT98MMKA",
+            "type": "article-journal",
+            "title": "Pulsed EPR Dipolar Spectroscopy on Spin Pairs with one Highly Anisotropic Spin Center: The Low-Spin FeIII Case",
+            "container-title": "Chemistry – A European Journal",
+            "page": "14388-14398",
+            "volume": "25",
+            "issue": "63",
+            "abstract": "Pulsed electron paramagnetic resonance (EPR) dipolar spectroscopy (PDS) offers several methods for measuring dipolar coupling constants and thus the distance between electron spin centers. Up to now, PDS measurements have been mostly applied to spin centers whose g-anisotropies are moderate and therefore have a negligible effect on the dipolar coupling constants. In contrast, spin centers with large g-anisotropy yield dipolar coupling constants that depend on the g-values. In this case, the usual methods of extracting distances from the raw PDS data cannot be applied. Here, the effect of the g-anisotropy on PDS data is studied in detail on the example of the low-spin Fe3+ ion. First, this effect is described theoretically, using the work of Bedilo and Maryasov (Appl. Magn. Reson. 2006, 30, 683–702) as a basis. Then, two known Fe3+/nitroxide compounds and one new Fe3+/trityl compound were synthesized and PDS measurements were carried out on them using a method called relaxation induced dipolar modulation enhancement (RIDME). Based on the theoretical results, a RIDME data analysis procedure was developed, which facilitated the extraction of the inter-spin distance and the orientation of the inter-spin vector relative to the Fe3+ g-tensor frame from the RIDME data. The accuracy of the determined distances and orientations was confirmed by comparison with MD simulations. This method can thus be applied to the highly relevant class of metalloproteins with, for example, low-spin Fe3+ ions.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.201902908",
+            "DOI": "10.1002/chem.201902908",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/chem.201902908",
+            "shortTitle": "Pulsed EPR Dipolar Spectroscopy on Spin Pairs with one Highly Anisotropic Spin Center",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Abdullin",
+                    "given": "Dinar"
+                },
+                {
+                    "family": "Brehm",
+                    "given": "Philipp"
+                },
+                {
+                    "family": "Fleck",
+                    "given": "Nico"
+                },
+                {
+                    "family": "Spicher",
+                    "given": "Sebastian"
+                },
+                {
+                    "family": "Grimme",
+                    "given": "Stefan"
+                },
+                {
+                    "family": "Schiemann",
+                    "given": "Olav"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/JHMWEMGV",
+            "type": "article-journal",
+            "title": "Palladium-Catalyzed Decarboxylative γ-Arylation for the Synthesis of Tetrasubstituted Chiral Allenes",
+            "container-title": "Angewandte Chemie International Edition",
+            "page": "6545-6548",
+            "volume": "58",
+            "issue": "20",
+            "abstract": "An enantiospecific palladium-catalyzed decarboxylative coupling of acyclic β,γ-alkynoic acids with various aryl iodides to chiral tetrasubstituted allenes is described. The coupling reaction comprises a decarboxylative γ-palladation of α,α-disubstituted carboxylic acids to provide the tetrasubstituted allenes with complete point-to-axial chirality transfer in excellent yields.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201901848",
+            "DOI": "10.1002/anie.201901848",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.201901848",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Scheipers",
+                    "given": "Ina"
+                },
+                {
+                    "family": "Mück-Lichtenfeld",
+                    "given": "Christian"
+                },
+                {
+                    "family": "Studer",
+                    "given": "Armido"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/73D2NIGL",
+            "type": "article-journal",
+            "title": "Finding Excited-State Minimum Energy Crossing Points on a Budget: Non-Self-Consistent Tight-Binding Methods",
+            "container-title": "The Journal of Physical Chemistry Letters",
+            "page": "4440-4448",
+            "volume": "14",
+            "issue": "19",
+            "abstract": "The automated exploration and identification of minimum energy conical intersections (MECIs) is a valuable computational strategy for the study of photochemical processes. Due to the immense computational effort involved in calculating non-adiabatic derivative coupling vectors, simplifications have been introduced focusing instead on minimum energy crossing points (MECPs), where promising attempts were made with semiempirical quantum mechanical methods. A simplified treatment for describing crossing points between almost arbitrary diabatic states based on a non-self-consistent extended tight-binding method, GFN0-xTB, is presented. Involving only a single diagonalization of the Hamiltonian, the method can provide energies and gradients for multiple electronic states, which can be used in a derivative coupling-vector-free scheme to calculate MECPs. By comparison with high-lying MECIs of benchmark systems, it is demonstrated that the identified geometries are good starting points for further MECI refinement with ab initio methods.",
+            "URL": "https://doi.org/10.1021/acs.jpclett.3c00494",
+            "DOI": "10.1021/acs.jpclett.3c00494",
+            "note": "Publisher: American Chemical Society",
+            "shortTitle": "Finding Excited-State Minimum Energy Crossing Points on a Budget",
+            "journalAbbreviation": "J. Phys. Chem. Lett.",
+            "author": [
+                {
+                    "family": "Pracht",
+                    "given": "Philipp"
+                },
+                {
+                    "family": "Bannwarth",
+                    "given": "Christoph"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        5,
+                        18
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        27
+                    ]
+                ]
+            }
+        }
+    ]
+}

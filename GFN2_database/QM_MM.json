@@ -1,0 +1,1365 @@
+{
+    "items": [
+        {
+            "id": "16708940/E6NJ298M",
+            "type": "article-journal",
+            "title": "Accuracy of Alternate Nonpolarizable Force Fields for the Determination of Protein–Ligand Binding Affinities Dominated by Cation−π Interactions",
+            "container-title": "Journal of Chemical Theory and Computation",
+            "page": "3908-3915",
+            "volume": "17",
+            "issue": "7",
+            "abstract": "Modifying pair-specific Lennard-Jones parameters through the nonbonded FIX (NBFIX) feature of the CHARMM36 force field has proven cost-effective for improving the description of cation−π interactions in biological objects by means of pairwise additive potential energy functions. Here, two sets of newly optimized CHARMM36 force-field parameters including NBFIX corrections, coined CHARMM36m-NBF and CHARMM36-WYF, and the original force fields, namely CHARMM36m and Amber ff14SB, are used to determine the standard binding free energies of seven protein–ligand complexes containing cation−π interactions. Compared with precise experimental measurements, our results indicate that the uncorrected, original force fields significantly underestimate the binding free energies, with a mean error of 5.3 kcal/mol, while the mean errors of CHARMM36m-NBF and CHARMM36-WYF amount to 0.8 and 2.1 kcal/mol, respectively. The present study cogently demonstrates that the use of modified parameters jointly with NBFIX corrections dramatically increases the accuracy of the standard binding free energy of protein–ligand complexes dominated by cation−π interactions, most notably with CHARMM36m-NBF.",
+            "URL": "https://doi.org/10.1021/acs.jctc.1c00219",
+            "DOI": "10.1021/acs.jctc.1c00219",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "J. Chem. Theory Comput.",
+            "author": [
+                {
+                    "family": "Liu",
+                    "given": "Han"
+                },
+                {
+                    "family": "Fu",
+                    "given": "Haohao"
+                },
+                {
+                    "family": "Chipot",
+                    "given": "Christophe"
+                },
+                {
+                    "family": "Shao",
+                    "given": "Xueguang"
+                },
+                {
+                    "family": "Cai",
+                    "given": "Wensheng"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        7,
+                        13
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/I8F23EWD",
+            "type": "article-journal",
+            "title": "Multiscale Quantum Refinement Approaches for Metalloproteins",
+            "container-title": "Journal of Chemical Theory and Computation",
+            "page": "3783-3796",
+            "volume": "17",
+            "issue": "6",
+            "abstract": "Biomolecules with metal ion(s) (e.g., metalloproteins) play many important biological roles. However, accurate structural determination of metalloproteins, particularly those containing transition metal ion(s), is challenging due to their complicated electronic structure, complex bonding of metal ions, and high number of conformations in biomolecules. Quantum refinement, which was proposed to combine crystallographic data with computational chemistry methods by several groups, can improve the local structures of some proteins. In this study, a quantum refinement method combining several multiscale computational schemes with experimental (X-ray diffraction) information was developed for metalloproteins. Various quantum refinement approaches using different ONIOM (our own N-layered integrated molecular orbital and molecular mechanics) combinations of quantum mechanics (QM), semiempirical (SE), and molecular mechanics (MM) methods were conducted to assess the performance and reliability on the refined local structure in two metalloproteins. The structures for two (Cu- or Zn-containing) metalloproteins were refined by combining two-layer ONIOM2(QM1/QM2) and ONIOM2(QM/MM) and three-layer ONIOM3(QM1/QM2/MM) schemes with experimental data. The accuracy of the quantum-refined metal binding sites was also examined and compared in these multiscale quantum refinement calculations. ONIOM3(QM/SE/MM) schemes were found to give good results with lower computational costs and were proposed to be a good choice for the multiscale computational scheme for quantum refinement calculations of metal binding site(s) in metalloproteins with high efficiency. Additionally, a two-center ONIOM approach was employed to speed up the quantum refinement calculations for the Zn metalloprotein with two remote active sites/ligands. Moreover, a recent quantum-embedding wavefunction-in-density functional theory (WF-in-DFT) method was also adopted as the high-level method in unprecedented ONIOM2(CCSD-in-B3LYP/MM) and ONIOM3(CCSD-in-B3LYP/SE/MM) calculations, which can be regarded as novel pseudo-three- and pseudo-four-layer ONIOM methods, respectively, to refine the key Zn binding site at the coupled-cluster singles and doubles (CCSD) level. These refined results indicate that multiscale quantum refinement schemes can be used to improve the structural accuracy obtained for local metal binding site(s) in metalloproteins with high efficiency.",
+            "URL": "https://doi.org/10.1021/acs.jctc.1c00148",
+            "DOI": "10.1021/acs.jctc.1c00148",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "J. Chem. Theory Comput.",
+            "author": [
+                {
+                    "family": "Yan",
+                    "given": "Zeyin"
+                },
+                {
+                    "family": "Li",
+                    "given": "Xin"
+                },
+                {
+                    "family": "Chung",
+                    "given": "Lung Wa"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        6,
+                        8
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/T5BRAD3U",
+            "type": "article-journal",
+            "title": "Dissecting the Mechanism of (R)-3-Hydroxybutyrate Dehydrogenase by Kinetic Isotope Effects, Protein Crystallography, and Computational Chemistry",
+            "container-title": "ACS Catalysis",
+            "page": "15019-15032",
+            "volume": "10",
+            "issue": "24",
+            "abstract": "The enzyme (R)-3-hydroxybutyrate dehydrogenase (HBDH) catalyzes the enantioselective reduction of 3-oxocarboxylates to (R)-3-hydroxycarboxylates, the monomeric precursors of biodegradable polyesters. Despite its application in asymmetric reduction, which prompted several engineering attempts of this enzyme, the order of chemical events in the active site, their contributions to limit the reaction rate, and interactions between the enzyme and non-native 3-oxocarboxylates have not been explored. Here, a combination of kinetic isotope effects, protein crystallography, and quantum mechanics/molecular mechanics (QM/MM) calculations were employed to dissect the HBDH mechanism. Initial velocity patterns and primary deuterium kinetic isotope effects establish a steady-state ordered kinetic mechanism for acetoacetate reduction by a psychrophilic and a mesophilic HBDH, where hydride transfer is not rate limiting. Primary deuterium kinetic isotope effects on the reduction of 3-oxovalerate indicate that hydride transfer becomes more rate limiting with this non-native substrate. Solvent and multiple deuterium kinetic isotope effects suggest hydride and proton transfers occur in the same transition state. Crystal structures were solved for both enzymes complexed to NAD+:acetoacetate and NAD+:3-oxovalerate, illustrating the structural basis for the stereochemistry of the 3-hydroxycarboxylate products. QM/MM calculations using the crystal structures as a starting point predicted a higher activation energy for 3-oxovalerate reduction catalyzed by the mesophilic HBDH, in agreement with the higher reaction rate observed experimentally for the psychrophilic orthologue. Both transition states show concerted, albeit not synchronous, proton and hydride transfers to 3-oxovalerate. Setting the MM partial charges to zero results in identical reaction activation energies with both orthologues, suggesting the difference in activation energy between the reactions catalyzed by cold- and warm-adapted HBDHs arises from differential electrostatic stabilization of the transition state. Mutagenesis and phylogenetic analysis reveal the catalytic importance of His150 and Asn145 in the respective orthologues.",
+            "URL": "https://doi.org/10.1021/acscatal.0c04736",
+            "DOI": "10.1021/acscatal.0c04736",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "ACS Catal.",
+            "author": [
+                {
+                    "family": "Machado",
+                    "given": "Teresa F. G."
+                },
+                {
+                    "family": "Purg",
+                    "given": "Miha"
+                },
+                {
+                    "family": "McMahon",
+                    "given": "Stephen A."
+                },
+                {
+                    "family": "Read",
+                    "given": "Benjamin J."
+                },
+                {
+                    "family": "Oehler",
+                    "given": "Verena"
+                },
+                {
+                    "family": "Åqvist",
+                    "given": "Johan"
+                },
+                {
+                    "family": "Gloster",
+                    "given": "Tracey M."
+                },
+                {
+                    "family": "da Silva",
+                    "given": "Rafael G."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        12,
+                        18
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/HXGKHC35",
+            "type": "article-journal",
+            "title": "Accurate Description of Cation−π Interactions in Proteins with a Nonpolarizable Force Field at No Additional Cost",
+            "container-title": "Journal of Chemical Theory and Computation",
+            "page": "6397-6407",
+            "volume": "16",
+            "issue": "10",
+            "abstract": "Cation−π interactions play a significant role in a host of processes eminently relevant to biology. However, polarization effects arising from the interaction of cations with aromatic moieties have long been recognized to be inadequately described by pairwise additive force fields. In the present work, we address this longstanding shortcoming through the nonbonded FIX (NBFIX) feature of the CHARMM36 force field, modifying pair-specific Lennard–Jones (LJ) parameters, while circumventing the limitations of the Lorentz–Berthelot combination rules. The potentials of mean force (PMFs) characterizing prototypical cation−π interactions in aqueous solutions are first determined using a hybrid quantum mechanical/molecular mechanics (QM/MM) strategy in conjunction with an importance-sampling algorithm. The LJ parameters describing the cation−π pairs are then optimized to match the QM/MM PMFs. The standard binding free energies of nine cation−π complexes, i.e., toluene, para-cresol, and 3-methyl-indole interacting with either ammonium, guanidinium, or tetramethylammonium, determined with this new set of parameters agree well with the experimental measurements. Additional simulations were carried out on three different classes of biological objects featuring cation−π interactions, including five individual proteins, three protein–ligand complexes, and two protein–protein complexes. Our results indicate that the description of cation−π interactions is overall improved using NBFIX corrections, compared with the standard pairwise additive force field. Moreover, an accurate binding free energy calculation for a protein–ligand complex containing cation−π interactions (2BOK) shows that using the new parameters, the experimental binding affinity can be reproduced quantitatively. Put together, the present work suggests that the NBFIX parameters optimized here can be broadly utilized in the simulation of proteins in an aqueous solution to enhance the representation of cation−π interactions, at no additional computational cost.",
+            "URL": "https://doi.org/10.1021/acs.jctc.0c00637",
+            "DOI": "10.1021/acs.jctc.0c00637",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "J. Chem. Theory Comput.",
+            "author": [
+                {
+                    "family": "Liu",
+                    "given": "Han"
+                },
+                {
+                    "family": "Fu",
+                    "given": "Haohao"
+                },
+                {
+                    "family": "Shao",
+                    "given": "Xueguang"
+                },
+                {
+                    "family": "Cai",
+                    "given": "Wensheng"
+                },
+                {
+                    "family": "Chipot",
+                    "given": "Christophe"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        13
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/RF4APGRH",
+            "type": "article-journal",
+            "title": "NMR and DFT-study of new luminescent Eu3+ complexes based on calix[4]arenes with 1,2,3-triazole and 1,3-diketone groups",
+            "container-title": "Inorganica Chimica Acta",
+            "page": "121848",
+            "volume": "561",
+            "abstract": "The present work introduces two calix[4]arenes (cone and 1,3-alternate isomers) bearing pairs of 1,2,3-triazole and 1,3-diketone groups as binding sites of Eu3+ (La3+) ions. Combination of UV–Vis, 1H NMR spectroscopy and DFT calculations allowed to evaluate the structure of the lanthanide complexes and specify the groups participating in the coordination. It was found that cone calix[4]arene forms the 2:1 (ligand: Ln3+) complex arisen from the coordination of Ln3+ ions via both 1,2,3-triazole and 1,3-diketonate groups as well as the 2:2 complex form, where Ln3+ ions are coordinated via 1,3-diketonate groups only. The quantum chemical calculations reveal that the 2:2 complex is more thermodynamically favorable than the 2:1 one, which correlates with the NMR data. It is worth considering the coordination of Ln3+ ions with both triazole and 1,3-diketonate groups as the reason for the specific slowed down ligand exchange for 2:1 and 2:2 complex forms. The comparative analysis of the Eu3+-centered luminescence reveals the cone calix[4]arene as more efficient antenna for Eu3+ ions than the 1,3-alternate calix[4]arene, where 1,2,3-triazole and 1,3-diketone substituents are localized at the opposite sides of the macrocycle. The growing degree of accumulation of the 2:1 complex is followed by an increase in Eu3+-centered luminescence for both calix[4]arene ligands.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0020169323004735",
+            "DOI": "10.1016/j.ica.2023.121848",
+            "journalAbbreviation": "Inorganica Chimica Acta",
+            "author": [
+                {
+                    "family": "Syakaev",
+                    "given": "Victor V."
+                },
+                {
+                    "family": "Masliy",
+                    "given": "Alexey N."
+                },
+                {
+                    "family": "Podyachev",
+                    "given": "Sergey N."
+                },
+                {
+                    "family": "Sudakova",
+                    "given": "Svetlana N."
+                },
+                {
+                    "family": "Shvedova",
+                    "given": "Anastasiya E."
+                },
+                {
+                    "family": "Lentin",
+                    "given": "Ivan I."
+                },
+                {
+                    "family": "Gorbunov",
+                    "given": "Alexander N."
+                },
+                {
+                    "family": "Vatsouro",
+                    "given": "Ivan M."
+                },
+                {
+                    "family": "Lapaev",
+                    "given": "Dmitry V."
+                },
+                {
+                    "family": "Sh. Mambetova",
+                    "given": "Gulnaz"
+                },
+                {
+                    "family": "Kovalev",
+                    "given": "Vladimir V."
+                },
+                {
+                    "family": "Kuznetsov",
+                    "given": "Andrey M."
+                },
+                {
+                    "family": "Mustafina",
+                    "given": "Asiya R."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/FNEIDP2W",
+            "type": "article-journal",
+            "title": "Comparative ONIOM modeling of 1,3-butadiene polymerization using Nd(III) and Gd(III) Ziegler–Natta catalyst systems",
+            "container-title": "International Journal of Quantum Chemistry",
+            "page": "e27297",
+            "volume": "124",
+            "issue": "1",
+            "abstract": "On the base of structural and thermodynamic data using modern methods of quantum chemistry, a comparative theoretical study of the elementary acts of initiation and growth of a polymer chain during the polymerization of 1,3-butadiene was carried out. Ziegler–Natta catalysts based on Nd(III) and Gd(III) were used as polymerization initiators. It was shown that the higher stereospecificity of the action of gadolinium catalytic complexes in comparison with neodymium complexes is due to the increased stability of the anti-form of the π-allylic terminal structure of the growing polymer chain, and the reduced activity is due to the higher activation energy of the processes of initiation and chain growth.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.27297",
+            "DOI": "10.1002/qua.27297",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/qua.27297",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Masliy",
+                    "given": "Alexey N."
+                },
+                {
+                    "family": "Akhmetov",
+                    "given": "Ildar G."
+                },
+                {
+                    "family": "Kuznetsov",
+                    "given": "Andrey M."
+                },
+                {
+                    "family": "Davletbaeva",
+                    "given": "Ilsiya M."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/PNTBL3VQ",
+            "type": "article-journal",
+            "title": "Implicit and Explicit Solvent Effects on the Global Reactivity and the Density Topological Parameters of the Preferred Conformers of Caespitate",
+            "container-title": "Computation",
+            "page": "5",
+            "volume": "12",
+            "issue": "1",
+            "abstract": "In the search to cover the urgent need to combat infectious diseases, natural products have gained attention in recent years. The caespitate molecule, isolated from the plant Helichrysum caespititium of the Asteraceae family, is used in traditional African medicine. Caespitate is an acylphloroglucinol with biological activity. Acylphloroglucinols have attracted attention for treating tuberculosis due to their structural characteristics, highlighting the stabilizing effect of their intramolecular hydrogen bonds (IHBs). In this work, a conformational search for the caespitate was performed using the MM method. Posteriorly, DFT calculations with the APFD functional were used for full optimization and vibrational frequencies, obtaining stable structures. A population analysis was performed to predict the distribution of the most probable conformers. The calculations were performed in the gas phase and solution using the implicit SMD model for water, chloroform, acetonitrile, and DMSO solvents. Additionally, the multiscale ONIOM QM1/QM2 model was used to simulate the explicit solvent. The implicit and explicit solvent effects were evaluated on the global reactivity indexes using the conceptual-DFT approach. In addition, the QTAIM approach was applied to analyze the properties of the IHBs of the most energetically and populated conformers. The obtained results indicated that the most stable and populated conformer is in the gas phase, and chloroform has an extended conformation. However, water, acetonitrile, and DMSO have a hairpin shape. The optimized structures are well preserved in explicit solvent and the interaction energies for the IHBs were lower in explicit than implicit solvents due to non-covalent interactions formed between the solvent molecules. Finally, both methodologies, with implicit and explicit solvents, were validated with 1H and 13C NMR experimental data. In both cases, the results agreed with the experimental data reported in the CDCl3 solvent.",
+            "URL": "https://www.mdpi.com/2079-3197/12/1/5",
+            "DOI": "10.3390/computation12010005",
+            "note": "Number: 1\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Moreno-Ceballos",
+                    "given": "Andrea"
+                },
+                {
+                    "family": "Castro",
+                    "given": "María Eugenia"
+                },
+                {
+                    "family": "Caballero",
+                    "given": "Norma A."
+                },
+                {
+                    "family": "Mammino",
+                    "given": "Liliana"
+                },
+                {
+                    "family": "Melendez",
+                    "given": "Francisco J."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/7RV8VWRQ",
+            "type": "article-journal",
+            "title": "The pitfalls of using JHF spin–spin coupling constants to infer hydrogen bond formation in organofluorine compounds",
+            "container-title": "Chemical Communications",
+            "page": "14661-14664",
+            "volume": "59",
+            "issue": "99",
+            "abstract": "Theoretical decomposition of “through space” spin–spin coupling constants (SSCCs) in organofluorine compounds signal that intramolecular hydrogen bonds (H-bonds) are not the primary mechanism of transmission for SSCCs. Increasing solvent polarity may disrupt H-bonds, but not necessarily the JFH SSCC. Substituent effects may drastically alter the SSCC transmission pathway. Accurate SSCC analysis requires benchmarking theoretical calculations to support experimental data interpretation.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2023/cc/d3cc05389j",
+            "DOI": "10.1039/D3CC05389J",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Chem. Commun.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Cariello",
+                    "given": "Guilherme"
+                },
+                {
+                    "family": "Zeoly",
+                    "given": "Lucas A."
+                },
+                {
+                    "family": "Piscelli",
+                    "given": "Bruno A."
+                },
+                {
+                    "family": "Lectka",
+                    "given": "Thomas"
+                },
+                {
+                    "family": "Cormanich",
+                    "given": "Rodrigo A."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        12,
+                        12
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/JT2A46UB",
+            "type": "article-journal",
+            "title": "QMrebind: incorporating quantum mechanical force field reparameterization at the ligand binding site for improved drug-target kinetics through milestoning simulations",
+            "container-title": "Chemical Science",
+            "page": "13159-13175",
+            "volume": "14",
+            "issue": "45",
+            "abstract": "Understanding the interaction of ligands with biomolecules is an integral component of drug discovery and development. Challenges for computing thermodynamic and kinetic quantities for pharmaceutically relevant receptor–ligand complexes include the size and flexibility of the ligands, large-scale conformational rearrangements of the receptor, accurate force field parameters, simulation efficiency, and sufficient sampling associated with rare events. Our recently developed multiscale milestoning simulation approach, SEEKR2 (Simulation Enabled Estimation of Kinetic Rates v.2), has demonstrated success in predicting unbinding (koff) kinetics by employing molecular dynamics (MD) simulations in regions closer to the binding site. The MD region is further subdivided into smaller Voronoi tessellations to improve the simulation efficiency and parallelization. To date, all MD simulations are run using general molecular mechanics (MM) force fields. The accuracy of calculations can be further improved by incorporating quantum mechanical (QM) methods into generating system-specific force fields through reparameterizing ligand partial charges in the bound state. The force field reparameterization process modifies the potential energy landscape of the bimolecular complex, enabling a more accurate representation of the intermolecular interactions and polarization effects at the bound state. We present QMrebind (Quantum Mechanical force field reparameterization at the receptor–ligand binding site), an ORCA-based software that facilitates reparameterizing the potential energy function within the phase space representing the bound state in a receptor–ligand complex. With SEEKR2 koff estimates and experimentally determined kinetic rates, we compare and interpret the receptor–ligand unbinding kinetics obtained using the newly reparameterized force fields for model host–guest systems and HSP90-inhibitor complexes. This method provides an opportunity to achieve higher accuracy in predicting receptor–ligand koff rate constants.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2023/sc/d3sc04195f",
+            "DOI": "10.1039/D3SC04195F",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "shortTitle": "QMrebind",
+            "journalAbbreviation": "Chem. Sci.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Ojha",
+                    "given": "Anupam Anand"
+                },
+                {
+                    "family": "Votapka",
+                    "given": "Lane William"
+                },
+                {
+                    "family": "Amaro",
+                    "given": "Rommie Elizabeth"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        11,
+                        22
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/FFYEEBVS",
+            "type": "article-journal",
+            "title": "Ligand 1H NMR Chemical Shifts as Accurate Reporters for Protein-Ligand Binding Interfaces in Solution**",
+            "container-title": "ChemPhysChem",
+            "page": "e202300636",
+            "volume": "25",
+            "issue": "1",
+            "abstract": "The availability of high-resolution 3D structural information is crucial for investigating guest-host systems across a wide range of fields. In the context of drug discovery, the information is routinely used to establish and validate structure-activity relationships, grow initial hits from screening campaigns, and to guide molecular docking. For the generation of protein-ligand complex structural information, X-ray crystallography is the experimental method of choice, however, with limited information on protein flexibility. An experimentally verified structural model of the binding interface in the native solution-state would support medicinal chemists in their molecular design decisions. Here we demonstrate that protein-bound ligand 1H NMR chemical shifts are highly sensitive and accurate probes for the immediate chemical environment of protein-ligand interfaces. By comparing the experimental ligand 1H chemical shift values with those computed from the X-ray structure using quantum mechanics methodology, we identify significant disagreements for parts of the ligand between the two experimental techniques. We show that quantum mechanics/molecular mechanics (QM/MM) molecular dynamics (MD) ensembles can be used to refine initial X-ray co-crystal structures resulting in a better agreement with experimental 1H ligand chemical shift values. Overall, our findings highlight the usefulness of ligand 1H NMR chemical shift information in combination with a QM/MM MD workflow for generating protein-ligand ensembles that accurately reproduce solution structural data.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/cphc.202300636",
+            "DOI": "10.1002/cphc.202300636",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/cphc.202300636",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Platzer",
+                    "given": "Gerald"
+                },
+                {
+                    "family": "Ptaszek",
+                    "given": "Aleksandra L."
+                },
+                {
+                    "family": "Böttcher",
+                    "given": "Jark"
+                },
+                {
+                    "family": "Fuchs",
+                    "given": "Julian E."
+                },
+                {
+                    "family": "Geist",
+                    "given": "Leonhard"
+                },
+                {
+                    "family": "Braun",
+                    "given": "Daniel"
+                },
+                {
+                    "family": "McConnell",
+                    "given": "Darryl B."
+                },
+                {
+                    "family": "Konrat",
+                    "given": "Robert"
+                },
+                {
+                    "family": "Sánchez-Murcia",
+                    "given": "Pedro A."
+                },
+                {
+                    "family": "Mayer",
+                    "given": "Moriz"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2024
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/HPBDJG4J",
+            "type": "article-journal",
+            "title": "A Bismuth-Based Zeolitic Organic Framework with Coordination-Linked Metal Cages for Efficient Electrocatalytic CO2 Reduction to HCOOH",
+            "container-title": "Angewandte Chemie International Edition",
+            "page": "e202311223",
+            "volume": "62",
+            "issue": "45",
+            "abstract": "Zeolitic metal–organic frameworks (ZMOFs) have emerged as one of the most promsing catalysts for energy conversion, but they suffer from either weak bonding between metal-organic cubes (MOCs) that decrease their stability during catalysis processes or low activity due to inadequate active sites. In this work, through ligand-directing strategy, we successfully obtain an unprecedented bismuth-based ZMOF (Bi-ZMOF) featuring a ACO topological crystal structure with strong coordination bonding between the Bi-based cages. As a result, it enables efficient reduction of CO2 to formic acid (HCOOH) with Faradaic efficiency as high as 91 %. A combination of in situ surface-enhanced infrared absorption spectroscopy and density functional theory calculation reveals that the Bi−N coordination contributes to facilitating charge transfer from N to Bi atoms, which stabilize the intermediate to boost the reduction efficiency of CO2 to HCOOH. This finding highlights the importance of the coordination environment of metal active sites on electrocatalytic CO2 reduction. We believe that this work will offer a new clue to rationally design zeolitic MOFs for catalytic reaction",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.202311223",
+            "DOI": "10.1002/anie.202311223",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.202311223",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Jiang",
+                    "given": "Zhiqiang"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Minyi"
+                },
+                {
+                    "family": "Chen",
+                    "given": "Xingliang"
+                },
+                {
+                    "family": "Wang",
+                    "given": "Bing"
+                },
+                {
+                    "family": "Fan",
+                    "given": "Wenjuan"
+                },
+                {
+                    "family": "Yang",
+                    "given": "Chenhuai"
+                },
+                {
+                    "family": "Yang",
+                    "given": "Xiaoju"
+                },
+                {
+                    "family": "Zhang",
+                    "given": "Zhicheng"
+                },
+                {
+                    "family": "Yang",
+                    "given": "Xuan"
+                },
+                {
+                    "family": "Li",
+                    "given": "Chunsen"
+                },
+                {
+                    "family": "Zhou",
+                    "given": "Tianhua"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/KNSRSEBM",
+            "type": "article-journal",
+            "title": "Theoretical Water Binding Energy Distribution and Snowline in Protoplanetary Disks",
+            "container-title": "The Astrophysical Journal",
+            "page": "32",
+            "volume": "951",
+            "issue": "1",
+            "abstract": "Water is one of the most important and abundant molecules in star-forming regions. In protoplanetary disks, where planets and comets form, H2O is in a gas or solid form, depending on the dust temperature, i.e., the distance from the center and its binding energy (BE). Not surprisingly, several experimental and theoretical studies of the H2O BE have been published. We report new ab initio calculations carried out on a large model of interstellar ice, where we identified 144 different adsorption sites. The BE associated with those sites ranges between 14.2 kJ mol−1 (1705 K) and 61.6 kJ mol−1 (7390 K). The distribution of the computed BEs as a function of BE follows a Gaussian peaked at 35.4 kJ mol−1 (4230 K) with a standard deviation of 9.7 kJ mol−1 (1160 K). The computed pre-exponential factor (ν) ranges between 9 × 1012 and 6 × 1014 s−1. We evaluated the impact of the newly calculated BE and ν distributions on the snowline of a generic protoplanetary disk. We found that the region where water is frozen onto the ice is much smaller (a factor of 10 smaller radius) than that computed with the single BE (5600 K) and ν (2 × 1012 s−1) values commonly adopted by astrochemical models. Besides, ∼10% of water remains frozen in relatively warm (∼150 K) regions, where the single BE and ν model would predict a full release of the ice in the gas phase. This last aspect may have an impact on the quantity trapped in the planetesimals eventually forming rocky planets.",
+            "URL": "https://dx.doi.org/10.3847/1538-4357/accae8",
+            "DOI": "10.3847/1538-4357/accae8",
+            "note": "Publisher: The American Astronomical Society",
+            "journalAbbreviation": "ApJ",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Tinacci",
+                    "given": "Lorenzo"
+                },
+                {
+                    "family": "Germain",
+                    "given": "Aurèle"
+                },
+                {
+                    "family": "Pantaleone",
+                    "given": "Stefano"
+                },
+                {
+                    "family": "Ceccarelli",
+                    "given": "Cecilia"
+                },
+                {
+                    "family": "Balucani",
+                    "given": "Nadia"
+                },
+                {
+                    "family": "Ugliengo",
+                    "given": "Piero"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        6
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/XE25UHBJ",
+            "type": "article-journal",
+            "title": "Theoretical NMR and IR spectroscopic analyses of the preferred conformers of the neurotransmitter anandamide",
+            "container-title": "International Journal of Quantum Chemistry",
+            "page": "e27098",
+            "volume": "123",
+            "issue": "11",
+            "abstract": "Anandamide, an endogenous fatty acid, displays a wide conformational space due to the nature of its chemical structure, particularly its polyunsaturated aliphatic chain component (omega-6 fatty acid). Six main minima are considered after a conformational search based on the MM+ method, namely, extended shape, U-shape, and hairpin shape with either an open or a closed conformation of the ethanolamide (EA) ring. For these six conformers, DFT calculations were performed to theoretically characterize their structural stability, NMR and IR spectroscopic, and electronic properties using the BP86/cc-pVTZ level of theory with the solute-implicit solvent model PCM. DLPNO-CCSD(T) level of theory was used for comparison with DFT results. Our results indicate that the conformers with closed EA ring are more stable than their corresponding open ring counterparts. With the NMR and IR spectroscopies was characterized the formation of the intramolecular hydrogen bond in the closed conformers of the EA ring. The electronic properties investigated include the calculation of the frontier molecular orbitals (FMO), the molecular electrostatic potential (MEP), and the natural bond orbitals (NBO). Additionally, the multiscale ONIOM QM1/QM2 model was used to simulate a solute-explicit solvent system and molecular dynamics simulations were used to simulate the anandamide systems embedded in a hydrated symmetric POPC membrane and in aqueous solution. The results suggest that alkyl-middle and EA groups in anandamide may play an important role in the ligand-receptor interaction.",
+            "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.27098",
+            "DOI": "10.1002/qua.27098",
+            "note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/qua.27098",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Castro",
+                    "given": "María Eugenia"
+                },
+                {
+                    "family": "Rangel-Galván",
+                    "given": "Maricruz"
+                },
+                {
+                    "family": "Dávila",
+                    "given": "Eliud Morales"
+                },
+                {
+                    "family": "Caballero",
+                    "given": "Norma A."
+                },
+                {
+                    "family": "Melendez",
+                    "given": "Francisco J."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/PGV7UWNL",
+            "type": "article-journal",
+            "title": "Intramolecular and intermolecular hole delocalization rules the reducer character of isolated nucleobases and homogeneous single-stranded DNA",
+            "container-title": "Physical Chemistry Chemical Physics",
+            "page": "14578-14589",
+            "volume": "25",
+            "issue": "20",
+            "abstract": "The use of DNA strands as nanowires or electrochemical biosensors requires a deep understanding of charge transfer processes along the strand, as well as of the redox properties. These properties are computationally assessed in detail throughout this study. By applying molecular dynamics and hybrid QM/continuum and QM/QM/continuum schemes, the vertical ionization energies, adiabatic ionization energies, vertical attachment energies, one-electron oxidation potentials, and delocalization of the hole generated upon oxidation have been determined for nucleobases in their free form and as part of a pure single-stranded DNA. We show that the reducer ability of the isolated nucleobases is explained by the intramolecular delocalization of the positively charged hole, while the enhancement of the reducer character when going from aqueous solution to the strand correlates very well with the intermolecular hole delocalization. Our simulations suggest that the redox properties of DNA strands can be tuned by playing with the balance between intramolecular and intermolecular charge delocalization.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2023/cp/d3cp00884c",
+            "DOI": "10.1039/D3CP00884C",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Lucia-Tamudo",
+                    "given": "Jesús"
+                },
+                {
+                    "family": "Díaz-Tendero",
+                    "given": "Sergio"
+                },
+                {
+                    "family": "Nogueira",
+                    "given": "Juan J."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        5,
+                        24
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/SXVZNUL4",
+            "type": "article-journal",
+            "title": "Unveiling the tartrazine binding mode with ds–DNA by UV–visible spectroscopy, electrochemical, and QM/MM methods",
+            "container-title": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+            "page": "122400",
+            "volume": "292",
+            "abstract": "Here, we studied the interaction between the food colorant tartrazine (TZ) and double stranded DNA (dsDNA), using spectroscopic, electrochemical, and computational methods such as QM/MM combined with TD-DFT. Despite the UV–vis spectroscopy is widely used to study the interaction between molecules, for the case of TZ there are discrepancies in the analyses presented in the literature available, presenting both hyperchromic and hypochromic effects and consequently different rationalizations for their results. Herein we propose the combination of UV–vis experiments with the design of high-level computational models capable of reproducing the experimental behavior to finally define the proper binding mode at the molecular scale together with the rationalization of the experimental optical response due to the complex formation. To complement the UV–vis experiments, we propose the use of electrochemical measurements, to support the results obtained through UV–vis spectroscopy, as it has been successfully used for the determination of interaction modes between small molecules and biomolecules in any condition. Our UV–vis spectroscopy experiments showed only a hypochromic effect of the absorption spectra of TZ after interaction with DNA, indicative of TZ being deeply buried in the DNA structure. The effect of ionic strength in the experimental procedures led to the dissociation of TZ, thus indicating that the interaction mode was groove binding. On the other hand, the electrochemical studies showed an irreversible reduction peak of TZ, which after the interaction with DNA exhibited a positive shift in potential that can be attributed to groove binding. The binding constant for TZ-DNA was calculated as 4.45x104M-1 (UV–vis) and 5.75x104M-1 (electrochemistry), in line with other groove binder azo dyes. Finally, through the QM/MM calculations we found that the minor-groove binding mode interacting in zones rich in adenine and thymine was the model best suited to reproduce the experimental UV–vis response.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S1386142523000859",
+            "DOI": "10.1016/j.saa.2023.122400",
+            "journalAbbreviation": "Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy",
+            "author": [
+                {
+                    "family": "Arsenault-Escobar",
+                    "given": "S."
+                },
+                {
+                    "family": "Fuentes-Galvez",
+                    "given": "J. F."
+                },
+                {
+                    "family": "Orellana",
+                    "given": "C."
+                },
+                {
+                    "family": "Bollo",
+                    "given": "S."
+                },
+                {
+                    "family": "Sierra–Rosales",
+                    "given": "P."
+                },
+                {
+                    "family": "Miranda-Rojas",
+                    "given": "S."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        5,
+                        5
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/CP7QLXSJ",
+            "type": "article-journal",
+            "title": "QM/MM Study of a Nucleophilic Substitution Reaction Catalyzed by Uridine Phosphorylase from Vibrio cholerae",
+            "container-title": "Crystals",
+            "page": "803",
+            "volume": "13",
+            "issue": "5",
+            "abstract": "Uridine phosphorylases are used for biotechnological synthesis of pyrimidine derivatives and, moreover, their substrates and inhibitors are used in medicine. Therefore, studies of the mechanisms of the chemical reaction catalyzed by the enzyme and its specificity for various substrates are relevant. The research into the enzymatic reaction main stage—nucleophilic substitution of the nitrogenous base in uridine with an orthophosphate or orthovanadate group by hybrid QM/MM methods—was carried out. A comparison of various levels of theory and calculation schemes showed that preliminary optimization of the reactants’s geometry, as well as calculation of the initial trajectory of the minimum energy path, can be achieved by semi-empirical methods. At the same time, for the minimum energy path clarification, transition state geometry optimization, and calculation of the thermochemical parameters, it is preferable to use density functional theory in combination with modern ab initio methods. In comparison with the calculations of the activation barrier carried out in a solvent without an enzyme, differences in the kinetics of the enzymatic reaction due to the orientation and concentration actions of amino acid residues of the enzyme were revealed. This led to lowering the activation barrier by 20 kcal/mol and contributed to the reaction under physiologically acceptable conditions. It was shown that the free activation energy during the nucleophilic attack for uridine with hydrovanadate ion is 2 kcal/mol lower than for the hydrophosphate ion and this is consistent with the literature data.",
+            "URL": "https://www.mdpi.com/2073-4352/13/5/803",
+            "DOI": "10.3390/cryst13050803",
+            "note": "Number: 5\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Lashkov",
+                    "given": "Alexander A."
+                },
+                {
+                    "family": "Eistrich-Geller",
+                    "given": "Polina A."
+                },
+                {
+                    "family": "Samygina",
+                    "given": "Valeriya R."
+                },
+                {
+                    "family": "Rubinsky",
+                    "given": "Sergey V."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        5
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/TZ6DKP4Y",
+            "type": "article-journal",
+            "title": "Unraveling Binding Mechanism and Stability of Urease Inhibitors: A QM/MM MD Study",
+            "container-title": "Molecules",
+            "page": "2697",
+            "volume": "28",
+            "issue": "6",
+            "abstract": "Soil bacteria can produce urease, which catalyzes the hydrolysis of urea to ammonia (NH3) and carbamate. A variety of urease inhibitors have been proposed to reduce NH3 volatilization by interfering with the urease activity. We report a quantum mechanics/molecular mechanics molecular dynamics (QM/MM MD) study on the mechanism employed for the inhibition of urease by three representative competitive inhibitors; namely, acetohydroxamic acid (AHA), hydroxyurea (HU), and N-(n-butyl)phosphorictriamide (NBPTO). The possible connections between the structural and thermodynamical properties and the experimentally observed inhibition efficiency were evaluated and characterized. We demonstrate that the binding affinity decreases in the order NBPTO >> AHA > HU in terms of the computed activation and reaction free energies. This trend also indicates that NBPTO shows the highest inhibitory activity and the lowest IC50 value of 2.1 nM, followed by AHA (42 μM) and HU (100 μM). It was also found that the X=O moiety (X = carbon or phosphorous) plays a crucial role in the inhibitor binding process. These findings not only elucidate why the potent urease inhibitors are effective but also have implications for the design of new inhibitors.",
+            "URL": "https://www.mdpi.com/1420-3049/28/6/2697",
+            "DOI": "10.3390/molecules28062697",
+            "note": "Number: 6\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "shortTitle": "Unraveling Binding Mechanism and Stability of Urease Inhibitors",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Suenaga",
+                    "given": "Shunya"
+                },
+                {
+                    "family": "Takano",
+                    "given": "Yu"
+                },
+                {
+                    "family": "Saito",
+                    "given": "Toru"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/5GSL3IPP",
+            "type": "article-journal",
+            "title": "DFT and ONIOM Simulation of 1,3-Butadiene Polymerization Catalyzed by Neodymium-Based Ziegler–Natta System",
+            "container-title": "Polymers",
+            "page": "1166",
+            "volume": "15",
+            "issue": "5",
+            "abstract": "Using modern methods of quantum chemistry, a theoretical substantiation of the high cis-stereospecificity of 1,3-butadiene polymerization catalyzed by the neodymium-based Ziegler–Natta system was carried out. For DFT and ONIOM simulation, the most cis-stereospecific active site of the catalytic system was used. By analyzing the total energy, as well as the enthalpy and Gibbs free energy of the simulated catalytically active centers, it was found that the coordination of 1,3-butadiene in the trans-form was more favorable than in the cis-form by 11 kJ/mol. However, as a result of π-allylic insertion mechanism modeling, it was found that the activation energy of cis-1,3-butadiene insertion into the π-allylic neodymium–carbon bond of the terminal group on the reactive growing chain was 10–15 kJ/mol lower than the activation energy of trans-1,3-butadiene insertion. The activation energies did not change when both trans-1,4-butadiene and cis-1,4-butadiene were used for modeling. That is, 1,4-cis-regulation was due not to the primary coordination of 1,3-butadiene in its cis-configuration, but to its lower energy of attachment to the active site. The obtained results allowed us to clarify the mechanism of the high cis-stereospecificity of 1,3-butadiene polymerization by the neodymium-based Ziegler–Natta system.",
+            "URL": "https://www.mdpi.com/2073-4360/15/5/1166",
+            "DOI": "10.3390/polym15051166",
+            "note": "Number: 5\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Masliy",
+                    "given": "Alexey N."
+                },
+                {
+                    "family": "Akhmetov",
+                    "given": "Ildar G."
+                },
+                {
+                    "family": "Kuznetsov",
+                    "given": "Andrey M."
+                },
+                {
+                    "family": "Davletbaeva",
+                    "given": "Ilsiya M."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/ACLYPWFA",
+            "type": "article-journal",
+            "title": "In silico investigation of falcipain-2 inhibition by hybrid benzimidazole-thiosemicarbazone antiplasmodial agents: A molecular docking, molecular dynamics simulation, and kinetics study",
+            "container-title": "Molecular Diversity",
+            "abstract": "The emergence of artemisinin-resistant variants of Plasmodium falciparum necessitates the urgent search for novel antimalarial drugs. In this regard, an in silico study to screen antimalarial drug candidates from a series of benzimidazole-thiosemicarbazone hybrid molecules with interesting antiplasmodial properties and explore their falcipain-2 (FP2) inhibitory potentials has been undertaken herein. FP2 is a key cysteine protease that degrades hemoglobin in Plasmodium falciparum and is an important biomolecular target in the development of antimalarial drugs. Pharmacokinetic properties, ADMET profiles, MM/GBSA-based binding free energies, reaction mechanisms, and associated barrier heights have been investigated. DFT, molecular dynamics simulation, molecular docking, and ONIOM methods were used. From the results obtained, four 4N-substituted derivatives of the hybrid molecule (E)-2-(1-(5-chloro-1H-benzo[d]imidazol-2-yl)ethylidene)hydrazine-1-carbothioamide (1A) denoted 1B, 1C, 1D, and 1E are drug-like and promising inhibitors of FP2, exhibiting remarkably small inhibitory constants (5.94 × 10–14 − 2.59 × 10–04 $$n$$M) and favorable binding free energies (−30.32 to −17.17 kcal/mol). Moreover, the ONIOM results have revealed that 1B and possibly 1C and 1D may act as covalent inhibitors of FP2. The rate-determining step of the thermodynamically favorable covalent binding mechanism occurs across a surmountable barrier height of 24.18 kcal/mol in water and 28.42 kcal/mol in diethyl ether. Our findings are useful for further experimental investigations on the antimalarial activities of the hybrid molecules studied.",
+            "URL": "https://doi.org/10.1007/s11030-022-10594-3",
+            "DOI": "10.1007/s11030-022-10594-3",
+            "shortTitle": "In silico investigation of falcipain-2 inhibition by hybrid benzimidazole-thiosemicarbazone antiplasmodial agents",
+            "journalAbbreviation": "Mol Divers",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Nkungli",
+                    "given": "Nyiang Kennet"
+                },
+                {
+                    "family": "Fouegue",
+                    "given": "Aymard Didier Tamafo"
+                },
+                {
+                    "family": "Tasheh",
+                    "given": "Stanley Numbonui"
+                },
+                {
+                    "family": "Bine",
+                    "given": "Fritzgerald Kogge"
+                },
+                {
+                    "family": "Hassan",
+                    "given": "Abrar Ul"
+                },
+                {
+                    "family": "Ghogomu",
+                    "given": "Julius Numbonui"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        1,
+                        9
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/GWWV7L5L",
+            "type": "article-journal",
+            "title": "Obtaining QM/MM binding free energies in the SAMPL8 drugs of abuse challenge: indirect approaches",
+            "container-title": "Journal of Computer-Aided Molecular Design",
+            "page": "263-277",
+            "volume": "36",
+            "issue": "4",
+            "abstract": "Accurately predicting free energy differences is essential in realizing the full potential of rational drug design. Unfortunately, high levels of accuracy often require computationally expensive QM/MM Hamiltonians. Fortuitously, the cost of employing QM/MM approaches in rigorous free energy simulation can be reduced through the use of the so-called “indirect” approach to QM/MM free energies, in which the need for QM/MM simulations is avoided via a QM/MM “correction” at the classical endpoints of interest. Herein, we focus on the computation of QM/MM binding free energies in the context of the SAMPL8 Drugs of Abuse host–guest challenge. Of the 5 QM/MM correction coupled with force-matching submissions, PM6-D3H4/MM ranked submission proved the best overall QM/MM entry, with an RMSE from experimental results of 2.43 kcal/mol (best in ranked submissions), a Pearson’s correlation of 0.78 (second-best in ranked submissions), and a Kendall $$\\tau$$correlation of 0.52 (best in ranked submissions).",
+            "URL": "https://doi.org/10.1007/s10822-022-00443-8",
+            "DOI": "10.1007/s10822-022-00443-8",
+            "shortTitle": "Obtaining QM/MM binding free energies in the SAMPL8 drugs of abuse challenge",
+            "journalAbbreviation": "J Comput Aided Mol Des",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Hudson",
+                    "given": "Phillip S."
+                },
+                {
+                    "family": "Aviat",
+                    "given": "Félix"
+                },
+                {
+                    "family": "Meana-Pañeda",
+                    "given": "Rubén"
+                },
+                {
+                    "family": "Warrensford",
+                    "given": "Luke"
+                },
+                {
+                    "family": "Pollard",
+                    "given": "Benjamin C."
+                },
+                {
+                    "family": "Prasad",
+                    "given": "Samarjeet"
+                },
+                {
+                    "family": "Jones",
+                    "given": "Michael R."
+                },
+                {
+                    "family": "Woodcock",
+                    "given": "H. Lee"
+                },
+                {
+                    "family": "Brooks",
+                    "given": "Bernard R."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2022,
+                        4,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/LVTYTJZH",
+            "type": "article-journal",
+            "title": "Hybrid QM/MM Simulations Confirm Zn(II) Coordination Sphere That Includes Four Cysteines from the P2 × 4R Head Domain",
+            "container-title": "International Journal of Molecular Sciences",
+            "page": "7288",
+            "volume": "22",
+            "issue": "14",
+            "abstract": "To ascertain the role of Zn(II) as an allosteric modulator on P2X4R, QM/MM molecular dynamic simulations were performed on the WT and two P2X4R mutants suggested by previous electrophysiological data to affect Zn(II) binding. The Gibbs free energy for the reduction of the putative P2X4R Zn(II) binding site by glutathione was estimated at −22 kcal/mol. Simulations of the WT P2X4R head domain revealed a flexible coordination sphere dominated by an octahedral geometry encompassing C126, N127, C132, C149, C159 and a water molecule. The C132A mutation disrupted the metal binding site, leading to a coordination sphere with a majority of water ligands, and a displacement of the metal ion towards the solvent. The C132A/C159A mutant exhibited a tendency towards WT-like stability by incorporating the R148 backbone to the coordination sphere. Thus, the computational findings agree with previous experimental data showing Zn(II) modulation for the WT and C132A/C159A variants, but not for the C132A mutant. The results provide molecular insights into the nature of the Zn(II) modulation in P2X4R, and the effect of the C132A and C132A/C159A mutations, accounting for an elusive modulation mechanism possibly occurring in other extracellular or membrane protein.",
+            "URL": "https://www.mdpi.com/1422-0067/22/14/7288",
+            "DOI": "10.3390/ijms22147288",
+            "note": "Number: 14\nPublisher: Multidisciplinary Digital Publishing Institute",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Peralta",
+                    "given": "Francisco Andrés"
+                },
+                {
+                    "family": "Huidobro-Toro",
+                    "given": "J. Pablo"
+                },
+                {
+                    "family": "Mera-Adasme",
+                    "given": "Raúl"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2021,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/2I3NVM8U",
+            "type": "article-journal",
+            "title": "Adsorption of H2 on amorphous solid water studied with molecular dynamics simulations",
+            "container-title": "Physical Chemistry Chemical Physics",
+            "page": "7552-7563",
+            "volume": "22",
+            "issue": "14",
+            "abstract": "We investigated the behavior of H2, the main constituent of the gas phase in dense clouds, after collision with amorphous solid water (ASW) surfaces, one of the most abundant chemical species of interstellar ices. We developed a general framework to study the adsorption dynamics of light species on interstellar ices. We provide binding energies and their distribution, sticking probabilities for incident energies between 1 meV and 60 meV, and thermal sticking coefficients between 10 and 300 K for surface temperatures from 10 to 110 K. We found that the sticking probability depends strongly on the adsorbate kinetic energy and the surface temperature, but hardly on the angle of incidence. We observed finite sticking probabilities above the thermal desorption temperature. Adsorption and thermal desorption should be considered as separate events with separate time scales. Laboratory results for these species have shown a gap in the trends attributed to the differently utilized experimental techniques. Our results complement observations and extend them, increasing the range of gas temperatures under consideration. We plan to use our method to study a variety of adsorbates, including radicals and charged species.",
+            "URL": "https://pubs.rsc.org/en/content/articlelanding/2020/cp/d0cp00250j",
+            "DOI": "10.1039/D0CP00250J",
+            "note": "Publisher: The Royal Society of Chemistry",
+            "journalAbbreviation": "Phys. Chem. Chem. Phys.",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Molpeceres",
+                    "given": "Germán"
+                },
+                {
+                    "family": "Kästner",
+                    "given": "Johannes"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        8
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/W9SSUZLH",
+            "type": "article-journal",
+            "title": "Methane activation by a single copper center in particulate methane monooxygenase: A computational study",
+            "container-title": "Inorganica Chimica Acta",
+            "page": "119441",
+            "volume": "503",
+            "abstract": "The coordinates of the copper site in the C subunit of particulate methane monooxygenases pMMO are used to optimize simplified structures of possible intermediates in the conversion of methane and dioxygen into methanol and water. The transition states for the hydrogen atom abstraction from methane or ethane by a copper oxo intermediate are located and found to have an energies consistent with a process occurring under ambient conditions and with the correct kinetic isotope effect. The fact that hydrogen atom abstraction from methanol has even a lower barrier indicates that the enzyme system utilizes other means of achieving selectivity for methane over methanol oxidation.",
+            "URL": "https://www.sciencedirect.com/science/article/pii/S0020169319315762",
+            "DOI": "10.1016/j.ica.2020.119441",
+            "shortTitle": "Methane activation by a single copper center in particulate methane monooxygenase",
+            "journalAbbreviation": "Inorganica Chimica Acta",
+            "author": [
+                {
+                    "family": "Morris",
+                    "given": "Robert H."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        16
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/KFZTUPZH",
+            "type": "article-journal",
+            "title": "A benchmark for the size of the QM system required for accurate hybrid QM/MM calculations on the metal site of the protein copper, zinc superoxide dismutase",
+            "container-title": "Journal of Molecular Modeling",
+            "page": "176",
+            "volume": "25",
+            "issue": "6",
+            "abstract": "The protein superoxide dismutase 1 (SOD1) is a copper and zinc-binding protein that has been implicated in the pathogenesis of amyotrophic lateral sclerosis (ALS). The Zn(II) binding to SOD1 is critical for the stability of the protein, and has been by itself implicated in ALS pathogenesis. Hence, the quantum mechanical (QM) study of the Zn(II)-site of SOD1 is relevant for understanding ALS. The hybrid QM-molecular mechanics (QM/MM) approach commonly employed for the QM study of proteins is highly dependent on the size of the sub-system treated quantum-mechanically. The size of the QM system also determines the computational feasibility of a given method. In the present work, we compare optimized geometries for the metal site and Zn(II) dissociation energies obtained with a QM/MM methodology employing different sizes for the QM sub-system. We find that geometries converge rapidly to RMSDs of around 0.3 Å, and fails to converge further, while a QM system of 480 atoms was required for converging the Zn(II) interaction energy of SOD1 to within 5 kcal*mol−1, and a 611-atoms QM system for a 1 kcal*mol−1 convergence with respect to our reference, 1280 QM-atoms system.",
+            "URL": "https://doi.org/10.1007/s00894-019-4066-8",
+            "DOI": "10.1007/s00894-019-4066-8",
+            "journalAbbreviation": "J Mol Model",
+            "language": "en",
+            "author": [
+                {
+                    "family": "Mera-Adasme",
+                    "given": "Raúl"
+                },
+                {
+                    "family": "Domínguez",
+                    "given": "Moisés"
+                },
+                {
+                    "family": "Denis-Alpizar",
+                    "given": "Otoniel"
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2019,
+                        6,
+                        1
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        2,
+                        15
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16708940/7LCZTCGQ",
+            "type": "article-journal",
+            "title": "One-Electron Oxidation Potentials and Hole Delocalization in Heterogeneous Single-Stranded DNA",
+            "container-title": "Biochemistry",
+            "page": "3312-3322",
+            "volume": "62",
+            "issue": "22",
+            "abstract": "The study of DNA processes is essential to understand not only its intrinsic biological functions but also its role in many innovative applications. The use of DNA as a nanowire or electrochemical biosensor leads to the need for a deep investigation of the charge transfer process along the strand as well as of the redox properties. In this contribution, the one-electron oxidation potential and the charge delocalization of the hole formed after oxidation are computationally investigated for different heterogeneous single-stranded DNA strands. We have established a two-step protocol: (i) molecular dynamics simulations in the frame of quantum mechanics/molecular mechanics (QM/MM) were performed to sample the conformational space; (ii) energetic properties were then obtained within a QM1/QM2/continuum approach in combination with the Marcus theory over an ensemble of selected geometries. The results reveal that the one-electron oxidation potential in the heterogeneous strands can be seen as a linear combination of that property within the homogeneous strands. In addition, the hole delocalization between different nucleobases is, in general, small, supporting the conclusion of a hopping mechanism for charge transport along the strands. However, charge delocalization becomes more important, and so does the tunneling mechanism contribution, when the reducing power of the nucleobases forming the strand is similar. Moreover, charge delocalization is slightly enhanced when there is a correlation between pairs of some of the interbase coordinates of the strand: twist/shift, twist/slide, shift/slide, and rise/tilt. However, the internal structure of the strand is not the predominant factor for hole delocalization but the specific sequence of nucleotides that compose the strand.",
+            "URL": "https://doi.org/10.1021/acs.biochem.3c00324",
+            "DOI": "10.1021/acs.biochem.3c00324",
+            "note": "Publisher: American Chemical Society",
+            "journalAbbreviation": "Biochemistry",
+            "author": [
+                {
+                    "family": "Lucia-Tamudo",
+                    "given": "Jesús"
+                },
+                {
+                    "family": "Alcamí",
+                    "given": "Manuel"
+                },
+                {
+                    "family": "Díaz-Tendero",
+                    "given": "Sergio"
+                },
+                {
+                    "family": "Nogueira",
+                    "given": "Juan J."
+                }
+            ],
+            "issued": {
+                "date-parts": [
+                    [
+                        2023,
+                        11,
+                        21
+                    ]
+                ]
+            },
+            "accessed": {
+                "date-parts": [
+                    [
+                        2024,
+                        1,
+                        27
+                    ]
+                ]
+            }
+        }
+    ]
+}
